@@ -348,7 +348,26 @@
                 "login": "Azure"
             }
         },
+<<<<<<< HEAD
         "Azure/azure-service-bus-dotnet": {
+=======
+        "Clashsoft/bootstrap-darkmode": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#e34c26",
+                        "name": "HTML"
+                    }
+                ]
+            },
+            "name": "bootstrap-darkmode",
+            "nameWithOwner": "Clashsoft/bootstrap-darkmode",
+            "owner": {
+                "login": "Clashsoft"
+            }
+        },
+        "Clever/minimal-react-typings": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -1158,7 +1177,21 @@
                 "login": "GoogleChromeLabs"
             }
         },
+<<<<<<< HEAD
         "GoogleCloudPlatform/appengine-gcs-client": {
+=======
+        "PatrickJS/types-uglify-js": {
+            "languages": {
+                "nodes": []
+            },
+            "name": "types-uglify-js",
+            "nameWithOwner": "PatrickJS/types-uglify-js",
+            "owner": {
+                "login": "PatrickJS"
+            }
+        },
+        "PaulKeeble/maven-eclipse-plugin": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -2125,7 +2158,27 @@
                 "login": "Python-Markdown"
             }
         },
+<<<<<<< HEAD
         "PythonCharmers/python-future": {
+=======
+        "ajv-validator/ajv-errors": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#2b7489",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "ajv-errors",
+            "nameWithOwner": "ajv-validator/ajv-errors",
+            "owner": {
+                "isVerified": false,
+                "login": "ajv-validator"
+            }
+        },
+        "ajv-validator/ajv-keywords": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -2416,7 +2469,26 @@
                 "login": "Seally"
             }
         },
+<<<<<<< HEAD
         "SeleniumHQ/selenium": {
+=======
+        "antz29/node-base": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#244776",
+                        "name": "CoffeeScript"
+                    }
+                ]
+            },
+            "name": "node-base",
+            "nameWithOwner": "antz29/node-base",
+            "owner": {
+                "login": "antz29"
+            }
+        },
+        "apache/avro": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -3282,7 +3354,26 @@
                 "login": "alexgorbatchev"
             }
         },
+<<<<<<< HEAD
         "alexgorbatchev/node-crc": {
+=======
+        "bequadrat/amcharts": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "amcharts",
+            "nameWithOwner": "bequadrat/amcharts",
+            "owner": {
+                "login": "bequadrat"
+            }
+        },
+        "bertsky/wrap_opencv-python-headless": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -3373,7 +3464,26 @@
                 "login": "altair-viz"
             }
         },
+<<<<<<< HEAD
         "amandeepmittal/jade": {
+=======
+        "blakeembrey/change-case": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#2b7489",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "change-case",
+            "nameWithOwner": "blakeembrey/change-case",
+            "owner": {
+                "login": "blakeembrey"
+            }
+        },
+        "blaze/blaze": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -10499,7 +10609,26 @@
                 "login": "isaacs"
             }
         },
+<<<<<<< HEAD
         "isaacs/node-glob": {
+=======
+        "coliff/dark-mode-switch": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#e34c26",
+                        "name": "HTML"
+                    }
+                ]
+            },
+            "name": "dark-mode-switch",
+            "nameWithOwner": "coliff/dark-mode-switch",
+            "owner": {
+                "login": "coliff"
+            }
+        },
+        "colorjs/color-name": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -13263,7 +13392,27 @@
                 "login": "lukeed"
             }
         },
+<<<<<<< HEAD
         "lupomontero/psl": {
+=======
+        "http-party/http-server": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "http-server",
+            "nameWithOwner": "http-party/http-server",
+            "owner": {
+                "isVerified": false,
+                "login": "http-party"
+            }
+        },
+        "httplib2/httplib2": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -13804,7 +13953,26 @@
                 "login": "medikoo"
             }
         },
+<<<<<<< HEAD
         "medikoo/es6-iterator": {
+=======
+        "jakubpawlowicz/clean-css": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "clean-css",
+            "nameWithOwner": "jakubpawlowicz/clean-css",
+            "owner": {
+                "login": "jakubpawlowicz"
+            }
+        },
+        "janl/mustache.js": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -13834,7 +14002,26 @@
                 "login": "medikoo"
             }
         },
+<<<<<<< HEAD
         "medikoo/es6-weak-map": {
+=======
+        "jantimon/html-webpack-plugin": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "html-webpack-plugin",
+            "nameWithOwner": "jantimon/html-webpack-plugin",
+            "owner": {
+                "login": "jantimon"
+            }
+        },
+        "jaraco/zipp": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -14418,7 +14605,26 @@
                 "login": "microsoftgraph"
             }
         },
+<<<<<<< HEAD
         "microsoftgraph/msgraph-typescript-typings": {
+=======
+        "johnagan/clean-webpack-plugin": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#2b7489",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "clean-webpack-plugin",
+            "nameWithOwner": "johnagan/clean-webpack-plugin",
+            "owner": {
+                "login": "johnagan"
+            }
+        },
+        "joke2k/faker": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -14534,7 +14740,26 @@
                 "login": "mithrandi"
             }
         },
+<<<<<<< HEAD
         "mk-fg/pretty-yaml": {
+=======
+        "jonschlinkert/arr-union": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "arr-union",
+            "nameWithOwner": "jonschlinkert/arr-union",
+            "owner": {
+                "login": "jonschlinkert"
+            }
+        },
+        "jonschlinkert/array-slice": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -14564,7 +14789,56 @@
                 "login": "mkleehammer"
             }
         },
+<<<<<<< HEAD
         "mochajs/mocha": {
+=======
+        "jonschlinkert/assign-symbols": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "assign-symbols",
+            "nameWithOwner": "jonschlinkert/assign-symbols",
+            "owner": {
+                "login": "jonschlinkert"
+            }
+        },
+        "jonschlinkert/cache-base": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "cache-base",
+            "nameWithOwner": "jonschlinkert/cache-base",
+            "owner": {
+                "login": "jonschlinkert"
+            }
+        },
+        "jonschlinkert/class-utils": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "class-utils",
+            "nameWithOwner": "jonschlinkert/class-utils",
+            "owner": {
+                "login": "jonschlinkert"
+            }
+        },
+        "jonschlinkert/clone-deep": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -17360,7 +17634,27 @@
                 "login": "pytest-dev"
             }
         },
+<<<<<<< HEAD
         "pytest-dev/iniconfig": {
+=======
+        "node-browser-compat/atob": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "atob",
+            "nameWithOwner": "node-browser-compat/atob",
+            "owner": {
+                "isVerified": false,
+                "login": "node-browser-compat"
+            }
+        },
+        "nodeca/argparse": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -17997,8 +18291,13 @@
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#f1e05a",
                         "name": "JavaScript"
+=======
+                        "color": "#c6538c",
+                        "name": "SCSS"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             },
@@ -18552,7 +18851,27 @@
                 "login": "requests"
             }
         },
+<<<<<<< HEAD
         "requests/requests-oauthlib": {
+=======
+        "popperjs/popper-core": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "popper-core",
+            "nameWithOwner": "popperjs/popper-core",
+            "owner": {
+                "isVerified": true,
+                "login": "popperjs"
+            }
+        },
+        "postaljs/monologue.js": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -20889,7 +21208,56 @@
                 "login": "stefanpenner"
             }
         },
+<<<<<<< HEAD
         "storybookjs/presets": {
+=======
+        "sindresorhus/caller-callsite": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "caller-callsite",
+            "nameWithOwner": "sindresorhus/caller-callsite",
+            "owner": {
+                "login": "sindresorhus"
+            }
+        },
+        "sindresorhus/caller-path": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "caller-path",
+            "nameWithOwner": "sindresorhus/caller-path",
+            "owner": {
+                "login": "sindresorhus"
+            }
+        },
+        "sindresorhus/callsites": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#2b7489",
+                        "name": "TypeScript"
+                    }
+                ]
+            },
+            "name": "callsites",
+            "nameWithOwner": "sindresorhus/callsites",
+            "owner": {
+                "login": "sindresorhus"
+            }
+        },
+        "sindresorhus/camelcase": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -20905,7 +21273,26 @@
                 "login": "storybookjs"
             }
         },
+<<<<<<< HEAD
         "storybookjs/storybook": {
+=======
+        "sindresorhus/camelcase-keys": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "camelcase-keys",
+            "nameWithOwner": "sindresorhus/camelcase-keys",
+            "owner": {
+                "login": "sindresorhus"
+            }
+        },
+        "sindresorhus/clean-stack": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -23013,7 +23400,27 @@
                 "login": "wessberg"
             }
         },
+<<<<<<< HEAD
         "wheresrhys/fetch-mock": {
+=======
+        "webpack-contrib/copy-webpack-plugin": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "copy-webpack-plugin",
+            "nameWithOwner": "webpack-contrib/copy-webpack-plugin",
+            "owner": {
+                "isVerified": false,
+                "login": "webpack-contrib"
+            }
+        },
+        "webpack-contrib/css-loader": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -23028,7 +23435,27 @@
                 "login": "wheresrhys"
             }
         },
+<<<<<<< HEAD
         "wollardj/node-simple-plist": {
+=======
+        "webpack-contrib/exports-loader": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "exports-loader",
+            "nameWithOwner": "webpack-contrib/exports-loader",
+            "owner": {
+                "isVerified": false,
+                "login": "webpack-contrib"
+            }
+        },
+        "webpack-contrib/extract-text-webpack-plugin": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {
@@ -23058,7 +23485,27 @@
                 "login": "wooorm"
             }
         },
+<<<<<<< HEAD
         "wooorm/character-entities": {
+=======
+        "webpack-contrib/postcss-loader": {
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ]
+            },
+            "name": "postcss-loader",
+            "nameWithOwner": "webpack-contrib/postcss-loader",
+            "owner": {
+                "isVerified": false,
+                "login": "webpack-contrib"
+            }
+        },
+        "webpack-contrib/sass-loader": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "languages": {
                 "nodes": [
                     {

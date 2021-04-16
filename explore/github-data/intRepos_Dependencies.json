@@ -8736,7 +8736,1008 @@
                                     "repository": {
                                         "nameWithOwner": "babel/babel"
                                     }
+<<<<<<< HEAD
                                 },
+=======
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            }
+        },
+        "GMLC-TDC/helics-buildenv": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#384d54",
+                        "name": "Dockerfile"
+                    }
+                ]
+            }
+        },
+        "GMLC-TDC/helics-cli": {
+            "dependencyGraphManifests": {
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "click",
+                                    "repository": {
+                                        "nameWithOwner": "pallets/click"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "future",
+                                    "repository": {
+                                        "nameWithOwner": "PythonCharmers/python-future"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "jinja2",
+                                    "repository": {
+                                        "nameWithOwner": "pallets/jinja"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "six",
+                                    "repository": {
+                                        "nameWithOwner": "benjaminp/six"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@fortawesome/fontawesome-common-types",
+                                    "repository": {
+                                        "nameWithOwner": "FortAwesome/Font-Awesome"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@fortawesome/fontawesome-free-solid",
+                                    "repository": {
+                                        "nameWithOwner": "FortAwesome/Font-Awesome"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@fortawesome/fontawesome-svg-core",
+                                    "repository": {
+                                        "nameWithOwner": "FortAwesome/Font-Awesome"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@nodelib/fs.scandir",
+                                    "repository": {
+                                        "nameWithOwner": "nodelib/nodelib"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@nodelib/fs.stat",
+                                    "repository": {
+                                        "nameWithOwner": "nodelib/nodelib"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@nodelib/fs.walk",
+                                    "repository": {
+                                        "nameWithOwner": "nodelib/nodelib"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@npmcli/move-file",
+                                    "repository": {
+                                        "nameWithOwner": "npm/move-file"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@types/anymatch",
+                                    "repository": {
+                                        "nameWithOwner": "DefinitelyTyped/DefinitelyTyped"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@types/estree",
+                                    "repository": {
+                                        "nameWithOwner": "DefinitelyTyped/DefinitelyTyped"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@types/glob",
+                                    "repository": {
+                                        "nameWithOwner": "DefinitelyTyped/DefinitelyTyped"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@types/html-minifier-terser",
+                                    "repository": {
+                                        "nameWithOwner": "DefinitelyTyped/DefinitelyTyped"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@types/json-schema",
+                                    "repository": {
+                                        "nameWithOwner": "DefinitelyTyped/DefinitelyTyped"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@types/minimatch",
+                                    "repository": {
+                                        "nameWithOwner": "typed-typings/npm-minimatch"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@types/node",
+                                    "repository": {
+                                        "nameWithOwner": "DefinitelyTyped/DefinitelyTyped"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@types/source-list-map",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@types/tapable",
+                                    "repository": {
+                                        "nameWithOwner": "DefinitelyTyped/DefinitelyTyped"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@types/uglify-js",
+                                    "repository": {
+                                        "nameWithOwner": "PatrickJS/types-uglify-js"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@types/webpack",
+                                    "repository": {
+                                        "nameWithOwner": "DefinitelyTyped/DefinitelyTyped"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@types/webpack-sources",
+                                    "repository": {
+                                        "nameWithOwner": "DefinitelyTyped/DefinitelyTyped"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/ast",
+                                    "repository": {
+                                        "nameWithOwner": "xtuc/webassemblyjs"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/floating-point-hex-parser",
+                                    "repository": {
+                                        "nameWithOwner": "xtuc/webassemblyjs"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/helper-api-error",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/helper-buffer",
+                                    "repository": {
+                                        "nameWithOwner": "xtuc/webassemblyjs"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/helper-code-frame",
+                                    "repository": {
+                                        "nameWithOwner": "xtuc/webassemblyjs"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/helper-fsm",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/helper-module-context",
+                                    "repository": {
+                                        "nameWithOwner": "xtuc/webassemblyjs"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/helper-wasm-bytecode",
+                                    "repository": {
+                                        "nameWithOwner": "xtuc/webassemblyjs"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/helper-wasm-section",
+                                    "repository": {
+                                        "nameWithOwner": "xtuc/webassemblyjs"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/ieee754",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/leb128",
+                                    "repository": null
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/utf8",
+                                    "repository": {
+                                        "nameWithOwner": "xtuc/webassemblyjs"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/wasm-edit",
+                                    "repository": {
+                                        "nameWithOwner": "xtuc/webassemblyjs"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/wasm-gen",
+                                    "repository": {
+                                        "nameWithOwner": "xtuc/webassemblyjs"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/wasm-opt",
+                                    "repository": {
+                                        "nameWithOwner": "xtuc/webassemblyjs"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/wasm-parser",
+                                    "repository": {
+                                        "nameWithOwner": "xtuc/webassemblyjs"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/wast-parser",
+                                    "repository": {
+                                        "nameWithOwner": "xtuc/webassemblyjs"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@webassemblyjs/wast-printer",
+                                    "repository": {
+                                        "nameWithOwner": "xtuc/webassemblyjs"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@xtuc/ieee754",
+                                    "repository": {
+                                        "nameWithOwner": "wschoeck/nuxtuebung"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@xtuc/long",
+                                    "repository": {
+                                        "nameWithOwner": "dcodeIO/long.js"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "abbrev",
+                                    "repository": {
+                                        "nameWithOwner": "isaacs/abbrev-js"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "acorn",
+                                    "repository": {
+                                        "nameWithOwner": "acornjs/acorn"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "aggregate-error",
+                                    "repository": {
+                                        "nameWithOwner": "sindresorhus/aggregate-error"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "ajv",
+                                    "repository": {
+                                        "nameWithOwner": "ajv-validator/ajv"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "ajv-errors",
+                                    "repository": {
+                                        "nameWithOwner": "ajv-validator/ajv-errors"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "ajv-keywords",
+                                    "repository": {
+                                        "nameWithOwner": "ajv-validator/ajv-keywords"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "amcharts",
+                                    "repository": {
+                                        "nameWithOwner": "bequadrat/amcharts"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "amdefine",
+                                    "repository": {
+                                        "nameWithOwner": "jrburke/amdefine"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "ansi-regex",
+                                    "repository": {
+                                        "nameWithOwner": "chalk/ansi-regex"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "ansi-styles",
+                                    "repository": {
+                                        "nameWithOwner": "chalk/ansi-styles"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "aproba",
+                                    "repository": {
+                                        "nameWithOwner": "iarna/aproba"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "are-we-there-yet",
+                                    "repository": {
+                                        "nameWithOwner": "npm/are-we-there-yet"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "argparse",
+                                    "repository": {
+                                        "nameWithOwner": "nodeca/argparse"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "arr-diff",
+                                    "repository": {
+                                        "nameWithOwner": "jonschlinkert/arr-diff"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "arr-flatten",
+                                    "repository": {
+                                        "nameWithOwner": "jonschlinkert/arr-flatten"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "arr-union",
+                                    "repository": {
+                                        "nameWithOwner": "jonschlinkert/arr-union"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "array-find-index",
+                                    "repository": {
+                                        "nameWithOwner": "sindresorhus/array-find-index"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "array-union",
+                                    "repository": {
+                                        "nameWithOwner": "sindresorhus/array-union"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "array-uniq",
+                                    "repository": {
+                                        "nameWithOwner": "sindresorhus/array-uniq"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "array-unique",
+                                    "repository": {
+                                        "nameWithOwner": "jonschlinkert/array-unique"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "asn1",
+                                    "repository": {
+                                        "nameWithOwner": "joyent/node-asn1"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "assert-plus",
+                                    "repository": {
+                                        "nameWithOwner": "joyent/node-assert-plus"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "assign-symbols",
+                                    "repository": {
+                                        "nameWithOwner": "jonschlinkert/assign-symbols"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "async",
+                                    "repository": {
+                                        "nameWithOwner": "caolan/async"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "async-foreach",
+                                    "repository": {
+                                        "nameWithOwner": "cowboy/javascript-sync-async-foreach"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "asynckit",
+                                    "repository": {
+                                        "nameWithOwner": "alexindigo/asynckit"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "atob",
+                                    "repository": {
+                                        "nameWithOwner": "node-browser-compat/atob"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "autoprefixer",
+                                    "repository": {
+                                        "nameWithOwner": "postcss/autoprefixer"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "aws-sign2",
+                                    "repository": {
+                                        "nameWithOwner": "request/aws-sign"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "aws4",
+                                    "repository": {
+                                        "nameWithOwner": "mhart/aws4"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "balanced-match",
+                                    "repository": {
+                                        "nameWithOwner": "juliangruber/balanced-match"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "base",
+                                    "repository": {
+                                        "nameWithOwner": "antz29/node-base"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "basic-auth",
+                                    "repository": {
+                                        "nameWithOwner": "jshttp/basic-auth"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "bcrypt-pbkdf",
+                                    "repository": {
+                                        "nameWithOwner": "joyent/node-bcrypt-pbkdf"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "big.js",
+                                    "repository": {
+                                        "nameWithOwner": "MikeMcl/big.js"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "block-stream",
+                                    "repository": {
+                                        "nameWithOwner": "isaacs/block-stream"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "boolbase",
+                                    "repository": {
+                                        "nameWithOwner": "fb55/boolbase"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "bootstrap",
+                                    "repository": {
+                                        "nameWithOwner": "twbs/bootstrap"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "bootstrap-darkmode",
+                                    "repository": {
+                                        "nameWithOwner": "Clashsoft/bootstrap-darkmode"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "bootstrap-table",
+                                    "repository": {
+                                        "nameWithOwner": "wenzhixin/bootstrap-table"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "brace-expansion",
+                                    "repository": {
+                                        "nameWithOwner": "juliangruber/brace-expansion"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "braces",
+                                    "repository": {
+                                        "nameWithOwner": "micromatch/braces"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "browserslist",
+                                    "repository": {
+                                        "nameWithOwner": "browserslist/browserslist"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "buffer-from",
+                                    "repository": {
+                                        "nameWithOwner": "LinusU/buffer-from"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "cacache",
+                                    "repository": {
+                                        "nameWithOwner": "zkat/cacache"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "cache-base",
+                                    "repository": {
+                                        "nameWithOwner": "jonschlinkert/cache-base"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "caller-callsite",
+                                    "repository": {
+                                        "nameWithOwner": "sindresorhus/caller-callsite"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "caller-path",
+                                    "repository": {
+                                        "nameWithOwner": "sindresorhus/caller-path"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "callsites",
+                                    "repository": {
+                                        "nameWithOwner": "sindresorhus/callsites"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "camel-case",
+                                    "repository": {
+                                        "nameWithOwner": "blakeembrey/change-case"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "camelcase",
+                                    "repository": {
+                                        "nameWithOwner": "sindresorhus/camelcase"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "camelcase-keys",
+                                    "repository": {
+                                        "nameWithOwner": "sindresorhus/camelcase-keys"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "caniuse-lite",
+                                    "repository": {
+                                        "nameWithOwner": "ben-eb/caniuse-lite"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "caseless",
+                                    "repository": {
+                                        "nameWithOwner": "request/caseless"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "chalk",
+                                    "repository": {
+                                        "nameWithOwner": "chalk/chalk"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "chownr",
+                                    "repository": {
+                                        "nameWithOwner": "isaacs/chownr"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "chrome-trace-event",
+                                    "repository": {
+                                        "nameWithOwner": "samccone/chrome-trace-event"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "class-utils",
+                                    "repository": {
+                                        "nameWithOwner": "jonschlinkert/class-utils"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "clean-css",
+                                    "repository": {
+                                        "nameWithOwner": "jakubpawlowicz/clean-css"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "clean-stack",
+                                    "repository": {
+                                        "nameWithOwner": "sindresorhus/clean-stack"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "clean-webpack-plugin",
+                                    "repository": {
+                                        "nameWithOwner": "johnagan/clean-webpack-plugin"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@fortawesome/fontawesome-free-solid",
+                                    "repository": {
+                                        "nameWithOwner": "FortAwesome/Font-Awesome"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "@fortawesome/fontawesome-svg-core",
+                                    "repository": {
+                                        "nameWithOwner": "FortAwesome/Font-Awesome"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "amcharts",
+                                    "repository": {
+                                        "nameWithOwner": "bequadrat/amcharts"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "autoprefixer",
+                                    "repository": {
+                                        "nameWithOwner": "postcss/autoprefixer"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "bootstrap",
+                                    "repository": {
+                                        "nameWithOwner": "twbs/bootstrap"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "bootstrap-darkmode",
+                                    "repository": {
+                                        "nameWithOwner": "Clashsoft/bootstrap-darkmode"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "bootstrap-table",
+                                    "repository": {
+                                        "nameWithOwner": "wenzhixin/bootstrap-table"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "clean-webpack-plugin",
+                                    "repository": {
+                                        "nameWithOwner": "johnagan/clean-webpack-plugin"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "copy-webpack-plugin",
+                                    "repository": {
+                                        "nameWithOwner": "webpack-contrib/copy-webpack-plugin"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "css-loader",
+                                    "repository": {
+                                        "nameWithOwner": "webpack-contrib/css-loader"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "dark-mode-switch",
+                                    "repository": {
+                                        "nameWithOwner": "coliff/dark-mode-switch"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "exports-loader",
+                                    "repository": {
+                                        "nameWithOwner": "webpack-contrib/exports-loader"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "html-webpack-plugin",
+                                    "repository": {
+                                        "nameWithOwner": "jantimon/html-webpack-plugin"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "http-server",
+                                    "repository": {
+                                        "nameWithOwner": "http-party/http-server"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "jquery",
+                                    "repository": {
+                                        "nameWithOwner": "jquery/jquery"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "node-sass",
+                                    "repository": {
+                                        "nameWithOwner": "sass/node-sass"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "popper.js",
+                                    "repository": {
+                                        "nameWithOwner": "popperjs/popper-core"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "postcss-loader",
+                                    "repository": {
+                                        "nameWithOwner": "webpack-contrib/postcss-loader"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "sass-loader",
+                                    "repository": {
+                                        "nameWithOwner": "webpack-contrib/sass-loader"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "style-loader",
+                                    "repository": {
+                                        "nameWithOwner": "webpack-contrib/style-loader"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "webpack",
+                                    "repository": {
+                                        "nameWithOwner": "webpack/webpack"
+                                    }
+                                },
+                                {
+                                    "packageManager": "NPM",
+                                    "packageName": "webpack-cli",
+                                    "repository": {
+                                        "nameWithOwner": "webpack/webpack-cli"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#ffc200",
+                        "name": "Nim"
+                    }
+                ]
+            }
+        },
+        "GMLC-TDC/helics-conda": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": []
+            }
+        },
+        "GMLC-TDC/helics-ns3": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    }
+                ]
+            }
+        },
+        "GMLC-TDC/helics-omnetpp": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    }
+                ]
+            }
+        },
+        "GMLC-TDC/helics-packaging": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            }
+        },
+        "GMLC-TDC/helics.nim": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#ffc200",
+                        "name": "Nim"
+                    }
+                ]
+            }
+        },
+        "GMLC-TDC/helics.org": {
+            "dependencyGraphManifests": {
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                                 {
                                     "packageManager": "NPM",
                                     "packageName": "@babel/plugin-proposal-private-methods",
@@ -16327,7 +17328,83 @@
                                     "repository": {
                                         "nameWithOwner": "babel/babel"
                                     }
+<<<<<<< HEAD
                                 },
+=======
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            }
+        },
+        "LLNL/magpie": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    }
+                ]
+            }
+        },
+        "LLNL/mappgene": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ]
+            }
+        },
+        "LLNL/mdtest": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    }
+                ]
+            }
+        },
+        "LLNL/meco": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#198CE7",
+                        "name": "R"
+                    }
+                ]
+            }
+        },
+        "LLNL/melodee": {
+            "dependencyGraphManifests": {
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                                 {
                                     "packageManager": "NPM",
                                     "packageName": "@babel/helper-skip-transparent-expression-wrappers",
@@ -20619,6 +21696,7 @@
                                     "repository": {
                                         "nameWithOwner": "babel/babel"
                                     }
+<<<<<<< HEAD
                                 },
                                 {
                                     "packageManager": "NPM",
@@ -47608,17 +48686,33 @@
         "equinor/radix-operator": {
             "dependencyGraphManifests": {
                 "nodes": []
+=======
+                                }
+                            ]
+                        }
+                    }
+                ]
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#00ADD8",
                         "name": "Go"
+=======
+                        "color": "#f34b7d",
+                        "name": "C++"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/radix-platform": {
+=======
+        "LLNL/zfpy-wheels": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "dependencyGraphManifests": {
                 "nodes": []
             },
@@ -47631,6 +48725,7 @@
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/radix-web-console": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -49679,75 +50774,124 @@
             }
         },
         "equinor/react-native-hockeyapp": {
+=======
+        "LLNL/zfs": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "dependencyGraphManifests": {
                 "nodes": []
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#b07219",
                         "name": "Java"
+=======
+                        "color": "#555555",
+                        "name": "C"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/react-native-ms-adal": {
+=======
+        "LLNL/zhw": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "dependencyGraphManifests": {
                 "nodes": []
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#438eff",
                         "name": "Objective-C"
+=======
+                        "color": "#f34b7d",
+                        "name": "C++"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/react-native-salute": {
+=======
+        "PRUNERS/CLMPI": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "dependencyGraphManifests": {
                 "nodes": []
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#f1e05a",
                         "name": "JavaScript"
+=======
+                        "color": "#555555",
+                        "name": "C"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/react-native-splash-screen": {
+=======
+        "PRUNERS/FLiT": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "dependencyGraphManifests": {
                 "nodes": []
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#b07219",
                         "name": "Java"
+=======
+                        "color": "#f34b7d",
+                        "name": "C++"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/react-native-toaster": {
+=======
+        "PRUNERS/NINJA": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "dependencyGraphManifests": {
                 "nodes": []
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#f1e05a",
                         "name": "JavaScript"
+=======
+                        "color": "#f34b7d",
+                        "name": "C++"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/react-native-video": {
+=======
+        "PRUNERS/PRUNERS-Toolset": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "dependencyGraphManifests": {
                 "nodes": []
             },
             "languages": {
+<<<<<<< HEAD
                 "nodes": [
                     {
                         "color": "#b07219",
@@ -49757,44 +50901,74 @@
             }
         },
         "equinor/sdp-aks-node-puppet": {
+=======
+                "nodes": []
+            }
+        },
+        "PRUNERS/ReMPI": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "dependencyGraphManifests": {
                 "nodes": []
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#89e051",
                         "name": "Shell"
+=======
+                        "color": "#f34b7d",
+                        "name": "C++"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/sdp-flux": {
+=======
+        "PRUNERS/Research-Prototypes": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "dependencyGraphManifests": {
                 "nodes": []
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#724b3b",
                         "name": "Mustache"
+=======
+                        "color": "#f34b7d",
+                        "name": "C++"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/sdp-omnia": {
+=======
+        "PRUNERS/StackP": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "dependencyGraphManifests": {
                 "nodes": []
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#89e051",
                         "name": "Shell"
+=======
+                        "color": "#555555",
+                        "name": "C"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/segyio": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -49873,16 +51047,27 @@
                         }
                     }
                 ]
+=======
+        "PRUNERS/TestingTools": {
+            "dependencyGraphManifests": {
+                "nodes": []
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#3572A5",
                         "name": "Python"
+=======
+                        "color": null,
+                        "name": "CMake"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/segyio-notebooks": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -50011,16 +51196,27 @@
                         }
                     }
                 ]
+=======
+        "PRUNERS/archer": {
+            "dependencyGraphManifests": {
+                "nodes": []
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#DA5B0B",
                         "name": "Jupyter Notebook"
+=======
+                        "color": "#555555",
+                        "name": "C"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/segyviewer": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -50065,42 +51261,71 @@
                         }
                     }
                 ]
+=======
+        "PRUNERS/compiler-rt": {
+            "dependencyGraphManifests": {
+                "nodes": []
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#3572A5",
                         "name": "Python"
+=======
+                        "color": "#555555",
+                        "name": "C"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/seis-ee": {
+=======
+        "PRUNERS/dataracebench": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "dependencyGraphManifests": {
                 "nodes": []
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#3572A5",
                         "name": "Python"
+=======
+                        "color": "#555555",
+                        "name": "C"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/semantic-version": {
+=======
+        "PRUNERS/flit_tutorial": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "dependencyGraphManifests": {
                 "nodes": []
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#f1e05a",
                         "name": "JavaScript"
+=======
+                        "color": "#f34b7d",
+                        "name": "C++"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/semeio": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -50255,16 +51480,27 @@
                         }
                     }
                 ]
+=======
+        "PRUNERS/llvm-project": {
+            "dependencyGraphManifests": {
+                "nodes": []
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#3572A5",
                         "name": "Python"
+=======
+                        "color": "#f34b7d",
+                        "name": "C++"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/sepes-api": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -51583,16 +52819,27 @@
                         }
                     }
                 ]
+=======
+        "PRUNERS/llvm_archer": {
+            "dependencyGraphManifests": {
+                "nodes": []
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#178600",
                         "name": "C#"
+=======
+                        "color": "#89e051",
+                        "name": "Shell"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/sepes-web": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -52819,29 +54066,56 @@
                         }
                     }
                 ]
+=======
+        "PRUNERS/openmp": {
+            "dependencyGraphManifests": {
+                "nodes": []
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#2b7489",
                         "name": "TypeScript"
+=======
+                        "color": "#f34b7d",
+                        "name": "C++"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/sharepoint-web-parts": {
+=======
+        "PRUNERS/pruners.github.io": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "dependencyGraphManifests": {
                 "nodes": []
             },
             "languages": {
+<<<<<<< HEAD
                 "nodes": []
             }
         },
         "equinor/sparkbeyond-poc": {
+=======
+                "nodes": [
+                    {
+                        "color": "#3D6117",
+                        "name": "TeX"
+                    }
+                ]
+            }
+        },
+        "PRUNERS/sword": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "dependencyGraphManifests": {
                 "nodes": []
             },
             "languages": {
+<<<<<<< HEAD
                 "nodes": []
             }
         },
@@ -53047,16 +54321,35 @@
                         }
                     }
                 ]
-            },
-            "languages": {
+=======
                 "nodes": [
                     {
-                        "color": "#3572A5",
-                        "name": "Python"
+                        "color": "#555555",
+                        "name": "C"
                     }
                 ]
             }
         },
+        "XBraid/xbraid": {
+            "dependencyGraphManifests": {
+                "nodes": []
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
+            },
+            "languages": {
+                "nodes": [
+                    {
+<<<<<<< HEAD
+                        "color": "#3572A5",
+                        "name": "Python"
+=======
+                        "color": "#555555",
+                        "name": "C"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
+                    }
+                ]
+            }
+        },
+<<<<<<< HEAD
         "equinor/tagreader-python": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -53745,37 +55038,69 @@
                         }
                     }
                 ]
+=======
+        "chaos/9nbd": {
+            "dependencyGraphManifests": {
+                "nodes": []
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#3572A5",
                         "name": "Python"
+=======
+                        "color": "#555555",
+                        "name": "C"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/ti-nuget-public": {
+=======
+        "chaos/apt": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "dependencyGraphManifests": {
                 "nodes": []
             },
             "languages": {
+<<<<<<< HEAD
                 "nodes": []
             }
         },
         "equinor/videx-linear-algebra-OLD": {
+=======
+                "nodes": [
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    }
+                ]
+            }
+        },
+        "chaos/cerebro": {
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             "dependencyGraphManifests": {
                 "nodes": []
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#f1e05a",
                         "name": "JavaScript"
+=======
+                        "color": "#555555",
+                        "name": "C"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/videx-map": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -56474,16 +57799,35 @@
                         }
                     }
                 ]
+=======
+        "chaos/chaos.github.com": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": []
+            }
+        },
+        "chaos/diod": {
+            "dependencyGraphManifests": {
+                "nodes": []
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             },
             "languages": {
                 "nodes": [
                     {
+<<<<<<< HEAD
                         "color": "#2b7489",
                         "name": "TypeScript"
+=======
+                        "color": "#555555",
+                        "name": "C"
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                     }
                 ]
             }
         },
+<<<<<<< HEAD
         "equinor/volumetric": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -58071,6 +59415,11 @@
                         }
                     }
                 ]
+=======
+        "chaos/dpkg": {
+            "dependencyGraphManifests": {
+                "nodes": []
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
             },
             "languages": {
                 "nodes": [
@@ -62559,6 +63908,7 @@
                                     }
                                 },
                                 {
+<<<<<<< HEAD
                                     "packageManager": "NPM",
                                     "packageName": "@babel/helper-member-expression-to-functions",
                                     "repository": {
@@ -62880,6 +64230,126 @@
                                         "nameWithOwner": "babel/babel"
                                     }
                                 },
+=======
+                                    "packageManager": "PIP",
+                                    "packageName": "or",
+                                    "repository": null
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    }
+                ]
+            }
+        },
+        "dun/conman": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    }
+                ]
+            }
+        },
+        "dun/munge": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    }
+                ]
+            }
+        },
+        "flux-framework/FluxRM.jl": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#a270ba",
+                        "name": "Julia"
+                    }
+                ]
+            }
+        },
+        "flux-framework/PerfFlowAspect": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    }
+                ]
+            }
+        },
+        "flux-framework/Tutorials": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    }
+                ]
+            }
+        },
+        "flux-framework/capacitor": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#C1F12E",
+                        "name": "Batchfile"
+                    }
+                ]
+            }
+        },
+        "flux-framework/distribution": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": []
+            }
+        },
+        "flux-framework/fliirm": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": []
+            }
+        },
+        "flux-framework/flux-accounting": {
+            "dependencyGraphManifests": {
+                "nodes": [
+                    {
+                        "dependencies": {
+                            "nodes": [
+>>>>>>> 3a819cdb636ba1085b7dca33e2898a32339e2077
                                 {
                                     "packageManager": "NPM",
                                     "packageName": "@babel/plugin-transform-member-expression-literals",
