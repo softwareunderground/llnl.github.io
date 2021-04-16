@@ -4,11 +4,8 @@
     ],
     "orgs": [
         "agile-geoscience",
-        "equinor",
-        "fatiando/",
-        "landlab",
-        "nsgeophysics",
-        "simpeg"
+        "fatiando",
+        "softwareunderground"
     ],
     "repos": [
         "justingosses/predictatops",
