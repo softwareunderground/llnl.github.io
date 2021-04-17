@@ -4,9 +4,9 @@ title: LLNL Software Portal
 description: "Lawrence Livermore National Laboratory Software Portal"
 remote_theme: LLNL/Jekyll-LLNL-Theme@main
 
-url: "https://softwareunderground.github.io/llnl.github.io"
-repo_url: "https://github.com/softwareunderground/llnl.github.io"
-# baseurl: "llnl.github.io"
+# url: "https://softwareunderground.github.io/llnl.github.io/"
+# repo_url: "https://github.com/softwareunderground/llnl.github.io"
+baseurl: "/open_geosciene_code_projects_viz"
 
 # LLNL Piwik Analytics https://analytics.llnl.gov
 # piwik_id: 250
@@ -20,7 +20,7 @@ twitter:
   username: swung_org
 
 # GitHub Metadata -- https://github.com/jekyll/github-metadata
-repository: softwareunderground/llnl.github.io
+repository: softwareunderground/open_geosciene_code_projects_viz
 plugins:
   - jekyll-github-metadata
   - jekyll-seo-tag
