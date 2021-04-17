@@ -1,74 +1,111 @@
 {
     "data": {
-        "BUILD TOOLS": {
-            "title": "BUILD TOOLS",
+        "DATAUNDERGROUND": {
+            "title": "DATAUNDERGROUND",
             "icon": {
-                "path": "/assets/images/build-tools.svg",
-                "alt": "Build Tools"
+                "path": "/assets/images/performance.svg",
+                "alt": "DATAUNDERGROUND or DATAUNDERGROUND related"
             },
-            "description": {
-                "short": "Automate and simplify complex dependencies and deployments",
+            "description" : {
+                "short": "Repos having to do with the DATAUNDERGROUND site or that use datasets from DATAUNDERGROUND",
                 "long": ""
             },
             "topics": [
-                "build-tools"
+                "DATAUNDERGROUND",
+                "dataunderground"
             ]
         },
-        "MATH & PHYSICS LIBRARIES": {
-            "title": "MATH & PHYSICS LIBRARIES",
+        "BUILD TOOLS": {
+            "title": "Geology",
             "icon": {
-                "path": "/assets/images/math.svg",
-                "alt": "Math & Physics Libraries"
+                "path": "/assets/images/build-tools.svg",
+                "alt": "Geology"
             },
             "description": {
-                "short": "Optimize solvers, higher order methods, and AMR frameworks",
+                "short": "Geology topic tagged repos",
                 "long": ""
             },
             "topics": [
-                "math-physics"
+                "geology"
+            ]
+        },
+        "GEOPHYSICS": {
+            "title": "GEOPHYSICS",
+            "icon": {
+                "path": "/assets/images/math.svg",
+                "alt": "Geophysics"
+            },
+            "description": {
+                "short": "Geophysics topic tagged repositories",
+                "long": ""
+            },
+            "topics": [
+                "Geophysics",
+                "geophysics"
+            ]
+        },
+        "SEISMOLOGY": {
+            "title": "SEISMOLOGY",
+            "icon": {
+                "path": "/assets/images/math.svg",
+                "alt": "SEISMOLOGY"
+            },
+            "description": {
+                "short": "SEISMOLOGY topic tagged repositories",
+                "long": ""
+            },
+            "topics": [
+                "SEISMOLOGY",
+                "seismology",
+                "earth-quakes",
+                "earthquakes"
             ]
         },
         "DATA MANAGEMENT & VIZ": {
-            "title": "DATA MANAGEMENT & VIZ",
+            "title": "DATA MANAGEMENT",
             "icon": {
                 "path": "/assets/images/data-manage.svg",
-                "alt": "Data Management & Visualization"
+                "alt": "Data Management"
             },
             "description": {
-                "short": "Manage visualizations with robust features and configurable analysis",
+                "short": "Data and data management repositories",
                 "long": ""
             },
             "topics": [
-                "data-management",
-                "data-viz"
+                "data-management"
             ]
         },
-        "APPLICATIONS": {
-            "title": "APPLICATIONS",
+        "WEB SITES & APPLICATIONS": {
+            "title": "WEB SITES & APPLICATIONS",
             "icon": {
                 "path": "/assets/images/application.svg",
-                "alt": "Applications"
+                "alt": "WEB SITES & APPLICATIONS"
             },
             "description": {
-                "short": "Browse scientific simulation codes and IT management tools",
+                "short": "Repositories that are WEB SITES & APPLICATIONS",
                 "long": ""
             },
             "topics": [
-                "application"
+                "application",
+                "applications",
+                "website",
+                "websites"
             ]
         },
         "PROXY APPLICATIONS": {
-            "title": "PROXY APPLICATIONS",
+            "title": "Visualization",
             "icon": {
                 "path": "/assets/images/prox-app.svg",
-                "alt": "Proxy Applications"
+                "alt": "data visualization"
             },
             "description": {
-                "short": "Prepare for testing and porting applications",
+                "short": "repos tagged with the data-visualization or visualization topic",
                 "long": ""
             },
             "topics": [
-                "proxy-application"
+                "visualization",
+                "data-visualization",
+                "dataviz"
             ]
         },
         "SYSTEM SOFTWARE": {
@@ -85,77 +122,36 @@
                 "system-software"
             ]
         },
-        "PORTABLE EXECUTION & MEMORY MGMT": {
-            "title": "PORTABLE EXECUTION & MEMORY MGMT",
+        "WELL LOGS": {
+            "title": "WELL LOGS",
             "icon": {
                 "path": "/assets/images/portable.svg",
-                "alt": "Portable Execution & Memory Management"
+                "alt": "Well logs"
             },
             "description": {
-                "short": "Automate data motion and memory allocation on advanced architectures",
+                "short": "Repos tagged with the well, well log, petrophysics, or well-logs topic.",
                 "long": ""
             },
             "topics": [
-                "portability",
-                "memory-management"
+                "well-logs",
+                "welllog",
+                "well-log",
+                "petrophysics"
             ]
         },
-        "PERFORMANCE & WORKFLOW": {
-            "title": "PERFORMANCE & WORKFLOW",
-            "icon": {
-                "path": "/assets/images/performance.svg",
-                "alt": "Performance & Workflow"
-            },
-            "description" : {
-                "short": "Manage and scale complex workflows, tracking, and data collection",
-                "long": ""
-            },
-            "topics": [
-                "performance",
-                "workflows"
-            ]
-        },
-        "FILE SYSTEMS": {
-            "title": "FILE SYSTEMS",
+        "DATA MINING": {
+            "title": "DATA MINING",
             "icon": {
                 "path": "/assets/images/file-systems.svg",
                 "alt": "File Systems"
             },
             "description": {
-                "short": "Configure data storage and retrieval for more efficient workloads",
+                "short": "Repos tagged with the data-mining topic tag.",
                 "long": ""
             },
             "topics": [
-                "file-system"
+                "data-mining"
             ]
-        },
-        "APP INFRASTRUCTURE": {
-            "title": "APP INFRASTRUCTURE",
-            "icon": {
-                "path": "/assets/images/app-infrastructure.svg",
-                "alt": "App Infrastructure"
-            },
-            "description": {
-                "short": "Browse tools for basic functionality common in HPC codes",
-                "long": ""
-            },
-            "topics":[
-                "app-infrastructure"
-            ]
-        },
-        "RADIUSS": {
-            "title": "RADIUSS",
-            "icon": {
-                "path": "/assets/images/radiuss.svg",
-                "alt": "RADIUSS logo"
-            },
-            "description": {
-                "short": "Rapid Application Development via an Institutional Universal Software Stack",
-                "long": ": LLNL's RADIUSS project aims to broaden usage across LLNL and the open source community of a set of libraries and tools used for HPC scientific application development. Check out our RADIUSS Policies & Guidelines."
-            },
-                "topics":[
-                "radiuss"
-            ]            
         }
     }
 }
