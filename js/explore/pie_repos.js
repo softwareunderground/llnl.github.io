@@ -15,7 +15,7 @@ function draw_pie_repos(areaID) {
 
     // Draw graph from data
     function drawGraph(data, areaID) {
-        var graphHeader = 'LLNL Repositories';
+        var graphHeader = 'Repositories';
 
         data.forEach(function(d) {
             d.count = +d.count;
