@@ -4,15 +4,15 @@ angular.module('app', []).controller('gitHubDataController', [
     '$window',
     '$location',
     function($scope, $http, $window, $location) {
-        var getCategoryInfo = $http.get('/category/category_info.json', {
+        var getCategoryInfo = $http.get('category/category_info.json', {
             cache: true
         });
 
-        var getReposTopics = $http.get('/explore/github-data/intRepos_Topics.json', {
+        var getReposTopics = $http.get('explore/github-data/intRepos_Topics.json', {
             cache: true
         });
 
-        var getReposInfo = $http.get('/explore/github-data/intReposInfo.json', {
+        var getReposInfo = $http.get('explore/github-data/intReposInfo.json', {
             cache: true
         });
 
