@@ -1,17 +1,17 @@
 app.controller('gitHubDataController', function($scope, $http, $window, Category) {
-    var getCategoryInfo = $http.get('../category/category_info.json', {
+    var getCategoryInfo = $http.get('/open_geosciene_code_projects_viz/category/category_info.json', {
         cache: true
     });
 
-    var getReposTopics = $http.get('./explore/github-data/intRepos_Topics.json', {
+    var getReposTopics = $http.get('/open_geosciene_code_projects_viz/explore/github-data/intRepos_Topics.json', {
         cache: true
     });
 
-    var getReposInfo = $http.get('./explore/github-data/intReposInfo.json', {
+    var getReposInfo = $http.get('/open_geosciene_code_projects_viz/explore/github-data/intReposInfo.json', {
         cache: true
     });
 
-    var getReposLogos = $http.get('./assets/images/logos/repo_logos.json', {
+    var getReposLogos = $http.get('/open_geosciene_code_projects_viz/assets/images/logos/repo_logos.json', {
         cache: true
     });
 
