@@ -158,12 +158,122 @@
                 "totalCount": 1
             },
             "repositoryTopics": {
-                "totalCount": 7
+                "totalCount": 8
             },
             "stargazers": {
                 "totalCount": 22
             },
             "url": "https://github.com/JustinGOSSES/wellioviz"
+        },
+        "NSGeophysics/GPRPy": {
+            "createdAt": "2018-04-04T01:21:07Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Ground Penetrating Radar processing and visualization software for python",
+            "forks": {
+                "totalCount": 34
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 3
+            },
+            "issues_Open": {
+                "totalCount": 13
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 1
+            },
+            "name": "GPRPy",
+            "nameWithOwner": "NSGeophysics/GPRPy",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/20239111?v=4",
+                "login": "NSGeophysics"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 1
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 72
+            },
+            "url": "https://github.com/NSGeophysics/GPRPy"
+        },
+        "SeisComP/seiscomp": {
+            "createdAt": "2020-03-26T10:27:56Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "The build environment for all SeisComP repositories. Includes the documentation.",
+            "forks": {
+                "totalCount": 13
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 5
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 7
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 14
+            },
+            "name": "seiscomp",
+            "nameWithOwner": "SeisComP/seiscomp",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/60510395?v=4",
+                "login": "SeisComP"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "C++"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 2
+            },
+            "pullRequests_Merged": {
+                "totalCount": 13
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 21
+            },
+            "url": "https://github.com/SeisComP/seiscomp"
         },
         "agile-geoscience/AVO_app": {
             "createdAt": "2012-05-01T14:03:43Z",
@@ -1315,7 +1425,7 @@
                 "totalCount": 0
             },
             "issues_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "languages": {
                 "totalCount": 0
@@ -2168,7 +2278,7 @@
                 "totalCount": 4
             },
             "stargazers": {
-                "totalCount": 70
+                "totalCount": 71
             },
             "url": "https://github.com/agile-geoscience/seisplot"
         },
@@ -2179,7 +2289,7 @@
             },
             "description": "Lithology and stratigraphic logs for wells or outcrop. ",
             "forks": {
-                "totalCount": 57
+                "totalCount": 58
             },
             "homepageUrl": "",
             "issues_Closed": {
@@ -2217,7 +2327,7 @@
                 "totalCount": 4
             },
             "pullRequests_Open": {
-                "totalCount": 2
+                "totalCount": 3
             },
             "repositoryTopics": {
                 "totalCount": 2
@@ -2446,6 +2556,1797 @@
                 "totalCount": 85
             },
             "url": "https://github.com/agile-geoscience/xlines"
+        },
+        "ahotovec/REDPy": {
+            "createdAt": "2014-05-21T21:49:52Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Repeating Earthquake Detector (Python)",
+            "forks": {
+                "totalCount": 26
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 4
+            },
+            "issues_Open": {
+                "totalCount": 1
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "GNU General Public License v3.0",
+                "nickname": "GNU GPLv3",
+                "spdxId": "GPL-3.0",
+                "url": "http://choosealicense.com/licenses/gpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 5
+            },
+            "name": "REDPy",
+            "nameWithOwner": "ahotovec/REDPy",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/7135200?u=fd33207e6e8a2fa11840cf25b3f4275089e23290&v=4",
+                "login": "ahotovec"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 11
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 4
+            },
+            "stargazers": {
+                "totalCount": 45
+            },
+            "url": "https://github.com/ahotovec/REDPy"
+        },
+        "btobers/RAGU": {
+            "createdAt": "2019-06-26T16:27:04Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Radar Analysis Graphical Utility (RAGU)",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 3
+            },
+            "issues_Open": {
+                "totalCount": 1
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "GNU General Public License v3.0",
+                "nickname": "GNU GPLv3",
+                "spdxId": "GPL-3.0",
+                "url": "http://choosealicense.com/licenses/gpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 2
+            },
+            "name": "RAGU",
+            "nameWithOwner": "btobers/RAGU",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/35202026?u=53f19938144ff9dac56f357beee6c2cd4731c690&v=4",
+                "login": "btobers"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 1
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 8
+            },
+            "url": "https://github.com/btobers/RAGU"
+        },
+        "cgre-aachen/Bayesian-Inference-Cases": {
+            "createdAt": "2020-03-26T18:02:18Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "A bunch of models tested with difference Bayesian Inference methods",
+            "forks": {
+                "totalCount": 2
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "Bayesian-Inference-Cases",
+            "nameWithOwner": "cgre-aachen/Bayesian-Inference-Cases",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Jupyter Notebook"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/cgre-aachen/Bayesian-Inference-Cases"
+        },
+        "cgre-aachen/DwarfElephant": {
+            "createdAt": "2018-01-18T13:52:24Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Implementation of the Reduced Basis Method",
+            "forks": {
+                "totalCount": 1
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 5
+            },
+            "licenseInfo": {
+                "name": "GNU Lesser General Public License v2.1",
+                "nickname": "GNU LGPLv2.1",
+                "spdxId": "LGPL-2.1",
+                "url": "http://choosealicense.com/licenses/lgpl-2.1/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "DwarfElephant",
+            "nameWithOwner": "cgre-aachen/DwarfElephant",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": {
+                "name": "DwarfElephant",
+                "nameWithOwner": "denise91/DwarfElephant",
+                "owner": {
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/24475670?v=4",
+                    "login": "denise91"
+                }
+            },
+            "primaryLanguage": {
+                "name": "C++"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 2
+            },
+            "url": "https://github.com/cgre-aachen/DwarfElephant"
+        },
+        "cgre-aachen/FastElephant": {
+            "createdAt": "2020-09-15T14:08:42Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Coupling and processing options for DwarfElephant",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": {
+                "name": "GNU Lesser General Public License v2.1",
+                "nickname": "GNU LGPLv2.1",
+                "spdxId": "LGPL-2.1",
+                "url": "http://choosealicense.com/licenses/lgpl-2.1/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "FastElephant",
+            "nameWithOwner": "cgre-aachen/FastElephant",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "TeX"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/cgre-aachen/FastElephant"
+        },
+        "cgre-aachen/MSc_theses": {
+            "createdAt": "2018-08-07T08:06:03Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Code related to MSc thesis projects",
+            "forks": {
+                "totalCount": 4
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": {
+                "name": "GNU Lesser General Public License v3.0",
+                "nickname": "GNU LGPLv3",
+                "spdxId": "LGPL-3.0",
+                "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "MSc_theses",
+            "nameWithOwner": "cgre-aachen/MSc_theses",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Jupyter Notebook"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 1
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 2
+            },
+            "url": "https://github.com/cgre-aachen/MSc_theses"
+        },
+        "cgre-aachen/RestClient": {
+            "createdAt": "2020-04-14T16:26:00Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "\ud83e\udd84 Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! \ud83c\udfae",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "https://assetstore.unity.com/packages/tools/network/rest-client-for-unity-102501",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "RestClient",
+            "nameWithOwner": "cgre-aachen/RestClient",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": {
+                "name": "RestClient",
+                "nameWithOwner": "proyecto26/RestClient",
+                "owner": {
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/28855608?v=4",
+                    "login": "proyecto26"
+                }
+            },
+            "primaryLanguage": {
+                "name": "C#"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 1
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/cgre-aachen/RestClient"
+        },
+        "cgre-aachen/VRTK": {
+            "createdAt": "2020-04-14T16:25:39Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "A productive toolkit for rapidly building spatial computing solutions in the Unity software.",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "https://www.vrtk.io/",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "VRTK",
+            "nameWithOwner": "cgre-aachen/VRTK",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": {
+                "name": "VRTK",
+                "nameWithOwner": "ExtendRealityLtd/VRTK",
+                "owner": {
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/36200022?v=4",
+                    "login": "ExtendRealityLtd"
+                }
+            },
+            "primaryLanguage": {
+                "name": "C#"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/cgre-aachen/VRTK"
+        },
+        "cgre-aachen/bayseg": {
+            "createdAt": "2017-11-16T09:44:00Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "An unsupervised machine learning algorithm for the segmentation of spatial data sets.",
+            "forks": {
+                "totalCount": 11
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 15
+            },
+            "issues_Open": {
+                "totalCount": 7
+            },
+            "languages": {
+                "totalCount": 5
+            },
+            "licenseInfo": {
+                "name": "GNU Lesser General Public License v3.0",
+                "nickname": "GNU LGPLv3",
+                "spdxId": "LGPL-3.0",
+                "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "bayseg",
+            "nameWithOwner": "cgre-aachen/bayseg",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Jupyter Notebook"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 3
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 11
+            },
+            "stargazers": {
+                "totalCount": 35
+            },
+            "url": "https://github.com/cgre-aachen/bayseg"
+        },
+        "cgre-aachen/course_infotheory_spatial": {
+            "createdAt": "2019-06-08T16:12:10Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Course on information theory with special focus on spatial analyses and multivariate measures",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 0
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 2
+            },
+            "name": "course_infotheory_spatial",
+            "nameWithOwner": "cgre-aachen/course_infotheory_spatial",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": null,
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/cgre-aachen/course_infotheory_spatial"
+        },
+        "cgre-aachen/gemgis": {
+            "createdAt": "2020-04-25T15:45:23Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Spatial data processing for geomodeling",
+            "forks": {
+                "totalCount": 14
+            },
+            "homepageUrl": "https://gemgis.readthedocs.io/en/latest",
+            "issues_Closed": {
+                "totalCount": 77
+            },
+            "issues_Open": {
+                "totalCount": 28
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": {
+                "name": "GNU Lesser General Public License v3.0",
+                "nickname": "GNU LGPLv3",
+                "spdxId": "LGPL-3.0",
+                "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 26
+            },
+            "name": "gemgis",
+            "nameWithOwner": "cgre-aachen/gemgis",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 3
+            },
+            "pullRequests_Merged": {
+                "totalCount": 62
+            },
+            "pullRequests_Open": {
+                "totalCount": 2
+            },
+            "repositoryTopics": {
+                "totalCount": 14
+            },
+            "stargazers": {
+                "totalCount": 89
+            },
+            "url": "https://github.com/cgre-aachen/gemgis"
+        },
+        "cgre-aachen/gemgis_data": {
+            "createdAt": "2020-11-01T15:26:12Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "This repository contains the data used in GemGIS",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 0
+            },
+            "licenseInfo": {
+                "name": "GNU General Public License v3.0",
+                "nickname": "GNU GPLv3",
+                "spdxId": "GPL-3.0",
+                "url": "http://choosealicense.com/licenses/gpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "gemgis_data",
+            "nameWithOwner": "cgre-aachen/gemgis_data",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": null,
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/cgre-aachen/gemgis_data"
+        },
+        "cgre-aachen/gemplay": {
+            "createdAt": "2020-12-14T12:36:55Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "A multi-platform and multi-application Unity project for visualizing and interacting with geological models and data",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 3
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "gemplay",
+            "nameWithOwner": "cgre-aachen/gemplay",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "C#"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/cgre-aachen/gemplay"
+        },
+        "cgre-aachen/gempy": {
+            "createdAt": "2017-07-04T11:32:12Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "GemPy is an open-source, Python-based 3-D structural geological modeling software, which allows the implicit (i.e. automatic) creation of complex geological models from interface and orientation data. It also offers support for stochastic modeling to adress parameter and model uncertainties.",
+            "forks": {
+                "totalCount": 127
+            },
+            "homepageUrl": "https://gempy.org",
+            "issues_Closed": {
+                "totalCount": 311
+            },
+            "issues_Open": {
+                "totalCount": 97
+            },
+            "languages": {
+                "totalCount": 4
+            },
+            "licenseInfo": {
+                "name": "GNU Lesser General Public License v3.0",
+                "nickname": "GNU LGPLv3",
+                "spdxId": "LGPL-3.0",
+                "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 31
+            },
+            "name": "gempy",
+            "nameWithOwner": "cgre-aachen/gempy",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 50
+            },
+            "pullRequests_Merged": {
+                "totalCount": 101
+            },
+            "pullRequests_Open": {
+                "totalCount": 11
+            },
+            "repositoryTopics": {
+                "totalCount": 14
+            },
+            "stargazers": {
+                "totalCount": 411
+            },
+            "url": "https://github.com/cgre-aachen/gempy"
+        },
+        "cgre-aachen/gempy-canvas": {
+            "createdAt": "2020-02-17T12:05:46Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Proof of concept for a single page application running on top of gempy.",
+            "forks": {
+                "totalCount": 1
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": {
+                "name": "GNU Lesser General Public License v3.0",
+                "nickname": "GNU LGPLv3",
+                "spdxId": "LGPL-3.0",
+                "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "gempy-canvas",
+            "nameWithOwner": "cgre-aachen/gempy-canvas",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "TypeScript"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 1
+            },
+            "pullRequests_Merged": {
+                "totalCount": 3
+            },
+            "pullRequests_Open": {
+                "totalCount": 5
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/cgre-aachen/gempy-canvas"
+        },
+        "cgre-aachen/gempy.github.io": {
+            "createdAt": "2019-05-03T08:31:40Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 2
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "gempy.github.io",
+            "nameWithOwner": "cgre-aachen/gempy.github.io",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "HTML"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/cgre-aachen/gempy.github.io"
+        },
+        "cgre-aachen/gempy_data": {
+            "createdAt": "2020-04-21T09:48:26Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Input data for gempy examples",
+            "forks": {
+                "totalCount": 3
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 0
+            },
+            "licenseInfo": {
+                "name": "GNU Lesser General Public License v3.0",
+                "nickname": "GNU LGPLv3",
+                "spdxId": "LGPL-3.0",
+                "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 20
+            },
+            "name": "gempy_data",
+            "nameWithOwner": "cgre-aachen/gempy_data",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": null,
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/cgre-aachen/gempy_data"
+        },
+        "cgre-aachen/gempy_workshops": {
+            "createdAt": "2020-06-01T12:04:47Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 10
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 2
+            },
+            "name": "gempy_workshops",
+            "nameWithOwner": "cgre-aachen/gempy_workshops",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Jupyter Notebook"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 13
+            },
+            "url": "https://github.com/cgre-aachen/gempy_workshops"
+        },
+        "cgre-aachen/hspace": {
+            "createdAt": "2019-06-05T21:10:27Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 1
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "GNU Lesser General Public License v3.0",
+                "nickname": "GNU LGPLv3",
+                "spdxId": "LGPL-3.0",
+                "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 2
+            },
+            "name": "hspace",
+            "nameWithOwner": "cgre-aachen/hspace",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 3
+            },
+            "url": "https://github.com/cgre-aachen/hspace"
+        },
+        "cgre-aachen/ki-campus": {
+            "createdAt": "2021-03-25T13:53:16Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Some notebooks etc for ki-campus",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 0
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 2
+            },
+            "name": "ki-campus",
+            "nameWithOwner": "cgre-aachen/ki-campus",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": null,
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/cgre-aachen/ki-campus"
+        },
+        "cgre-aachen/loss_function_decision_making_paper": {
+            "createdAt": "2019-03-15T14:58:37Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "loss_function_decision_making_paper",
+            "nameWithOwner": "cgre-aachen/loss_function_decision_making_paper",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Jupyter Notebook"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/cgre-aachen/loss_function_decision_making_paper"
+        },
+        "cgre-aachen/open_AR_Sandbox": {
+            "createdAt": "2018-07-02T15:05:43Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "open-AR-Sandbox is a project to enable haptic interaction with geoscientific content in AR-Sandboxes.",
+            "forks": {
+                "totalCount": 7
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 9
+            },
+            "issues_Open": {
+                "totalCount": 5
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": {
+                "name": "GNU Lesser General Public License v3.0",
+                "nickname": "GNU LGPLv3",
+                "spdxId": "LGPL-3.0",
+                "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 23
+            },
+            "name": "open_AR_Sandbox",
+            "nameWithOwner": "cgre-aachen/open_AR_Sandbox",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Jupyter Notebook"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 1
+            },
+            "pullRequests_Merged": {
+                "totalCount": 25
+            },
+            "pullRequests_Open": {
+                "totalCount": 1
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 9
+            },
+            "url": "https://github.com/cgre-aachen/open_AR_Sandbox"
+        },
+        "cgre-aachen/pynoddy": {
+            "createdAt": "2014-03-24T04:22:16Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "pynoddy is a python package to write, change, and analyse kinematic geological modelling simulations performed with Noddy.",
+            "forks": {
+                "totalCount": 19
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 14
+            },
+            "issues_Open": {
+                "totalCount": 17
+            },
+            "languages": {
+                "totalCount": 6
+            },
+            "licenseInfo": {
+                "name": "GNU General Public License v2.0",
+                "nickname": "GNU GPLv2",
+                "spdxId": "GPL-2.0",
+                "url": "http://choosealicense.com/licenses/gpl-2.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 9
+            },
+            "name": "pynoddy",
+            "nameWithOwner": "cgre-aachen/pynoddy",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 10
+            },
+            "pullRequests_Open": {
+                "totalCount": 1
+            },
+            "repositoryTopics": {
+                "totalCount": 5
+            },
+            "stargazers": {
+                "totalCount": 40
+            },
+            "url": "https://github.com/cgre-aachen/pynoddy"
+        },
+        "cgre-aachen/pynoddy_old": {
+            "createdAt": "2019-06-14T07:43:43Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": null,
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 9
+            },
+            "licenseInfo": {
+                "name": "GNU General Public License v2.0",
+                "nickname": "GNU GPLv2",
+                "spdxId": "GPL-2.0",
+                "url": "http://choosealicense.com/licenses/gpl-2.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "pynoddy_old",
+            "nameWithOwner": "cgre-aachen/pynoddy_old",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "C"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/cgre-aachen/pynoddy_old"
+        },
+        "cgre-aachen/remote-geomod": {
+            "createdAt": "2017-12-19T11:34:01Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Coupling remote geological mapping in Google Earth with direct 3D geological modeling in GemPy.",
+            "forks": {
+                "totalCount": 3
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 9
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "remote-geomod",
+            "nameWithOwner": "cgre-aachen/remote-geomod",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Jupyter Notebook"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 4
+            },
+            "stargazers": {
+                "totalCount": 8
+            },
+            "url": "https://github.com/cgre-aachen/remote-geomod"
+        },
+        "cgre-aachen/teaching": {
+            "createdAt": "2017-12-04T06:52:06Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Material related to teaching of own courses",
+            "forks": {
+                "totalCount": 3
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 4
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 5
+            },
+            "name": "teaching",
+            "nameWithOwner": "cgre-aachen/teaching",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Jupyter Notebook"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 7
+            },
+            "url": "https://github.com/cgre-aachen/teaching"
+        },
+        "cgre-aachen/teaching-geomodeling": {
+            "createdAt": "2020-06-04T15:22:55Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "content for geomodeling class",
+            "forks": {
+                "totalCount": 2
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": {
+                "name": "GNU General Public License v3.0",
+                "nickname": "GNU GPLv3",
+                "spdxId": "GPL-3.0",
+                "url": "http://choosealicense.com/licenses/gpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 6
+            },
+            "name": "teaching-geomodeling",
+            "nameWithOwner": "cgre-aachen/teaching-geomodeling",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Jupyter Notebook"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 4
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 5
+            },
+            "url": "https://github.com/cgre-aachen/teaching-geomodeling"
+        },
+        "cgre-aachen/teaching-quantitative-methods": {
+            "createdAt": "2020-11-06T10:44:50Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Teaching material for class \"quantitative methods in geosciences\"",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 2
+            },
+            "name": "teaching-quantitative-methods",
+            "nameWithOwner": "cgre-aachen/teaching-quantitative-methods",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Jupyter Notebook"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/cgre-aachen/teaching-quantitative-methods"
+        },
+        "cgre-aachen/teaching-research-module": {
+            "createdAt": "2020-12-04T08:45:37Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Test repository for git experiments",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 0
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 2
+            },
+            "name": "teaching-research-module",
+            "nameWithOwner": "cgre-aachen/teaching-research-module",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/29890754?v=4",
+                "login": "cgre-aachen"
+            },
+            "parent": null,
+            "primaryLanguage": null,
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 1
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 0
+            },
+            "url": "https://github.com/cgre-aachen/teaching-research-module"
+        },
+        "emanuelhuber/RGPR": {
+            "createdAt": "2015-06-15T12:23:05Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Ground-penetrating radar (GPR) data processing and visualisation: a free and open-source software package (R language)",
+            "forks": {
+                "totalCount": 23
+            },
+            "homepageUrl": "http://emanuelhuber.github.io/RGPR/",
+            "issues_Closed": {
+                "totalCount": 32
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": null,
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "RGPR",
+            "nameWithOwner": "emanuelhuber/RGPR",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/12541363?u=6867bf1ac3be94b112bcbff90e1c9bf28a99452a&v=4",
+                "login": "emanuelhuber"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "R"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 3
+            },
+            "pullRequests_Merged": {
+                "totalCount": 7
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 13
+            },
+            "stargazers": {
+                "totalCount": 58
+            },
+            "url": "https://github.com/emanuelhuber/RGPR"
+        },
+        "equinor/dlisio": {
+            "createdAt": "2018-07-03T22:16:39Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Python library for working with the well log formats Digital Log Interchange Standard (DLIS V1) and Log Information Standard (LIS79)",
+            "forks": {
+                "totalCount": 29
+            },
+            "homepageUrl": "https://dlisio.readthedocs.io/en/stable/",
+            "issues_Closed": {
+                "totalCount": 100
+            },
+            "issues_Open": {
+                "totalCount": 30
+            },
+            "languages": {
+                "totalCount": 6
+            },
+            "licenseInfo": {
+                "name": "GNU Lesser General Public License v3.0",
+                "nickname": "GNU LGPLv3",
+                "spdxId": "LGPL-3.0",
+                "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 20
+            },
+            "name": "dlisio",
+            "nameWithOwner": "equinor/dlisio",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/525862?v=4",
+                "login": "equinor"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 23
+            },
+            "pullRequests_Merged": {
+                "totalCount": 199
+            },
+            "pullRequests_Open": {
+                "totalCount": 4
+            },
+            "repositoryTopics": {
+                "totalCount": 4
+            },
+            "stargazers": {
+                "totalCount": 52
+            },
+            "url": "https://github.com/equinor/dlisio"
+        },
+        "equinor/segyio": {
+            "createdAt": "2016-09-27T13:40:09Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Fast Python library for SEGY files.",
+            "forks": {
+                "totalCount": 145
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 161
+            },
+            "issues_Open": {
+                "totalCount": 21
+            },
+            "languages": {
+                "totalCount": 6
+            },
+            "licenseInfo": {
+                "name": "GNU Lesser General Public License v3.0",
+                "nickname": "GNU LGPLv3",
+                "spdxId": "LGPL-3.0",
+                "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 64
+            },
+            "name": "segyio",
+            "nameWithOwner": "equinor/segyio",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/525862?v=4",
+                "login": "equinor"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 46
+            },
+            "pullRequests_Merged": {
+                "totalCount": 272
+            },
+            "pullRequests_Open": {
+                "totalCount": 2
+            },
+            "repositoryTopics": {
+                "totalCount": 7
+            },
+            "stargazers": {
+                "totalCount": 297
+            },
+            "url": "https://github.com/equinor/segyio"
+        },
+        "equinor/seismic-zfp": {
+            "createdAt": "2019-10-18T14:19:43Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Compress and decompress seismic data",
+            "forks": {
+                "totalCount": 8
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 5
+            },
+            "issues_Open": {
+                "totalCount": 3
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "GNU Lesser General Public License v3.0",
+                "nickname": "GNU LGPLv3",
+                "spdxId": "LGPL-3.0",
+                "url": "http://choosealicense.com/licenses/lgpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 22
+            },
+            "name": "seismic-zfp",
+            "nameWithOwner": "equinor/seismic-zfp",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/525862?v=4",
+                "login": "equinor"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 27
+            },
+            "pullRequests_Open": {
+                "totalCount": 1
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 26
+            },
+            "url": "https://github.com/equinor/seismic-zfp"
         },
         "fatiando/.github": {
             "createdAt": "2020-02-25T15:05:48Z",
@@ -3082,7 +4983,7 @@
                 "totalCount": 9
             },
             "stargazers": {
-                "totalCount": 77
+                "totalCount": 78
             },
             "url": "https://github.com/fatiando/harmonica"
         },
@@ -3391,7 +5292,7 @@
                 "totalCount": 9
             },
             "stargazers": {
-                "totalCount": 105
+                "totalCount": 106
             },
             "url": "https://github.com/fatiando/pooch"
         },
@@ -3748,13 +5649,13 @@
                 "name": "Jupyter Notebook"
             },
             "pullRequests_Closed": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "pullRequests_Merged": {
                 "totalCount": 16
             },
             "pullRequests_Open": {
-                "totalCount": 1
+                "totalCount": 0
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -4300,6 +6201,281 @@
             },
             "url": "https://github.com/fatiando/website-nikola"
         },
+        "iannesbitt/readgssi": {
+            "createdAt": "2017-11-11T16:35:38Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "python tool to read and plot Geophysical Survey Systems Incorporated (GSSI) radar data",
+            "forks": {
+                "totalCount": 12
+            },
+            "homepageUrl": "https://readgssi.readthedocs.io/",
+            "issues_Closed": {
+                "totalCount": 20
+            },
+            "issues_Open": {
+                "totalCount": 7
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": {
+                "name": "GNU Affero General Public License v3.0",
+                "nickname": "GNU AGPLv3",
+                "spdxId": "AGPL-3.0",
+                "url": "http://choosealicense.com/licenses/agpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "readgssi",
+            "nameWithOwner": "iannesbitt/readgssi",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/18689918?u=e5f02ae2d340a921858748b0d784919a4ecc449d&v=4",
+                "login": "iannesbitt"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 1
+            },
+            "pullRequests_Merged": {
+                "totalCount": 6
+            },
+            "pullRequests_Open": {
+                "totalCount": 1
+            },
+            "repositoryTopics": {
+                "totalCount": 9
+            },
+            "stargazers": {
+                "totalCount": 31
+            },
+            "url": "https://github.com/iannesbitt/readgssi"
+        },
+        "kinverarity1/lasio": {
+            "createdAt": "2013-12-24T08:56:49Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Python library for reading and writing well data using Log ASCII Standard (LAS) files",
+            "forks": {
+                "totalCount": 116
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 171
+            },
+            "issues_Open": {
+                "totalCount": 45
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 19
+            },
+            "name": "lasio",
+            "nameWithOwner": "kinverarity1/lasio",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/4525931?u=ab53f49678ec658547be1be783b795a6900668cb&v=4",
+                "login": "kinverarity1"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Jupyter Notebook"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 38
+            },
+            "pullRequests_Merged": {
+                "totalCount": 189
+            },
+            "pullRequests_Open": {
+                "totalCount": 3
+            },
+            "repositoryTopics": {
+                "totalCount": 13
+            },
+            "stargazers": {
+                "totalCount": 235
+            },
+            "url": "https://github.com/kinverarity1/lasio"
+        },
+        "obspy/obspy": {
+            "createdAt": "2012-09-08T19:17:46Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "ObsPy: A Python Toolbox for seismology/seismological observatories.",
+            "forks": {
+                "totalCount": 426
+            },
+            "homepageUrl": "https://www.obspy.org",
+            "issues_Closed": {
+                "totalCount": 1210
+            },
+            "issues_Open": {
+                "totalCount": 273
+            },
+            "languages": {
+                "totalCount": 17
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 102
+            },
+            "name": "obspy",
+            "nameWithOwner": "obspy/obspy",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/1701221?v=4",
+                "login": "obspy"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 142
+            },
+            "pullRequests_Merged": {
+                "totalCount": 1076
+            },
+            "pullRequests_Open": {
+                "totalCount": 118
+            },
+            "repositoryTopics": {
+                "totalCount": 11
+            },
+            "stargazers": {
+                "totalCount": 769
+            },
+            "url": "https://github.com/obspy/obspy"
+        },
+        "pyrocko/pyrocko": {
+            "createdAt": "2010-03-11T08:19:55Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "An official read-only mirror of https://git.pyrocko.org/pyrocko/pyrocko. A seismology toolkit for Python.",
+            "forks": {
+                "totalCount": 60
+            },
+            "homepageUrl": "https://pyrocko.org",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 0
+            },
+            "languages": {
+                "totalCount": 9
+            },
+            "licenseInfo": {
+                "name": "GNU General Public License v3.0",
+                "nickname": "GNU GPLv3",
+                "spdxId": "GPL-3.0",
+                "url": "http://choosealicense.com/licenses/gpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 19
+            },
+            "name": "pyrocko",
+            "nameWithOwner": "pyrocko/pyrocko",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/22023822?v=4",
+                "login": "pyrocko"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 61
+            },
+            "pullRequests_Merged": {
+                "totalCount": 158
+            },
+            "pullRequests_Open": {
+                "totalCount": 7
+            },
+            "repositoryTopics": {
+                "totalCount": 5
+            },
+            "stargazers": {
+                "totalCount": 126
+            },
+            "url": "https://github.com/pyrocko/pyrocko"
+        },
+        "raspishake/rsudp": {
+            "createdAt": "2019-11-14T17:44:38Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Continuous visual display, sudden motion monitoring, and historical replay of Raspberry Shake data",
+            "forks": {
+                "totalCount": 14
+            },
+            "homepageUrl": "https://raspishake.github.io/rsudp/",
+            "issues_Closed": {
+                "totalCount": 13
+            },
+            "issues_Open": {
+                "totalCount": 4
+            },
+            "languages": {
+                "totalCount": 5
+            },
+            "licenseInfo": {
+                "name": "GNU General Public License v3.0",
+                "nickname": "GNU GPLv3",
+                "spdxId": "GPL-3.0",
+                "url": "http://choosealicense.com/licenses/gpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 4
+            },
+            "name": "rsudp",
+            "nameWithOwner": "raspishake/rsudp",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/26871117?v=4",
+                "login": "raspishake"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 1
+            },
+            "pullRequests_Merged": {
+                "totalCount": 3
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 25
+            },
+            "url": "https://github.com/raspishake/rsudp"
+        },
         "softwareunderground/52things": {
             "createdAt": "2017-04-03T23:47:13Z",
             "defaultBranchRef": {
@@ -4454,7 +6630,7 @@
                 "totalCount": 20
             },
             "stargazers": {
-                "totalCount": 694
+                "totalCount": 696
             },
             "url": "https://github.com/softwareunderground/awesome-open-geoscience"
         },
@@ -5144,7 +7320,7 @@
                 "totalCount": 0
             },
             "languages": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "licenseInfo": {
                 "name": "Apache License 2.0",
@@ -5169,7 +7345,7 @@
                 "totalCount": 0
             },
             "pullRequests_Merged": {
-                "totalCount": 3
+                "totalCount": 6
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -5182,16 +7358,16 @@
             },
             "url": "https://github.com/softwareunderground/jupyterhub-deployment"
         },
-        "softwareunderground/llnl.github.io": {
-            "createdAt": "2021-04-16T02:16:56Z",
+        "softwareunderground/jupyterhub-terraform-modules": {
+            "createdAt": "2021-03-27T13:22:26Z",
             "defaultBranchRef": {
                 "name": "main"
             },
-            "description": "fork of....Public home for LLNL software catalog",
+            "description": "SwungHub (JupyterHub) Terraform modules",
             "forks": {
                 "totalCount": 0
             },
-            "homepageUrl": "https://software.llnl.gov",
+            "homepageUrl": null,
             "issues_Closed": {
                 "totalCount": 0
             },
@@ -5199,39 +7375,32 @@
                 "totalCount": 0
             },
             "languages": {
-                "totalCount": 7
+                "totalCount": 2
             },
             "licenseInfo": {
-                "name": "MIT License",
+                "name": "Apache License 2.0",
                 "nickname": null,
-                "spdxId": "MIT",
-                "url": "http://choosealicense.com/licenses/mit/"
+                "spdxId": "Apache-2.0",
+                "url": "http://choosealicense.com/licenses/apache-2.0/"
             },
             "mentionableUsers": {
                 "totalCount": 19
             },
-            "name": "llnl.github.io",
-            "nameWithOwner": "softwareunderground/llnl.github.io",
+            "name": "jupyterhub-terraform-modules",
+            "nameWithOwner": "softwareunderground/jupyterhub-terraform-modules",
             "owner": {
                 "avatarUrl": "https://avatars.githubusercontent.com/u/8144157?v=4",
                 "login": "softwareunderground"
             },
-            "parent": {
-                "name": "llnl.github.io",
-                "nameWithOwner": "LLNL/llnl.github.io",
-                "owner": {
-                    "avatarUrl": "https://avatars.githubusercontent.com/u/5921419?v=4",
-                    "login": "LLNL"
-                }
-            },
+            "parent": null,
             "primaryLanguage": {
-                "name": "JavaScript"
+                "name": "HCL"
             },
             "pullRequests_Closed": {
                 "totalCount": 0
             },
             "pullRequests_Merged": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -5242,7 +7411,7 @@
             "stargazers": {
                 "totalCount": 0
             },
-            "url": "https://github.com/softwareunderground/llnl.github.io"
+            "url": "https://github.com/softwareunderground/jupyterhub-terraform-modules"
         },
         "softwareunderground/meetings-that-matter": {
             "createdAt": "2020-11-13T14:39:34Z",
@@ -5304,7 +7473,7 @@
             },
             "description": "The CCS / Northern Lights hackathon project",
             "forks": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "homepageUrl": null,
             "issues_Closed": {
@@ -5314,7 +7483,7 @@
                 "totalCount": 0
             },
             "languages": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "licenseInfo": {
                 "name": "Apache License 2.0",
@@ -5323,7 +7492,7 @@
                 "url": "http://choosealicense.com/licenses/apache-2.0/"
             },
             "mentionableUsers": {
-                "totalCount": 20
+                "totalCount": 22
             },
             "name": "northern-lights",
             "nameWithOwner": "softwareunderground/northern-lights",
@@ -5332,12 +7501,14 @@
                 "login": "softwareunderground"
             },
             "parent": null,
-            "primaryLanguage": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
             "pullRequests_Closed": {
                 "totalCount": 0
             },
             "pullRequests_Merged": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -5346,7 +7517,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "url": "https://github.com/softwareunderground/northern-lights"
         },
@@ -5399,6 +7570,68 @@
                 "totalCount": 11
             },
             "url": "https://github.com/softwareunderground/notebooks"
+        },
+        "softwareunderground/open_geosciene_code_projects_viz": {
+            "createdAt": "2021-04-16T02:16:56Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "fork of....Public home for LLNL software catalog",
+            "forks": {
+                "totalCount": 0
+            },
+            "homepageUrl": "https://softwareunderground.github.io/open_geosciene_code_projects_viz/",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 4
+            },
+            "languages": {
+                "totalCount": 7
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 19
+            },
+            "name": "open_geosciene_code_projects_viz",
+            "nameWithOwner": "softwareunderground/open_geosciene_code_projects_viz",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/8144157?v=4",
+                "login": "softwareunderground"
+            },
+            "parent": {
+                "name": "llnl.github.io",
+                "nameWithOwner": "LLNL/llnl.github.io",
+                "owner": {
+                    "avatarUrl": "https://avatars.githubusercontent.com/u/5921419?v=4",
+                    "login": "LLNL"
+                }
+            },
+            "primaryLanguage": {
+                "name": "JavaScript"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 1
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 6
+            },
+            "stargazers": {
+                "totalCount": 1
+            },
+            "url": "https://github.com/softwareunderground/open_geosciene_code_projects_viz"
         },
         "softwareunderground/paris2017": {
             "createdAt": "2017-04-09T12:04:01Z",
@@ -5556,7 +7789,7 @@
                 "totalCount": 0
             },
             "stargazers": {
-                "totalCount": 37
+                "totalCount": 39
             },
             "url": "https://github.com/softwareunderground/subsurface"
         },
@@ -6084,6 +8317,171 @@
                 "totalCount": 6
             },
             "url": "https://github.com/softwareunderground/xsdf"
+        },
+        "toddheitmann/PetroPy": {
+            "createdAt": "2017-06-02T21:36:11Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "A petrophysics python package for geoscience python computing of conventional and unconventional formation evaluation. Reads las files and creates a pandas dataframe of the log data. Includes a basic petrophysical workflow and a simple log viewer based on XML templates.",
+            "forks": {
+                "totalCount": 50
+            },
+            "homepageUrl": "https://toddheitmann.github.io/PetroPy/",
+            "issues_Closed": {
+                "totalCount": 1
+            },
+            "issues_Open": {
+                "totalCount": 6
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 1
+            },
+            "name": "PetroPy",
+            "nameWithOwner": "toddheitmann/PetroPy",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/16615839?u=89a29abd00778ce20dde3372cbbb4ba5d3e70552&v=4",
+                "login": "toddheitmann"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 4
+            },
+            "stargazers": {
+                "totalCount": 120
+            },
+            "url": "https://github.com/toddheitmann/PetroPy"
+        },
+        "waynegm/OpendTect-Plugins": {
+            "createdAt": "2014-09-15T10:39:04Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Various plugins for the open source seismic interpretation system - OpendTect",
+            "forks": {
+                "totalCount": 6
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 44
+            },
+            "issues_Open": {
+                "totalCount": 2
+            },
+            "languages": {
+                "totalCount": 5
+            },
+            "licenseInfo": {
+                "name": "GNU General Public License v3.0",
+                "nickname": "GNU GPLv3",
+                "spdxId": "GPL-3.0",
+                "url": "http://choosealicense.com/licenses/gpl-3.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 1
+            },
+            "name": "OpendTect-Plugins",
+            "nameWithOwner": "waynegm/OpendTect-Plugins",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/3080502?u=44e7674ac8a7462eb3d1743c5bcd9b6d8c45361d&v=4",
+                "login": "waynegm"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "C++"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 0
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 4
+            },
+            "stargazers": {
+                "totalCount": 28
+            },
+            "url": "https://github.com/waynegm/OpendTect-Plugins"
+        },
+        "whamlyn/auralib": {
+            "createdAt": "2016-08-19T11:41:38Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Python package to support investigation of geoscience problems including geophysics, rock physics, petrophysics, and data read/write in common formats.",
+            "forks": {
+                "totalCount": 8
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 2
+            },
+            "issues_Open": {
+                "totalCount": 4
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "Apache License 2.0",
+                "nickname": null,
+                "spdxId": "Apache-2.0",
+                "url": "http://choosealicense.com/licenses/apache-2.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 1
+            },
+            "name": "auralib",
+            "nameWithOwner": "whamlyn/auralib",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6137001?u=36afc86334e3453f6810b936c8b1415780d06cff&v=4",
+                "login": "whamlyn"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 1
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 18
+            },
+            "url": "https://github.com/whamlyn/auralib"
         }
     }
 }

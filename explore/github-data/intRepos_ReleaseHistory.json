@@ -83,6 +83,93 @@
                 ]
             }
         },
+        "NSGeophysics/GPRPy": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "GPRPy Version 1.0.4",
+                        "publishedAt": "2019-07-31T22:00:17Z",
+                        "tagName": "v1.0.4"
+                    },
+                    {
+                        "name": "GPRPy Version 1.0.5",
+                        "publishedAt": "2019-08-01T19:44:37Z",
+                        "tagName": "v1.0.5"
+                    }
+                ]
+            }
+        },
+        "SeisComP/seiscomp": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "4.0.1",
+                        "publishedAt": "2020-06-17T15:49:20Z",
+                        "tagName": "4.0.1"
+                    },
+                    {
+                        "name": "4.0.0",
+                        "publishedAt": "2020-06-17T15:50:22Z",
+                        "tagName": "4.0.0"
+                    },
+                    {
+                        "name": "4.0.2",
+                        "publishedAt": "2020-06-18T12:29:01Z",
+                        "tagName": "4.0.2"
+                    },
+                    {
+                        "name": "4.0.3",
+                        "publishedAt": "2020-07-06T07:20:21Z",
+                        "tagName": "4.0.3"
+                    },
+                    {
+                        "name": "4.0.4",
+                        "publishedAt": "2020-07-16T12:03:10Z",
+                        "tagName": "4.0.4"
+                    },
+                    {
+                        "name": "4.1.0",
+                        "publishedAt": "2020-10-06T07:10:01Z",
+                        "tagName": "4.1.0"
+                    },
+                    {
+                        "name": "4.1.1",
+                        "publishedAt": "2020-10-15T09:50:34Z",
+                        "tagName": "4.1.1"
+                    },
+                    {
+                        "name": "4.1.2",
+                        "publishedAt": "2020-10-16T08:08:42Z",
+                        "tagName": "4.1.2"
+                    },
+                    {
+                        "name": "4.2.0",
+                        "publishedAt": "2020-10-20T11:34:24Z",
+                        "tagName": "4.2.0"
+                    },
+                    {
+                        "name": "4.2.1",
+                        "publishedAt": "2020-10-29T13:55:51Z",
+                        "tagName": "4.2.1"
+                    },
+                    {
+                        "name": "4.3.0",
+                        "publishedAt": "2020-12-22T09:51:41Z",
+                        "tagName": "4.3.0"
+                    },
+                    {
+                        "name": "4.4.0",
+                        "publishedAt": "2021-01-15T13:21:42Z",
+                        "tagName": "4.4.0"
+                    },
+                    {
+                        "name": "4.5.0",
+                        "publishedAt": "2021-02-24T13:41:01Z",
+                        "tagName": "4.5.0"
+                    }
+                ]
+            }
+        },
         "agile-geoscience/AVO_app": {
             "releases": {
                 "nodes": []
@@ -291,6 +378,800 @@
         "agile-geoscience/xlines": {
             "releases": {
                 "nodes": []
+            }
+        },
+        "ahotovec/REDPy": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "btobers/RAGU": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "initial release",
+                        "publishedAt": "2020-07-31T20:02:49Z",
+                        "tagName": "v1.0"
+                    },
+                    {
+                        "name": "additional basemap functionality",
+                        "publishedAt": "2020-09-08T17:49:57Z",
+                        "tagName": "v1.1"
+                    },
+                    {
+                        "name": "shapefile export",
+                        "publishedAt": "2020-09-08T23:37:06Z",
+                        "tagName": "v1.2"
+                    },
+                    {
+                        "name": "marsis read capability",
+                        "publishedAt": "2020-09-26T01:50:27Z",
+                        "tagName": "v1.3"
+                    },
+                    {
+                        "name": "amplitude windowing around user pick",
+                        "publishedAt": "2020-10-23T04:07:39Z",
+                        "tagName": "v1.4"
+                    },
+                    {
+                        "name": "output figure fontsize setting, figure clip, sim output",
+                        "publishedAt": "2020-12-22T17:18:26Z",
+                        "tagName": "v1.5"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2021-01-14T04:25:24Z",
+                        "tagName": "v1.6"
+                    },
+                    {
+                        "name": "v2.0",
+                        "publishedAt": "2021-02-25T21:34:55Z",
+                        "tagName": "v2.0"
+                    }
+                ]
+            }
+        },
+        "cgre-aachen/Bayesian-Inference-Cases": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/DwarfElephant": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "DwarfElephant 1.0",
+                        "publishedAt": "2020-10-09T06:19:04Z",
+                        "tagName": "1.0"
+                    }
+                ]
+            }
+        },
+        "cgre-aachen/FastElephant": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/MSc_theses": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/RestClient": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/VRTK": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/bayseg": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/course_infotheory_spatial": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/gemgis": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "GemGIS Release 0.1.2",
+                        "publishedAt": "2020-10-08T17:05:34Z",
+                        "tagName": "v0.1.2"
+                    },
+                    {
+                        "name": "GemGIS Release 0.1.3",
+                        "publishedAt": "2020-11-01T15:24:16Z",
+                        "tagName": "v0.1.3"
+                    },
+                    {
+                        "name": "GemGIS Release 0.1.4",
+                        "publishedAt": "2020-12-06T16:50:38Z",
+                        "tagName": "v0.1.4"
+                    },
+                    {
+                        "name": "GemGIS Release 0.1.5",
+                        "publishedAt": "2021-01-03T10:49:37Z",
+                        "tagName": "v0.1.5"
+                    },
+                    {
+                        "name": "GemGIS Release 0.1.6",
+                        "publishedAt": "2021-01-30T15:22:35Z",
+                        "tagName": "v0.1.6"
+                    },
+                    {
+                        "name": "GemGIS Release 0.1.7",
+                        "publishedAt": "2021-03-14T08:50:36Z",
+                        "tagName": "v0.1.7"
+                    },
+                    {
+                        "name": "GemGIS Release 0.1.15",
+                        "publishedAt": "2021-04-06T16:14:32Z",
+                        "tagName": "v0.1.15"
+                    },
+                    {
+                        "name": "GemGIS Release 0.1.16",
+                        "publishedAt": "2021-04-07T08:35:14Z",
+                        "tagName": "v0.1.16"
+                    },
+                    {
+                        "name": "GemGIS Release 0.1.17",
+                        "publishedAt": "2021-04-07T08:49:01Z",
+                        "tagName": "v0.1.17"
+                    },
+                    {
+                        "name": "GemGIS Release 0.1.18",
+                        "publishedAt": "2021-04-07T08:54:01Z",
+                        "tagName": "v0.1.18"
+                    }
+                ]
+            }
+        },
+        "cgre-aachen/gemgis_data": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/gemplay": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/gempy": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Beta Release",
+                        "publishedAt": "2017-08-31T10:06:46Z",
+                        "tagName": "0.99"
+                    },
+                    {
+                        "name": "Still Beta Release",
+                        "publishedAt": "2017-08-31T11:23:01Z",
+                        "tagName": "0.991"
+                    },
+                    {
+                        "name": "Pushing to pip",
+                        "publishedAt": "2017-08-31T11:41:00Z",
+                        "tagName": "0.993"
+                    },
+                    {
+                        "name": "Kind of working",
+                        "publishedAt": "2017-09-01T12:43:01Z",
+                        "tagName": "0.994"
+                    },
+                    {
+                        "name": "Kind of better working",
+                        "publishedAt": "2017-09-01T12:51:04Z",
+                        "tagName": "0.995"
+                    },
+                    {
+                        "name": "This time we are almost there",
+                        "publishedAt": "2017-09-11T13:30:57Z",
+                        "tagName": "0.996"
+                    },
+                    {
+                        "name": "yeah",
+                        "publishedAt": "2017-09-11T13:33:01Z",
+                        "tagName": "0.997"
+                    },
+                    {
+                        "name": "0.9991",
+                        "publishedAt": "2017-12-28T13:58:53Z",
+                        "tagName": "0.9991"
+                    },
+                    {
+                        "name": "GemPy 1.0 pre-release",
+                        "publishedAt": "2018-02-28T11:23:18Z",
+                        "tagName": "1.0"
+                    },
+                    {
+                        "name": "GemPy 1.0 rc",
+                        "publishedAt": "2018-03-07T18:05:34Z",
+                        "tagName": "1.01"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-05-24T11:47:43Z",
+                        "tagName": "v1.14"
+                    },
+                    {
+                        "name": "Hackathon ",
+                        "publishedAt": "2018-06-08T09:45:55Z",
+                        "tagName": "v1.15"
+                    },
+                    {
+                        "name": "Last snapshot GemPy v1",
+                        "publishedAt": "2019-05-01T14:04:05Z",
+                        "tagName": "v1.16"
+                    },
+                    {
+                        "name": "GemPy 2",
+                        "publishedAt": "2019-07-24T11:28:17Z",
+                        "tagName": "v2.0.0"
+                    },
+                    {
+                        "name": "GemPy 2.1",
+                        "publishedAt": "2020-03-06T16:29:02Z",
+                        "tagName": "2.1.0"
+                    },
+                    {
+                        "name": "GemPy 2 Hotfixes 1",
+                        "publishedAt": "2020-03-24T14:09:54Z",
+                        "tagName": "2.1.1"
+                    },
+                    {
+                        "name": "GemPy 2.2.0",
+                        "publishedAt": "2020-05-29T10:41:33Z",
+                        "tagName": "2.2.0"
+                    }
+                ]
+            }
+        },
+        "cgre-aachen/gempy-canvas": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/gempy.github.io": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/gempy_data": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/gempy_workshops": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/hspace": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/ki-campus": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/loss_function_decision_making_paper": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "code and data release for Solid Earth paper",
+                        "publishedAt": "2019-03-15T18:32:02Z",
+                        "tagName": "paper_SE"
+                    }
+                ]
+            }
+        },
+        "cgre-aachen/open_AR_Sandbox": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/pynoddy": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Release of publication version",
+                        "publishedAt": "2016-02-05T22:50:36Z",
+                        "tagName": "v1.0"
+                    }
+                ]
+            }
+        },
+        "cgre-aachen/pynoddy_old": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/remote-geomod": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/teaching": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/teaching-geomodeling": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/teaching-quantitative-methods": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/teaching-research-module": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "emanuelhuber/RGPR": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "equinor/dlisio": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "",
+                        "publishedAt": "2018-11-09T16:05:45Z",
+                        "tagName": "v0.1.0a2"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-11-09T18:01:13Z",
+                        "tagName": "v0.1.0a3"
+                    },
+                    {
+                        "name": "Preview release a4",
+                        "publishedAt": "2018-11-29T08:49:01Z",
+                        "tagName": "v0.1.0a4"
+                    },
+                    {
+                        "name": "Preview release a5",
+                        "publishedAt": "2019-01-11T10:52:09Z",
+                        "tagName": "v0.1.0a5"
+                    },
+                    {
+                        "name": "Alpha release 6",
+                        "publishedAt": "2019-02-21T14:24:26Z",
+                        "tagName": "v0.1.0a6"
+                    },
+                    {
+                        "name": "Alpha version 7 ",
+                        "publishedAt": "2019-02-25T09:12:20Z",
+                        "tagName": "v0.1.0a7"
+                    },
+                    {
+                        "name": "Alpha release 8",
+                        "publishedAt": "2019-02-28T16:04:01Z",
+                        "tagName": "v0.1.0a8"
+                    },
+                    {
+                        "name": "Alpha release 9",
+                        "publishedAt": "2019-03-01T12:51:30Z",
+                        "tagName": "v0.1.0a9"
+                    },
+                    {
+                        "name": "Alpha version 10",
+                        "publishedAt": "2019-03-04T14:33:29Z",
+                        "tagName": "v0.1.0a10"
+                    },
+                    {
+                        "name": "Alpha version 11",
+                        "publishedAt": "2019-03-15T10:36:29Z",
+                        "tagName": "v0.1.0a11"
+                    },
+                    {
+                        "name": "Preview release 0.1.1",
+                        "publishedAt": "2019-03-31T21:22:26Z",
+                        "tagName": "v0.1.1"
+                    },
+                    {
+                        "name": "Preview release 0.1.2",
+                        "publishedAt": "2019-04-01T12:30:21Z",
+                        "tagName": "v0.1.2"
+                    },
+                    {
+                        "name": "Preview release 0.1.3",
+                        "publishedAt": "2019-04-01T14:05:43Z",
+                        "tagName": "v0.1.3"
+                    },
+                    {
+                        "name": "Preview release 0.1.4",
+                        "publishedAt": "2019-04-03T07:55:46Z",
+                        "tagName": "v0.1.4"
+                    },
+                    {
+                        "name": "Preview release 0.1.5",
+                        "publishedAt": "2019-04-22T12:40:04Z",
+                        "tagName": "v0.1.5"
+                    },
+                    {
+                        "name": "Preview release 0.1.6",
+                        "publishedAt": "2019-05-02T13:20:54Z",
+                        "tagName": "v0.1.6"
+                    },
+                    {
+                        "name": "Preview release 0.1.7",
+                        "publishedAt": "2019-05-09T09:19:32Z",
+                        "tagName": "v0.1.7"
+                    },
+                    {
+                        "name": "Preview release 0.1.8",
+                        "publishedAt": "2019-05-14T07:18:11Z",
+                        "tagName": "v0.1.8"
+                    },
+                    {
+                        "name": "Preview release 0.1.9",
+                        "publishedAt": "2019-05-16T10:56:43Z",
+                        "tagName": "v0.1.9"
+                    },
+                    {
+                        "name": "Preview release 0.1.10",
+                        "publishedAt": "2019-05-21T15:31:49Z",
+                        "tagName": "v0.1.10"
+                    },
+                    {
+                        "name": "Preview release 0.1.11",
+                        "publishedAt": "2019-06-04T16:16:45Z",
+                        "tagName": "v0.1.11"
+                    },
+                    {
+                        "name": "Preview release 0.1.12",
+                        "publishedAt": "2019-08-15T10:04:47Z",
+                        "tagName": "v0.1.12"
+                    },
+                    {
+                        "name": "Preview release 0.1.13",
+                        "publishedAt": "2019-10-03T09:36:31Z",
+                        "tagName": "v0.1.13"
+                    },
+                    {
+                        "name": "Preview release 0.1.14",
+                        "publishedAt": "2019-10-15T06:22:53Z",
+                        "tagName": "v0.1.14"
+                    },
+                    {
+                        "name": "Preview release 0.1.15",
+                        "publishedAt": "2019-12-19T12:23:22Z",
+                        "tagName": "v0.1.15"
+                    },
+                    {
+                        "name": "Preview release 0.1.16",
+                        "publishedAt": "2020-01-16T16:24:37Z",
+                        "tagName": "v0.1.16"
+                    },
+                    {
+                        "name": "Preview release 0.2.0",
+                        "publishedAt": "2020-06-04T14:51:41Z",
+                        "tagName": "v0.2.0"
+                    },
+                    {
+                        "name": "Preview release 0.2.1",
+                        "publishedAt": "2020-06-05T13:58:23Z",
+                        "tagName": "v0.2.1"
+                    },
+                    {
+                        "name": "Preview release 0.2.2",
+                        "publishedAt": "2020-06-15T13:37:24Z",
+                        "tagName": "v0.2.2"
+                    },
+                    {
+                        "name": "Preview release 0.2.3",
+                        "publishedAt": "2020-06-19T11:37:33Z",
+                        "tagName": "v0.2.3"
+                    },
+                    {
+                        "name": "Preview release 0.2.4",
+                        "publishedAt": "2020-07-27T10:25:56Z",
+                        "tagName": "v0.2.4"
+                    },
+                    {
+                        "name": "Preview release 0.2.5",
+                        "publishedAt": "2020-10-20T10:24:21Z",
+                        "tagName": "v0.2.5"
+                    },
+                    {
+                        "name": "Preview release 0.2.6",
+                        "publishedAt": "2020-12-17T07:49:25Z",
+                        "tagName": "v0.2.6"
+                    },
+                    {
+                        "name": "Preview release 0.3.0",
+                        "publishedAt": "2021-03-09T12:08:59Z",
+                        "tagName": "v0.3.0"
+                    },
+                    {
+                        "name": "Preview release 0.3.1",
+                        "publishedAt": "2021-03-10T12:47:11Z",
+                        "tagName": "v0.3.1"
+                    },
+                    {
+                        "name": "Preview release 0.3.2",
+                        "publishedAt": "2021-03-19T14:39:21Z",
+                        "tagName": "v0.3.2"
+                    }
+                ]
+            }
+        },
+        "equinor/segyio": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Version v1.1.0",
+                        "publishedAt": "2017-06-09T18:21:27Z",
+                        "tagName": "v1.1.0"
+                    },
+                    {
+                        "name": "Version 1.2.0",
+                        "publishedAt": "2017-06-28T13:19:32Z",
+                        "tagName": "v1.2.0"
+                    },
+                    {
+                        "name": "Version v1.2.1",
+                        "publishedAt": "2017-08-09T10:31:05Z",
+                        "tagName": "v1.2.1"
+                    },
+                    {
+                        "name": "Version 1.3.0",
+                        "publishedAt": "2017-08-17T07:57:52Z",
+                        "tagName": "v1.3.0"
+                    },
+                    {
+                        "name": "Version 1.3.1",
+                        "publishedAt": "2017-08-22T11:34:41Z",
+                        "tagName": "v1.3.1"
+                    },
+                    {
+                        "name": "Version 1.3.2",
+                        "publishedAt": "2017-08-26T09:04:22Z",
+                        "tagName": "v1.3.2"
+                    },
+                    {
+                        "name": "Version 1.3.3",
+                        "publishedAt": "2017-09-07T13:58:20Z",
+                        "tagName": "v1.3.3"
+                    },
+                    {
+                        "name": "Beta release for 1.3.4",
+                        "publishedAt": "2017-11-08T14:41:39Z",
+                        "tagName": "1.3.4b1"
+                    },
+                    {
+                        "name": "Beta release for 1.3.4",
+                        "publishedAt": "2017-11-09T11:05:09Z",
+                        "tagName": "1.3.4b2"
+                    },
+                    {
+                        "name": "Version 1.3.4",
+                        "publishedAt": "2017-11-13T10:00:55Z",
+                        "tagName": "1.3.4"
+                    },
+                    {
+                        "name": "Version 1.3.5",
+                        "publishedAt": "2017-11-15T08:43:32Z",
+                        "tagName": "1.3.5"
+                    },
+                    {
+                        "name": "Version 1.3.6",
+                        "publishedAt": "2017-11-21T09:57:36Z",
+                        "tagName": "1.3.6"
+                    },
+                    {
+                        "name": "Version 1.3.7",
+                        "publishedAt": "2017-11-21T13:02:55Z",
+                        "tagName": "1.3.7"
+                    },
+                    {
+                        "name": "Version 1.3.8",
+                        "publishedAt": "2017-11-25T11:47:09Z",
+                        "tagName": "1.3.8"
+                    },
+                    {
+                        "name": " Version 1.4-beta3",
+                        "publishedAt": "2018-01-04T09:02:38Z",
+                        "tagName": "1.4.b3"
+                    },
+                    {
+                        "name": null,
+                        "publishedAt": "2018-01-05T08:06:03Z",
+                        "tagName": "1.3.9"
+                    },
+                    {
+                        "name": "Version 1.4.0",
+                        "publishedAt": "2018-01-16T11:39:56Z",
+                        "tagName": "1.4.0"
+                    },
+                    {
+                        "name": "Version 1.5.0",
+                        "publishedAt": "2018-02-07T14:23:55Z",
+                        "tagName": "1.5.0"
+                    },
+                    {
+                        "name": null,
+                        "publishedAt": "2018-02-07T16:45:45Z",
+                        "tagName": "1.5.1"
+                    },
+                    {
+                        "name": "Version 1.5.2",
+                        "publishedAt": "2018-03-19T12:15:14Z",
+                        "tagName": "1.5.2"
+                    },
+                    {
+                        "name": "Version 1.5.3",
+                        "publishedAt": "2018-04-19T06:51:39Z",
+                        "tagName": "1.5.3"
+                    },
+                    {
+                        "name": "Version 1.6.0",
+                        "publishedAt": "2018-06-05T07:42:57Z",
+                        "tagName": "1.6.0"
+                    },
+                    {
+                        "name": "Version 1.7.0",
+                        "publishedAt": "2018-09-26T12:31:37Z",
+                        "tagName": "1.7.0"
+                    },
+                    {
+                        "name": "Version 1.7.1",
+                        "publishedAt": "2018-10-15T16:45:46Z",
+                        "tagName": "1.7.1"
+                    },
+                    {
+                        "name": "1.8.0-alpha1",
+                        "publishedAt": "2018-11-05T19:42:07Z",
+                        "tagName": "1.8.0a1"
+                    },
+                    {
+                        "name": "1.8.0-beta1",
+                        "publishedAt": "2018-11-29T13:52:15Z",
+                        "tagName": "1.8.0b1"
+                    },
+                    {
+                        "name": "Version 1.8.0",
+                        "publishedAt": "2018-12-17T15:45:19Z",
+                        "tagName": "1.8.0"
+                    },
+                    {
+                        "name": "Version 1.8.1",
+                        "publishedAt": "2018-12-19T12:12:29Z",
+                        "tagName": "1.8.1"
+                    },
+                    {
+                        "name": "Version 1.8.2",
+                        "publishedAt": "2018-12-19T15:26:37Z",
+                        "tagName": "1.8.2"
+                    },
+                    {
+                        "name": "Version 1.8.3",
+                        "publishedAt": "2018-12-23T11:39:12Z",
+                        "tagName": "1.8.3"
+                    },
+                    {
+                        "name": "Version 1.8.4",
+                        "publishedAt": "2019-04-13T16:55:56Z",
+                        "tagName": "1.8.4"
+                    },
+                    {
+                        "name": "Version 1.8.5",
+                        "publishedAt": "2019-04-19T10:43:31Z",
+                        "tagName": "1.8.5"
+                    },
+                    {
+                        "name": "Version 1.8.6",
+                        "publishedAt": "2019-04-19T14:08:39Z",
+                        "tagName": "1.8.6"
+                    },
+                    {
+                        "name": "1.9.0 alpha 1",
+                        "publishedAt": "2019-05-19T09:07:50Z",
+                        "tagName": "1.9.0-a1"
+                    },
+                    {
+                        "name": "Version 1.8.7",
+                        "publishedAt": "2019-09-23T11:33:20Z",
+                        "tagName": "1.8.7"
+                    },
+                    {
+                        "name": null,
+                        "publishedAt": "2019-09-23T14:13:58Z",
+                        "tagName": "1.8.8"
+                    },
+                    {
+                        "name": "Version 1.9.0",
+                        "publishedAt": "2019-12-06T06:38:11Z",
+                        "tagName": "1.9.0"
+                    },
+                    {
+                        "name": "Version 1.8.9",
+                        "publishedAt": "2020-01-16T13:50:14Z",
+                        "tagName": "1.8.9"
+                    },
+                    {
+                        "name": "Version 1.9.1-a1",
+                        "publishedAt": "2020-03-12T13:32:18Z",
+                        "tagName": "v1.9.1-a1"
+                    },
+                    {
+                        "name": "Version 1.9.1",
+                        "publishedAt": "2020-03-13T11:30:45Z",
+                        "tagName": "v1.9.1"
+                    },
+                    {
+                        "name": "Version 1.9.2-beta1",
+                        "publishedAt": "2020-05-22T14:41:19Z",
+                        "tagName": "1.9.2-b1"
+                    },
+                    {
+                        "name": "Version 1.9.2",
+                        "publishedAt": "2020-09-29T14:35:45Z",
+                        "tagName": "v1.9.2"
+                    },
+                    {
+                        "name": "Version 1.9.3",
+                        "publishedAt": "2020-10-01T20:40:05Z",
+                        "tagName": "v1.9.3"
+                    },
+                    {
+                        "name": "Version 1.9.3",
+                        "publishedAt": "2020-10-13T08:04:25Z",
+                        "tagName": "1.9.3"
+                    },
+                    {
+                        "name": "Version 1.9.4",
+                        "publishedAt": "2020-12-11T01:27:19Z",
+                        "tagName": "v1.9.4"
+                    },
+                    {
+                        "name": "Version 1.9.5",
+                        "publishedAt": "2020-12-14T10:34:37Z",
+                        "tagName": "v1.9.5"
+                    },
+                    {
+                        "name": "Version 1.9.6",
+                        "publishedAt": "2021-02-19T13:15:39Z",
+                        "tagName": "v1.9.6"
+                    }
+                ]
+            }
+        },
+        "equinor/seismic-zfp": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v0.1.5",
+                        "publishedAt": "2020-09-11T07:55:49Z",
+                        "tagName": "v0.1.5"
+                    },
+                    {
+                        "name": "v0.1.6",
+                        "publishedAt": "2020-11-05T18:40:04Z",
+                        "tagName": "v0.1.6"
+                    },
+                    {
+                        "name": "v0.1.7",
+                        "publishedAt": "2020-12-02T09:08:24Z",
+                        "tagName": "v0.1.7"
+                    }
+                ]
             }
         },
         "fatiando/.github": {
@@ -721,6 +1602,446 @@
                 "nodes": []
             }
         },
+        "iannesbitt/readgssi": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Prospect",
+                        "publishedAt": "2017-11-30T04:17:47Z",
+                        "tagName": "0.0.3"
+                    },
+                    {
+                        "name": "Williams",
+                        "publishedAt": "2018-08-07T21:20:21Z",
+                        "tagName": "0.0.5-alpha"
+                    },
+                    {
+                        "name": "Fitch",
+                        "publishedAt": "2018-08-09T04:51:21Z",
+                        "tagName": "0.0.6-beta1"
+                    },
+                    {
+                        "name": "Fitch",
+                        "publishedAt": "2018-08-09T17:00:40Z",
+                        "tagName": "0.0.6-beta2"
+                    },
+                    {
+                        "name": "Fitch",
+                        "publishedAt": "2018-08-09T20:15:33Z",
+                        "tagName": "0.0.6-beta3"
+                    },
+                    {
+                        "name": "Fitch",
+                        "publishedAt": "2018-08-11T13:49:47Z",
+                        "tagName": "0.0.6-beta4"
+                    },
+                    {
+                        "name": "Fitch",
+                        "publishedAt": "2018-08-28T04:24:27Z",
+                        "tagName": "0.0.6-beta5"
+                    },
+                    {
+                        "name": "Fitch",
+                        "publishedAt": "2018-11-02T15:31:54Z",
+                        "tagName": "0.0.6-1"
+                    },
+                    {
+                        "name": "0.0.7 \"Greylock\"",
+                        "publishedAt": "2019-01-22T23:18:45Z",
+                        "tagName": "0.0.7"
+                    },
+                    {
+                        "name": "0.0.8 \"Berlin\"",
+                        "publishedAt": "2019-01-28T16:05:02Z",
+                        "tagName": "0.0.8"
+                    },
+                    {
+                        "name": "0.0.9 \"Equinox\"",
+                        "publishedAt": "2019-01-29T03:25:41Z",
+                        "tagName": "0.0.9"
+                    },
+                    {
+                        "name": "0.0.9-1 \"Equinox\"",
+                        "publishedAt": "2019-01-29T04:49:33Z",
+                        "tagName": "0.0.9-1"
+                    },
+                    {
+                        "name": "0.0.9-2 \"Equinox\"",
+                        "publishedAt": "2019-01-30T02:15:56Z",
+                        "tagName": "0.0.9-2"
+                    },
+                    {
+                        "name": "0.0.9-3 \"Equinox\"",
+                        "publishedAt": "2019-02-14T02:05:36Z",
+                        "tagName": "0.0.9-3"
+                    },
+                    {
+                        "name": "0.0.10 \"Prospect\"",
+                        "publishedAt": "2019-02-15T01:22:39Z",
+                        "tagName": "0.0.10"
+                    },
+                    {
+                        "name": "0.0.11 \"Everett\"",
+                        "publishedAt": "2019-05-05T03:26:48Z",
+                        "tagName": "0.0.11"
+                    },
+                    {
+                        "name": "0.0.12 \"Brodie\"",
+                        "publishedAt": "2019-06-20T05:25:21Z",
+                        "tagName": "0.0.12"
+                    },
+                    {
+                        "name": "0.0.13 \"Monument\"",
+                        "publishedAt": "2019-06-29T02:53:38Z",
+                        "tagName": "0.0.13"
+                    },
+                    {
+                        "name": "0.0.14 \"Ragged\"",
+                        "publishedAt": "2019-07-03T21:49:23Z",
+                        "tagName": "0.0.14"
+                    },
+                    {
+                        "name": "0.0.15 \"October\"",
+                        "publishedAt": "2019-07-10T17:42:36Z",
+                        "tagName": "0.0.15"
+                    },
+                    {
+                        "name": "0.0.16 \"Pine Cobble\"",
+                        "publishedAt": "2019-07-27T01:22:19Z",
+                        "tagName": "0.0.16"
+                    },
+                    {
+                        "name": "0.0.17 \"Bromley\"",
+                        "publishedAt": "2020-09-14T17:11:33Z",
+                        "tagName": "0.0.17"
+                    },
+                    {
+                        "name": "0.0.18 \"Jiminy\"",
+                        "publishedAt": "2020-12-01T22:38:58Z",
+                        "tagName": "0.0.18"
+                    },
+                    {
+                        "name": "0.0.18.post1 \"Jiminy\"",
+                        "publishedAt": "2020-12-02T04:17:43Z",
+                        "tagName": "0.0.18.post1"
+                    }
+                ]
+            }
+        },
+        "kinverarity1/lasio": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v0.4",
+                        "publishedAt": "2015-07-26T10:33:35Z",
+                        "tagName": "v0.4"
+                    },
+                    {
+                        "name": "v0.4.1",
+                        "publishedAt": "2015-08-01T00:35:09Z",
+                        "tagName": "v0.4.1"
+                    },
+                    {
+                        "name": "v0.5",
+                        "publishedAt": "2015-08-01T06:25:08Z",
+                        "tagName": "v0.5"
+                    },
+                    {
+                        "name": "v0.6",
+                        "publishedAt": "2015-08-05T07:19:18Z",
+                        "tagName": "v0.6"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2015-08-20T06:06:36Z",
+                        "tagName": "0.8"
+                    },
+                    {
+                        "name": "v0.10",
+                        "publishedAt": "2016-02-02T05:28:35Z",
+                        "tagName": "v0.10"
+                    },
+                    {
+                        "name": "v0.11.1",
+                        "publishedAt": "2016-07-17T06:20:21Z",
+                        "tagName": "v0.11.1"
+                    },
+                    {
+                        "name": "v0.11.2",
+                        "publishedAt": "2016-07-17T06:56:11Z",
+                        "tagName": "v0.11.2"
+                    },
+                    {
+                        "name": "v0.12",
+                        "publishedAt": "2017-07-19T10:41:47Z",
+                        "tagName": "v0.12"
+                    },
+                    {
+                        "name": "version 0.13",
+                        "publishedAt": "2017-07-19T10:45:10Z",
+                        "tagName": "v0.13"
+                    },
+                    {
+                        "name": "Version 0.15.1",
+                        "publishedAt": "2017-11-04T07:29:38Z",
+                        "tagName": "v0.15.1"
+                    },
+                    {
+                        "name": "Version 0.16",
+                        "publishedAt": "2017-11-25T04:14:13Z",
+                        "tagName": "v0.16"
+                    },
+                    {
+                        "name": "Version 0.17",
+                        "publishedAt": "2017-12-22T04:24:34Z",
+                        "tagName": "v0.17"
+                    },
+                    {
+                        "name": "Version 0.18",
+                        "publishedAt": "2018-01-03T08:39:39Z",
+                        "tagName": "v0.18"
+                    },
+                    {
+                        "name": "Version 0.19",
+                        "publishedAt": "2018-01-03T22:33:32Z",
+                        "tagName": "v0.19"
+                    },
+                    {
+                        "name": "Version 0.20",
+                        "publishedAt": "2018-04-25T11:32:52Z",
+                        "tagName": "v0.20"
+                    },
+                    {
+                        "name": "Version 0.21",
+                        "publishedAt": "2018-06-09T03:08:11Z",
+                        "tagName": "v0.21"
+                    },
+                    {
+                        "name": "Version 0.22",
+                        "publishedAt": "2018-09-14T10:55:52Z",
+                        "tagName": "v0.22"
+                    },
+                    {
+                        "name": "Version 0.23",
+                        "publishedAt": "2018-11-06T02:47:41Z",
+                        "tagName": "v0.23"
+                    },
+                    {
+                        "name": "Version 0.24.1",
+                        "publishedAt": "2020-03-28T03:42:27Z",
+                        "tagName": "v0.24.1"
+                    },
+                    {
+                        "name": "Version 0.25.0",
+                        "publishedAt": "2020-03-28T03:43:11Z",
+                        "tagName": "v0.25.0"
+                    },
+                    {
+                        "name": "Version 0.25.1 (1 May 2020)",
+                        "publishedAt": "2020-05-01T08:32:58Z",
+                        "tagName": "v0.25.1"
+                    },
+                    {
+                        "name": "Version 0.26 (31 August 2020)",
+                        "publishedAt": "2020-08-31T03:42:41Z",
+                        "tagName": "v0.26"
+                    },
+                    {
+                        "name": "Version 0.27 (4 September 2020)",
+                        "publishedAt": "2020-09-06T04:19:23Z",
+                        "tagName": "v0.27"
+                    },
+                    {
+                        "name": "Version 0.28 (12 September 2020)",
+                        "publishedAt": "2020-09-12T07:24:07Z",
+                        "tagName": "v0.28"
+                    },
+                    {
+                        "name": "Version 0.29 (14 April 2021)",
+                        "publishedAt": "2021-04-14T04:06:36Z",
+                        "tagName": "v0.29"
+                    }
+                ]
+            }
+        },
+        "obspy/obspy": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "0.8.4",
+                        "publishedAt": "2013-07-03T08:45:32Z",
+                        "tagName": "0.8.4"
+                    },
+                    {
+                        "name": "0.8.3",
+                        "publishedAt": "2013-07-03T08:50:10Z",
+                        "tagName": "0.8.3"
+                    },
+                    {
+                        "name": "0.8.2",
+                        "publishedAt": "2013-07-03T08:50:45Z",
+                        "tagName": "0.8.2"
+                    },
+                    {
+                        "name": "0.8.1",
+                        "publishedAt": "2013-07-03T08:51:12Z",
+                        "tagName": "0.8.1"
+                    },
+                    {
+                        "name": "0.8.0",
+                        "publishedAt": "2013-07-03T08:52:03Z",
+                        "tagName": "0.8.0"
+                    },
+                    {
+                        "name": "0.9.0rc1",
+                        "publishedAt": "2013-12-09T13:35:11Z",
+                        "tagName": "0.9.0rc1"
+                    },
+                    {
+                        "name": "0.9.0",
+                        "publishedAt": "2014-01-09T19:45:11Z",
+                        "tagName": "0.9.0"
+                    },
+                    {
+                        "name": "0.9.2",
+                        "publishedAt": "2014-04-30T14:51:46Z",
+                        "tagName": "0.9.2"
+                    },
+                    {
+                        "name": "0.10.0",
+                        "publishedAt": "2015-03-19T23:35:07Z",
+                        "tagName": "0.10.0"
+                    },
+                    {
+                        "name": "0.10.1",
+                        "publishedAt": "2015-03-20T15:55:47Z",
+                        "tagName": "0.10.1"
+                    },
+                    {
+                        "name": "0.10.2",
+                        "publishedAt": "2015-05-27T09:22:20Z",
+                        "tagName": "0.10.2"
+                    },
+                    {
+                        "name": "1.0.0",
+                        "publishedAt": "2016-02-19T17:30:57Z",
+                        "tagName": "1.0.0"
+                    },
+                    {
+                        "name": "1.0.1",
+                        "publishedAt": "2016-03-24T22:05:27Z",
+                        "tagName": "1.0.1"
+                    },
+                    {
+                        "name": "1.0.2",
+                        "publishedAt": "2016-08-03T15:53:21Z",
+                        "tagName": "1.0.2"
+                    },
+                    {
+                        "name": "1.0.3",
+                        "publishedAt": "2017-02-28T08:49:05Z",
+                        "tagName": "1.0.3"
+                    },
+                    {
+                        "name": "1.1.0",
+                        "publishedAt": "2017-10-27T19:05:30Z",
+                        "tagName": "1.1.0"
+                    },
+                    {
+                        "name": "1.1.1",
+                        "publishedAt": "2019-02-17T11:24:49Z",
+                        "tagName": "1.1.1"
+                    },
+                    {
+                        "name": "1.2.0",
+                        "publishedAt": "2020-03-06T16:13:40Z",
+                        "tagName": "1.2.0"
+                    },
+                    {
+                        "name": "1.2.1",
+                        "publishedAt": "2020-03-11T10:19:47Z",
+                        "tagName": "1.2.1"
+                    },
+                    {
+                        "name": "ObsPy 1.2.2 (doi: 10.5281/zenodo.3921997)",
+                        "publishedAt": "2020-06-29T16:31:11Z",
+                        "tagName": "1.2.2"
+                    }
+                ]
+            }
+        },
+        "pyrocko/pyrocko": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Pyrocko v2017.11.16 is released!",
+                        "publishedAt": "2017-11-22T15:05:23Z",
+                        "tagName": "v2017.11.16"
+                    },
+                    {
+                        "name": "Pyrocko v2017.11.22 bugfix release",
+                        "publishedAt": "2017-11-22T15:20:48Z",
+                        "tagName": "v2017.11.22"
+                    },
+                    {
+                        "name": "Pyrocko v2017.12.13 release",
+                        "publishedAt": "2017-12-13T16:23:59Z",
+                        "tagName": "v2017.12.13"
+                    },
+                    {
+                        "name": "Pyrocko v2018.01.16 bugfix release",
+                        "publishedAt": "2018-01-16T10:42:41Z",
+                        "tagName": "v2018.01.16"
+                    },
+                    {
+                        "name": "Pyrocko v2018.01.29 Release",
+                        "publishedAt": "2018-01-30T13:59:25Z",
+                        "tagName": "v2018.01.29"
+                    },
+                    {
+                        "name": "Pyrocko v2018.09.13 release",
+                        "publishedAt": "2018-09-13T12:21:06Z",
+                        "tagName": "v2018.09.13"
+                    }
+                ]
+            }
+        },
+        "raspishake/rsudp": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Cocos",
+                        "publishedAt": "2019-11-16T20:31:34Z",
+                        "tagName": "0.4.0"
+                    },
+                    {
+                        "name": "Juan de Fuca",
+                        "publishedAt": "2019-12-02T03:54:42Z",
+                        "tagName": "0.4.1"
+                    },
+                    {
+                        "name": "Nazca",
+                        "publishedAt": "2020-02-15T23:08:11Z",
+                        "tagName": "0.4.2"
+                    },
+                    {
+                        "name": "Pacific",
+                        "publishedAt": "2020-03-15T05:05:35Z",
+                        "tagName": "0.4.3"
+                    },
+                    {
+                        "name": "Scotia",
+                        "publishedAt": "2020-04-15T19:43:04Z",
+                        "tagName": "1.0.0"
+                    },
+                    {
+                        "name": "Shetland",
+                        "publishedAt": "2020-05-28T02:48:21Z",
+                        "tagName": "1.0.1"
+                    }
+                ]
+            }
+        },
         "softwareunderground/52things": {
             "releases": {
                 "nodes": []
@@ -806,7 +2127,7 @@
                 "nodes": []
             }
         },
-        "softwareunderground/llnl.github.io": {
+        "softwareunderground/jupyterhub-terraform-modules": {
             "releases": {
                 "nodes": []
             }
@@ -822,6 +2143,11 @@
             }
         },
         "softwareunderground/notebooks": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "softwareunderground/open_geosciene_code_projects_viz": {
             "releases": {
                 "nodes": []
             }
@@ -887,6 +2213,177 @@
             }
         },
         "softwareunderground/xsdf": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "toddheitmann/PetroPy": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "waynegm/OpendTect-Plugins": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v5.0.6 OpendTect-5-plugins",
+                        "publishedAt": "2015-03-20T13:14:28Z",
+                        "tagName": "v5.0.6"
+                    },
+                    {
+                        "name": "v5.0.6-1 OpendTect-5-plugins",
+                        "publishedAt": "2015-05-06T12:04:11Z",
+                        "tagName": "v5.0.6-1"
+                    },
+                    {
+                        "name": "v5.0.7 OpendTect-5-plugins",
+                        "publishedAt": "2015-07-03T12:37:08Z",
+                        "tagName": "v5.0.7"
+                    },
+                    {
+                        "name": "v5.0.10 OpendTect Plugins",
+                        "publishedAt": "2015-11-08T08:39:43Z",
+                        "tagName": "v5.0.10"
+                    },
+                    {
+                        "name": "v6.0.0pre7-1 OpendTect Plugins",
+                        "publishedAt": "2015-11-08T08:41:43Z",
+                        "tagName": "v6.0.0pre7-1"
+                    },
+                    {
+                        "name": "v6.0.0 OpendTect Plugins",
+                        "publishedAt": "2016-01-24T11:38:55Z",
+                        "tagName": "v6.0.0"
+                    },
+                    {
+                        "name": "v6.0.1 OpendTect Plugins",
+                        "publishedAt": "2016-04-03T11:54:57Z",
+                        "tagName": "v6.0.1"
+                    },
+                    {
+                        "name": "v6.0.2 OpendTect Plugins",
+                        "publishedAt": "2016-05-17T11:48:14Z",
+                        "tagName": "v6.0.2"
+                    },
+                    {
+                        "name": "v6.0.4 OpendTect Plugins",
+                        "publishedAt": "2016-11-11T11:01:01Z",
+                        "tagName": "v6.0.4"
+                    },
+                    {
+                        "name": "v6.2.4 OpendTect Plugins",
+                        "publishedAt": "2019-01-25T05:08:19Z",
+                        "tagName": "v6.2.4"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-01-25T05:07:51Z",
+                        "tagName": "v6.4.1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-02-25T03:23:44Z",
+                        "tagName": "v6.4.2"
+                    },
+                    {
+                        "name": "v6.4.3",
+                        "publishedAt": "2019-03-08T06:25:50Z",
+                        "tagName": "v6.4.3"
+                    },
+                    {
+                        "name": "v6.4.4",
+                        "publishedAt": "2019-04-29T08:32:54Z",
+                        "tagName": "v6.4.4"
+                    },
+                    {
+                        "name": "v6.4.5",
+                        "publishedAt": "2019-05-26T23:23:14Z",
+                        "tagName": "v6.4.5"
+                    },
+                    {
+                        "name": "v6.4.6",
+                        "publishedAt": "2019-06-26T07:32:23Z",
+                        "tagName": "v6.4.6"
+                    },
+                    {
+                        "name": "v6.4.7",
+                        "publishedAt": "2019-07-29T09:01:46Z",
+                        "tagName": "v6.4.7"
+                    },
+                    {
+                        "name": "v6.4.8",
+                        "publishedAt": "2019-08-29T05:27:53Z",
+                        "tagName": "v6.4.8"
+                    },
+                    {
+                        "name": "v6.4.10",
+                        "publishedAt": "2019-11-05T12:24:15Z",
+                        "tagName": "v6.4.10"
+                    },
+                    {
+                        "name": "v6.4.11",
+                        "publishedAt": "2019-12-18T05:03:28Z",
+                        "tagName": "v6.4.11"
+                    },
+                    {
+                        "name": "v6.4.12",
+                        "publishedAt": "2020-01-06T11:27:06Z",
+                        "tagName": "v6.4.12"
+                    },
+                    {
+                        "name": "v6.6.0",
+                        "publishedAt": "2020-01-06T11:24:48Z",
+                        "tagName": "v6.6.0"
+                    },
+                    {
+                        "name": "v6.6.1",
+                        "publishedAt": "2020-01-28T12:13:34Z",
+                        "tagName": "v6.6.1"
+                    },
+                    {
+                        "name": "v6.4.13",
+                        "publishedAt": "2020-02-05T00:38:30Z",
+                        "tagName": "v6.4.13"
+                    },
+                    {
+                        "name": "v6.4.14",
+                        "publishedAt": "2020-06-10T02:35:01Z",
+                        "tagName": "v6.4.14"
+                    },
+                    {
+                        "name": "v6.6.2",
+                        "publishedAt": "2020-06-10T02:37:20Z",
+                        "tagName": "v6.6.2"
+                    },
+                    {
+                        "name": "v6.6.3",
+                        "publishedAt": "2020-07-10T04:22:45Z",
+                        "tagName": "v6.6.3"
+                    },
+                    {
+                        "name": "v6.4.15",
+                        "publishedAt": "2020-07-30T09:28:34Z",
+                        "tagName": "v6.4.15"
+                    },
+                    {
+                        "name": "v6.6.4",
+                        "publishedAt": "2020-08-27T06:19:37Z",
+                        "tagName": "v6.6.4"
+                    },
+                    {
+                        "name": "v6.6.5",
+                        "publishedAt": "2020-09-02T06:07:52Z",
+                        "tagName": "v6.6.5"
+                    },
+                    {
+                        "name": "v6.6.6",
+                        "publishedAt": "2020-11-18T07:05:09Z",
+                        "tagName": "v6.6.6"
+                    }
+                ]
+            }
+        },
+        "whamlyn/auralib": {
             "releases": {
                 "nodes": []
             }

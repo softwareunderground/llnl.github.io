@@ -15,6 +15,16 @@
             "firstCommitAt": "2019-10-27T02:13:56Z",
             "initBeforeGitHubRepo": false
         },
+        "NSGeophysics/GPRPy": {
+            "createdAt": "2018-04-04T01:21:07Z",
+            "firstCommitAt": "2018-04-04T01:21:08Z",
+            "initBeforeGitHubRepo": false
+        },
+        "SeisComP/seiscomp": {
+            "createdAt": "2020-03-26T10:27:56Z",
+            "firstCommitAt": "2014-09-19T08:41:29Z",
+            "initBeforeGitHubRepo": true
+        },
         "agile-geoscience/AVO_app": {
             "createdAt": "2012-05-01T14:03:43Z",
             "firstCommitAt": "2012-05-01T14:03:44Z",
@@ -225,6 +235,171 @@
             "firstCommitAt": "2016-09-15T13:01:28Z",
             "initBeforeGitHubRepo": false
         },
+        "ahotovec/REDPy": {
+            "createdAt": "2014-05-21T21:49:52Z",
+            "firstCommitAt": "2014-05-21T21:52:52Z",
+            "initBeforeGitHubRepo": false
+        },
+        "btobers/RAGU": {
+            "createdAt": "2019-06-26T16:27:04Z",
+            "firstCommitAt": "2019-06-26T16:27:05Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/Bayesian-Inference-Cases": {
+            "createdAt": "2020-03-26T18:02:18Z",
+            "firstCommitAt": "2020-03-26T18:02:19Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/DwarfElephant": {
+            "createdAt": "2018-01-18T13:52:24Z",
+            "firstCommitAt": "2014-02-13T17:46:10Z",
+            "initBeforeGitHubRepo": true
+        },
+        "cgre-aachen/FastElephant": {
+            "createdAt": "2020-09-15T14:08:42Z",
+            "firstCommitAt": "2020-09-15T14:06:14Z",
+            "initBeforeGitHubRepo": true
+        },
+        "cgre-aachen/MSc_theses": {
+            "createdAt": "2018-08-07T08:06:03Z",
+            "firstCommitAt": "2018-08-07T08:06:03Z",
+            "initBeforeGitHubRepo": true
+        },
+        "cgre-aachen/RestClient": {
+            "createdAt": "2020-04-14T16:26:00Z",
+            "firstCommitAt": "2017-09-26T03:13:51Z",
+            "initBeforeGitHubRepo": true
+        },
+        "cgre-aachen/VRTK": {
+            "createdAt": "2020-04-14T16:25:39Z",
+            "firstCommitAt": "2016-04-23T20:55:20Z",
+            "initBeforeGitHubRepo": true
+        },
+        "cgre-aachen/bayseg": {
+            "createdAt": "2017-11-16T09:44:00Z",
+            "firstCommitAt": "2017-01-01T18:44:49Z",
+            "initBeforeGitHubRepo": true
+        },
+        "cgre-aachen/course_infotheory_spatial": {
+            "createdAt": "2019-06-08T16:12:10Z",
+            "firstCommitAt": "2019-06-08T16:12:11Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/gemgis": {
+            "createdAt": "2020-04-25T15:45:23Z",
+            "firstCommitAt": "2020-04-25T15:45:24Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/gemgis_data": {
+            "createdAt": "2020-11-01T15:26:12Z",
+            "firstCommitAt": "2020-11-01T15:26:14Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/gemplay": {
+            "createdAt": "2020-12-14T12:36:55Z",
+            "firstCommitAt": "2020-12-14T12:49:03Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/gempy": {
+            "createdAt": "2017-07-04T11:32:12Z",
+            "firstCommitAt": "2017-07-04T12:35:48Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/gempy-canvas": {
+            "createdAt": "2020-02-17T12:05:46Z",
+            "firstCommitAt": "2020-02-17T12:10:17Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/gempy.github.io": {
+            "createdAt": "2019-05-03T08:31:40Z",
+            "firstCommitAt": "2019-05-03T08:31:40Z",
+            "initBeforeGitHubRepo": true
+        },
+        "cgre-aachen/gempy_data": {
+            "createdAt": "2020-04-21T09:48:26Z",
+            "firstCommitAt": "2020-04-21T09:48:28Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/gempy_workshops": {
+            "createdAt": "2020-06-01T12:04:47Z",
+            "firstCommitAt": "2020-06-01T12:04:49Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/hspace": {
+            "createdAt": "2019-06-05T21:10:27Z",
+            "firstCommitAt": "2017-08-08T04:23:15Z",
+            "initBeforeGitHubRepo": true
+        },
+        "cgre-aachen/ki-campus": {
+            "createdAt": "2021-03-25T13:53:16Z",
+            "firstCommitAt": "2021-03-25T13:53:17Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/loss_function_decision_making_paper": {
+            "createdAt": "2019-03-15T14:58:37Z",
+            "firstCommitAt": "2019-03-15T14:58:38Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/open_AR_Sandbox": {
+            "createdAt": "2018-07-02T15:05:43Z",
+            "firstCommitAt": "2018-07-02T15:05:44Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/pynoddy": {
+            "createdAt": "2014-03-24T04:22:16Z",
+            "firstCommitAt": "2014-03-24T04:22:16Z",
+            "initBeforeGitHubRepo": true
+        },
+        "cgre-aachen/pynoddy_old": {
+            "createdAt": "2019-06-14T07:43:43Z",
+            "firstCommitAt": "2014-03-24T04:22:16Z",
+            "initBeforeGitHubRepo": true
+        },
+        "cgre-aachen/remote-geomod": {
+            "createdAt": "2017-12-19T11:34:01Z",
+            "firstCommitAt": "2017-12-19T11:39:05Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/teaching": {
+            "createdAt": "2017-12-04T06:52:06Z",
+            "firstCommitAt": "2017-12-04T06:52:06Z",
+            "initBeforeGitHubRepo": true
+        },
+        "cgre-aachen/teaching-geomodeling": {
+            "createdAt": "2020-06-04T15:22:55Z",
+            "firstCommitAt": "2020-06-04T15:22:56Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/teaching-quantitative-methods": {
+            "createdAt": "2020-11-06T10:44:50Z",
+            "firstCommitAt": "2020-11-06T10:44:51Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/teaching-research-module": {
+            "createdAt": "2020-12-04T08:45:37Z",
+            "firstCommitAt": "2020-12-04T08:45:39Z",
+            "initBeforeGitHubRepo": false
+        },
+        "emanuelhuber/RGPR": {
+            "createdAt": "2015-06-15T12:23:05Z",
+            "firstCommitAt": "2015-06-15T12:23:05Z",
+            "initBeforeGitHubRepo": true
+        },
+        "equinor/dlisio": {
+            "createdAt": "2018-07-03T22:16:39Z",
+            "firstCommitAt": "2018-07-04T20:08:53Z",
+            "initBeforeGitHubRepo": false
+        },
+        "equinor/segyio": {
+            "createdAt": "2016-09-27T13:40:09Z",
+            "firstCommitAt": "2016-09-30T13:22:46Z",
+            "initBeforeGitHubRepo": false
+        },
+        "equinor/seismic-zfp": {
+            "createdAt": "2019-10-18T14:19:43Z",
+            "firstCommitAt": "2019-10-18T13:15:12Z",
+            "initBeforeGitHubRepo": true
+        },
         "fatiando/.github": {
             "createdAt": "2020-02-25T15:05:48Z",
             "firstCommitAt": "2020-02-25T15:05:49Z",
@@ -400,6 +575,31 @@
             "firstCommitAt": "2013-02-14T19:11:43Z",
             "initBeforeGitHubRepo": false
         },
+        "iannesbitt/readgssi": {
+            "createdAt": "2017-11-11T16:35:38Z",
+            "firstCommitAt": "2017-11-11T16:40:00Z",
+            "initBeforeGitHubRepo": false
+        },
+        "kinverarity1/lasio": {
+            "createdAt": "2013-12-24T08:56:49Z",
+            "firstCommitAt": "2013-12-24T08:56:49Z",
+            "initBeforeGitHubRepo": true
+        },
+        "obspy/obspy": {
+            "createdAt": "2012-09-08T19:17:46Z",
+            "firstCommitAt": "2007-08-05T18:55:56Z",
+            "initBeforeGitHubRepo": true
+        },
+        "pyrocko/pyrocko": {
+            "createdAt": "2010-03-11T08:19:55Z",
+            "firstCommitAt": "2010-02-12T10:08:17Z",
+            "initBeforeGitHubRepo": true
+        },
+        "raspishake/rsudp": {
+            "createdAt": "2019-11-14T17:44:38Z",
+            "firstCommitAt": "2018-11-14T16:05:39Z",
+            "initBeforeGitHubRepo": true
+        },
         "softwareunderground/52things": {
             "createdAt": "2017-04-03T23:47:13Z",
             "firstCommitAt": "2017-04-03T23:47:14Z",
@@ -485,10 +685,10 @@
             "firstCommitAt": "2021-03-27T13:25:18Z",
             "initBeforeGitHubRepo": false
         },
-        "softwareunderground/llnl.github.io": {
-            "createdAt": "2021-04-16T02:16:56Z",
-            "firstCommitAt": "2015-11-25T04:16:20Z",
-            "initBeforeGitHubRepo": true
+        "softwareunderground/jupyterhub-terraform-modules": {
+            "createdAt": "2021-03-27T13:22:26Z",
+            "firstCommitAt": "2021-03-27T13:22:27Z",
+            "initBeforeGitHubRepo": false
         },
         "softwareunderground/meetings-that-matter": {
             "createdAt": "2020-11-13T14:39:34Z",
@@ -503,6 +703,11 @@
         "softwareunderground/notebooks": {
             "createdAt": "2014-07-12T15:35:43Z",
             "firstCommitAt": "2014-07-12T15:35:43Z",
+            "initBeforeGitHubRepo": true
+        },
+        "softwareunderground/open_geosciene_code_projects_viz": {
+            "createdAt": "2021-04-16T02:16:56Z",
+            "firstCommitAt": "2015-11-25T04:16:20Z",
             "initBeforeGitHubRepo": true
         },
         "softwareunderground/paris2017": {
@@ -568,6 +773,21 @@
         "softwareunderground/xsdf": {
             "createdAt": "2017-04-01T13:12:02Z",
             "firstCommitAt": "2017-04-01T13:12:03Z",
+            "initBeforeGitHubRepo": false
+        },
+        "toddheitmann/PetroPy": {
+            "createdAt": "2017-06-02T21:36:11Z",
+            "firstCommitAt": "2017-06-02T21:36:11Z",
+            "initBeforeGitHubRepo": true
+        },
+        "waynegm/OpendTect-Plugins": {
+            "createdAt": "2014-09-15T10:39:04Z",
+            "firstCommitAt": "2014-09-15T10:39:04Z",
+            "initBeforeGitHubRepo": true
+        },
+        "whamlyn/auralib": {
+            "createdAt": "2016-08-19T11:41:38Z",
+            "firstCommitAt": "2016-08-19T11:53:02Z",
             "initBeforeGitHubRepo": false
         }
     }

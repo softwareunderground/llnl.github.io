@@ -4,13 +4,31 @@
     ],
     "orgs": [
         "agile-geoscience",
+        "cgre-aachen",
         "fatiando",
-        "softwareunderground",
-        "cgre-aachen"
+        "softwareunderground"
     ],
     "repos": [
+        "ahotovec/redpy",
+        "btobers/ragu",
+        "emanuelhuber/rgpr",
+        "equinor/dlisio",
+        "equinor/segyio",
+        "equinor/seismic-zfp",
+        "https://github.com/johnwstockwelljr/openseaseis",
+        "https://github.com/johnwstockwelljr/seisunix",
+        "iannesbitt/readgssi",
         "justingosses/predictatops",
         "justingosses/wellio.js",
-        "justingosses/wellioviz"
+        "justingosses/wellioviz",
+        "kinverarity1/lasio/",
+        "nsgeophysics/gprpy",
+        "obspy/obspy/wiki",
+        "pyrocko/pyrocko",
+        "raspishake/rsudp",
+        "seiscomp/seiscomp",
+        "toddheitmann/petropy",
+        "waynegm/opendtect-plugins",
+        "whamlyn/auralib"
     ]
 }

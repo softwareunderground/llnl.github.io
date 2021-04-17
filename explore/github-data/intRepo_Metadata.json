@@ -36,9 +36,22 @@
             "geology",
             "tool",
             "d3",
-            "swung-t20"
+            "swung-t20",
+            "welllogs"
         ],
         "website": "https://justingosses.github.io/wellioviz/#introduction"
+    },
+    "NSGeophysics/GPRPy": {
+        "description": "Ground Penetrating Radar processing and visualization software for python",
+        "name": "NSGeophysics/GPRPy",
+        "topics": null,
+        "website": null
+    },
+    "SeisComP/seiscomp": {
+        "description": "The build environment for all SeisComP repositories. Includes the documentation.",
+        "name": "SeisComP/seiscomp",
+        "topics": null,
+        "website": null
     },
     "agile-geoscience/AVO_app": {
         "description": "Geophysical analysis app for Android; AppInventor project",
@@ -330,6 +343,289 @@
             "notebooks",
             "python"
         ],
+        "website": null
+    },
+    "ahotovec/REDPy": {
+        "description": "Repeating Earthquake Detector (Python)",
+        "name": "ahotovec/REDPy",
+        "topics": [
+            "python",
+            "repeating-earthquakes",
+            "volcanology",
+            "seismology"
+        ],
+        "website": ""
+    },
+    "btobers/RAGU": {
+        "description": "Radar Analysis Graphical Utility (RAGU)",
+        "name": "btobers/RAGU",
+        "topics": null,
+        "website": ""
+    },
+    "cgre-aachen/Bayesian-Inference-Cases": {
+        "description": "A bunch of models tested with difference Bayesian Inference methods",
+        "name": "cgre-aachen/Bayesian-Inference-Cases",
+        "topics": null,
+        "website": ""
+    },
+    "cgre-aachen/DwarfElephant": {
+        "description": "Implementation of the Reduced Basis Method",
+        "name": "cgre-aachen/DwarfElephant",
+        "topics": null,
+        "website": ""
+    },
+    "cgre-aachen/FastElephant": {
+        "description": "Coupling and processing options for DwarfElephant",
+        "name": "cgre-aachen/FastElephant",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/MSc_theses": {
+        "description": "Code related to MSc thesis projects",
+        "name": "cgre-aachen/MSc_theses",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/RestClient": {
+        "description": "\ud83e\udd84 Simple HTTP and REST client for Unity based on Promises, also supports Callbacks! \ud83c\udfae",
+        "name": "cgre-aachen/RestClient",
+        "topics": null,
+        "website": "https://assetstore.unity.com/packages/tools/network/rest-client-for-unity-102501"
+    },
+    "cgre-aachen/VRTK": {
+        "description": "A productive toolkit for rapidly building spatial computing solutions in the Unity software.",
+        "name": "cgre-aachen/VRTK",
+        "topics": null,
+        "website": "https://www.vrtk.io/"
+    },
+    "cgre-aachen/bayseg": {
+        "description": "An unsupervised machine learning algorithm for the segmentation of spatial data sets.",
+        "name": "cgre-aachen/bayseg",
+        "topics": [
+            "segmentation",
+            "python3",
+            "hidden-markov-models",
+            "bayesian-methods",
+            "gaussian-mixture-models",
+            "gibbs-energy",
+            "gibbs-sampling",
+            "markov-chain",
+            "machine-learning",
+            "mixture-model",
+            "geophysics"
+        ],
+        "website": ""
+    },
+    "cgre-aachen/course_infotheory_spatial": {
+        "description": "Course on information theory with special focus on spatial analyses and multivariate measures",
+        "name": "cgre-aachen/course_infotheory_spatial",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/gemgis": {
+        "description": "Spatial data processing for geomodeling",
+        "name": "cgre-aachen/gemgis",
+        "topics": [
+            "spatial-data",
+            "processing",
+            "geographic",
+            "geographic-data",
+            "vector-data",
+            "raster-data",
+            "geomodeling",
+            "modeling",
+            "visualization",
+            "python",
+            "jupyter",
+            "jupyter-notebook",
+            "notebooks",
+            "geospatial"
+        ],
+        "website": "https://gemgis.readthedocs.io/en/latest"
+    },
+    "cgre-aachen/gemgis_data": {
+        "description": "This repository contains the data used in GemGIS",
+        "name": "cgre-aachen/gemgis_data",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/gemplay": {
+        "description": "A multi-platform and multi-application Unity project for visualizing and interacting with geological models and data",
+        "name": "cgre-aachen/gemplay",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/gempy": {
+        "description": "GemPy is an open-source, Python-based 3-D structural geological modeling software, which allows the implicit (i.e. automatic) creation of complex geological models from interface and orientation data. It also offers support for stochastic modeling to adress parameter and model uncertainties.",
+        "name": "cgre-aachen/gempy",
+        "topics": [
+            "uq",
+            "bayesian",
+            "interpolation",
+            "geology",
+            "modeling",
+            "python",
+            "uncertainty-analysis",
+            "theano",
+            "uncertainties",
+            "complex-geological-models",
+            "monte-carlo-simulation",
+            "implicit",
+            "geological",
+            "geoscience"
+        ],
+        "website": "https://gempy.org"
+    },
+    "cgre-aachen/gempy-canvas": {
+        "description": "Proof of concept for a single page application running on top of gempy.",
+        "name": "cgre-aachen/gempy-canvas",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/gempy.github.io": {
+        "description": null,
+        "name": "cgre-aachen/gempy.github.io",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/gempy_data": {
+        "description": "Input data for gempy examples",
+        "name": "cgre-aachen/gempy_data",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/gempy_workshops": {
+        "description": null,
+        "name": "cgre-aachen/gempy_workshops",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/hspace": {
+        "description": null,
+        "name": "cgre-aachen/hspace",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/ki-campus": {
+        "description": "Some notebooks etc for ki-campus",
+        "name": "cgre-aachen/ki-campus",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/loss_function_decision_making_paper": {
+        "description": null,
+        "name": "cgre-aachen/loss_function_decision_making_paper",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/open_AR_Sandbox": {
+        "description": "open-AR-Sandbox is a project to enable haptic interaction with geoscientific content in AR-Sandboxes.",
+        "name": "cgre-aachen/open_AR_Sandbox",
+        "topics": null,
+        "website": ""
+    },
+    "cgre-aachen/pynoddy": {
+        "description": "pynoddy is a python package to write, change, and analyse kinematic geological modelling simulations performed with Noddy.",
+        "name": "cgre-aachen/pynoddy",
+        "topics": [
+            "noddy",
+            "python",
+            "geological-modeling",
+            "geology",
+            "kinematic-modeling"
+        ],
+        "website": null
+    },
+    "cgre-aachen/pynoddy_old": {
+        "description": null,
+        "name": "cgre-aachen/pynoddy_old",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/remote-geomod": {
+        "description": "Coupling remote geological mapping in Google Earth with direct 3D geological modeling in GemPy.",
+        "name": "cgre-aachen/remote-geomod",
+        "topics": [
+            "geology",
+            "mapping",
+            "3d-modelling",
+            "google-earth"
+        ],
+        "website": ""
+    },
+    "cgre-aachen/teaching": {
+        "description": "Material related to teaching of own courses",
+        "name": "cgre-aachen/teaching",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/teaching-geomodeling": {
+        "description": "content for geomodeling class",
+        "name": "cgre-aachen/teaching-geomodeling",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/teaching-quantitative-methods": {
+        "description": "Teaching material for class \"quantitative methods in geosciences\"",
+        "name": "cgre-aachen/teaching-quantitative-methods",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/teaching-research-module": {
+        "description": "Test repository for git experiments",
+        "name": "cgre-aachen/teaching-research-module",
+        "topics": null,
+        "website": null
+    },
+    "emanuelhuber/RGPR": {
+        "description": "Ground-penetrating radar (GPR) data processing and visualisation: a free and open-source software package (R language)",
+        "name": "emanuelhuber/RGPR",
+        "topics": [
+            "gpr",
+            "r",
+            "ground-penetrating-radar",
+            "geophysics",
+            "signal-processing",
+            "gpr-data",
+            "software",
+            "package",
+            "processing",
+            "signal",
+            "process",
+            "open-source",
+            "dsp"
+        ],
+        "website": "http://emanuelhuber.github.io/RGPR/"
+    },
+    "equinor/dlisio": {
+        "description": "Python library for working with the well log formats Digital Log Interchange Standard (DLIS V1) and Log Information Standard (LIS79)",
+        "name": "equinor/dlisio",
+        "topics": [
+            "dlis",
+            "rp66v1",
+            "lis",
+            "lis79"
+        ],
+        "website": "https://dlisio.readthedocs.io/en/stable/"
+    },
+    "equinor/segyio": {
+        "description": "Fast Python library for SEGY files.",
+        "name": "equinor/segyio",
+        "topics": [
+            "segy",
+            "python",
+            "c",
+            "matlab",
+            "fast",
+            "seismic",
+            "hacktoberfest"
+        ],
+        "website": ""
+    },
+    "equinor/seismic-zfp": {
+        "description": "Compress and decompress seismic data",
+        "name": "equinor/seismic-zfp",
+        "topics": null,
         "website": null
     },
     "fatiando/.github": {
@@ -627,6 +923,78 @@
         "topics": null,
         "website": ""
     },
+    "iannesbitt/readgssi": {
+        "description": "python tool to read and plot Geophysical Survey Systems Incorporated (GSSI) radar data",
+        "name": "iannesbitt/readgssi",
+        "topics": [
+            "gssi",
+            "dzt",
+            "georadar",
+            "gpr",
+            "hdf5",
+            "python2",
+            "python3",
+            "plot",
+            "ground-penetrating-radar"
+        ],
+        "website": "https://readgssi.readthedocs.io/"
+    },
+    "kinverarity1/lasio": {
+        "description": "Python library for reading and writing well data using Log ASCII Standard (LAS) files",
+        "name": "kinverarity1/lasio",
+        "topics": [
+            "las-files",
+            "geophysics",
+            "geology",
+            "data-format",
+            "io",
+            "petroleum",
+            "geotechnical-engineering",
+            "groundwater",
+            "data-management",
+            "data-mining",
+            "mineral-exploration",
+            "log-ascii-standard",
+            "python"
+        ],
+        "website": ""
+    },
+    "obspy/obspy": {
+        "description": "ObsPy: A Python Toolbox for seismology/seismological observatories.",
+        "name": "obspy/obspy",
+        "topics": [
+            "seismology",
+            "python",
+            "observatories",
+            "science",
+            "earthquakes",
+            "data-center",
+            "waveforms",
+            "signal-processing",
+            "web-services",
+            "lgplv3",
+            "hacktoberfest"
+        ],
+        "website": "https://www.obspy.org"
+    },
+    "pyrocko/pyrocko": {
+        "description": "An official read-only mirror of https://git.pyrocko.org/pyrocko/pyrocko. A seismology toolkit for Python.",
+        "name": "pyrocko/pyrocko",
+        "topics": [
+            "python",
+            "seismology",
+            "earthquake",
+            "geophysical-inversions",
+            "geophysics"
+        ],
+        "website": "https://pyrocko.org"
+    },
+    "raspishake/rsudp": {
+        "description": "Continuous visual display, sudden motion monitoring, and historical replay of Raspberry Shake data",
+        "name": "raspishake/rsudp",
+        "topics": null,
+        "website": "https://raspishake.github.io/rsudp/"
+    },
     "softwareunderground/52things": {
         "description": "52 Things You Should Know About Geocomputing",
         "name": "softwareunderground/52things",
@@ -752,11 +1120,11 @@
         "topics": null,
         "website": "https://jupyter-dev.softwareunderground.org"
     },
-    "softwareunderground/llnl.github.io": {
-        "description": "fork of....Public home for LLNL software catalog",
-        "name": "softwareunderground/llnl.github.io",
+    "softwareunderground/jupyterhub-terraform-modules": {
+        "description": "SwungHub (JupyterHub) Terraform modules",
+        "name": "softwareunderground/jupyterhub-terraform-modules",
         "topics": null,
-        "website": "https://software.llnl.gov"
+        "website": null
     },
     "softwareunderground/meetings-that-matter": {
         "description": "A handbook for scientific events",
@@ -775,6 +1143,19 @@
         "name": "softwareunderground/notebooks",
         "topics": null,
         "website": null
+    },
+    "softwareunderground/open_geosciene_code_projects_viz": {
+        "description": "fork of....Public home for LLNL software catalog",
+        "name": "softwareunderground/open_geosciene_code_projects_viz",
+        "topics": [
+            "geology",
+            "geoscience",
+            "dataunderground",
+            "hackathon",
+            "transform",
+            "swung-t21"
+        ],
+        "website": "https://softwareunderground.github.io/open_geosciene_code_projects_viz/"
     },
     "softwareunderground/paris2017": {
         "description": "Things to do with the Subsurface Hackathon",
@@ -855,5 +1236,33 @@
         "name": "softwareunderground/xsdf",
         "topics": null,
         "website": ""
+    },
+    "toddheitmann/PetroPy": {
+        "description": "A petrophysics python package for geoscience python computing of conventional and unconventional formation evaluation. Reads las files and creates a pandas dataframe of the log data. Includes a basic petrophysical workflow and a simple log viewer based on XML templates.",
+        "name": "toddheitmann/PetroPy",
+        "topics": [
+            "petrophysics",
+            "reservoir-characterization",
+            "formation-evaluation",
+            "geoscience"
+        ],
+        "website": "https://toddheitmann.github.io/PetroPy/"
+    },
+    "waynegm/OpendTect-Plugins": {
+        "description": "Various plugins for the open source seismic interpretation system - OpendTect",
+        "name": "waynegm/OpendTect-Plugins",
+        "topics": [
+            "opendtect",
+            "seismic",
+            "geophysics",
+            "attributes"
+        ],
+        "website": ""
+    },
+    "whamlyn/auralib": {
+        "description": "Python package to support investigation of geoscience problems including geophysics, rock physics, petrophysics, and data read/write in common formats.",
+        "name": "whamlyn/auralib",
+        "topics": null,
+        "website": null
     }
 }

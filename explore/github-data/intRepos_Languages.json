@@ -86,6 +86,82 @@
                 "totalSize": 163409
             }
         },
+        "NSGeophysics/GPRPy": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 188832
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 188832
+            }
+        },
+        "SeisComP/seiscomp": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 994641
+                    },
+                    {
+                        "size": 116392
+                    },
+                    {
+                        "size": 92023
+                    },
+                    {
+                        "size": 14982
+                    },
+                    {
+                        "size": 14399
+                    },
+                    {
+                        "size": 1832
+                    },
+                    {
+                        "size": 1685
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": null,
+                        "name": "CMake"
+                    },
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": null,
+                        "name": "SWIG"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    }
+                ],
+                "totalCount": 7,
+                "totalSize": 1235954
+            }
+        },
         "agile-geoscience/AVO_app": {
             "languages": {
                 "edges": [],
@@ -1031,6 +1107,879 @@
                 "totalSize": 29858899
             }
         },
+        "ahotovec/REDPy": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 201816
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 201816
+            }
+        },
+        "btobers/RAGU": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 271018
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 271018
+            }
+        },
+        "cgre-aachen/Bayesian-Inference-Cases": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 3872112
+                    },
+                    {
+                        "size": 27136
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 3899248
+            }
+        },
+        "cgre-aachen/DwarfElephant": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 2451567
+                    },
+                    {
+                        "size": 69868
+                    },
+                    {
+                        "size": 7465
+                    },
+                    {
+                        "size": 1379
+                    },
+                    {
+                        "size": 476
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": "#6E4C13",
+                        "name": "Assembly"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 5,
+                "totalSize": 2530755
+            }
+        },
+        "cgre-aachen/FastElephant": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 162207
+                    },
+                    {
+                        "size": 69055
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3D6117",
+                        "name": "TeX"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 231262
+            }
+        },
+        "cgre-aachen/MSc_theses": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 6791903
+                    },
+                    {
+                        "size": 104022
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 6895925
+            }
+        },
+        "cgre-aachen/RestClient": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 67671
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#178600",
+                        "name": "C#"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 67671
+            }
+        },
+        "cgre-aachen/VRTK": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 9284
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#178600",
+                        "name": "C#"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 9284
+            }
+        },
+        "cgre-aachen/bayseg": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 22587475
+                    },
+                    {
+                        "size": 107030
+                    },
+                    {
+                        "size": 66092
+                    },
+                    {
+                        "size": 12508
+                    },
+                    {
+                        "size": 441
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#e16737",
+                        "name": "MATLAB"
+                    },
+                    {
+                        "color": null,
+                        "name": "Mathematica"
+                    },
+                    {
+                        "color": null,
+                        "name": "M"
+                    }
+                ],
+                "totalCount": 5,
+                "totalSize": 22773546
+            }
+        },
+        "cgre-aachen/course_infotheory_spatial": {
+            "languages": {
+                "edges": [],
+                "nodes": [],
+                "totalCount": 0,
+                "totalSize": 0
+            }
+        },
+        "cgre-aachen/gemgis": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 1134802
+                    },
+                    {
+                        "size": 3673
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#3D6117",
+                        "name": "TeX"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 1138475
+            }
+        },
+        "cgre-aachen/gemgis_data": {
+            "languages": {
+                "edges": [],
+                "nodes": [],
+                "totalCount": 0,
+                "totalSize": 0
+            }
+        },
+        "cgre-aachen/gemplay": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 123844
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#178600",
+                        "name": "C#"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 123844
+            }
+        },
+        "cgre-aachen/gempy": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 1561501
+                    },
+                    {
+                        "size": 1292944
+                    },
+                    {
+                        "size": 6829
+                    },
+                    {
+                        "size": 4103
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#384d54",
+                        "name": "Dockerfile"
+                    }
+                ],
+                "totalCount": 4,
+                "totalSize": 2865377
+            }
+        },
+        "cgre-aachen/gempy-canvas": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 11522
+                    },
+                    {
+                        "size": 1927
+                    },
+                    {
+                        "size": 366
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#2b7489",
+                        "name": "TypeScript"
+                    },
+                    {
+                        "color": "#e34c26",
+                        "name": "HTML"
+                    },
+                    {
+                        "color": "#563d7c",
+                        "name": "CSS"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 13815
+            }
+        },
+        "cgre-aachen/gempy.github.io": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 1809497
+                    },
+                    {
+                        "size": 94055
+                    },
+                    {
+                        "size": 25481
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#e34c26",
+                        "name": "HTML"
+                    },
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    },
+                    {
+                        "color": "#563d7c",
+                        "name": "CSS"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 1929033
+            }
+        },
+        "cgre-aachen/gempy_data": {
+            "languages": {
+                "edges": [],
+                "nodes": [],
+                "totalCount": 0,
+                "totalSize": 0
+            }
+        },
+        "cgre-aachen/gempy_workshops": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 6205437
+                    },
+                    {
+                        "size": 10628
+                    },
+                    {
+                        "size": 7594
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#44a51c",
+                        "name": "QML"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 6223659
+            }
+        },
+        "cgre-aachen/hspace": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 19636
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 19636
+            }
+        },
+        "cgre-aachen/ki-campus": {
+            "languages": {
+                "edges": [],
+                "nodes": [],
+                "totalCount": 0,
+                "totalSize": 0
+            }
+        },
+        "cgre-aachen/loss_function_decision_making_paper": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 15292929
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 15292929
+            }
+        },
+        "cgre-aachen/open_AR_Sandbox": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 216130356
+                    },
+                    {
+                        "size": 616285
+                    },
+                    {
+                        "size": 38
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#C1F12E",
+                        "name": "Batchfile"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 216746679
+            }
+        },
+        "cgre-aachen/pynoddy": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 554384
+                    },
+                    {
+                        "size": 24009
+                    },
+                    {
+                        "size": 7931
+                    },
+                    {
+                        "size": 4915
+                    },
+                    {
+                        "size": 2411
+                    },
+                    {
+                        "size": 109
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    },
+                    {
+                        "color": "#0000fb",
+                        "name": "Raku"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#C1F12E",
+                        "name": "Batchfile"
+                    }
+                ],
+                "totalCount": 6,
+                "totalSize": 593759
+            }
+        },
+        "cgre-aachen/pynoddy_old": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 4902429
+                    },
+                    {
+                        "size": 503721
+                    },
+                    {
+                        "size": 16526
+                    },
+                    {
+                        "size": 16272
+                    },
+                    {
+                        "size": 11081
+                    },
+                    {
+                        "size": 7931
+                    },
+                    {
+                        "size": 4915
+                    },
+                    {
+                        "size": 2411
+                    },
+                    {
+                        "size": 109
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#438eff",
+                        "name": "Objective-C"
+                    },
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    },
+                    {
+                        "color": "#0298c3",
+                        "name": "Perl"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#C1F12E",
+                        "name": "Batchfile"
+                    }
+                ],
+                "totalCount": 9,
+                "totalSize": 5465395
+            }
+        },
+        "cgre-aachen/remote-geomod": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 4256005
+                    },
+                    {
+                        "size": 50430
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 4306435
+            }
+        },
+        "cgre-aachen/teaching": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 6879079
+                    },
+                    {
+                        "size": 118616
+                    },
+                    {
+                        "size": 33973
+                    },
+                    {
+                        "size": 4323
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#e34c26",
+                        "name": "HTML"
+                    },
+                    {
+                        "color": "#da291c",
+                        "name": "PostScript"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 4,
+                "totalSize": 7035991
+            }
+        },
+        "cgre-aachen/teaching-geomodeling": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 1702892
+                    },
+                    {
+                        "size": 13653
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 1716545
+            }
+        },
+        "cgre-aachen/teaching-quantitative-methods": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 118499
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 118499
+            }
+        },
+        "cgre-aachen/teaching-research-module": {
+            "languages": {
+                "edges": [],
+                "nodes": [],
+                "totalCount": 0,
+                "totalSize": 0
+            }
+        },
+        "emanuelhuber/RGPR": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 797329
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#198CE7",
+                        "name": "R"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 797329
+            }
+        },
+        "equinor/dlisio": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 504280
+                    },
+                    {
+                        "size": 490802
+                    },
+                    {
+                        "size": 18635
+                    },
+                    {
+                        "size": 8883
+                    },
+                    {
+                        "size": 2566
+                    },
+                    {
+                        "size": 2359
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    },
+                    {
+                        "color": null,
+                        "name": "CMake"
+                    },
+                    {
+                        "color": "#384d54",
+                        "name": "Dockerfile"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 6,
+                "totalSize": 1027525
+            }
+        },
+        "equinor/segyio": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 307273
+                    },
+                    {
+                        "size": 202821
+                    },
+                    {
+                        "size": 191683
+                    },
+                    {
+                        "size": 45441
+                    },
+                    {
+                        "size": 34477
+                    },
+                    {
+                        "size": 1488
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    },
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": "#e16737",
+                        "name": "MATLAB"
+                    },
+                    {
+                        "color": null,
+                        "name": "CMake"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 6,
+                "totalSize": 783183
+            }
+        },
+        "equinor/seismic-zfp": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 120714
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 120714
+            }
+        },
         "fatiando/.github": {
             "languages": {
                 "edges": [],
@@ -1863,6 +2812,308 @@
                 "totalSize": 66812
             }
         },
+        "iannesbitt/readgssi": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 138712
+                    },
+                    {
+                        "size": 1485
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#3D6117",
+                        "name": "TeX"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 140197
+            }
+        },
+        "kinverarity1/lasio": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 237819
+                    },
+                    {
+                        "size": 204231
+                    },
+                    {
+                        "size": 260
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#384d54",
+                        "name": "Dockerfile"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 442310
+            }
+        },
+        "obspy/obspy": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 7546286
+                    },
+                    {
+                        "size": 1085211
+                    },
+                    {
+                        "size": 325908
+                    },
+                    {
+                        "size": 318872
+                    },
+                    {
+                        "size": 194014
+                    },
+                    {
+                        "size": 101179
+                    },
+                    {
+                        "size": 47636
+                    },
+                    {
+                        "size": 41223
+                    },
+                    {
+                        "size": 40818
+                    },
+                    {
+                        "size": 17013
+                    },
+                    {
+                        "size": 15595
+                    },
+                    {
+                        "size": 11067
+                    },
+                    {
+                        "size": 9380
+                    },
+                    {
+                        "size": 3846
+                    },
+                    {
+                        "size": 2223
+                    },
+                    {
+                        "size": 2209
+                    },
+                    {
+                        "size": 643
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    },
+                    {
+                        "color": "#ecdebe",
+                        "name": "Roff"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#EB8CEB",
+                        "name": "XSLT"
+                    },
+                    {
+                        "color": "#ccce35",
+                        "name": "E"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    },
+                    {
+                        "color": "#384d54",
+                        "name": "Dockerfile"
+                    },
+                    {
+                        "color": "#3D6117",
+                        "name": "TeX"
+                    },
+                    {
+                        "color": "#44a51c",
+                        "name": "QML"
+                    },
+                    {
+                        "color": "#B9D9FF",
+                        "name": "AGS Script"
+                    },
+                    {
+                        "color": "#C1F12E",
+                        "name": "Batchfile"
+                    },
+                    {
+                        "color": "#e34c26",
+                        "name": "HTML"
+                    },
+                    {
+                        "color": "#563d7c",
+                        "name": "CSS"
+                    },
+                    {
+                        "color": "#646464",
+                        "name": "SaltStack"
+                    },
+                    {
+                        "color": "#4d41b1",
+                        "name": "Fortran"
+                    },
+                    {
+                        "color": "#00a6a6",
+                        "name": "MAXScript"
+                    }
+                ],
+                "totalCount": 17,
+                "totalSize": 9763123
+            }
+        },
+        "pyrocko/pyrocko": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 3226076
+                    },
+                    {
+                        "size": 343796
+                    },
+                    {
+                        "size": 41395
+                    },
+                    {
+                        "size": 39179
+                    },
+                    {
+                        "size": 21465
+                    },
+                    {
+                        "size": 21091
+                    },
+                    {
+                        "size": 3780
+                    },
+                    {
+                        "size": 3262
+                    },
+                    {
+                        "size": 439
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    },
+                    {
+                        "color": "#e34c26",
+                        "name": "HTML"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#3D6117",
+                        "name": "TeX"
+                    },
+                    {
+                        "color": "#0298c3",
+                        "name": "Perl"
+                    },
+                    {
+                        "color": "#384d54",
+                        "name": "Dockerfile"
+                    },
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    }
+                ],
+                "totalCount": 9,
+                "totalSize": 3700483
+            }
+        },
+        "raspishake/rsudp": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 171051
+                    },
+                    {
+                        "size": 19011
+                    },
+                    {
+                        "size": 14753
+                    },
+                    {
+                        "size": 10052
+                    },
+                    {
+                        "size": 631
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#3D6117",
+                        "name": "TeX"
+                    },
+                    {
+                        "color": "#C1F12E",
+                        "name": "Batchfile"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    }
+                ],
+                "totalCount": 5,
+                "totalSize": 215498
+            }
+        },
         "softwareunderground/52things": {
             "languages": {
                 "edges": [],
@@ -2105,33 +3356,106 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 421
+                        "size": 7373
+                    },
+                    {
+                        "size": 65
                     }
                 ],
                 "nodes": [
                     {
                         "color": null,
                         "name": "HCL"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
                     }
                 ],
-                "totalCount": 1,
-                "totalSize": 421
+                "totalCount": 2,
+                "totalSize": 7438
             }
         },
-        "softwareunderground/llnl.github.io": {
+        "softwareunderground/jupyterhub-terraform-modules": {
             "languages": {
                 "edges": [
                     {
-                        "size": 308124
+                        "size": 55747
+                    },
+                    {
+                        "size": 1820
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": null,
+                        "name": "HCL"
+                    },
+                    {
+                        "color": "#724b3b",
+                        "name": "Mustache"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 57567
+            }
+        },
+        "softwareunderground/meetings-that-matter": {
+            "languages": {
+                "edges": [],
+                "nodes": [],
+                "totalCount": 0,
+                "totalSize": 0
+            }
+        },
+        "softwareunderground/northern-lights": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 5417
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 5417
+            }
+        },
+        "softwareunderground/notebooks": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 660201
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 660201
+            }
+        },
+        "softwareunderground/open_geosciene_code_projects_viz": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 308213
                     },
                     {
                         "size": 31639
                     },
                     {
-                        "size": 29467
+                        "size": 30221
                     },
                     {
-                        "size": 13627
+                        "size": 14260
                     },
                     {
                         "size": 1675
@@ -2140,7 +3464,7 @@
                         "size": 279
                     },
                     {
-                        "size": 208
+                        "size": 233
                     }
                 ],
                 "nodes": [
@@ -2174,40 +3498,7 @@
                     }
                 ],
                 "totalCount": 7,
-                "totalSize": 385019
-            }
-        },
-        "softwareunderground/meetings-that-matter": {
-            "languages": {
-                "edges": [],
-                "nodes": [],
-                "totalCount": 0,
-                "totalSize": 0
-            }
-        },
-        "softwareunderground/northern-lights": {
-            "languages": {
-                "edges": [],
-                "nodes": [],
-                "totalCount": 0,
-                "totalSize": 0
-            }
-        },
-        "softwareunderground/notebooks": {
-            "languages": {
-                "edges": [
-                    {
-                        "size": 660201
-                    }
-                ],
-                "nodes": [
-                    {
-                        "color": "#DA5B0B",
-                        "name": "Jupyter Notebook"
-                    }
-                ],
-                "totalCount": 1,
-                "totalSize": 660201
+                "totalSize": 386520
             }
         },
         "softwareunderground/paris2017": {
@@ -2442,6 +3733,99 @@
                 ],
                 "totalCount": 2,
                 "totalSize": 41809
+            }
+        },
+        "toddheitmann/PetroPy": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 2629480
+                    },
+                    {
+                        "size": 776
+                    },
+                    {
+                        "size": 606
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#C1F12E",
+                        "name": "Batchfile"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 2630862
+            }
+        },
+        "waynegm/OpendTect-Plugins": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 799208
+                    },
+                    {
+                        "size": 381228
+                    },
+                    {
+                        "size": 145704
+                    },
+                    {
+                        "size": 18211
+                    },
+                    {
+                        "size": 1499
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": null,
+                        "name": "CMake"
+                    },
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    }
+                ],
+                "totalCount": 5,
+                "totalSize": 1345850
+            }
+        },
+        "whamlyn/auralib": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 248422
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 248422
             }
         }
     }

@@ -329,24 +329,6 @@
             },
             "nameWithOwner": "benrbray/prosemirror-math"
         },
-        "cgre-aachen/gemgis": {
-            "labContributors": {
-                "nodes": [
-                    "Japhiolite"
-                ]
-            },
-            "nameWithOwner": "cgre-aachen/gemgis"
-        },
-        "cgre-aachen/gempy": {
-            "labContributors": {
-                "nodes": [
-                    "Japhiolite",
-                    "banesullivan",
-                    "prisae"
-                ]
-            },
-            "nameWithOwner": "cgre-aachen/gempy"
-        },
         "compgeolab/.github": {
             "labContributors": {
                 "nodes": [
@@ -994,14 +976,6 @@
                 ]
             },
             "nameWithOwner": "jupyterlab/jupyterlab"
-        },
-        "kinverarity1/lasio": {
-            "labContributors": {
-                "nodes": [
-                    "kwinkunks"
-                ]
-            },
-            "nameWithOwner": "kinverarity1/lasio"
         },
         "matplotlib/matplotlib": {
             "labContributors": {

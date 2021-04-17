@@ -1,5 +1,59 @@
 {
     "data": {
+        "1jdjdjd1": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/71071390?u=592ffc8bf4b10a1b919ba22b6e8bbffde42c4094&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gemgis"
+                ]
+            },
+            "login": "1jdjdjd1",
+            "name": null
+        },
+        "6ekko": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/13851799?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "6ekko",
+            "name": "Sverre Johan Stener"
+        },
+        "AlainPlattner": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16839587?u=f3f348f846ac6e1fb94b27afafa4be5da0e4f02e&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "NSGeophysics/GPRPy"
+                ]
+            },
+            "login": "AlainPlattner",
+            "name": "Alain Plattner"
+        },
+        "AlexanderJuestel": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45469915?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gemgis_data",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/open_AR_Sandbox"
+                ]
+            },
+            "login": "AlexanderJuestel",
+            "name": null
+        },
+        "AndrewAnnex": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2126916?u=5f10541483547fe74d55b5ba40e2fd08ad2efdd5&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gempy"
+                ]
+            },
+            "login": "AndrewAnnex",
+            "name": "Andrew Annex"
+        },
         "Antoine-Cate": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20560702?u=7a0594c1e44bf7c0b785747ec57a43eb800c2e06&v=4",
             "contributedLabRepositories": {
@@ -10,6 +64,16 @@
             "login": "Antoine-Cate",
             "name": "Antoine Cat\u00e9"
         },
+        "BirteThornquist": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/74531659?u=ffe4d2b13719336d90539dddf8ac125eaf99b902&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "BirteThornquist",
+            "name": "Birte Thornquist"
+        },
         "BotellaA": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/3213882?u=c0a65439815baa611fb3091d34c46176ae52a2c1&v=4",
             "contributedLabRepositories": {
@@ -19,6 +83,77 @@
             },
             "login": "BotellaA",
             "name": "Arnaud Botella"
+        },
+        "Brtle": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/19774452?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "Brtle",
+            "name": "Cl\u00e9ment"
+        },
+        "CelsoReyes": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2513248?u=15b96a7e9509d6ee281256a4c6c726e45cceef91&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "CelsoReyes",
+            "name": "Celso"
+        },
+        "Christdej": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/48381132?u=6be9ff20eeb68481b31040c765c3a044f354be5f&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "Christdej",
+            "name": "Christian de Jonge"
+        },
+        "DominikStr": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/42805470?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "DominikStr",
+            "name": "Dominik Strutz"
+        },
+        "EPAnt": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/9536193?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "EPAnt",
+            "name": "Emanuel Antunes"
+        },
+        "EinarJohnsen": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/18293712?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "EinarJohnsen",
+            "name": "Einar Johnsen"
+        },
+        "ErlendHaa": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/22821827?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio"
+                ]
+            },
+            "login": "ErlendHaa",
+            "name": "Erlend H\u00e5rstad"
         },
         "Esteban82": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/17908951?u=ea62f2975ef77ce730491ac0c7d3c506b5986e2a&v=4",
@@ -93,10 +228,11 @@
                     "softwareunderground/getting-started",
                     "softwareunderground/gostin",
                     "softwareunderground/jupyterhub-deployment",
-                    "softwareunderground/llnl.github.io",
+                    "softwareunderground/jupyterhub-terraform-modules",
                     "softwareunderground/meetings-that-matter",
                     "softwareunderground/northern-lights",
                     "softwareunderground/notebooks",
+                    "softwareunderground/open_geosciene_code_projects_viz",
                     "softwareunderground/paris2017",
                     "softwareunderground/repro-zoo",
                     "softwareunderground/subsurface",
@@ -114,6 +250,52 @@
             },
             "login": "EvanBianco",
             "name": "Evan Bianco"
+        },
+        "FMassin": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10435362?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "SeisComP/seiscomp",
+                    "obspy/obspy"
+                ]
+            },
+            "login": "FMassin",
+            "name": "Fred Massin"
+        },
+        "Fry484": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10247029?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "kinverarity1/lasio"
+                ]
+            },
+            "login": "Fry484",
+            "name": "Jonathan"
+        },
+        "GautierLaurent": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7220399?u=aece4f526fb6f6c8cfa3fda5e2cbe1921ce72255&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/pynoddy"
+                ]
+            },
+            "login": "GautierLaurent",
+            "name": null
+        },
+        "GeorgeLiang3": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/42550795?u=04faeb3c5d04990bf8264fb68b24c59fabda5d4f&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/Bayesian-Inference-Cases",
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/open_AR_Sandbox",
+                    "cgre-aachen/teaching-geomodeling"
+                ]
+            },
+            "login": "GeorgeLiang3",
+            "name": null
         },
         "GeostatsGuy": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/32042483?u=b6a54fd71eeaea1536b5da88772323e5d2730253&v=4",
@@ -146,6 +328,59 @@
             "login": "Guoyinzh",
             "name": null
         },
+        "HenningLilienkamp": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/33544758?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "HenningLilienkamp",
+            "name": null
+        },
+        "HerrMuellerluedenscheid": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1038455?u=a70f8f246dd96705882363681a186fd3e18e9808&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy",
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "HerrMuellerluedenscheid",
+            "name": "Marius Kriegerowski"
+        },
+        "IvanKolesarEquinor": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/46567479?u=1fb8d5700d90ac529844de4da8f301c558a7cccd&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio"
+                ]
+            },
+            "login": "IvanKolesarEquinor",
+            "name": "Ivan Koles\u00e1r"
+        },
+        "JensGM": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7008388?u=3e6a69169f1dd1061fb90eb5ee1ad1ff4137ef0b&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio"
+                ]
+            },
+            "login": "JensGM",
+            "name": "Jens G\u00e5semyr Magnus"
+        },
+        "Jollyfant": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10128244?u=3b67d09045f08665c2fea9e7e1dd641b27ea5771&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "Jollyfant",
+            "name": null
+        },
         "JustinGOSSES": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/11600445?u=cc4089b5030d3750af1a610743a45512cecaf4e4&v=4",
             "contributedLabRepositories": {
@@ -154,6 +389,7 @@
                     "JustinGOSSES/wellio.js",
                     "JustinGOSSES/wellioviz",
                     "agile-geoscience/LASinfections",
+                    "kinverarity1/lasio",
                     "softwareunderground/52things",
                     "softwareunderground/TeapotDome",
                     "softwareunderground/awesome-open-geoscience",
@@ -171,10 +407,11 @@
                     "softwareunderground/getting-started",
                     "softwareunderground/gostin",
                     "softwareunderground/jupyterhub-deployment",
-                    "softwareunderground/llnl.github.io",
+                    "softwareunderground/jupyterhub-terraform-modules",
                     "softwareunderground/meetings-that-matter",
                     "softwareunderground/northern-lights",
                     "softwareunderground/notebooks",
+                    "softwareunderground/open_geosciene_code_projects_viz",
                     "softwareunderground/paris2017",
                     "softwareunderground/repro-zoo",
                     "softwareunderground/subsurface",
@@ -192,6 +429,16 @@
             },
             "login": "JustinGOSSES",
             "name": "Justin Gosses"
+        },
+        "Jyhess": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/25198240?u=a2f37bc4e8932030e7872873c09f57d8aff4c8d1&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "kinverarity1/lasio"
+                ]
+            },
+            "login": "Jyhess",
+            "name": "Jyhess"
         },
         "KellyVance": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/47954053?u=407373bd6cab31076e3f659707f06e2617388974&v=4",
@@ -213,11 +460,58 @@
             "login": "KoalaGeo",
             "name": "KoalaGeo"
         },
+        "LMurrayBergquist": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/46690824?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "LMurrayBergquist",
+            "name": null
+        },
+        "LSgeo": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/22333209?u=094082575ac30f16195f9d627e40ae126ac17349&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/pynoddy"
+                ]
+            },
+            "login": "LSgeo",
+            "name": "Luke"
+        },
         "Leguark": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/12543466?u=bf9c47d4f44e21a26196d7f65395d9588a08ee6d&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "agile-geoscience/welly",
+                    "cgre-aachen/Bayesian-Inference-Cases",
+                    "cgre-aachen/DwarfElephant",
+                    "cgre-aachen/FastElephant",
+                    "cgre-aachen/MSc_theses",
+                    "cgre-aachen/RestClient",
+                    "cgre-aachen/VRTK",
+                    "cgre-aachen/bayseg",
+                    "cgre-aachen/course_infotheory_spatial",
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gemgis_data",
+                    "cgre-aachen/gemplay",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy-canvas",
+                    "cgre-aachen/gempy.github.io",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/gempy_workshops",
+                    "cgre-aachen/hspace",
+                    "cgre-aachen/ki-campus",
+                    "cgre-aachen/loss_function_decision_making_paper",
+                    "cgre-aachen/open_AR_Sandbox",
+                    "cgre-aachen/pynoddy",
+                    "cgre-aachen/pynoddy_old",
+                    "cgre-aachen/remote-geomod",
+                    "cgre-aachen/teaching",
+                    "cgre-aachen/teaching-geomodeling",
+                    "cgre-aachen/teaching-quantitative-methods",
+                    "cgre-aachen/teaching-research-module",
                     "softwareunderground/52things",
                     "softwareunderground/TeapotDome",
                     "softwareunderground/awesome-open-geoscience",
@@ -235,10 +529,11 @@
                     "softwareunderground/getting-started",
                     "softwareunderground/gostin",
                     "softwareunderground/jupyterhub-deployment",
-                    "softwareunderground/llnl.github.io",
+                    "softwareunderground/jupyterhub-terraform-modules",
                     "softwareunderground/meetings-that-matter",
                     "softwareunderground/northern-lights",
                     "softwareunderground/notebooks",
+                    "softwareunderground/open_geosciene_code_projects_viz",
                     "softwareunderground/paris2017",
                     "softwareunderground/repro-zoo",
                     "softwareunderground/subsurface",
@@ -256,6 +551,115 @@
             },
             "login": "Leguark",
             "name": "Miguel de la Varga"
+        },
+        "MMesch": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2597803?u=ca8bb4e6aa8a26c2a42c1b48c031c4437f94750b&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "MMesch",
+            "name": "Matthias Meschede"
+        },
+        "MaMoel": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/37077001?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "SeisComP/seiscomp"
+                ]
+            },
+            "login": "MaMoel",
+            "name": null
+        },
+        "MaevaP": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/67706576?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "MaevaP",
+            "name": "Maeva Pourpoint"
+        },
+        "MalteMetz": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45630442?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "MalteMetz",
+            "name": null
+        },
+        "ManInFez": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4976547?u=7ca6601e1cf7e426ac767aec08f53edacc927a32&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "ManInFez",
+            "name": "\u00c5smund Rognerud Birkeland"
+        },
+        "MandarJKulkarni": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/33712629?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "kinverarity1/lasio"
+                ]
+            },
+            "login": "MandarJKulkarni",
+            "name": null
+        },
+        "MerMyhr": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/49910151?u=21a1d736470398023f80fbeaede43b5a4ccc03a3&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio",
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "MerMyhr",
+            "name": "Merete Myhr"
+        },
+        "MichaelHillier": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/29631938?u=48fe9bd7e66e28d63219542e0ec2ffceffdf80c9&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/open_AR_Sandbox"
+                ]
+            },
+            "login": "MichaelHillier",
+            "name": null
+        },
+        "MlleMargauxLedieu": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/26114861?u=9522d291cc75a393d40ed32440468d346697d99e&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "MlleMargauxLedieu",
+            "name": "Margaux Ledieu"
+        },
+        "MohammadCGRE": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/61519597?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/open_AR_Sandbox",
+                    "cgre-aachen/teaching-geomodeling"
+                ]
+            },
+            "login": "MohammadCGRE",
+            "name": null
         },
         "MonEstCha": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/71263277?v=4",
@@ -276,6 +680,16 @@
             },
             "login": "MuellerSeb",
             "name": "Sebastian M\u00fcller"
+        },
+        "NonZen": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/29451305?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "NonZen",
+            "name": null
         },
         "Patrick-Cole": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/8198125?u=eeae28c2600b06d24f4765d6bb8730757cb9e1b8&v=4",
@@ -298,10 +712,11 @@
                     "softwareunderground/getting-started",
                     "softwareunderground/gostin",
                     "softwareunderground/jupyterhub-deployment",
-                    "softwareunderground/llnl.github.io",
+                    "softwareunderground/jupyterhub-terraform-modules",
                     "softwareunderground/meetings-that-matter",
                     "softwareunderground/northern-lights",
                     "softwareunderground/notebooks",
+                    "softwareunderground/open_geosciene_code_projects_viz",
                     "softwareunderground/paris2017",
                     "softwareunderground/repro-zoo",
                     "softwareunderground/subsurface",
@@ -364,16 +779,47 @@
             "login": "PiotrKurnik",
             "name": "Piotr Kurnik "
         },
+        "QuLogic": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/302469?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "QuLogic",
+            "name": "Elliott Sales de Andrade"
+        },
+        "ReedOnly": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7236757?u=53f615dadf7c4aaa656ba529aa0e4f637668cfae&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "ReedOnly",
+            "name": "Kristian Reed"
+        },
         "RichardScottOZ": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/72196131?u=beff080061096d3009054e00998d19035ec69713&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "cgre-aachen/gemgis",
                     "softwareunderground/jupyterhub-deployment",
                     "softwareunderground/subsurface"
                 ]
             },
             "login": "RichardScottOZ",
             "name": null
+        },
+        "Rothenhouser": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7486450?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "Rothenhouser",
+            "name": "Nicolas Rothenh\u00e4usler"
         },
         "SarthakJariwala": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/35085572?u=0b3f62cb42327652b67d31c810100503c2c79fe4&v=4",
@@ -385,6 +831,17 @@
             "login": "SarthakJariwala",
             "name": null
         },
+        "ShikhaMishra9": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/40306488?u=39e573b57418a90c811205da8cccaefb6839e51d&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio"
+                ]
+            },
+            "login": "ShikhaMishra9",
+            "name": "Shikha Mishra"
+        },
         "SiccarPoint": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/6867260?u=fa3bea4e5abe3c137fcc5868298b4f1f1b54c086&v=4",
             "contributedLabRepositories": {
@@ -394,6 +851,64 @@
             },
             "login": "SiccarPoint",
             "name": "Dan Hobley"
+        },
+        "SimonVirgo": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/19634408?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/open_AR_Sandbox",
+                    "cgre-aachen/teaching-geomodeling"
+                ]
+            },
+            "login": "SimonVirgo",
+            "name": null
+        },
+        "SindreOsnes": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/40761959?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "SindreOsnes",
+            "name": "Sindre Osnes"
+        },
+        "Steforb87": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76999829?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio",
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "Steforb87",
+            "name": "Stefan Forbergskog"
+        },
+        "StigNil": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/32449093?u=bc2c62bd81fc1d9f40a34cbccefe0345dc900ea4&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio",
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "StigNil",
+            "name": "Stig Nilsen"
+        },
+        "SvSven": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7661362?u=e87c4f0899481fb86fc9ff63151e3b86ab530196&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "SvSven",
+            "name": "Sven van Steenis"
         },
         "Swanson-Hysell": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/4332322?u=60bf1b98429f8fadc3851efd4b1df6f7e178e141&v=4",
@@ -405,6 +920,16 @@
             "login": "Swanson-Hysell",
             "name": "Nick Swanson-Hysell"
         },
+        "ThomasLecocq": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/916937?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "ThomasLecocq",
+            "name": "Thomas Lecocq"
+        },
         "ThomasMGeo": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/38228140?u=48983e03f5f8f4ea8a12406b65c575d4a1fcb6aa&v=4",
             "contributedLabRepositories": {
@@ -414,6 +939,40 @@
             },
             "login": "ThomasMGeo",
             "name": "Thomas Martin"
+        },
+        "Tobi713": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/37297635?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/MSc_theses",
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/open_AR_Sandbox"
+                ]
+            },
+            "login": "Tobi713",
+            "name": null
+        },
+        "TobiasGlaubach": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/34371519?u=c88f0b05f23d40d487b70b986fb236786903c117&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gempy"
+                ]
+            },
+            "login": "TobiasGlaubach",
+            "name": "Tobias Glaubach"
+        },
+        "VelizarVESSELINOV": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/8209940?u=8ed62f40b7c1af3e8cc16182aa115d16ffd536b4&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "kinverarity1/lasio"
+                ]
+            },
+            "login": "VelizarVESSELINOV",
+            "name": "Velizar VESSELINOV"
         },
         "VictorFavela": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20154488?u=2218b7ddfd73f037141d616d430158a322f5e25e&v=4",
@@ -425,6 +984,16 @@
             "login": "VictorFavela",
             "name": "Victor Favela"
         },
+        "WayneCrawford": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3601379?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "WayneCrawford",
+            "name": "Wayne Crawford"
+        },
         "WesleyTheGeolien": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/18068320?u=acede00c74739117b057cfe18c0aae4ba96c9eb3&v=4",
             "contributedLabRepositories": {
@@ -434,6 +1003,20 @@
             },
             "login": "WesleyTheGeolien",
             "name": "Wesley Banfield"
+        },
+        "WestfalNamur": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/37296211?u=5288abf404234f2aac649d5ba2184a6b47bdc7b4&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy-canvas",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/open_AR_Sandbox"
+                ]
+            },
+            "login": "WestfalNamur",
+            "name": "Stefan Crummenerl"
         },
         "Xarthisius": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/352673?v=4",
@@ -494,6 +1077,47 @@
             "login": "aaronfoe",
             "name": "Aaron F\u00f6rderer"
         },
+        "acarapetis": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/58440?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "acarapetis",
+            "name": "Anthony Carapetis"
+        },
+        "achaikou": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/44965282?u=75033bb4076572fc1ef3c9174ad2c4c1d44f17d3&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio"
+                ]
+            },
+            "login": "achaikou",
+            "name": "Alena Chaikouskaya"
+        },
+        "adam-iris": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2521495?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "adam-iris",
+            "name": "Adam Clark"
+        },
+        "adamwulf": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/251087?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "kinverarity1/lasio"
+                ]
+            },
+            "login": "adamwulf",
+            "name": "Adam Wulf"
+        },
         "adsteen": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/2318953?u=7a2a1ba95e4ecf36fea4ca84f00a1cd87b7c9a4d&v=4",
             "contributedLabRepositories": {
@@ -503,6 +1127,16 @@
             },
             "login": "adsteen",
             "name": "Andrew D. Steen"
+        },
+        "ae3e": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/12472719?u=8d364116d1574570ee697dcd135ac614cb8e3dfd&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "kinverarity1/lasio"
+                ]
+            },
+            "login": "ae3e",
+            "name": null
         },
         "agordonf": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/44120823?v=4",
@@ -530,6 +1164,72 @@
             "login": "aguspesce",
             "name": "Agustina"
         },
+        "agzimmerman": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/9367569?u=9b6daa84f9d531597aa408ef0b661517b4da5623&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/RestClient",
+                    "cgre-aachen/VRTK",
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gemplay",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/open_AR_Sandbox"
+                ]
+            },
+            "login": "agzimmerman",
+            "name": "Alexander G. Zimmerman"
+        },
+        "ahhbjoe": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/19195962?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "ahhbjoe",
+            "name": "Zhao Chen"
+        },
+        "ahinoamp": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/17087049?u=dc80b2a7ee165cd3e41fd7364680243d7813bed2&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/pynoddy"
+                ]
+            },
+            "login": "ahinoamp",
+            "name": "Ahinoam Pollack"
+        },
+        "ahjulstad": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6638265?u=9efc23cb9a95cb0174cf9b71ac156f4bbe7d35e8&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "kinverarity1/lasio"
+                ]
+            },
+            "login": "ahjulstad",
+            "name": "\u00c5smund Hjulstad"
+        },
+        "ahotovec": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7135200?u=fd33207e6e8a2fa11840cf25b3f4275089e23290&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "ahotovec/REDPy"
+                ]
+            },
+            "login": "ahotovec",
+            "name": "Alicia Hotovec-Ellis"
+        },
+        "aimanuslim": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5262518?u=f266f461909b2ffed9ea184f1f563dc9d265ad29&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "aimanuslim",
+            "name": "Aiman Md Uslim"
+        },
         "alessiamarcolini": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20052362?u=8b6fcfcf0f655c525cb5233e390ea414d1206943&v=4",
             "contributedLabRepositories": {
@@ -544,6 +1244,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/17277800?u=4e54066b9e45c217f60708f3e054f982f9773f19&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "cgre-aachen/bayseg",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/pynoddy",
+                    "cgre-aachen/remote-geomod",
                     "softwareunderground/52things",
                     "softwareunderground/TeapotDome",
                     "softwareunderground/awesome-open-geoscience",
@@ -561,10 +1265,11 @@
                     "softwareunderground/getting-started",
                     "softwareunderground/gostin",
                     "softwareunderground/jupyterhub-deployment",
-                    "softwareunderground/llnl.github.io",
+                    "softwareunderground/jupyterhub-terraform-modules",
                     "softwareunderground/meetings-that-matter",
                     "softwareunderground/northern-lights",
                     "softwareunderground/notebooks",
+                    "softwareunderground/open_geosciene_code_projects_viz",
                     "softwareunderground/paris2017",
                     "softwareunderground/repro-zoo",
                     "softwareunderground/subsurface",
@@ -583,6 +1288,16 @@
             "login": "alex-schaaf",
             "name": "Alexander Schaaf"
         },
+        "alfthor": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/37176432?u=2a792a8ade9e92a4a94e2d1515570dbe44dfffda&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "alfthor",
+            "name": "Thoralf Dietrich"
+        },
         "alkirkby": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/5335745?v=4",
             "contributedLabRepositories": {
@@ -592,6 +1307,36 @@
             },
             "login": "alkirkby",
             "name": "Alison Kirkby"
+        },
+        "allstadt": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7049376?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "ahotovec/REDPy"
+                ]
+            },
+            "login": "allstadt",
+            "name": null
+        },
+        "alomax": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/11368512?u=d50356bf344a651a26291893f14f08d01cf6ee41&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "alomax",
+            "name": "Anthony Lomax"
+        },
+        "amaggi": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1942434?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "amaggi",
+            "name": "Alessia Maggi"
         },
         "amoodie": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/8801322?u=09829de85a3ebf91f705b0898adc67547bbe17c3&v=4",
@@ -657,6 +1402,46 @@
             "login": "andieie",
             "name": "Andrea Balza"
         },
+        "andreabrambilla": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1792970?u=1f978b0c539de6e9399254d6cd59af2c33dbdae3&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "andreabrambilla",
+            "name": "Andrea Brambilla"
+        },
+        "andres-h": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/18348380?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "SeisComP/seiscomp"
+                ]
+            },
+            "login": "andres-h",
+            "name": null
+        },
+        "andreww": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/19102?u=470bfb4dda4296af93646bbf4f038ac012b1d647&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "andreww",
+            "name": "Andrew Walker"
+        },
+        "aqeelahmad": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1620903?u=9095b8e649e93e66b1700a702d34b23e21d29f51&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio"
+                ]
+            },
+            "login": "aqeelahmad",
+            "name": "Aqeel Ahmad"
+        },
         "ar4": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/10000682?v=4",
             "contributedLabRepositories": {
@@ -677,6 +1462,16 @@
             "login": "arfon",
             "name": "Arfon Smith"
         },
+        "aringler-usgs": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2599501?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "aringler-usgs",
+            "name": "Adam Ringler"
+        },
         "aruss175": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/43067386?u=64f5867ee59a6168b6e4ea268f130d7876c0bb77&v=4",
             "contributedLabRepositories": {
@@ -686,6 +1481,69 @@
             },
             "login": "aruss175",
             "name": "Ashley Russell"
+        },
+        "asbjorn": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/150764?u=d7006a125511bf98dd1b0a8863b463985d4e21b8&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "asbjorn",
+            "name": "Asbj\u00f8rn Alexander Fellinghaug"
+        },
+        "atwinkelman": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/17002839?u=542d51d7e8b18a7864cb4a12c8a863b2e7a41007&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "atwinkelman",
+            "name": "Andrew Winkelman"
+        },
+        "audunsolemdal": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/21334768?u=4d9c80e5c0dc7ebb3123ccba5bad4f11bba8939a&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio",
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "audunsolemdal",
+            "name": "Audun Solemdal"
+        },
+        "autt": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/59439051?u=c09fa5cc03b3c1a5994a6649b1f3c7fe67b7f2da&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio"
+                ]
+            },
+            "login": "autt",
+            "name": "Anette Uttisrud"
+        },
+        "baagaard-usgs": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/22621443?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "baagaard-usgs",
+            "name": "Brad Aagaard"
+        },
+        "barsch": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/602450?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "barsch",
+            "name": "Robert Barsch"
         },
         "ben-bougher": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/5186902?u=f46ec9a5f90437ee0834101a51724180bdf643da&v=4",
@@ -761,11 +1619,23 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "JustinGOSSES/predictatops",
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gempy",
                     "softwareunderground/awesome-open-geoscience"
                 ]
             },
             "login": "bluetyson",
             "name": "Blue Tyson"
+        },
+        "bmorg": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/842699?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "bmorg",
+            "name": "Bernhard Morgenstern"
         },
         "bogomil": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/120094?u=6e5fb9e071105aec02d7cf9ae27cc3f74b235cb0&v=4",
@@ -776,6 +1646,16 @@
             },
             "login": "bogomil",
             "name": "Bogomil Shopov - Bogo"
+        },
+        "braunfuss": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/18213634?u=e5926240b48f21a618a93e807da174a900f51c42&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "braunfuss",
+            "name": "Andreas Steinberg"
         },
         "brendonhall": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/3844075?u=b2471d19f3c395b2b01e9ecf1ffd496db3dcfe77&v=4",
@@ -803,11 +1683,22 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/35202026?u=53f19938144ff9dac56f357beee6c2cd4731c690&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "btobers/RAGU",
                     "softwareunderground/awesome-open-geoscience"
                 ]
             },
             "login": "btobers",
             "name": "Brandon S. Tober"
+        },
+        "calum-chamberlain": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10913395?u=e67f317f9cba214f9083571be1a22aa01e8faecc&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "calum-chamberlain",
+            "name": "Calum Chamberlain"
         },
         "caparicajr": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/4447496?v=4",
@@ -819,6 +1710,26 @@
             "login": "caparicajr",
             "name": "Jose Fernando Caparica Jr"
         },
+        "carinaj": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/621074?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "carinaj",
+            "name": "carina"
+        },
+        "celulo": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/64354633?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gemgis"
+                ]
+            },
+            "login": "celulo",
+            "name": "Celine Lucia Losch"
+        },
         "cennen": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/5613016?v=4",
             "contributedLabRepositories": {
@@ -828,6 +1739,16 @@
             },
             "login": "cennen",
             "name": null
+        },
+        "chad-iris": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16736618?u=29f923d7d6efb3f7dacd8367cfba25ec00f869f0&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "chad-iris",
+            "name": "chad-iris"
         },
         "chancesang": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/32222820?u=54e75fbc7a4522f08c1aa036d808467a107e6916&v=4",
@@ -849,10 +1770,51 @@
             "login": "chrisleaman",
             "name": "Chris Leaman"
         },
+        "claudiodsf": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1390993?u=8d924175809b574d0de9e48853717a4fff1d4fd1&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "claudiodsf",
+            "name": "Claudio Satriano"
+        },
+        "cmeessen": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/14222414?u=96b15bed4d608d36718f0b16b730a156b03d7f52&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gempy"
+                ]
+            },
+            "login": "cmeessen",
+            "name": "Christian Mee\u00dfen"
+        },
+        "crockpotveggies": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1445295?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "raspishake/rsudp"
+                ]
+            },
+            "login": "crockpotveggies",
+            "name": "Justin Long"
+        },
+        "d-chambers": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/11671536?u=0b1388f367e8c8f7a280d499f32e40df482fb7c8&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "d-chambers",
+            "name": "Derrick Chambers"
+        },
         "da-wad": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/25386679?u=cd76943b8af52a28e73fbbca6aba57450e597311&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "equinor/seismic-zfp",
                     "softwareunderground/awesome-open-geoscience"
                 ]
             },
@@ -864,11 +1826,55 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "fatiando/boule",
-                    "softwareunderground/52things"
+                    "softwareunderground/52things",
+                    "softwareunderground/northern-lights"
                 ]
             },
             "login": "dabiged",
             "name": "Chris Dinneen"
+        },
+        "dagrha": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6957654?u=e337eb7fb4a083088860074d02a5ef9daed9127a&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "kinverarity1/lasio"
+                ]
+            },
+            "login": "dagrha",
+            "name": "Dan H."
+        },
+        "danauerbach": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4838236?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "danauerbach",
+            "name": "Dan Auerbach"
+        },
+        "danielsk78": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/52417837?u=50ee66210f49630543de62f2346fdb039b22b2ee&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/open_AR_Sandbox"
+                ]
+            },
+            "login": "danielsk78",
+            "name": "Daniel Escall\u00f3n Botero"
+        },
+        "danietorres": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/32769560?u=5801b281dfe19eb1a4740703eeb6a8d9e56a073b&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/remote-geomod"
+                ]
+            },
+            "login": "danietorres",
+            "name": null
         },
         "danshapero": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/3905742?u=3f1c7c1b252db61a35ed234e7b7d90dab98654f5&v=4",
@@ -879,6 +1885,16 @@
             },
             "login": "danshapero",
             "name": "Daniel Shapero"
+        },
+        "dbhart": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5519689?u=b18129166d6cddd8aba60543fd6b69ab6835f1ef&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "kinverarity1/lasio"
+                ]
+            },
+            "login": "dbhart",
+            "name": "David Hart"
         },
         "dbrowncda": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/34094355?v=4",
@@ -898,11 +1914,33 @@
                     "JustinGOSSES/wellioviz",
                     "agile-geoscience/welly",
                     "fatiando/verde",
+                    "kinverarity1/lasio",
                     "softwareunderground/transform-2021-hackathon"
                 ]
             },
             "login": "dcslagel",
             "name": "DC Slagel"
+        },
+        "denise91": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/24475670?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/DwarfElephant",
+                    "cgre-aachen/FastElephant"
+                ]
+            },
+            "login": "denise91",
+            "name": null
+        },
+        "devlk2": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/74353466?u=608244af0813f16c934d800dfc18747074c0c644&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/open_AR_Sandbox"
+                ]
+            },
+            "login": "devlk2",
+            "name": null
         },
         "dfcastap": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/7059309?u=41ae483609484f883bdf6fac73c0756ec3fd1432&v=4",
@@ -968,6 +2006,19 @@
             "login": "didiooi",
             "name": "Didi (Sher) Ooi"
         },
+        "divad-nhok": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3292906?u=8d84646972b6db500cd550c0a3919223a14511de&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/open_AR_Sandbox"
+                ]
+            },
+            "login": "divad-nhok",
+            "name": "evil_cephalopod"
+        },
         "djhoese": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1828519?u=d3fc31833341445738decb83f5901216b3aa7eda&v=4",
             "contributedLabRepositories": {
@@ -988,6 +2039,26 @@
             "login": "dkon99",
             "name": null
         },
+        "domist07": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/59735059?u=94c8389bb7ddd103aea6a6bddd3c48038538bcaa&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gempy"
+                ]
+            },
+            "login": "domist07",
+            "name": null
+        },
+        "dotfloat": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2150728?u=ac7b7655d3657363327b5b64e756db714d0174bf&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "dotfloat",
+            "name": "Zohar Malamant"
+        },
         "drandykass": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/15897239?u=8d859a8617064e8ec391f9e0b42b8c3969df9a11&v=4",
             "contributedLabRepositories": {
@@ -1006,6 +2077,16 @@
                 ]
             },
             "login": "driftingtides",
+            "name": null
+        },
+        "dsentinel": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/14005083?u=9359941006ee4c20748405bb4fb3b917dbbfc95d&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "dsentinel",
             "name": null
         },
         "dvalters": {
@@ -1039,15 +2120,89 @@
             "login": "ehzimmer",
             "name": null
         },
+        "eivindjahren": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/32731672?u=8b46812c6e3f20ce0ac74066c68bbf317af6eba1&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "eivindjahren",
+            "name": "Eivind Jahren"
+        },
+        "ejschoen": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10605666?u=c64868bbb7cca9e136d4f8f8c24da60979fd44ce&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "kinverarity1/lasio"
+                ]
+            },
+            "login": "ejschoen",
+            "name": "Eric Schoen"
+        },
+        "elbeejay": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1770513?u=df67cd3007be412678c54d715a5ed287426762c2&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gemgis"
+                ]
+            },
+            "login": "elbeejay",
+            "name": "J. Hariharan"
+        },
+        "elimh": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/36408527?u=aa06c01917018f2ad5ddf060617836612f64934a&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy.github.io",
+                    "cgre-aachen/open_AR_Sandbox"
+                ]
+            },
+            "login": "elimh",
+            "name": "Elisa Heim"
+        },
+        "elygeo": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/338731?u=1971a2e423cfeb9255a8c00bc6036c1769e7237d&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "elygeo",
+            "name": "Geoffrey Ely"
+        },
         "emanuelhuber": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/12541363?u=6867bf1ac3be94b112bcbff90e1c9bf28a99452a&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "emanuelhuber/RGPR",
                     "softwareunderground/awesome-open-geoscience"
                 ]
             },
             "login": "emanuelhuber",
             "name": "Emanuel Huber"
+        },
+        "emolch": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/124167?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy",
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "emolch",
+            "name": "Sebastian Heimann"
+        },
+        "endarthur": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1152125?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gemgis"
+                ]
+            },
+            "login": "endarthur",
+            "name": "Arthur Endlein"
         },
         "epsalt": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/5997498?u=8afd8eaf0363716262c21387ab9ab04eb9d1a547&v=4",
@@ -1070,6 +2225,50 @@
             },
             "login": "eusoubrasileiro",
             "name": "Andr\u00e9"
+        },
+        "fabienengels": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/858738?u=bf214b58daf7f46c7a77acafe408aab41ea42af0&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "fabienengels",
+            "name": "Fabien Engels"
+        },
+        "fabriziobernardi": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5189713?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "fabriziobernardi",
+            "name": null
+        },
+        "fahaddilib": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/34888303?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "fahaddilib",
+            "name": "Fahad Dilib"
+        },
+        "fastamo": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/15706985?u=db35756c499b8e693114e0d2314217b3a2ca5a32&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/loss_function_decision_making_paper",
+                    "cgre-aachen/open_AR_Sandbox"
+                ]
+            },
+            "login": "fastamo",
+            "name": "Fabian"
         },
         "fatiando-bot": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/50936856?u=49f1d4fe18c8f407ecbb06efda7f468361b73ea0&v=4",
@@ -1096,10 +2295,21 @@
             "login": "feziegler",
             "name": "Fernando E. Ziegler"
         },
+        "filefolder": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/22922540?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "filefolder",
+            "name": null
+        },
         "filippo82": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/5595364?u=ae2274a42a43e1a3a3d1c47a8f5afcc07528cf47&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "equinor/segyio",
                     "softwareunderground/52things",
                     "softwareunderground/TeapotDome",
                     "softwareunderground/awesome-open-geoscience",
@@ -1117,10 +2327,11 @@
                     "softwareunderground/getting-started",
                     "softwareunderground/gostin",
                     "softwareunderground/jupyterhub-deployment",
-                    "softwareunderground/llnl.github.io",
+                    "softwareunderground/jupyterhub-terraform-modules",
                     "softwareunderground/meetings-that-matter",
                     "softwareunderground/northern-lights",
                     "softwareunderground/notebooks",
+                    "softwareunderground/open_geosciene_code_projects_viz",
                     "softwareunderground/paris2017",
                     "softwareunderground/repro-zoo",
                     "softwareunderground/subsurface",
@@ -1143,6 +2354,33 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1070677?u=7c28f5bfa518b07cebd08bfbbe1be608199f80ee&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "cgre-aachen/Bayesian-Inference-Cases",
+                    "cgre-aachen/DwarfElephant",
+                    "cgre-aachen/FastElephant",
+                    "cgre-aachen/MSc_theses",
+                    "cgre-aachen/RestClient",
+                    "cgre-aachen/VRTK",
+                    "cgre-aachen/bayseg",
+                    "cgre-aachen/course_infotheory_spatial",
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gemgis_data",
+                    "cgre-aachen/gemplay",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy-canvas",
+                    "cgre-aachen/gempy.github.io",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/gempy_workshops",
+                    "cgre-aachen/hspace",
+                    "cgre-aachen/ki-campus",
+                    "cgre-aachen/loss_function_decision_making_paper",
+                    "cgre-aachen/open_AR_Sandbox",
+                    "cgre-aachen/pynoddy",
+                    "cgre-aachen/pynoddy_old",
+                    "cgre-aachen/remote-geomod",
+                    "cgre-aachen/teaching",
+                    "cgre-aachen/teaching-geomodeling",
+                    "cgre-aachen/teaching-quantitative-methods",
+                    "cgre-aachen/teaching-research-module",
                     "softwareunderground/52things"
                 ]
             },
@@ -1153,12 +2391,23 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2799008?u=6f8c90795f619ddb1b0cd4c464205e337b3ef036&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "cgre-aachen/gempy",
                     "softwareunderground/awesome-open-geoscience",
                     "softwareunderground/gostin"
                 ]
             },
             "login": "florian-wagner",
             "name": "Florian Wagner"
+        },
+        "fmell": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/29569851?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "fmell",
+            "name": "Fredrik Mellemstrand"
         },
         "fozba": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/45905263?v=4",
@@ -1181,6 +2430,59 @@
             "login": "fr1ll",
             "name": "Will Sanger"
         },
+        "frode-aarstad": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/30144033?u=73952b3b5625c63a56d463df4dc4bf52c94ec1fc&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "frode-aarstad",
+            "name": "Frode Aarstad"
+        },
+        "fstettner": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/15358088?u=cfaeca1f0105dd701e59990ae5addc6ea33d0d9b&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "fstettner",
+            "name": "Felix Stettner"
+        },
+        "funveen": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/25061238?u=8f626bffed4b3939faae9eb626a6971b90aae752&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/open_AR_Sandbox"
+                ]
+            },
+            "login": "funveen",
+            "name": "Marco van Veen"
+        },
+        "fxsimon": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/42241791?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "iannesbitt/readgssi"
+                ]
+            },
+            "login": "fxsimon",
+            "name": null
+        },
+        "gauteh": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/56827?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "gauteh",
+            "name": "Gaute Hope"
+        },
         "gavinsimpson": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/514696?u=ded4187029ddad5241694a5716b644f086093cbc&v=4",
             "contributedLabRepositories": {
@@ -1190,6 +2492,56 @@
             },
             "login": "gavinsimpson",
             "name": "Gavin Simpson"
+        },
+        "gdmcbain": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1588947?u=e7554afc617b2d0785fcebc67e7a6e75786c2f6e&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gempy"
+                ]
+            },
+            "login": "gdmcbain",
+            "name": "G. D. McBain"
+        },
+        "gempa-dirk": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/12513181?u=a2d8eed218a8db11ff327211bb587f65557a0438&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "SeisComP/seiscomp"
+                ]
+            },
+            "login": "gempa-dirk",
+            "name": null
+        },
+        "gempa-enrico": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/44572937?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "SeisComP/seiscomp"
+                ]
+            },
+            "login": "gempa-enrico",
+            "name": null
+        },
+        "gempa-jabe": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7439134?u=0060b6793c873cbb6aa36bac21b82843143c3ef0&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "SeisComP/seiscomp"
+                ]
+            },
+            "login": "gempa-jabe",
+            "name": "Jan Becker"
+        },
+        "gempa-stephan": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/9049880?u=27c69fd55d3c37f55da79dd464ab624bd390d134&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "SeisComP/seiscomp"
+                ]
+            },
+            "login": "gempa-stephan",
+            "name": "Stephan Herrnkind"
         },
         "geologuic": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/30461839?u=74b9c43c52fe4ccb584de45c194bf1006a44d4c6&v=4",
@@ -1211,6 +2563,16 @@
             "login": "georgebisbas",
             "name": "George Bisbas"
         },
+        "gesape": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/33690129?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "gesape",
+            "name": "Gesa Petersen"
+        },
         "gganssle": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/12161344?u=3b3bc4e2e28bc09946a86e2d10d971c6b7697fa7&v=4",
             "contributedLabRepositories": {
@@ -1220,6 +2582,16 @@
             },
             "login": "gganssle",
             "name": "Graham Ganssle"
+        },
+        "ghfbsd": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3517691?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "ghfbsd",
+            "name": null
         },
         "gmarkall": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/535640?u=ac4e460d9587a5c2d8feb80d655118babbe133d8&v=4",
@@ -1240,6 +2612,36 @@
             },
             "login": "grajohnt",
             "name": null
+        },
+        "gsakkis": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/291289?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "gsakkis",
+            "name": "George Sakkis"
+        },
+        "guifh": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/21962816?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "emanuelhuber/RGPR"
+                ]
+            },
+            "login": "guifh",
+            "name": "Guillaume Hans"
+        },
+        "haavarop": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/18446508?u=d537b50eb666449ee6b59e4744b54a1a748673b7&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "haavarop",
+            "name": "H\u00e5vard Opheim"
         },
         "hallgrim": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/11503?v=4",
@@ -1262,10 +2664,11 @@
                     "softwareunderground/getting-started",
                     "softwareunderground/gostin",
                     "softwareunderground/jupyterhub-deployment",
-                    "softwareunderground/llnl.github.io",
+                    "softwareunderground/jupyterhub-terraform-modules",
                     "softwareunderground/meetings-that-matter",
                     "softwareunderground/northern-lights",
                     "softwareunderground/notebooks",
+                    "softwareunderground/open_geosciene_code_projects_viz",
                     "softwareunderground/paris2017",
                     "softwareunderground/repro-zoo",
                     "softwareunderground/subsurface",
@@ -1288,6 +2691,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/40091715?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "equinor/segyio",
                     "softwareunderground/getting-started"
                 ]
             },
@@ -1348,6 +2752,16 @@
             "login": "hcasvalle",
             "name": null
         },
+        "heavelock": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10303802?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "heavelock",
+            "name": "Damian Kula"
+        },
         "hexmode": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/43581?u=9b5284e140085560037765d0b8db6227b64aac76&v=4",
             "contributedLabRepositories": {
@@ -1358,6 +2772,16 @@
             "login": "hexmode",
             "name": "Mark A. Hershberger"
         },
+        "hnformentin": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/62240435?u=746b07f1950ce850ad304f4e3fa24a9b693b9475&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "hnformentin",
+            "name": "Helena Nandi Formentin"
+        },
         "horta": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/514522?u=db28259334ceeef0ee3a91c84ff9000144b7bacf&v=4",
             "contributedLabRepositories": {
@@ -1367,6 +2791,16 @@
             },
             "login": "horta",
             "name": "Danilo Horta"
+        },
+        "hsudha": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/23359583?u=3db3220ccabf57f31699ab28d021c4948a634bc3&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "hsudha",
+            "name": null
         },
         "hugovk": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1324225?u=d7e2522cc357c1b8fed0f1c623c68c7331c70c56&v=4",
@@ -1412,15 +2846,124 @@
             "login": "hugovk",
             "name": "Hugo van Kemenade"
         },
+        "hvasbath": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/11273616?u=dcaa39b177b6cd74b9cbadf3430db049b692de9a&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "hvasbath",
+            "name": "Hannes Vasyura-Bathke"
+        },
+        "hwang051785": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/24865029?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/bayseg"
+                ]
+            },
+            "login": "hwang051785",
+            "name": "Hui Wang"
+        },
         "iannesbitt": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/18689918?u=e5f02ae2d340a921858748b0d784919a4ecc449d&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "iannesbitt/readgssi",
+                    "obspy/obspy",
+                    "raspishake/rsudp",
                     "softwareunderground/awesome-open-geoscience"
                 ]
             },
             "login": "iannesbitt",
             "name": "Ian Nesbitt"
+        },
+        "indrarudianto": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/14972246?u=612e5d8397755b09c06998ae767aad954e329532&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "ahotovec/REDPy"
+                ]
+            },
+            "login": "indrarudianto",
+            "name": "Indra Rudianto"
+        },
+        "ingvald": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/296441?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio",
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "ingvald",
+            "name": "Ingvald Skaug"
+        },
+        "isbreen": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3367776?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "isbreen",
+            "name": null
+        },
+        "ivor52": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/26185705?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "raspishake/rsudp"
+                ]
+            },
+            "login": "ivor52",
+            "name": null
+        },
+        "janisozaur": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/550290?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "SeisComP/seiscomp"
+                ]
+            },
+            "login": "janisozaur",
+            "name": "Micha\u0142 Janiszewski"
+        },
+        "javoha": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/38279459?u=2114a10ee2309bb5a92ab422fad8e3b46b056272&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/open_AR_Sandbox",
+                    "cgre-aachen/teaching"
+                ]
+            },
+            "login": "javoha",
+            "name": "Jan von Harten"
+        },
+        "jcfr": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/219043?u=fdc648b09ebb3203e6cffa04dd160b0bd6e4f139&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio"
+                ]
+            },
+            "login": "jcfr",
+            "name": "Jean-Christophe Fillion-Robin"
+        },
+        "jepebe": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5188292?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "jepebe",
+            "name": "Jean-Paul Balabanian"
         },
         "jessepisel": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/12752033?u=e73cfc29c3defde423777ca04d940a18d7229d50&v=4",
@@ -1455,10 +2998,11 @@
                     "softwareunderground/getting-started",
                     "softwareunderground/gostin",
                     "softwareunderground/jupyterhub-deployment",
-                    "softwareunderground/llnl.github.io",
+                    "softwareunderground/jupyterhub-terraform-modules",
                     "softwareunderground/meetings-that-matter",
                     "softwareunderground/northern-lights",
                     "softwareunderground/notebooks",
+                    "softwareunderground/open_geosciene_code_projects_viz",
                     "softwareunderground/paris2017",
                     "softwareunderground/repro-zoo",
                     "softwareunderground/subsurface",
@@ -1487,6 +3031,16 @@
             "login": "jgraves11",
             "name": "Joel Graves"
         },
+        "jijordre": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2352109?u=fdc7acdf3d1a0a2d8e00c5b633baff3806ddce04&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "jijordre",
+            "name": "Jens Ivar J\u00f8rdre"
+        },
         "jis260": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/7260931?u=bc6862fe328c47d173af0d56857f825ba440b31c&v=4",
             "contributedLabRepositories": {
@@ -1496,6 +3050,47 @@
             },
             "login": "jis260",
             "name": null
+        },
+        "jkmacc-LANL": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6475152?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "jkmacc-LANL",
+            "name": null
+        },
+        "jlasky": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/50835017?u=d8dbbcd019f703875f20a4e4841865de83a69523&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "emanuelhuber/RGPR"
+                ]
+            },
+            "login": "jlasky",
+            "name": "Jacob Lasky"
+        },
+        "jmfee-usgs": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1717896?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "jmfee-usgs",
+            "name": "Jeremy Fee"
+        },
+        "jmsaurel": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/22295030?u=8179bea80cf2b7d3680f4f499d043c8df0459a44&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "SeisComP/seiscomp",
+                    "ahotovec/REDPy"
+                ]
+            },
+            "login": "jmsaurel",
+            "name": "Jean-Marie SAUREL"
         },
         "joferkington": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/906803?v=4",
@@ -1518,10 +3113,11 @@
                     "softwareunderground/getting-started",
                     "softwareunderground/gostin",
                     "softwareunderground/jupyterhub-deployment",
-                    "softwareunderground/llnl.github.io",
+                    "softwareunderground/jupyterhub-terraform-modules",
                     "softwareunderground/meetings-that-matter",
                     "softwareunderground/northern-lights",
                     "softwareunderground/notebooks",
+                    "softwareunderground/open_geosciene_code_projects_viz",
                     "softwareunderground/paris2017",
                     "softwareunderground/repro-zoo",
                     "softwareunderground/subsurface",
@@ -1551,16 +3147,60 @@
             "login": "johnjarmitage",
             "name": "John Armitage"
         },
+        "jokva": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/8667957?u=62cd66ee621fc9416b9671917915fa065e5f3219&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio",
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "jokva",
+            "name": "J\u00f8rgen Kvalsvik"
+        },
+        "jondequinor": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/53553193?u=731e5368404ba5ca935ef31bc6b0fe78c089284c&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "jondequinor",
+            "name": "Jonas Gr\u00f8n\u00e5s Drange"
+        },
+        "jordi-domingo": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16877501?u=169c903051be0a0594c83ddede9e349031d90645&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "jordi-domingo",
+            "name": "Jordi Domingo Ballesta"
+        },
         "jrleeman": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/325269?u=f2f12218adef0d594059bfe0754a0f63996b6521&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "fatiando/pooch",
+                    "obspy/obspy",
                     "softwareunderground/52things"
                 ]
             },
             "login": "jrleeman",
             "name": "John Leeman"
+        },
+        "jsaul": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2368999?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "SeisComP/seiscomp",
+                    "obspy/obspy"
+                ]
+            },
+            "login": "jsaul",
+            "name": "Joachim Saul"
         },
         "juliohm": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/3345261?u=310a9a3e902c288e0f0d037d7c838c5c9fccea4c&v=4",
@@ -1584,6 +3224,76 @@
             "login": "justinkheisler",
             "name": null
         },
+        "jwassermann": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2551876?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "jwassermann",
+            "name": null
+        },
+        "jwellik": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20360217?u=0badaae751ec17f67837bb09a908c6ca95902ea5&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "ahotovec/REDPy"
+                ]
+            },
+            "login": "jwellik",
+            "name": "Jay"
+        },
+        "kaeufl": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/951474?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "kaeufl",
+            "name": "Paul K\u00e4ufl"
+        },
+        "kaspervanwijk": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5093854?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "kaspervanwijk",
+            "name": "kasper van wijk"
+        },
+        "kasra-hosseini": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1899856?u=d45a5c059dbc1ff1add8b54f22e0fe0e1f1cbabf&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "kasra-hosseini",
+            "name": "Kasra Hosseini"
+        },
+        "katrinleinweber": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/9948149?u=6cd84dd3b7ac8b8b5c3f991779381ead7e4b6f93&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "katrinleinweber",
+            "name": "Katrin Leinweber"
+        },
+        "ketchum-usgs": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3067828?u=f10e0f8f85c287a653db31687d73b776f43a4461&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "ketchum-usgs",
+            "name": "David Ketchum"
+        },
         "keurfonluu": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/16566206?u=68a6c13a7ff4a9a6b50730f29265cc215ca45620&v=4",
             "contributedLabRepositories": {
@@ -1600,11 +3310,120 @@
                 "nodes": [
                     "agile-geoscience/bruges",
                     "agile-geoscience/welly",
+                    "kinverarity1/lasio",
                     "softwareunderground/subsurface-journal"
                 ]
             },
             "login": "kinverarity1",
             "name": "Kent Inverarity"
+        },
+        "kjellkongsvik": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5341995?u=546b08cc2630adb24bfc3474ef78f9b07431cf29&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "kjellkongsvik",
+            "name": "Kjell Kongsvik"
+        },
+        "knut-erik": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3600521?u=43c7ccf70e3e9374da46fb8dabf26de98e1e1351&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio",
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "knut-erik",
+            "name": "Knut Erik Hollund"
+        },
+        "krischer": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/800487?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "krischer",
+            "name": "Lion Krischer"
+        },
+        "krzysztof-slowinski": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/30654022?u=6ea612d321dfb7bd940db8a55d47efd6a55f26f2&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "kinverarity1/lasio"
+                ]
+            },
+            "login": "krzysztof-slowinski",
+            "name": "Krzysztof S\u0142owi\u0144ski"
+        },
+        "kurddt": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/13832815?u=e2abd83d7efa35ec1883294e5894f5ea8e4fb273&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "kurddt",
+            "name": "Guillaume Lager"
+        },
+        "kvashchuka": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/12686827?u=c0e33da21da39aebe011fcfeb44b8f0bda3ee4d6&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "kvashchuka",
+            "name": "Anna Kvashchuk"
+        },
+        "l-wacker": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/43342068?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/open_AR_Sandbox"
+                ]
+            },
+            "login": "l-wacker",
+            "name": null
+        },
+        "lachlangrose": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7371904?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/open_AR_Sandbox",
+                    "cgre-aachen/pynoddy"
+                ]
+            },
+            "login": "lachlangrose",
+            "name": null
+        },
+        "lars-petter-hauge": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/26920711?u=3c4782288f05096f04dc1f09997cb219ec9c29e1&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "lars-petter-hauge",
+            "name": "Lars Petter Hauge"
+        },
+        "larskaare": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10708951?u=c87b917c9b525d9e075cb5620e9d916724b5705e&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio",
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "larskaare",
+            "name": "Lars K\u00e5re Skj\u00f8restad"
         },
         "lheagy": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/6361812?u=c414ffc3fe61a9a984ab7ac2e99c142b913ebf47&v=4",
@@ -1628,10 +3447,11 @@
                     "softwareunderground/getting-started",
                     "softwareunderground/gostin",
                     "softwareunderground/jupyterhub-deployment",
-                    "softwareunderground/llnl.github.io",
+                    "softwareunderground/jupyterhub-terraform-modules",
                     "softwareunderground/meetings-that-matter",
                     "softwareunderground/northern-lights",
                     "softwareunderground/notebooks",
+                    "softwareunderground/open_geosciene_code_projects_viz",
                     "softwareunderground/paris2017",
                     "softwareunderground/repro-zoo",
                     "softwareunderground/subsurface",
@@ -1649,6 +3469,27 @@
             },
             "login": "lheagy",
             "name": "Lindsey Heagy"
+        },
+        "lightenup": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1781353?u=90e2500c7941a61fbe6f9639207265c6cc6a3823&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio"
+                ]
+            },
+            "login": "lightenup",
+            "name": "Andreas Jacobsen"
+        },
+        "lijunzh": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/9093413?u=9e67f2cffd17668c622c6ce9d005e2d7c47d6fc2&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "lijunzh",
+            "name": "Lijun Zhu"
         },
         "lmartinking": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/38818?u=b75838470c088da41644684c2b5d1916d9bf0e50&v=4",
@@ -1670,6 +3511,26 @@
             "login": "lperozzi",
             "name": "Lorenzo Perozzi"
         },
+        "ltrani": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6178248?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "ltrani",
+            "name": null
+        },
+        "luca-s": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/15273575?u=31b16107000fe2e02ba2597f4770bb23e3966fdd&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "luca-s",
+            "name": null
+        },
         "lukegre": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/2463416?v=4",
             "contributedLabRepositories": {
@@ -1679,6 +3540,67 @@
             },
             "login": "lukegre",
             "name": "Luke Gregor"
+        },
+        "m-w": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2520090?u=32c3ff6e0f86ecc73179ea13d89788f54f5cfeca&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "m-w",
+            "name": "Marcus"
+        },
+        "marcopovitch": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4367036?u=3228af035b4ba26138e86eb09e3f8a2c0d74628b&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "marcopovitch",
+            "name": "Marc Grunberg"
+        },
+        "markcwill": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1356134?u=c46fa5e23a4c8b71b9038458b6dc98a2e1a9a91c&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "markcwill",
+            "name": "Mark C. Williams"
+        },
+        "markjessell": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6822240?u=8e7b66232cc25458d5c362187ab954d9d5089ced&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/pynoddy",
+                    "cgre-aachen/pynoddy_old"
+                ]
+            },
+            "login": "markjessell",
+            "name": null
+        },
+        "markusdregi": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1557864?u=31e6d702b12b2603a6829bc8213019917591422a&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "markusdregi",
+            "name": "Markus Fanebust Dregi"
+        },
+        "martinvandriel": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2306288?u=ee364f04632ad80b2d823a6feed391c1ac313eb8&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "martinvandriel",
+            "name": "Martin van Driel"
         },
         "mathause": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/10194086?v=4",
@@ -1700,6 +3622,36 @@
             "login": "matthewturk",
             "name": "Matthew Turk"
         },
+        "mbdb": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4572310?u=1cc61e5c1b75e9ddb482db781159f5732f5792b5&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "mbdb",
+            "name": "Maxime B\u00e8s de Berc"
+        },
+        "mbyt": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1878241?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "mbyt",
+            "name": null
+        },
+        "mchristoffersen": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20444101?u=9f918e4879fa86d946f4344f1acb21d5ffabbafc&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "btobers/RAGU"
+                ]
+            },
+            "login": "mchristoffersen",
+            "name": "Michael Christoffersen"
+        },
         "mdpiper": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/5673711?u=08fd102d64d6b4aac3b5b80e959b03b7b3edabcc&v=4",
             "contributedLabRepositories": {
@@ -1709,6 +3661,28 @@
             },
             "login": "mdpiper",
             "name": "Mark Piper"
+        },
+        "medlin01GA": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45585863?u=8c6d8457575a22f9188bf9eea4251108199e3f9b&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "medlin01GA",
+            "name": "Andrew Medlin"
+        },
+        "megies": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1842780?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "SeisComP/seiscomp",
+                    "obspy/obspy",
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "megies",
+            "name": "Tobias Megies"
         },
         "metazool": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/369631?u=58d8dda8830f1bbd798832c47c0f362779105bf0&v=4",
@@ -1720,6 +3694,17 @@
             "login": "metazool",
             "name": "Jo Walsh"
         },
+        "miili": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4992805?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy",
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "miili",
+            "name": "Mi!"
+        },
         "morganjwilliams": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/11415019?u=60ffa65d2a9582cc49ef7e2d1ff704bf1b453393&v=4",
             "contributedLabRepositories": {
@@ -1729,6 +3714,46 @@
             },
             "login": "morganjwilliams",
             "name": "Morgan Williams"
+        },
+        "mortalisk": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/596662?u=1d26c2b2c0014cfd9c025881a9be9965a41c19ca&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "mortalisk",
+            "name": "Morten Bendiksen"
+        },
+        "moscardo": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/22883455?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "moscardo",
+            "name": null
+        },
+        "mpanning": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/14908499?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "mpanning",
+            "name": "Mark Panning"
+        },
+        "mrSundvoll": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/35451859?u=f1f97fa08ab3c51076b380be718b59ecf39281f3&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "mrSundvoll",
+            "name": "Thomas Sundvoll"
         },
         "mtb-za": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1148889?u=a1ae1c53ae566c28b8a3186c090edc568d3a7868&v=4",
@@ -1767,6 +3792,7 @@
                     "agile-geoscience/bruges",
                     "agile-geoscience/gio",
                     "agile-geoscience/in-bruges",
+                    "equinor/segyio",
                     "softwareunderground/52things",
                     "softwareunderground/TeapotDome",
                     "softwareunderground/awesome-open-geoscience",
@@ -1784,10 +3810,11 @@
                     "softwareunderground/getting-started",
                     "softwareunderground/gostin",
                     "softwareunderground/jupyterhub-deployment",
-                    "softwareunderground/llnl.github.io",
+                    "softwareunderground/jupyterhub-terraform-modules",
                     "softwareunderground/meetings-that-matter",
                     "softwareunderground/northern-lights",
                     "softwareunderground/notebooks",
+                    "softwareunderground/open_geosciene_code_projects_viz",
                     "softwareunderground/paris2017",
                     "softwareunderground/repro-zoo",
                     "softwareunderground/subsurface",
@@ -1806,15 +3833,56 @@
             "login": "mycarta",
             "name": "Matteo Niccoli"
         },
+        "nackerley": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/14931979?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "nackerley",
+            "name": "Nick Ackerley"
+        },
+        "nasedil": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3921196?u=0b5c3dcf91b98e28857fc57ecd7a22f2bad4d1c6&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "kinverarity1/lasio"
+                ]
+            },
+            "login": "nasedil",
+            "name": "Eugene Petkevich"
+        },
         "nathangeology": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/11741660?u=d83a2fbfb47842f6e94f2a0543d79af293b9bb1a&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "JustinGOSSES/wellioviz"
+                    "JustinGOSSES/wellioviz",
+                    "softwareunderground/northern-lights"
                 ]
             },
             "login": "nathangeology",
             "name": "Nathan"
+        },
+        "nicholasdalhaug": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/25051255?u=e44b8ec827b69baf55646a54065f347eb4e1d782&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "nicholasdalhaug",
+            "name": "Nicholas Dalhaug"
+        },
+        "nick-falco": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/20054276?u=5a728c0bc44ee87d403f27392b5fdd5c5b7e682e&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "nick-falco",
+            "name": "Nick Falco"
         },
         "nielsdrost": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1703440?v=4",
@@ -1835,6 +3903,36 @@
             },
             "login": "nikolai-andrianov",
             "name": "Nikolai Andrianov"
+        },
+        "nikosT": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/673600?u=cb0834c24963bceaa034711e2839d815e1552e9f&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "nikosT",
+            "name": "Nikolaos Triantafyllis"
+        },
+        "nilsml": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1836295?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "nilsml",
+            "name": "Nils Magne Lunde"
+        },
+        "nimanzik": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4640548?u=3b06761bb0c40396c880978fecf3dd799bfbd9d0&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "nimanzik",
+            "name": "Nima Nooshiri"
         },
         "nshea3": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/25097799?u=e836dd67179e04f81e04f0042ef3f3fd0298696f&v=4",
@@ -1880,6 +3978,98 @@
             "login": "nshea3",
             "name": "Nicholas Shea"
         },
+        "obspy-bot": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/68334989?u=c18edf89e7808c7a09165c646e52e2c4b765e99b&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "obspy-bot",
+            "name": null
+        },
+        "oihaa": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/25502388?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "oihaa",
+            "name": "\u00d8istein Haaland"
+        },
+        "olavvatne": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2386315?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "olavvatne",
+            "name": "Olav K\u00e5re Vatne"
+        },
+        "olstar": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5500405?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "olstar",
+            "name": null
+        },
+        "ooystein": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/705469?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "ooystein",
+            "name": "\u00d8ystein Lygre"
+        },
+        "oyron": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7581493?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio",
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "oyron",
+            "name": "\u00d8yvind R\u00f8nne"
+        },
+        "oysteoh": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4184190?u=3c87c403675e0a6586d6b1914df13e96e79b3e12&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "oysteoh",
+            "name": "\u00d8ystein Olai Heggen"
+        },
+        "oyvindeide": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/44577479?u=88658a314a37d829bcdb30540ff3fee098811c55&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "oyvindeide",
+            "name": "\u00d8yvind Eide"
+        },
+        "paitor": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/12034761?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "paitor",
+            "name": null
+        },
         "paleolimbot": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/10995762?u=964d5dc69b45b5f96975903f08c42457b3b6f8bb&v=4",
             "contributedLabRepositories": {
@@ -1889,6 +4079,26 @@
             },
             "login": "paleolimbot",
             "name": "Dewey Dunnington"
+        },
+        "paride": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7614669?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "paride",
+            "name": "Paride Legovini"
+        },
+        "pederka": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4280542?u=9c53dc555b317634cccc61bdb6c73930ef015ec1&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "pederka",
+            "name": "Peder Aursand"
         },
         "perolavsvendsen": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/35033325?u=9228b8ddcf3fc16b9e824455e7396e862b440e6f&v=4",
@@ -1900,6 +4110,36 @@
             "login": "perolavsvendsen",
             "name": "Per Olav Eide Svendsen"
         },
+        "petrrr": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3065632?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "petrrr",
+            "name": null
+        },
+        "pevans-gfz": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16350518?u=8ebd01f6817aadd52e04678c1efc10bf0f808da6&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "SeisComP/seiscomp"
+                ]
+            },
+            "login": "pevans-gfz",
+            "name": "Peter Evans"
+        },
+        "pgdr": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/17569537?u=caa75dab13a579289eddda4bb988411b1a479dd1&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "pgdr",
+            "name": "P\u00e5l Gr\u00f8n\u00e5s Drange"
+        },
         "philippeVerney": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/14927824?u=62dd318794e778461f3fd28f04cc808dea6d75ed&v=4",
             "contributedLabRepositories": {
@@ -1909,6 +4149,56 @@
             },
             "login": "philippeVerney",
             "name": "Philippe Verney"
+        },
+        "polarism": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/8032316?u=d6bb9450c34a5f23d3fd58cabbf9099324a5020d&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "polarism",
+            "name": "J Graves"
+        },
+        "prokorpio": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/47804913?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "SeisComP/seiscomp"
+                ]
+            },
+            "login": "prokorpio",
+            "name": null
+        },
+        "prometheus-unbound": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/40434294?u=ea1420cfef5e36c5c09ef423872aaaab11e74000&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "prometheus-unbound",
+            "name": "Evan Delaney"
+        },
+        "pyrocko-bot": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/73834031?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "pyrocko-bot",
+            "name": "Pyrocko"
+        },
+        "pyup-bot": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16239342?u=8454ae029661131445080f023e1efccc29166485&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "pyup-bot",
+            "name": "pyup.io bot"
         },
         "rabernat": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1197350?u=22fadd8a22e3121c07c975a1311570533dbda5e3&v=4",
@@ -1920,6 +4210,16 @@
             "login": "rabernat",
             "name": "Ryan Abernathey"
         },
+        "raciner": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4059688?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "raciner",
+            "name": null
+        },
         "rafaelmds": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/9625617?v=4",
             "contributedLabRepositories": {
@@ -1930,6 +4230,36 @@
             "login": "rafaelmds",
             "name": "Rafael Silva"
         },
+        "rannof": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10617458?u=e4368d5396afb24a0d45d9d4892fc42747a162c2&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "rannof",
+            "name": null
+        },
+        "rantanplan77": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/17641534?u=14ae55ca10364392ce2705d09a9393464ce24b13&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "rantanplan77",
+            "name": null
+        },
+        "raplima": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/19602119?u=f2df0dd2c0b77078afb7cb08261c7b7c6ad30520&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "raplima",
+            "name": "Rafael Pires de Lima"
+        },
         "remram44": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/426784?u=87aadd25f03b1a228908318c3c71a78a612f0a0e&v=4",
             "contributedLabRepositories": {
@@ -1939,6 +4269,26 @@
             },
             "login": "remram44",
             "name": "Remi Rampin"
+        },
+        "rizac": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6418666?u=91d8355f49343d990a057580395cb56b642ddcbd&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "rizac",
+            "name": "Riccardo Zaccarelli"
+        },
+        "rmlopes": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/423404?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "rmlopes",
+            "name": "Rui Lopes"
         },
         "robinthibaut": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/50947817?u=752f7999aa2fa44f537bb35bdb1a9d8410ca103a&v=4",
@@ -1954,6 +4304,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5302216?u=42e9b654c0cb2a1b79a0c27d2fa7930ca5c0ea44&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "kinverarity1/lasio",
                     "softwareunderground/awesome-open-geoscience"
                 ]
             },
@@ -1969,6 +4320,47 @@
             },
             "login": "rosay2019",
             "name": null
+        },
+        "rwiker": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1062970?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "rwiker",
+            "name": "Raymond Wiker"
+        },
+        "s-schneider": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/11460098?u=b86138038e0ccad145b4a7d897ae039b20af4b16&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "s-schneider",
+            "name": "Simon Schneider"
+        },
+        "salichon": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1953345?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "SeisComP/seiscomp"
+                ]
+            },
+            "login": "salichon",
+            "name": "jerry"
+        },
+        "samthiele": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10939946?u=3dc33eb4f3102755c8e4edda697dba551b8ad3e5&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/pynoddy",
+                    "cgre-aachen/pynoddy_old"
+                ]
+            },
+            "login": "samthiele",
+            "name": "Sam Thiele"
         },
         "sangerc24791": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/46692573?v=4",
@@ -2034,15 +4426,66 @@
             "login": "sasvariagoston",
             "name": null
         },
+        "sbark-equinor": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/35567647?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "sbark-equinor",
+            "name": "Simon Paul Barker"
+        },
+        "sboltz": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/13965350?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "sboltz",
+            "name": "Shawn"
+        },
+        "sbonaime": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/750709?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "sbonaime",
+            "name": "Sebastien"
+        },
+        "scheingraber": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2751350?u=e1ed37331d0a40e1ba6987239b41bec8f112651e&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "scheingraber",
+            "name": "Christoph Scheingraber"
+        },
         "seisman": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/3974108?u=6adf122b0e527d86f7729792a3f5743b6267cb18&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "fatiando/continuous-integration"
+                    "fatiando/continuous-integration",
+                    "obspy/obspy"
                 ]
             },
             "login": "seisman",
             "name": "Dongdong Tian"
+        },
+        "sfieux": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/8349623?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "sfieux",
+            "name": "S. Fieux"
         },
         "sgkang": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/6054371?u=3934f5030fe3cf85785148edd8cc441f9cb2417a&v=4",
@@ -2065,10 +4508,11 @@
                     "softwareunderground/getting-started",
                     "softwareunderground/gostin",
                     "softwareunderground/jupyterhub-deployment",
-                    "softwareunderground/llnl.github.io",
+                    "softwareunderground/jupyterhub-terraform-modules",
                     "softwareunderground/meetings-that-matter",
                     "softwareunderground/northern-lights",
                     "softwareunderground/notebooks",
+                    "softwareunderground/open_geosciene_code_projects_viz",
                     "softwareunderground/paris2017",
                     "softwareunderground/repro-zoo",
                     "softwareunderground/subsurface",
@@ -2086,6 +4530,48 @@
             },
             "login": "sgkang",
             "name": "Seogi Kang"
+        },
+        "shicks-seismo": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/25796081?u=b7a1086a49621fa88686e1b92d4e2abce3159882&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "shicks-seismo",
+            "name": "Stephen Hicks"
+        },
+        "simondaout": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3901831?u=cd90d97b99bca359683c11ddc16770727a0003e5&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "simondaout",
+            "name": "Simon Daout"
+        },
+        "sondreso": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3437958?u=96ed4731d4f91d0ea03411aa538e81c3889263fc&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "sondreso",
+            "name": "Sondre Sortland"
+        },
+        "soofstad": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/11062560?u=7fbb333f5030e70bbc2c54d5be23bc5102bf4143&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio",
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "soofstad",
+            "name": "Stig Oskar Ofstad"
         },
         "soupault": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1315589?u=4ef9afb42ea75a6a9a6f6f9afcca0a4114b0c0b5&v=4",
@@ -2107,6 +4593,16 @@
             "login": "srossross",
             "name": "Sean Ross-Ross"
         },
+        "sstaehler": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5054072?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "sstaehler",
+            "name": "Simon St\u00e4hler"
+        },
         "stunglan": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/3390533?u=23895af84c93a82d193c43a30686db9029914e48&v=4",
             "contributedLabRepositories": {
@@ -2116,6 +4612,86 @@
             },
             "login": "stunglan",
             "name": "Knut Sebastian Tungland"
+        },
+        "sveinung-r": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/33453483?u=8cd5ed82b285a565503e203ac96c17d9f08f8740&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "sveinung-r",
+            "name": "Sveinung Styve Rundhovde"
+        },
+        "tbartholomaus": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/24902730?u=924e4fbe1d2f3ec278da64a1fbf50d449bff383b&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "tbartholomaus",
+            "name": "Timothy Bartholomaus"
+        },
+        "teshaw": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/19433955?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "iannesbitt/readgssi"
+                ]
+            },
+            "login": "teshaw",
+            "name": null
+        },
+        "tfabbri": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3789256?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "tfabbri",
+            "name": "Tommaso Fabbri"
+        },
+        "thefroid": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/44800255?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "thefroid",
+            "name": null
+        },
+        "thomaspaulin": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7918983?u=84978f7006682b491277bad9b70e56c85f4d2575&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "iannesbitt/readgssi"
+                ]
+            },
+            "login": "thomaspaulin",
+            "name": "Thomas Paulin"
+        },
+        "thorvaldj": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/15084059?u=60f759536a7b1a83e0d0490d3ca9fec57fa654a2&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "thorvaldj",
+            "name": "Thorvald Johannessen"
+        },
+        "timgates42": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/47873678?u=5979ac643b54da99a384068c6aa23fa56296b87e&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "timgates42",
+            "name": "Tim Gates"
         },
         "tjnewton": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/54011699?u=7e7cfd6f83627d665064e62a8c0cfa766d1c72fd&v=4",
@@ -2131,21 +4707,63 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/16615839?u=89a29abd00778ce20dde3372cbbb4ba5d3e70552&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "softwareunderground/awesome-open-geoscience"
+                    "softwareunderground/awesome-open-geoscience",
+                    "toddheitmann/PetroPy"
                 ]
             },
             "login": "toddheitmann",
             "name": "Todd"
         },
+        "tparker-usgs": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2372638?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "tparker-usgs",
+            "name": "Tom Parker"
+        },
         "traviscibot": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/33116358?u=2e4c996d9e7d5f883d638b01f063e5dee363ecdd&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "cgre-aachen/gempy",
                     "softwareunderground/subsurface-journal"
                 ]
             },
             "login": "traviscibot",
             "name": "Travis CI"
+        },
+        "trichter": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2046150?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "trichter",
+            "name": "Tom Eulenfeld"
+        },
+        "trinhtuanvu": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/14177437?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "raspishake/rsudp"
+                ]
+            },
+            "login": "trinhtuanvu",
+            "name": "Vu"
+        },
+        "trqmorgan": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/53426559?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "kinverarity1/lasio"
+                ]
+            },
+            "login": "trqmorgan",
+            "name": "Tim Morgan"
         },
         "unjymslf": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/33404428?u=b1240143a597c82dfc372d0b4c05d60da04deae5&v=4",
@@ -2157,6 +4775,37 @@
             "login": "unjymslf",
             "name": "Tom Creech"
         },
+        "valentinmetraux": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/13730734?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "valentinmetraux",
+            "name": "Valentin M\u00e9traux"
+        },
+        "vcoeur61": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5976562?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "vcoeur61",
+            "name": null
+        },
+        "vero-so": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/39615575?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/dlisio",
+                    "equinor/segyio"
+                ]
+            },
+            "login": "vero-so",
+            "name": null
+        },
         "victortxa": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/10142902?v=4",
             "contributedLabRepositories": {
@@ -2166,6 +4815,26 @@
             },
             "login": "victortxa",
             "name": "Victor Almeida"
+        },
+        "vnys": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2081882?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "vnys",
+            "name": "Victor Nystad"
+        },
+        "waldeland": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/32647204?u=f8a0242b0bd385f068cf226094a638fb2a49ccb8&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/seismic-zfp"
+                ]
+            },
+            "login": "waldeland",
+            "name": "Anders U. Waldeland"
         },
         "waldyrious": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/478237?u=ce9c0bf0073be810c916be299d0a95728be9fe56&v=4",
@@ -2177,15 +4846,76 @@
             "login": "waldyrious",
             "name": "Waldir Pimenta"
         },
+        "wangyinz": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/22849821?u=c8ff520b93814d179cb3499490dd62ad56631627&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "wangyinz",
+            "name": "Ian Wang"
+        },
         "waynegm": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/3080502?u=44e7674ac8a7462eb3d1743c5bcd9b6d8c45361d&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "softwareunderground/awesome-open-geoscience"
+                    "softwareunderground/awesome-open-geoscience",
+                    "waynegm/OpendTect-Plugins"
                 ]
             },
             "login": "waynegm",
             "name": "Wayne Mogg"
+        },
+        "wenche": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1568252?u=4c18dcb6d1d73aea15eb21f2af1ea39dd1d6a187&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "wenche",
+            "name": "Wenche Tollevsen"
+        },
+        "whamlyn": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6137001?u=36afc86334e3453f6810b936c8b1415780d06cff&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "whamlyn/auralib"
+                ]
+            },
+            "login": "whamlyn",
+            "name": "Wes Hamlyn"
+        },
+        "wsja": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/19715195?u=0baa1011bcdbf22aef4c7c0d72ac029f6adf8a55&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "pyrocko/pyrocko"
+                ]
+            },
+            "login": "wsja",
+            "name": "Wasja"
+        },
+        "xjules": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6409506?u=69624b828de603d883ef851ca2889fe4496f0160&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "equinor/segyio"
+                ]
+            },
+            "login": "xjules",
+            "name": "Julius Parulek"
+        },
+        "xoviat": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/49173759?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "xoviat",
+            "name": null
         },
         "y3l2n": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/8620875?u=a7be9c72f0c61b17c0b8a3b3e4f763b8a2fbe447&v=4",
@@ -2197,15 +4927,92 @@
             "login": "y3l2n",
             "name": "yulan lin"
         },
+        "yangjiandendi": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/73196447?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/teaching-geomodeling"
+                ]
+            },
+            "login": "yangjiandendi",
+            "name": null
+        },
+        "yannikbehr": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2305224?u=4281ccbe12a812e9a55605af5591f69a952623d0&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "yannikbehr",
+            "name": null
+        },
+        "yetinam": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/14940857?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "yetinam",
+            "name": null
+        },
+        "yohanderose": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/38681260?u=177d651adbee434b63bf6c72a701a93304443374&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/open_AR_Sandbox"
+                ]
+            },
+            "login": "yohanderose",
+            "name": "Yohan de Rose"
+        },
+        "yujiaxin666": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45630390?u=6bfde01614d8ddf695b42b07b061d7b5b6d30f68&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "cgre-aachen/teaching"
+                ]
+            },
+            "login": "yujiaxin666",
+            "name": "Isabella yu"
+        },
+        "yulin-li": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/12013783?u=fe381ea4c48fdc5f3aa3bf7502e41f414db741bd&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "yulin-li",
+            "name": "Yulin Li"
+        },
         "yuriyi": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/29301390?u=9f50f662aff2bd12515052bbf35fd72bf9097355&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "agile-geoscience/in-bruges"
+                    "agile-geoscience/in-bruges",
+                    "cgre-aachen/gemgis",
+                    "cgre-aachen/gempy",
+                    "cgre-aachen/gempy_data",
+                    "cgre-aachen/open_AR_Sandbox"
                 ]
             },
             "login": "yuriyi",
             "name": "Yuriy Ivanov"
+        },
+        "zacherle": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/30291286?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "obspy/obspy"
+                ]
+            },
+            "login": "zacherle",
+            "name": "Pavel Zacherle"
         },
         "zflamig": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20603302?u=bc5bc249828bbc595c541ba53863302996442785&v=4",
