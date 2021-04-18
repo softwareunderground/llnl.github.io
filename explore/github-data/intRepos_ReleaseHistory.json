@@ -1,5 +1,61 @@
 {
     "data": {
+        "GenericMappingTools/pygmt": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v0.1.0",
+                        "publishedAt": "2020-05-03T05:06:11Z",
+                        "tagName": "v0.1.0"
+                    },
+                    {
+                        "name": "v0.1.1",
+                        "publishedAt": "2020-05-22T03:21:57Z",
+                        "tagName": "v0.1.1"
+                    },
+                    {
+                        "name": "v0.1.2",
+                        "publishedAt": "2020-07-07T01:14:01Z",
+                        "tagName": "v0.1.2"
+                    },
+                    {
+                        "name": "v0.2.0",
+                        "publishedAt": "2020-09-12T01:51:18Z",
+                        "tagName": "v0.2.0"
+                    },
+                    {
+                        "name": "v0.2.1",
+                        "publishedAt": "2020-11-14T08:13:04Z",
+                        "tagName": "v0.2.1"
+                    },
+                    {
+                        "name": "v0.3.0",
+                        "publishedAt": "2021-02-15T09:50:10Z",
+                        "tagName": "v0.3.0"
+                    },
+                    {
+                        "name": "v0.3.1",
+                        "publishedAt": "2021-03-14T11:18:54Z",
+                        "tagName": "v0.3.1"
+                    }
+                ]
+            }
+        },
+        "GeoscienceAustralia/uncover-ml": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "JohnWStockwellJr/OpenSeaSeis": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "JohnWStockwellJr/SeisUnix": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "JustinGOSSES/predictatops": {
             "releases": {
                 "nodes": [
@@ -95,6 +151,102 @@
                         "name": "GPRPy Version 1.0.5",
                         "publishedAt": "2019-08-01T19:44:37Z",
                         "tagName": "v1.0.5"
+                    }
+                ]
+            }
+        },
+        "OpenGeoVis/PVGeo": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Beta Release",
+                        "publishedAt": "2017-11-13T07:02:42Z",
+                        "tagName": "v0.1.0"
+                    },
+                    {
+                        "name": "Beta 2",
+                        "publishedAt": "2018-01-21T23:52:34Z",
+                        "tagName": "v0.2.0"
+                    },
+                    {
+                        "name": "Beta 3",
+                        "publishedAt": "2018-02-05T02:47:50Z",
+                        "tagName": "0.3.0"
+                    },
+                    {
+                        "name": "Beta 3.1 BUG FIXES",
+                        "publishedAt": "2018-03-19T02:12:18Z",
+                        "tagName": "0.3.1"
+                    },
+                    {
+                        "name": "Beta 4: All about the docs",
+                        "publishedAt": "2018-04-04T01:57:09Z",
+                        "tagName": "0.4.0"
+                    },
+                    {
+                        "name": "Beta 5: UBC GIF Format Readers and More",
+                        "publishedAt": "2018-05-29T20:03:42Z",
+                        "tagName": "0.5.0"
+                    },
+                    {
+                        "name": "Beta 5.1: Rebranding as **PVGeophysics**",
+                        "publishedAt": "2018-06-01T18:47:44Z",
+                        "tagName": "0.5.1"
+                    },
+                    {
+                        "name": "Beta 6: Plugin Suites",
+                        "publishedAt": "2018-06-05T06:09:28Z",
+                        "tagName": "0.6.0"
+                    },
+                    {
+                        "name": "Beta 6.3: Model Building and Bug Squashing Galore",
+                        "publishedAt": "2018-06-08T07:09:20Z",
+                        "tagName": "0.6.3"
+                    },
+                    {
+                        "name": "Beta 6.4 Multiple Input Ports and Array Selections",
+                        "publishedAt": "2018-06-08T16:25:36Z",
+                        "tagName": "0.6.4"
+                    },
+                    {
+                        "name": "Major changes to the PVGPpy module",
+                        "publishedAt": "2018-06-10T23:25:35Z",
+                        "tagName": "0.7.0"
+                    },
+                    {
+                        "name": "Rename of Python Module: PVGeo",
+                        "publishedAt": "2018-06-11T07:44:59Z",
+                        "tagName": "0.7.1"
+                    },
+                    {
+                        "name": "Deployed on PyPI",
+                        "publishedAt": "2018-07-08T08:46:21Z",
+                        "tagName": "v1.0.6"
+                    },
+                    {
+                        "name": "Full Release",
+                        "publishedAt": "2018-07-09T19:46:15Z",
+                        "tagName": "v1.0.11"
+                    },
+                    {
+                        "name": "Automatic Documentation!",
+                        "publishedAt": "2018-07-11T20:49:34Z",
+                        "tagName": "v1.1.1"
+                    },
+                    {
+                        "name": "vtki Support",
+                        "publishedAt": "2019-01-16T08:25:21Z",
+                        "tagName": "v1.2.0"
+                    },
+                    {
+                        "name": "v2.0.0 Alpha Release",
+                        "publishedAt": "2019-04-21T23:32:19Z",
+                        "tagName": "v2.0.0a"
+                    },
+                    {
+                        "name": "JOSS Paper",
+                        "publishedAt": "2019-06-28T21:21:15Z",
+                        "tagName": "v2.0.1"
                     }
                 ]
             }
@@ -1728,6 +1880,11 @@
                 ]
             }
         },
+        "joferkington/mplstereonet": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "kinverarity1/lasio": {
             "releases": {
                 "nodes": [
@@ -1864,6 +2021,117 @@
                 ]
             }
         },
+        "morganjwilliams/pyrolite": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "0.0.14",
+                        "publishedAt": "2019-01-21T07:45:13Z",
+                        "tagName": "0.0.14"
+                    },
+                    {
+                        "name": "0.0.15",
+                        "publishedAt": "2019-02-13T19:59:49Z",
+                        "tagName": "0.0.15"
+                    },
+                    {
+                        "name": "0.0.16",
+                        "publishedAt": "2019-02-20T09:04:09Z",
+                        "tagName": "0.0.16"
+                    },
+                    {
+                        "name": "0.0.17",
+                        "publishedAt": "2019-03-07T05:51:14Z",
+                        "tagName": "0.0.17"
+                    },
+                    {
+                        "name": "0.1.0",
+                        "publishedAt": "2019-03-19T00:52:42Z",
+                        "tagName": "0.1.0"
+                    },
+                    {
+                        "name": "0.1.1",
+                        "publishedAt": "2019-03-22T09:21:22Z",
+                        "tagName": "0.1.1"
+                    },
+                    {
+                        "name": "0.1.2",
+                        "publishedAt": "2019-03-23T08:43:40Z",
+                        "tagName": "0.1.2"
+                    },
+                    {
+                        "name": "0.1.4",
+                        "publishedAt": "2019-03-24T06:58:50Z",
+                        "tagName": "0.1.4"
+                    },
+                    {
+                        "name": "0.1.5",
+                        "publishedAt": "2019-03-26T01:22:03Z",
+                        "tagName": "0.1.5"
+                    },
+                    {
+                        "name": "0.1.7",
+                        "publishedAt": "2019-03-26T09:08:08Z",
+                        "tagName": "0.1.7"
+                    },
+                    {
+                        "name": "0.1.8",
+                        "publishedAt": "2019-03-27T01:03:15Z",
+                        "tagName": "0.1.8"
+                    },
+                    {
+                        "name": "0.1.13",
+                        "publishedAt": "2019-04-09T05:40:04Z",
+                        "tagName": "0.1.13"
+                    },
+                    {
+                        "name": "0.1.15",
+                        "publishedAt": "2019-05-08T02:16:43Z",
+                        "tagName": "0.1.15"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-09-09T06:22:38Z",
+                        "tagName": "0.1.20"
+                    },
+                    {
+                        "name": "0.1.21",
+                        "publishedAt": "2019-09-19T08:02:14Z",
+                        "tagName": "0.1.21"
+                    },
+                    {
+                        "name": "0.2.0",
+                        "publishedAt": "2019-10-06T08:19:21Z",
+                        "tagName": "0.2.0"
+                    },
+                    {
+                        "name": "0.2.4",
+                        "publishedAt": "2020-01-20T01:47:38Z",
+                        "tagName": "0.2.4"
+                    },
+                    {
+                        "name": "0.2.5",
+                        "publishedAt": "2020-02-19T03:09:45Z",
+                        "tagName": "0.2.5"
+                    },
+                    {
+                        "name": "0.2.7",
+                        "publishedAt": "2020-06-05T03:31:49Z",
+                        "tagName": "0.2.7"
+                    },
+                    {
+                        "name": "0.2.8",
+                        "publishedAt": "2020-08-07T09:23:19Z",
+                        "tagName": "0.2.8"
+                    },
+                    {
+                        "name": "0.3.0",
+                        "publishedAt": "2021-03-15T07:12:03Z",
+                        "tagName": "0.3.0"
+                    }
+                ]
+            }
+        },
         "obspy/obspy": {
             "releases": {
                 "nodes": [
@@ -1970,6 +2238,17 @@
                 ]
             }
         },
+        "opengeostat/pygslib": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "pygslib v0.0.0.3",
+                        "publishedAt": "2015-09-30T09:39:38Z",
+                        "tagName": "v0.0.0.3"
+                    }
+                ]
+            }
+        },
         "pyrocko/pyrocko": {
             "releases": {
                 "nodes": [
@@ -2006,6 +2285,177 @@
                 ]
             }
         },
+        "pyvista/pyvista": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "First Release",
+                        "publishedAt": "2017-11-14T18:14:18Z",
+                        "tagName": "0.3.2"
+                    },
+                    {
+                        "name": "Using Subclasses instead of adding Methods",
+                        "publishedAt": "2017-11-27T17:39:23Z",
+                        "tagName": "0.4.0"
+                    },
+                    {
+                        "name": "Additional Structured Functionality",
+                        "publishedAt": "2018-01-16T12:13:22Z",
+                        "tagName": "0.5.0"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-02-17T23:47:27Z",
+                        "tagName": "0.16.8"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-02-17T23:47:53Z",
+                        "tagName": "0.16.9"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-02-23T06:22:54Z",
+                        "tagName": "0.16.10"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-03-03T02:07:03Z",
+                        "tagName": "0.17.0"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-03-06T02:40:52Z",
+                        "tagName": "0.17.1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-03-17T14:01:01Z",
+                        "tagName": "0.17.2"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-03-25T20:03:56Z",
+                        "tagName": "0.17.4"
+                    },
+                    {
+                        "name": "Zenodo Repository",
+                        "publishedAt": "2019-04-19T22:27:43Z",
+                        "tagName": "v0.18.3"
+                    },
+                    {
+                        "name": "PyVista: Recent name change",
+                        "publishedAt": "2019-05-14T05:08:09Z",
+                        "tagName": "0.20.1"
+                    },
+                    {
+                        "name": "JOSS, name change, new features, bug fixes, and more!",
+                        "publishedAt": "2019-05-18T01:41:12Z",
+                        "tagName": "0.20.2"
+                    },
+                    {
+                        "name": "Geometric Objects and Minor Bugs-Fixes",
+                        "publishedAt": "2019-05-31T17:36:15Z",
+                        "tagName": "0.20.3"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-06-19T06:53:00Z",
+                        "tagName": "0.20.4"
+                    },
+                    {
+                        "name": "Volume Rendering and More!",
+                        "publishedAt": "2019-06-30T19:32:52Z",
+                        "tagName": "0.21.0"
+                    },
+                    {
+                        "name": "Enhancements and Bug Fixes",
+                        "publishedAt": "2019-07-11T06:05:46Z",
+                        "tagName": "0.21.1"
+                    },
+                    {
+                        "name": "BackgroundPlotter updates and bug fixes",
+                        "publishedAt": "2019-07-20T17:21:39Z",
+                        "tagName": "0.21.2"
+                    },
+                    {
+                        "name": "Bug Fixes and General Cleanup",
+                        "publishedAt": "2019-08-01T21:14:22Z",
+                        "tagName": "0.21.3"
+                    },
+                    {
+                        "name": "Labeled Scalar Bars, Surface Clipping, & Bug Fixes",
+                        "publishedAt": "2019-08-07T20:23:33Z",
+                        "tagName": "0.21.4"
+                    },
+                    {
+                        "name": "Widgets, Point Picking, and Tables",
+                        "publishedAt": "2019-08-19T22:24:34Z",
+                        "tagName": "0.22.0"
+                    },
+                    {
+                        "name": "Widgets Bugfix",
+                        "publishedAt": "2019-08-22T21:16:38Z",
+                        "tagName": "0.22.1"
+                    },
+                    {
+                        "name": "Depth Mapping, anti-aliasing, improvements, and cleanup",
+                        "publishedAt": "2019-09-20T20:02:43Z",
+                        "tagName": "0.22.2"
+                    },
+                    {
+                        "name": "Widgets Overhaul, BackgroundPlotter improvements, & Bug Fixes",
+                        "publishedAt": "2019-10-14T00:04:43Z",
+                        "tagName": "0.22.4"
+                    },
+                    {
+                        "name": "Stability Improvements and Additional Qt Support",
+                        "publishedAt": "2019-12-17T19:40:02Z",
+                        "tagName": "0.23.0"
+                    },
+                    {
+                        "name": "Bug fixes, improvements, and new widgets/filters",
+                        "publishedAt": "2020-02-03T05:33:44Z",
+                        "tagName": "0.23.1"
+                    },
+                    {
+                        "name": "Major changes and improvements to BackgroundPlotter",
+                        "publishedAt": "2020-03-16T21:26:32Z",
+                        "tagName": "0.24.0"
+                    },
+                    {
+                        "name": "Release Candidate for 0.25.0",
+                        "publishedAt": "2020-06-02T18:23:30Z",
+                        "tagName": "0.25.0RC"
+                    },
+                    {
+                        "name": "VTK 9 Support and PyQt5 Refactor",
+                        "publishedAt": "2020-06-04T20:00:31Z",
+                        "tagName": "0.25.1"
+                    },
+                    {
+                        "name": "Feature and Support Improvements",
+                        "publishedAt": "2020-09-10T16:07:11Z",
+                        "tagName": "0.26.0"
+                    },
+                    {
+                        "name": "Jupyterlab Streaming and New Features",
+                        "publishedAt": "2020-11-08T17:11:30Z",
+                        "tagName": "0.27.0"
+                    },
+                    {
+                        "name": "Minor API Changes and Various Bug-fixes",
+                        "publishedAt": "2021-03-07T03:32:09Z",
+                        "tagName": "0.28.0"
+                    },
+                    {
+                        "name": "Under the hood changes for VTK9",
+                        "publishedAt": "2021-03-09T19:56:53Z",
+                        "tagName": "0.29.0"
+                    }
+                ]
+            }
+        },
         "raspishake/rsudp": {
             "releases": {
                 "nodes": [
@@ -2038,6 +2488,287 @@
                         "name": "Shetland",
                         "publishedAt": "2020-05-28T02:48:21Z",
                         "tagName": "1.0.1"
+                    }
+                ]
+            }
+        },
+        "simpeg/simpeg": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "SimPEG Paper",
+                        "publishedAt": "2015-05-15T19:43:35Z",
+                        "tagName": "v0.1.3"
+                    },
+                    {
+                        "name": "Working PIP install.",
+                        "publishedAt": "2016-01-10T21:45:07Z",
+                        "tagName": "v0.1.9"
+                    },
+                    {
+                        "name": "DC and MT",
+                        "publishedAt": "2016-03-29T22:08:30Z",
+                        "tagName": "v0.1.10"
+                    },
+                    {
+                        "name": "NSEM ",
+                        "publishedAt": "2016-10-04T01:10:20Z",
+                        "tagName": "v0.3.0"
+                    },
+                    {
+                        "name": "Projection Map",
+                        "publishedAt": "2016-11-30T17:28:30Z",
+                        "tagName": "v0.3.1"
+                    },
+                    {
+                        "name": "Properties and Declarative Problem Maps",
+                        "publishedAt": "2017-01-19T00:09:46Z",
+                        "tagName": "v0.4.0"
+                    },
+                    {
+                        "name": "TDEM: four formulations + API improvements ",
+                        "publishedAt": "2017-01-27T05:43:46Z",
+                        "tagName": "v0.4.1"
+                    },
+                    {
+                        "name": "discretize + Richards",
+                        "publishedAt": "2017-03-01T16:19:45Z",
+                        "tagName": "v0.5.0"
+                    },
+                    {
+                        "name": "Examples Gallery",
+                        "publishedAt": "2017-04-05T15:11:30Z",
+                        "tagName": "0.5.1"
+                    },
+                    {
+                        "name": "Objective functions & Joint Inversions",
+                        "publishedAt": "2017-05-18T07:25:23Z",
+                        "tagName": "0.6.0b0"
+                    },
+                    {
+                        "name": "Interp Utils, VTEM waveform, Mag Driver updates",
+                        "publishedAt": "2017-05-18T16:55:50Z",
+                        "tagName": "0.6.0.b1"
+                    },
+                    {
+                        "name": "surface2ind_topo",
+                        "publishedAt": "2017-05-31T19:45:09Z",
+                        "tagName": "0.6.0b2"
+                    },
+                    {
+                        "name": "Joint inversions and more",
+                        "publishedAt": "2017-06-01T17:07:10Z",
+                        "tagName": "0.6.0"
+                    },
+                    {
+                        "name": "EM Paper examples, MT Tutorial",
+                        "publishedAt": "2017-06-28T17:23:05Z",
+                        "tagName": "0.6.1"
+                    },
+                    {
+                        "name": "delete utils that are present in discretize ",
+                        "publishedAt": "2017-07-03T15:01:19Z",
+                        "tagName": "0.6.2b0"
+                    },
+                    {
+                        "name": "Regularization Mesh Refactoring",
+                        "publishedAt": "2017-07-04T14:52:10Z",
+                        "tagName": "0.6.2b1"
+                    },
+                    {
+                        "name": "Cleanup of Regularization and Utils",
+                        "publishedAt": "2017-11-13T17:11:10Z",
+                        "tagName": "0.6.2"
+                    },
+                    {
+                        "name": "DC Examples",
+                        "publishedAt": "2017-11-19T15:19:44Z",
+                        "tagName": "0.6.3"
+                    },
+                    {
+                        "name": "dependencies and example updates",
+                        "publishedAt": "2017-12-07T21:29:34Z",
+                        "tagName": "0.6.5"
+                    },
+                    {
+                        "name": "DC IP upgrades",
+                        "publishedAt": "2018-01-29T18:12:15Z",
+                        "tagName": "0.7.0"
+                    },
+                    {
+                        "name": "Docs and Installation",
+                        "publishedAt": "2018-01-31T05:48:24Z",
+                        "tagName": "0.7.1"
+                    },
+                    {
+                        "name": "NSEM updates",
+                        "publishedAt": "2018-02-28T21:52:19Z",
+                        "tagName": "0.7.2"
+                    },
+                    {
+                        "name": "Permeable Targets with Inductive source TDEM",
+                        "publishedAt": "2018-03-07T17:53:26Z",
+                        "tagName": "0.7.3"
+                    },
+                    {
+                        "name": "Parametric Map for a block",
+                        "publishedAt": "2018-03-26T19:39:45Z",
+                        "tagName": "0.7.4"
+                    },
+                    {
+                        "name": "VRM",
+                        "publishedAt": "2018-04-03T18:43:40Z",
+                        "tagName": "0.7.5"
+                    },
+                    {
+                        "name": "Regularization Bug: nC_residual",
+                        "publishedAt": "2018-04-04T21:35:50Z",
+                        "tagName": "0.7.6"
+                    },
+                    {
+                        "name": "Bug fix in the static fields",
+                        "publishedAt": "2018-04-11T15:07:22Z",
+                        "tagName": "0.7.7"
+                    },
+                    {
+                        "name": "Regularization: set indActive prior to cell weights",
+                        "publishedAt": "2018-04-12T18:28:03Z",
+                        "tagName": "0.7.8"
+                    },
+                    {
+                        "name": "Simulation and inversion of time domain IP data",
+                        "publishedAt": "2018-04-16T16:48:20Z",
+                        "tagName": "0.8.0"
+                    },
+                    {
+                        "name": "Bug fix in the L2Objective function deriv2",
+                        "publishedAt": "2018-04-21T16:12:06Z",
+                        "tagName": "0.8.1"
+                    },
+                    {
+                        "name": "Bug in `get_dpred` in `invProblem.py`",
+                        "publishedAt": "2018-04-21T21:47:20Z",
+                        "tagName": "0.8.2"
+                    },
+                    {
+                        "name": "simplification in DC getABMN",
+                        "publishedAt": "2018-04-30T05:07:43Z",
+                        "tagName": "0.8.3"
+                    },
+                    {
+                        "name": "printversion",
+                        "publishedAt": "2018-06-28T23:33:23Z",
+                        "tagName": "0.8.4"
+                    },
+                    {
+                        "name": "EM inner product matrices",
+                        "publishedAt": "2018-06-29T18:49:40Z",
+                        "tagName": "0.8.5"
+                    },
+                    {
+                        "name": "Directive for sparse inversion (IRLS)",
+                        "publishedAt": "2018-07-10T18:26:24Z",
+                        "tagName": "v0.8.6"
+                    },
+                    {
+                        "name": "3D Cyl simulations, TDEM fields object",
+                        "publishedAt": "2018-07-11T20:27:19Z",
+                        "tagName": "0.9.0"
+                    },
+                    {
+                        "name": "VRM upgrades",
+                        "publishedAt": "2018-08-13T16:12:09Z",
+                        "tagName": "0.9.1"
+                    },
+                    {
+                        "name": "Effective Medium Theory Map",
+                        "publishedAt": "2018-08-15T23:26:10Z",
+                        "tagName": "0.9.2"
+                    },
+                    {
+                        "name": "enhanced plot2DData and IO.pseudosections",
+                        "publishedAt": "2018-11-19T19:04:21Z",
+                        "tagName": "0.9.3"
+                    },
+                    {
+                        "name": "Plotting, installation docs & site-packages",
+                        "publishedAt": "2018-12-09T17:20:28Z",
+                        "tagName": "0.9.4"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-12-21T17:36:15Z",
+                        "tagName": "0.10.0"
+                    },
+                    {
+                        "name": "plot2Ddata updates",
+                        "publishedAt": "2019-01-08T05:20:54Z",
+                        "tagName": "0.10.1"
+                    },
+                    {
+                        "name": "Improvements: Potential Fields",
+                        "publishedAt": "2019-01-19T05:46:34Z",
+                        "tagName": "0.10.3"
+                    },
+                    {
+                        "name": "DC fields derivs ",
+                        "publishedAt": "2019-01-29T23:10:48Z",
+                        "tagName": "0.10.4"
+                    },
+                    {
+                        "name": "remove testing on python 2.7 from SimPEG",
+                        "publishedAt": "2019-03-05T17:25:12Z",
+                        "tagName": "0.11.0"
+                    },
+                    {
+                        "name": "Fix/update pre conditioner",
+                        "publishedAt": "2019-03-05T21:18:13Z",
+                        "tagName": "0.11.1"
+                    },
+                    {
+                        "name": "Fix mapping naming convention in PF",
+                        "publishedAt": "2019-03-26T22:25:29Z",
+                        "tagName": "0.11.2"
+                    },
+                    {
+                        "name": "Simplification using np.where + spelling in examples",
+                        "publishedAt": "2019-03-27T05:02:45Z",
+                        "tagName": "0.11.3"
+                    },
+                    {
+                        "name": "discretize updates",
+                        "publishedAt": "2019-04-22T03:31:39Z",
+                        "tagName": "0.11.4"
+                    },
+                    {
+                        "name": "Versions",
+                        "publishedAt": "2019-06-25T18:23:12Z",
+                        "tagName": "0.11.5"
+                    },
+                    {
+                        "name": "break regularization into multiple files",
+                        "publishedAt": "2019-07-30T04:45:10Z",
+                        "tagName": "0.11.6"
+                    },
+                    {
+                        "name": "Spectral Induced Polarization",
+                        "publishedAt": "2019-07-31T21:09:48Z",
+                        "tagName": "0.12.0"
+                    },
+                    {
+                        "name": "Regularization, utils.plot2Ddata updates",
+                        "publishedAt": "2019-09-13T21:25:24Z",
+                        "tagName": "0.13.0"
+                    },
+                    {
+                        "name": "Tutorials and various bug fixes and improvements",
+                        "publishedAt": "2020-01-17T03:39:42Z",
+                        "tagName": "0.13.1"
+                    },
+                    {
+                        "name": "Simulation",
+                        "publishedAt": "2020-05-27T20:50:32Z",
+                        "tagName": "v0.14.0"
                     }
                 ]
             }

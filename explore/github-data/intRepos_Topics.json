@@ -1,5 +1,72 @@
 {
     "data": {
+        "GenericMappingTools/pygmt": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    },
+                    {
+                        "resourcePath": "/topics/geoscience",
+                        "topic": {
+                            "name": "geoscience"
+                        },
+                        "url": "https://github.com/topics/geoscience"
+                    },
+                    {
+                        "resourcePath": "/topics/earth-science",
+                        "topic": {
+                            "name": "earth-science"
+                        },
+                        "url": "https://github.com/topics/earth-science"
+                    },
+                    {
+                        "resourcePath": "/topics/geophysics",
+                        "topic": {
+                            "name": "geophysics"
+                        },
+                        "url": "https://github.com/topics/geophysics"
+                    },
+                    {
+                        "resourcePath": "/topics/maps",
+                        "topic": {
+                            "name": "maps"
+                        },
+                        "url": "https://github.com/topics/maps"
+                    },
+                    {
+                        "resourcePath": "/topics/seismology",
+                        "topic": {
+                            "name": "seismology"
+                        },
+                        "url": "https://github.com/topics/seismology"
+                    }
+                ],
+                "totalCount": 6
+            }
+        },
+        "GeoscienceAustralia/uncover-ml": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "JohnWStockwellJr/OpenSeaSeis": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "JohnWStockwellJr/SeisUnix": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "JustinGOSSES/predictatops": {
             "repositoryTopics": {
                 "nodes": [
@@ -172,6 +239,97 @@
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "OpenGeoVis/PVGeo": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/data-visualization",
+                        "topic": {
+                            "name": "data-visualization"
+                        },
+                        "url": "https://github.com/topics/data-visualization"
+                    },
+                    {
+                        "resourcePath": "/topics/geophysics",
+                        "topic": {
+                            "name": "geophysics"
+                        },
+                        "url": "https://github.com/topics/geophysics"
+                    },
+                    {
+                        "resourcePath": "/topics/geosciences",
+                        "topic": {
+                            "name": "geosciences"
+                        },
+                        "url": "https://github.com/topics/geosciences"
+                    },
+                    {
+                        "resourcePath": "/topics/paraview-plugin",
+                        "topic": {
+                            "name": "paraview-plugin"
+                        },
+                        "url": "https://github.com/topics/paraview-plugin"
+                    },
+                    {
+                        "resourcePath": "/topics/paraview",
+                        "topic": {
+                            "name": "paraview"
+                        },
+                        "url": "https://github.com/topics/paraview"
+                    },
+                    {
+                        "resourcePath": "/topics/visual-data-integration",
+                        "topic": {
+                            "name": "visual-data-integration"
+                        },
+                        "url": "https://github.com/topics/visual-data-integration"
+                    },
+                    {
+                        "resourcePath": "/topics/open-science",
+                        "topic": {
+                            "name": "open-science"
+                        },
+                        "url": "https://github.com/topics/open-science"
+                    },
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    },
+                    {
+                        "resourcePath": "/topics/model-building",
+                        "topic": {
+                            "name": "model-building"
+                        },
+                        "url": "https://github.com/topics/model-building"
+                    },
+                    {
+                        "resourcePath": "/topics/vtk",
+                        "topic": {
+                            "name": "vtk"
+                        },
+                        "url": "https://github.com/topics/vtk"
+                    },
+                    {
+                        "resourcePath": "/topics/visualization",
+                        "topic": {
+                            "name": "visualization"
+                        },
+                        "url": "https://github.com/topics/visualization"
+                    },
+                    {
+                        "resourcePath": "/topics/3d",
+                        "topic": {
+                            "name": "3d"
+                        },
+                        "url": "https://github.com/topics/3d"
+                    }
+                ],
+                "totalCount": 12
             }
         },
         "SeisComP/seiscomp": {
@@ -2218,6 +2376,12 @@
                 "totalCount": 9
             }
         },
+        "joferkington/mplstereonet": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "kinverarity1/lasio": {
             "repositoryTopics": {
                 "nodes": [
@@ -2316,6 +2480,69 @@
                 "totalCount": 13
             }
         },
+        "morganjwilliams/pyrolite": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/geochemistry",
+                        "topic": {
+                            "name": "geochemistry"
+                        },
+                        "url": "https://github.com/topics/geochemistry"
+                    },
+                    {
+                        "resourcePath": "/topics/data-science",
+                        "topic": {
+                            "name": "data-science"
+                        },
+                        "url": "https://github.com/topics/data-science"
+                    },
+                    {
+                        "resourcePath": "/topics/chemistry",
+                        "topic": {
+                            "name": "chemistry"
+                        },
+                        "url": "https://github.com/topics/chemistry"
+                    },
+                    {
+                        "resourcePath": "/topics/geoscience",
+                        "topic": {
+                            "name": "geoscience"
+                        },
+                        "url": "https://github.com/topics/geoscience"
+                    },
+                    {
+                        "resourcePath": "/topics/pyrolite",
+                        "topic": {
+                            "name": "pyrolite"
+                        },
+                        "url": "https://github.com/topics/pyrolite"
+                    },
+                    {
+                        "resourcePath": "/topics/ternary-diagrams",
+                        "topic": {
+                            "name": "ternary-diagrams"
+                        },
+                        "url": "https://github.com/topics/ternary-diagrams"
+                    },
+                    {
+                        "resourcePath": "/topics/csiro",
+                        "topic": {
+                            "name": "csiro"
+                        },
+                        "url": "https://github.com/topics/csiro"
+                    },
+                    {
+                        "resourcePath": "/topics/geochemical-data",
+                        "topic": {
+                            "name": "geochemical-data"
+                        },
+                        "url": "https://github.com/topics/geochemical-data"
+                    }
+                ],
+                "totalCount": 8
+            }
+        },
         "obspy/obspy": {
             "repositoryTopics": {
                 "nodes": [
@@ -2400,6 +2627,12 @@
                 "totalCount": 11
             }
         },
+        "opengeostat/pygslib": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "pyrocko/pyrocko": {
             "repositoryTopics": {
                 "nodes": [
@@ -2442,10 +2675,248 @@
                 "totalCount": 5
             }
         },
+        "pyvista/pyvista": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/vtk",
+                        "topic": {
+                            "name": "vtk"
+                        },
+                        "url": "https://github.com/topics/vtk"
+                    },
+                    {
+                        "resourcePath": "/topics/open-science",
+                        "topic": {
+                            "name": "open-science"
+                        },
+                        "url": "https://github.com/topics/open-science"
+                    },
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    },
+                    {
+                        "resourcePath": "/topics/visualization",
+                        "topic": {
+                            "name": "visualization"
+                        },
+                        "url": "https://github.com/topics/visualization"
+                    },
+                    {
+                        "resourcePath": "/topics/3d",
+                        "topic": {
+                            "name": "3d"
+                        },
+                        "url": "https://github.com/topics/3d"
+                    },
+                    {
+                        "resourcePath": "/topics/meshviewer",
+                        "topic": {
+                            "name": "meshviewer"
+                        },
+                        "url": "https://github.com/topics/meshviewer"
+                    },
+                    {
+                        "resourcePath": "/topics/scientific-visualization",
+                        "topic": {
+                            "name": "scientific-visualization"
+                        },
+                        "url": "https://github.com/topics/scientific-visualization"
+                    },
+                    {
+                        "resourcePath": "/topics/scientific-research",
+                        "topic": {
+                            "name": "scientific-research"
+                        },
+                        "url": "https://github.com/topics/scientific-research"
+                    },
+                    {
+                        "resourcePath": "/topics/plotting",
+                        "topic": {
+                            "name": "plotting"
+                        },
+                        "url": "https://github.com/topics/plotting"
+                    },
+                    {
+                        "resourcePath": "/topics/mesh",
+                        "topic": {
+                            "name": "mesh"
+                        },
+                        "url": "https://github.com/topics/mesh"
+                    },
+                    {
+                        "resourcePath": "/topics/mesh-processing",
+                        "topic": {
+                            "name": "mesh-processing"
+                        },
+                        "url": "https://github.com/topics/mesh-processing"
+                    },
+                    {
+                        "resourcePath": "/topics/hacktoberfest",
+                        "topic": {
+                            "name": "hacktoberfest"
+                        },
+                        "url": "https://github.com/topics/hacktoberfest"
+                    }
+                ],
+                "totalCount": 12
+            }
+        },
         "raspishake/rsudp": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "simpeg/simpeg": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    },
+                    {
+                        "resourcePath": "/topics/finite-volume",
+                        "topic": {
+                            "name": "finite-volume"
+                        },
+                        "url": "https://github.com/topics/finite-volume"
+                    },
+                    {
+                        "resourcePath": "/topics/geophysics",
+                        "topic": {
+                            "name": "geophysics"
+                        },
+                        "url": "https://github.com/topics/geophysics"
+                    },
+                    {
+                        "resourcePath": "/topics/inversion",
+                        "topic": {
+                            "name": "inversion"
+                        },
+                        "url": "https://github.com/topics/inversion"
+                    },
+                    {
+                        "resourcePath": "/topics/linear-algebra",
+                        "topic": {
+                            "name": "linear-algebra"
+                        },
+                        "url": "https://github.com/topics/linear-algebra"
+                    },
+                    {
+                        "resourcePath": "/topics/partial-differential-equations",
+                        "topic": {
+                            "name": "partial-differential-equations"
+                        },
+                        "url": "https://github.com/topics/partial-differential-equations"
+                    },
+                    {
+                        "resourcePath": "/topics/optimization",
+                        "topic": {
+                            "name": "optimization"
+                        },
+                        "url": "https://github.com/topics/optimization"
+                    },
+                    {
+                        "resourcePath": "/topics/geoscience",
+                        "topic": {
+                            "name": "geoscience"
+                        },
+                        "url": "https://github.com/topics/geoscience"
+                    },
+                    {
+                        "resourcePath": "/topics/modelling",
+                        "topic": {
+                            "name": "modelling"
+                        },
+                        "url": "https://github.com/topics/modelling"
+                    },
+                    {
+                        "resourcePath": "/topics/simulation",
+                        "topic": {
+                            "name": "simulation"
+                        },
+                        "url": "https://github.com/topics/simulation"
+                    },
+                    {
+                        "resourcePath": "/topics/electromagnetics",
+                        "topic": {
+                            "name": "electromagnetics"
+                        },
+                        "url": "https://github.com/topics/electromagnetics"
+                    },
+                    {
+                        "resourcePath": "/topics/magnetotellurics",
+                        "topic": {
+                            "name": "magnetotellurics"
+                        },
+                        "url": "https://github.com/topics/magnetotellurics"
+                    },
+                    {
+                        "resourcePath": "/topics/direct-current-resistivity",
+                        "topic": {
+                            "name": "direct-current-resistivity"
+                        },
+                        "url": "https://github.com/topics/direct-current-resistivity"
+                    },
+                    {
+                        "resourcePath": "/topics/induced-polarization",
+                        "topic": {
+                            "name": "induced-polarization"
+                        },
+                        "url": "https://github.com/topics/induced-polarization"
+                    },
+                    {
+                        "resourcePath": "/topics/richards-equation",
+                        "topic": {
+                            "name": "richards-equation"
+                        },
+                        "url": "https://github.com/topics/richards-equation"
+                    },
+                    {
+                        "resourcePath": "/topics/open-science",
+                        "topic": {
+                            "name": "open-science"
+                        },
+                        "url": "https://github.com/topics/open-science"
+                    },
+                    {
+                        "resourcePath": "/topics/modeling",
+                        "topic": {
+                            "name": "modeling"
+                        },
+                        "url": "https://github.com/topics/modeling"
+                    },
+                    {
+                        "resourcePath": "/topics/scientific-computing",
+                        "topic": {
+                            "name": "scientific-computing"
+                        },
+                        "url": "https://github.com/topics/scientific-computing"
+                    },
+                    {
+                        "resourcePath": "/topics/inverse-problems",
+                        "topic": {
+                            "name": "inverse-problems"
+                        },
+                        "url": "https://github.com/topics/inverse-problems"
+                    },
+                    {
+                        "resourcePath": "/topics/multiphysics",
+                        "topic": {
+                            "name": "multiphysics"
+                        },
+                        "url": "https://github.com/topics/multiphysics"
+                    }
+                ],
+                "totalCount": 20
             }
         },
         "softwareunderground/52things": {

@@ -48,14 +48,6 @@
             },
             "nameWithOwner": "GenericMappingTools/gmt"
         },
-        "GenericMappingTools/pygmt": {
-            "labContributors": {
-                "nodes": [
-                    "leouieda"
-                ]
-            },
-            "nameWithOwner": "GenericMappingTools/pygmt"
-        },
         "GenericMappingTools/website": {
             "labContributors": {
                 "nodes": [
@@ -168,14 +160,6 @@
                 ]
             },
             "nameWithOwner": "NVIDIA/ipyparaview"
-        },
-        "OpenGeoVis/PVGeo": {
-            "labContributors": {
-                "nodes": [
-                    "banesullivan"
-                ]
-            },
-            "nameWithOwner": "OpenGeoVis/PVGeo"
         },
         "OpenGeoVis/PVGeo-Examples": {
             "labContributors": {
@@ -1089,14 +1073,6 @@
             },
             "nameWithOwner": "pyvista/gl-ci-helpers"
         },
-        "pyvista/pyvista": {
-            "labContributors": {
-                "nodes": [
-                    "banesullivan"
-                ]
-            },
-            "nameWithOwner": "pyvista/pyvista"
-        },
         "pyvista/pyvista-docs": {
             "labContributors": {
                 "nodes": [
@@ -1211,16 +1187,6 @@
                 ]
             },
             "nameWithOwner": "simpeg/pymatsolver"
-        },
-        "simpeg/simpeg": {
-            "labContributors": {
-                "nodes": [
-                    "leouieda",
-                    "prisae",
-                    "rowanc1"
-                ]
-            },
-            "nameWithOwner": "simpeg/simpeg"
         },
         "simpeg/simpeg.github.io": {
             "labContributors": {

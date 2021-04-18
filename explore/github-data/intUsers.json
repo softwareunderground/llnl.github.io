@@ -69,7 +69,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/22067021?u=de33941522ff878934ea842681ed9205527a0f50&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "OpenGeoVis/PVGeo",
                     "cgre-aachen/gempy",
+                    "pyvista/pyvista",
+                    "simpeg/simpeg",
                     "softwareunderground/52things",
                     "softwareunderground/TeapotDome",
                     "softwareunderground/awesome-open-geoscience",
@@ -201,6 +204,8 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/290082?u=4b5d47093fb4180c314dbf7dd18daa980990d201&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "GenericMappingTools/pygmt",
+                    "OpenGeoVis/PVGeo",
                     "agile-geoscience/bruges",
                     "agile-geoscience/xlines",
                     "fatiando/.github",
@@ -239,6 +244,7 @@
                     "fatiando/website",
                     "fatiando/website-nikola",
                     "obspy/obspy",
+                    "pyvista/pyvista",
                     "softwareunderground/52things",
                     "softwareunderground/TeapotDome",
                     "softwareunderground/awesome-open-geoscience",
@@ -287,6 +293,8 @@
                     "cgre-aachen/gempy",
                     "cgre-aachen/gempy_data",
                     "cgre-aachen/open_AR_Sandbox",
+                    "pyvista/pyvista",
+                    "simpeg/simpeg",
                     "softwareunderground/52things",
                     "softwareunderground/TeapotDome",
                     "softwareunderground/awesome-open-geoscience",
@@ -338,6 +346,7 @@
                     "fatiando/rockhound",
                     "fatiando/verde",
                     "fatiando/wavefd",
+                    "simpeg/simpeg",
                     "softwareunderground/52things",
                     "softwareunderground/TeapotDome",
                     "softwareunderground/awesome-open-geoscience",

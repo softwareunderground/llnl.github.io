@@ -1,5 +1,225 @@
 {
     "data": {
+        "GenericMappingTools/pygmt": {
+            "createdAt": "2017-03-17T20:31:51Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "A Python interface for the Generic Mapping Tools.",
+            "forks": {
+                "totalCount": 134
+            },
+            "homepageUrl": "https://www.pygmt.org",
+            "issues_Closed": {
+                "totalCount": 342
+            },
+            "issues_Open": {
+                "totalCount": 86
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": {
+                "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                "nickname": null,
+                "spdxId": "BSD-3-Clause",
+                "url": "http://choosealicense.com/licenses/bsd-3-clause/"
+            },
+            "mentionableUsers": {
+                "totalCount": 34
+            },
+            "name": "pygmt",
+            "nameWithOwner": "GenericMappingTools/pygmt",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/25944590?v=4",
+                "login": "GenericMappingTools"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 63
+            },
+            "pullRequests_Merged": {
+                "totalCount": 690
+            },
+            "pullRequests_Open": {
+                "totalCount": 32
+            },
+            "repositoryTopics": {
+                "totalCount": 6
+            },
+            "stargazers": {
+                "totalCount": 344
+            },
+            "url": "https://github.com/GenericMappingTools/pygmt"
+        },
+        "GeoscienceAustralia/uncover-ml": {
+            "createdAt": "2017-03-14T23:31:41Z",
+            "defaultBranchRef": {
+                "name": "develop"
+            },
+            "description": "Machine Learning system for Geoscience Australia uncover project",
+            "forks": {
+                "totalCount": 15
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 67
+            },
+            "issues_Open": {
+                "totalCount": 23
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": {
+                "name": "Apache License 2.0",
+                "nickname": null,
+                "spdxId": "Apache-2.0",
+                "url": "http://choosealicense.com/licenses/apache-2.0/"
+            },
+            "mentionableUsers": {
+                "totalCount": 23
+            },
+            "name": "uncover-ml",
+            "nameWithOwner": "GeoscienceAustralia/uncover-ml",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/4704285?v=4",
+                "login": "GeoscienceAustralia"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Jupyter Notebook"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 9
+            },
+            "pullRequests_Merged": {
+                "totalCount": 43
+            },
+            "pullRequests_Open": {
+                "totalCount": 3
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 22
+            },
+            "url": "https://github.com/GeoscienceAustralia/uncover-ml"
+        },
+        "JohnWStockwellJr/OpenSeaSeis": {
+            "createdAt": "2016-03-01T18:08:03Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "The OpenSeaSeis open source seismic viewer and processing environment.",
+            "forks": {
+                "totalCount": 14
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 0
+            },
+            "issues_Open": {
+                "totalCount": 4
+            },
+            "languages": {
+                "totalCount": 8
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 2
+            },
+            "name": "OpenSeaSeis",
+            "nameWithOwner": "JohnWStockwellJr/OpenSeaSeis",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5042740?u=cae7d7b4b0f8ae65538832699a41e268a6fb36e9&v=4",
+                "login": "JohnWStockwellJr"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "C++"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 9
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 36
+            },
+            "url": "https://github.com/JohnWStockwellJr/OpenSeaSeis"
+        },
+        "JohnWStockwellJr/SeisUnix": {
+            "createdAt": "2016-03-14T15:57:55Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "The CWP/SU: Seismic Un*x Package - a free open seismic processing, research, and educational software package.",
+            "forks": {
+                "totalCount": 91
+            },
+            "homepageUrl": "https://wiki.Seismic-Unix.org",
+            "issues_Closed": {
+                "totalCount": 22
+            },
+            "issues_Open": {
+                "totalCount": 54
+            },
+            "languages": {
+                "totalCount": 23
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 6
+            },
+            "name": "SeisUnix",
+            "nameWithOwner": "JohnWStockwellJr/SeisUnix",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/5042740?u=cae7d7b4b0f8ae65538832699a41e268a6fb36e9&v=4",
+                "login": "JohnWStockwellJr"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "C"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 5
+            },
+            "pullRequests_Open": {
+                "totalCount": 5
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 175
+            },
+            "url": "https://github.com/JohnWStockwellJr/SeisUnix"
+        },
         "JustinGOSSES/predictatops": {
             "createdAt": "2018-10-05T01:47:32Z",
             "defaultBranchRef": {
@@ -219,6 +439,61 @@
                 "totalCount": 72
             },
             "url": "https://github.com/NSGeophysics/GPRPy"
+        },
+        "OpenGeoVis/PVGeo": {
+            "createdAt": "2017-07-18T18:05:56Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Python package of VTK-based algorithms to analyze geoscientific data and models",
+            "forks": {
+                "totalCount": 28
+            },
+            "homepageUrl": "https://pvgeo.org",
+            "issues_Closed": {
+                "totalCount": 24
+            },
+            "issues_Open": {
+                "totalCount": 15
+            },
+            "languages": {
+                "totalCount": 3
+            },
+            "licenseInfo": {
+                "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                "nickname": null,
+                "spdxId": "BSD-3-Clause",
+                "url": "http://choosealicense.com/licenses/bsd-3-clause/"
+            },
+            "mentionableUsers": {
+                "totalCount": 7
+            },
+            "name": "PVGeo",
+            "nameWithOwner": "OpenGeoVis/PVGeo",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/38025977?v=4",
+                "login": "OpenGeoVis"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 3
+            },
+            "pullRequests_Merged": {
+                "totalCount": 34
+            },
+            "pullRequests_Open": {
+                "totalCount": 1
+            },
+            "repositoryTopics": {
+                "totalCount": 12
+            },
+            "stargazers": {
+                "totalCount": 122
+            },
+            "url": "https://github.com/OpenGeoVis/PVGeo"
         },
         "SeisComP/seiscomp": {
             "createdAt": "2020-03-26T10:27:56Z",
@@ -2296,7 +2571,7 @@
                 "totalCount": 46
             },
             "issues_Open": {
-                "totalCount": 77
+                "totalCount": 78
             },
             "languages": {
                 "totalCount": 1
@@ -2324,10 +2599,10 @@
                 "totalCount": 1
             },
             "pullRequests_Merged": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "pullRequests_Open": {
-                "totalCount": 3
+                "totalCount": 2
             },
             "repositoryTopics": {
                 "totalCount": 2
@@ -3329,7 +3604,7 @@
                 "totalCount": 101
             },
             "pullRequests_Open": {
-                "totalCount": 11
+                "totalCount": 12
             },
             "repositoryTopics": {
                 "totalCount": 14
@@ -4179,7 +4454,7 @@
                 "totalCount": 13
             },
             "stargazers": {
-                "totalCount": 58
+                "totalCount": 59
             },
             "url": "https://github.com/emanuelhuber/RGPR"
         },
@@ -4197,7 +4472,7 @@
                 "totalCount": 100
             },
             "issues_Open": {
-                "totalCount": 30
+                "totalCount": 31
             },
             "languages": {
                 "totalCount": 6
@@ -4946,7 +5221,7 @@
                 "totalCount": 55
             },
             "issues_Open": {
-                "totalCount": 23
+                "totalCount": 25
             },
             "languages": {
                 "totalCount": 2
@@ -5248,7 +5523,7 @@
             },
             "description": "A friend to fetch your data files",
             "forks": {
-                "totalCount": 29
+                "totalCount": 30
             },
             "homepageUrl": "https://www.fatiando.org/pooch",
             "issues_Closed": {
@@ -5286,13 +5561,13 @@
                 "totalCount": 155
             },
             "pullRequests_Open": {
-                "totalCount": 4
+                "totalCount": 5
             },
             "repositoryTopics": {
                 "totalCount": 9
             },
             "stargazers": {
-                "totalCount": 106
+                "totalCount": 107
             },
             "url": "https://github.com/fatiando/pooch"
         },
@@ -5617,14 +5892,14 @@
             },
             "description": "Material for the Harmonica tutorial at Transform21",
             "forks": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "homepageUrl": null,
             "issues_Closed": {
                 "totalCount": 7
             },
             "issues_Open": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "languages": {
                 "totalCount": 2
@@ -5655,7 +5930,7 @@
                 "totalCount": 16
             },
             "pullRequests_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -6256,6 +6531,61 @@
             },
             "url": "https://github.com/iannesbitt/readgssi"
         },
+        "joferkington/mplstereonet": {
+            "createdAt": "2012-04-13T17:16:28Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "Stereonets for matplotlib",
+            "forks": {
+                "totalCount": 51
+            },
+            "homepageUrl": "",
+            "issues_Closed": {
+                "totalCount": 10
+            },
+            "issues_Open": {
+                "totalCount": 11
+            },
+            "languages": {
+                "totalCount": 1
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 5
+            },
+            "name": "mplstereonet",
+            "nameWithOwner": "joferkington/mplstereonet",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/906803?v=4",
+                "login": "joferkington"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 1
+            },
+            "pullRequests_Merged": {
+                "totalCount": 14
+            },
+            "pullRequests_Open": {
+                "totalCount": 4
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 121
+            },
+            "url": "https://github.com/joferkington/mplstereonet"
+        },
         "kinverarity1/lasio": {
             "createdAt": "2013-12-24T08:56:49Z",
             "defaultBranchRef": {
@@ -6301,7 +6631,7 @@
                 "totalCount": 189
             },
             "pullRequests_Open": {
-                "totalCount": 3
+                "totalCount": 5
             },
             "repositoryTopics": {
                 "totalCount": 13
@@ -6310,6 +6640,61 @@
                 "totalCount": 235
             },
             "url": "https://github.com/kinverarity1/lasio"
+        },
+        "morganjwilliams/pyrolite": {
+            "createdAt": "2018-06-13T06:31:12Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "A set of tools for getting the most from your geochemical data.",
+            "forks": {
+                "totalCount": 9
+            },
+            "homepageUrl": "https://pyrolite.readthedocs.io",
+            "issues_Closed": {
+                "totalCount": 31
+            },
+            "issues_Open": {
+                "totalCount": 12
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": {
+                "name": "Other",
+                "nickname": null,
+                "spdxId": "NOASSERTION",
+                "url": "http://choosealicense.com/licenses/other/"
+            },
+            "mentionableUsers": {
+                "totalCount": 3
+            },
+            "name": "pyrolite",
+            "nameWithOwner": "morganjwilliams/pyrolite",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/11415019?u=60ffa65d2a9582cc49ef7e2d1ff704bf1b453393&v=4",
+                "login": "morganjwilliams"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 2
+            },
+            "pullRequests_Merged": {
+                "totalCount": 3
+            },
+            "pullRequests_Open": {
+                "totalCount": 0
+            },
+            "repositoryTopics": {
+                "totalCount": 8
+            },
+            "stargazers": {
+                "totalCount": 50
+            },
+            "url": "https://github.com/morganjwilliams/pyrolite"
         },
         "obspy/obspy": {
             "createdAt": "2012-09-08T19:17:46Z",
@@ -6362,9 +6747,64 @@
                 "totalCount": 11
             },
             "stargazers": {
-                "totalCount": 769
+                "totalCount": 770
             },
             "url": "https://github.com/obspy/obspy"
+        },
+        "opengeostat/pygslib": {
+            "createdAt": "2015-08-29T05:32:10Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "GSLIB fortran code wrapped into python",
+            "forks": {
+                "totalCount": 36
+            },
+            "homepageUrl": null,
+            "issues_Closed": {
+                "totalCount": 20
+            },
+            "issues_Open": {
+                "totalCount": 31
+            },
+            "languages": {
+                "totalCount": 5
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 2
+            },
+            "name": "pygslib",
+            "nameWithOwner": "opengeostat/pygslib",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/14026093?u=36978c6cc59f48758f6dc4b2345dfc8b927c9ffc&v=4",
+                "login": "opengeostat"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Jupyter Notebook"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 0
+            },
+            "pullRequests_Merged": {
+                "totalCount": 1
+            },
+            "pullRequests_Open": {
+                "totalCount": 1
+            },
+            "repositoryTopics": {
+                "totalCount": 0
+            },
+            "stargazers": {
+                "totalCount": 76
+            },
+            "url": "https://github.com/opengeostat/pygslib"
         },
         "pyrocko/pyrocko": {
             "createdAt": "2010-03-11T08:19:55Z",
@@ -6421,6 +6861,61 @@
             },
             "url": "https://github.com/pyrocko/pyrocko"
         },
+        "pyvista/pyvista": {
+            "createdAt": "2017-05-31T18:01:42Z",
+            "defaultBranchRef": {
+                "name": "master"
+            },
+            "description": "3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)",
+            "forks": {
+                "totalCount": 148
+            },
+            "homepageUrl": "https://docs.pyvista.org/",
+            "issues_Closed": {
+                "totalCount": 306
+            },
+            "issues_Open": {
+                "totalCount": 133
+            },
+            "languages": {
+                "totalCount": 6
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 56
+            },
+            "name": "pyvista",
+            "nameWithOwner": "pyvista/pyvista",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/50384771?v=4",
+                "login": "pyvista"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 66
+            },
+            "pullRequests_Merged": {
+                "totalCount": 722
+            },
+            "pullRequests_Open": {
+                "totalCount": 6
+            },
+            "repositoryTopics": {
+                "totalCount": 12
+            },
+            "stargazers": {
+                "totalCount": 769
+            },
+            "url": "https://github.com/pyvista/pyvista"
+        },
         "raspishake/rsudp": {
             "createdAt": "2019-11-14T17:44:38Z",
             "defaultBranchRef": {
@@ -6475,6 +6970,61 @@
                 "totalCount": 25
             },
             "url": "https://github.com/raspishake/rsudp"
+        },
+        "simpeg/simpeg": {
+            "createdAt": "2013-11-26T19:46:36Z",
+            "defaultBranchRef": {
+                "name": "main"
+            },
+            "description": "Simulation and Parameter Estimation in Geophysics  -  A python package for simulation and gradient based parameter estimation in the context of geophysical applications.",
+            "forks": {
+                "totalCount": 157
+            },
+            "homepageUrl": "http://simpeg.xyz",
+            "issues_Closed": {
+                "totalCount": 343
+            },
+            "issues_Open": {
+                "totalCount": 99
+            },
+            "languages": {
+                "totalCount": 2
+            },
+            "licenseInfo": {
+                "name": "MIT License",
+                "nickname": null,
+                "spdxId": "MIT",
+                "url": "http://choosealicense.com/licenses/mit/"
+            },
+            "mentionableUsers": {
+                "totalCount": 34
+            },
+            "name": "simpeg",
+            "nameWithOwner": "simpeg/simpeg",
+            "owner": {
+                "avatarUrl": "https://avatars.githubusercontent.com/u/6043842?v=4",
+                "login": "simpeg"
+            },
+            "parent": null,
+            "primaryLanguage": {
+                "name": "Python"
+            },
+            "pullRequests_Closed": {
+                "totalCount": 73
+            },
+            "pullRequests_Merged": {
+                "totalCount": 454
+            },
+            "pullRequests_Open": {
+                "totalCount": 17
+            },
+            "repositoryTopics": {
+                "totalCount": 20
+            },
+            "stargazers": {
+                "totalCount": 289
+            },
+            "url": "https://github.com/simpeg/simpeg"
         },
         "softwareunderground/52things": {
             "createdAt": "2017-04-03T23:47:13Z",
@@ -6607,7 +7157,7 @@
                 "url": "http://choosealicense.com/licenses/cc0-1.0/"
             },
             "mentionableUsers": {
-                "totalCount": 58
+                "totalCount": 60
             },
             "name": "awesome-open-geoscience",
             "nameWithOwner": "softwareunderground/awesome-open-geoscience",
@@ -6621,10 +7171,10 @@
                 "totalCount": 18
             },
             "pullRequests_Merged": {
-                "totalCount": 107
+                "totalCount": 109
             },
             "pullRequests_Open": {
-                "totalCount": 3
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 20
@@ -6696,7 +7246,7 @@
                 "totalCount": 1
             },
             "issues_Open": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "languages": {
                 "totalCount": 0
@@ -6820,10 +7370,10 @@
                 "totalCount": 0
             },
             "pullRequests_Merged": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "pullRequests_Open": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "repositoryTopics": {
                 "totalCount": 0
@@ -7483,7 +8033,7 @@
                 "totalCount": 0
             },
             "languages": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "licenseInfo": {
                 "name": "Apache License 2.0",
@@ -7578,14 +8128,14 @@
             },
             "description": "fork of....Public home for LLNL software catalog",
             "forks": {
-                "totalCount": 0
+                "totalCount": 1
             },
             "homepageUrl": "https://softwareunderground.github.io/open_geosciene_code_projects_viz/",
             "issues_Closed": {
                 "totalCount": 0
             },
             "issues_Open": {
-                "totalCount": 4
+                "totalCount": 9
             },
             "languages": {
                 "totalCount": 7
@@ -7620,7 +8170,7 @@
                 "totalCount": 0
             },
             "pullRequests_Merged": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "pullRequests_Open": {
                 "totalCount": 0
@@ -7747,12 +8297,12 @@
             "forks": {
                 "totalCount": 9
             },
-            "homepageUrl": null,
+            "homepageUrl": "https://softwareunderground.github.io/subsurface",
             "issues_Closed": {
                 "totalCount": 10
             },
             "issues_Open": {
-                "totalCount": 10
+                "totalCount": 12
             },
             "languages": {
                 "totalCount": 1
@@ -7783,7 +8333,7 @@
                 "totalCount": 18
             },
             "pullRequests_Open": {
-                "totalCount": 1
+                "totalCount": 2
             },
             "repositoryTopics": {
                 "totalCount": 0

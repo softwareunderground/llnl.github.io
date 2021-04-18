@@ -1,4 +1,35 @@
 {
+    "GenericMappingTools/pygmt": {
+        "description": "A Python interface for the Generic Mapping Tools.",
+        "name": "GenericMappingTools/pygmt",
+        "topics": [
+            "python",
+            "geoscience",
+            "earth-science",
+            "geophysics",
+            "maps",
+            "seismology"
+        ],
+        "website": "https://www.pygmt.org"
+    },
+    "GeoscienceAustralia/uncover-ml": {
+        "description": "Machine Learning system for Geoscience Australia uncover project",
+        "name": "GeoscienceAustralia/uncover-ml",
+        "topics": null,
+        "website": ""
+    },
+    "JohnWStockwellJr/OpenSeaSeis": {
+        "description": "The OpenSeaSeis open source seismic viewer and processing environment.",
+        "name": "JohnWStockwellJr/OpenSeaSeis",
+        "topics": null,
+        "website": ""
+    },
+    "JohnWStockwellJr/SeisUnix": {
+        "description": "The CWP/SU: Seismic Un*x Package - a free open seismic processing, research, and educational software package.",
+        "name": "JohnWStockwellJr/SeisUnix",
+        "topics": null,
+        "website": "https://wiki.Seismic-Unix.org"
+    },
     "JustinGOSSES/predictatops": {
         "description": "Stratigraphic pick prediction via supervised machine-learning",
         "name": "JustinGOSSES/predictatops",
@@ -46,6 +77,25 @@
         "name": "NSGeophysics/GPRPy",
         "topics": null,
         "website": null
+    },
+    "OpenGeoVis/PVGeo": {
+        "description": "Python package of VTK-based algorithms to analyze geoscientific data and models",
+        "name": "OpenGeoVis/PVGeo",
+        "topics": [
+            "data-visualization",
+            "geophysics",
+            "geosciences",
+            "paraview-plugin",
+            "paraview",
+            "visual-data-integration",
+            "open-science",
+            "python",
+            "model-building",
+            "vtk",
+            "visualization",
+            "3d"
+        ],
+        "website": "https://pvgeo.org"
     },
     "SeisComP/seiscomp": {
         "description": "The build environment for all SeisComP repositories. Includes the documentation.",
@@ -939,6 +989,12 @@
         ],
         "website": "https://readgssi.readthedocs.io/"
     },
+    "joferkington/mplstereonet": {
+        "description": "Stereonets for matplotlib",
+        "name": "joferkington/mplstereonet",
+        "topics": null,
+        "website": ""
+    },
     "kinverarity1/lasio": {
         "description": "Python library for reading and writing well data using Log ASCII Standard (LAS) files",
         "name": "kinverarity1/lasio",
@@ -959,6 +1015,21 @@
         ],
         "website": ""
     },
+    "morganjwilliams/pyrolite": {
+        "description": "A set of tools for getting the most from your geochemical data.",
+        "name": "morganjwilliams/pyrolite",
+        "topics": [
+            "geochemistry",
+            "data-science",
+            "chemistry",
+            "geoscience",
+            "pyrolite",
+            "ternary-diagrams",
+            "csiro",
+            "geochemical-data"
+        ],
+        "website": "https://pyrolite.readthedocs.io"
+    },
     "obspy/obspy": {
         "description": "ObsPy: A Python Toolbox for seismology/seismological observatories.",
         "name": "obspy/obspy",
@@ -977,6 +1048,12 @@
         ],
         "website": "https://www.obspy.org"
     },
+    "opengeostat/pygslib": {
+        "description": "GSLIB fortran code wrapped into python",
+        "name": "opengeostat/pygslib",
+        "topics": null,
+        "website": null
+    },
     "pyrocko/pyrocko": {
         "description": "An official read-only mirror of https://git.pyrocko.org/pyrocko/pyrocko. A seismology toolkit for Python.",
         "name": "pyrocko/pyrocko",
@@ -989,11 +1066,57 @@
         ],
         "website": "https://pyrocko.org"
     },
+    "pyvista/pyvista": {
+        "description": "3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)",
+        "name": "pyvista/pyvista",
+        "topics": [
+            "vtk",
+            "open-science",
+            "python",
+            "visualization",
+            "3d",
+            "meshviewer",
+            "scientific-visualization",
+            "scientific-research",
+            "plotting",
+            "mesh",
+            "mesh-processing",
+            "hacktoberfest"
+        ],
+        "website": "https://docs.pyvista.org/"
+    },
     "raspishake/rsudp": {
         "description": "Continuous visual display, sudden motion monitoring, and historical replay of Raspberry Shake data",
         "name": "raspishake/rsudp",
         "topics": null,
         "website": "https://raspishake.github.io/rsudp/"
+    },
+    "simpeg/simpeg": {
+        "description": "Simulation and Parameter Estimation in Geophysics  -  A python package for simulation and gradient based parameter estimation in the context of geophysical applications.",
+        "name": "simpeg/simpeg",
+        "topics": [
+            "python",
+            "finite-volume",
+            "geophysics",
+            "inversion",
+            "linear-algebra",
+            "partial-differential-equations",
+            "optimization",
+            "geoscience",
+            "modelling",
+            "simulation",
+            "electromagnetics",
+            "magnetotellurics",
+            "direct-current-resistivity",
+            "induced-polarization",
+            "richards-equation",
+            "open-science",
+            "modeling",
+            "scientific-computing",
+            "inverse-problems",
+            "multiphysics"
+        ],
+        "website": "http://simpeg.xyz"
     },
     "softwareunderground/52things": {
         "description": "52 Things You Should Know About Geocomputing",
@@ -1173,7 +1296,7 @@
         "description": "Core library for subsurface science and engineering",
         "name": "softwareunderground/subsurface",
         "topics": null,
-        "website": null
+        "website": "https://softwareunderground.github.io/subsurface"
     },
     "softwareunderground/subsurface-journal": {
         "description": "Initial guidelines, ideas, suggestions, and more for a new open-access journal for peer-reviewed research pertaining to subsurface-related disciplines",
