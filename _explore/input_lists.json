@@ -16,6 +16,7 @@
         "equinor/segyio",
         "equinor/seismic-zfp",
         "GenericMappingTools/pygmt",
+        "GeoscienceAustralia/uncover-ml,"
         "https://github.com/johnwstockwelljr/openseaseis",
         "https://github.com/johnwstockwelljr/seisunix",
         "iannesbitt/readgssi",
