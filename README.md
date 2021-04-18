@@ -3,6 +3,8 @@
 ## Original Project Plan
 https://github.com/softwareunderground/transform-2021-hackathon/discussions/14
 
+The project plan has now been moved to issues: https://github.com/softwareunderground/open_geosciene_code_projects_viz/issues
+
 ## Live Pages
 Explore page: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/
 Dependencies analysis: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/dependencies/
