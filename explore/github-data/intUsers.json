@@ -293,6 +293,7 @@
                     "cgre-aachen/gempy",
                     "cgre-aachen/gempy_data",
                     "cgre-aachen/open_AR_Sandbox",
+                    "emsig/empymod",
                     "pyvista/pyvista",
                     "simpeg/simpeg",
                     "softwareunderground/52things",
@@ -430,7 +431,8 @@
                     "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
-                    "softwareunderground/xsdf"
+                    "softwareunderground/xsdf",
+                    "trhallam/segysak"
                 ]
             },
             "login": "stevejpurves",

@@ -704,14 +704,6 @@
             },
             "nameWithOwner": "emsig/emg3d-logo"
         },
-        "emsig/empymod": {
-            "labContributors": {
-                "nodes": [
-                    "prisae"
-                ]
-            },
-            "nameWithOwner": "emsig/empymod"
-        },
         "emsig/empymod-asv": {
             "labContributors": {
                 "nodes": [
@@ -1251,15 +1243,6 @@
                 ]
             },
             "nameWithOwner": "swung-research/swung-research"
-        },
-        "trhallam/segysak": {
-            "labContributors": {
-                "nodes": [
-                    "banesullivan",
-                    "stevejpurves"
-                ]
-            },
-            "nameWithOwner": "trhallam/segysak"
         },
         "ulope/pytest-sftpserver": {
             "labContributors": {

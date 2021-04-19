@@ -4,7 +4,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 519110
+                        "size": 522145
                     },
                     {
                         "size": 2429
@@ -21,7 +21,76 @@
                     }
                 ],
                 "totalCount": 2,
-                "totalSize": 521539
+                "totalSize": 524574
+            }
+        },
+        "GeoPyTool/GeoPyTool": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 1596700
+                    },
+                    {
+                        "size": 817
+                    },
+                    {
+                        "size": 610
+                    },
+                    {
+                        "size": 214
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#C1F12E",
+                        "name": "Batchfile"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 4,
+                "totalSize": 1598341
+            }
+        },
+        "Geode-solutions/OpenGeode": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 2293259
+                    },
+                    {
+                        "size": 182313
+                    },
+                    {
+                        "size": 95410
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": null,
+                        "name": "CMake"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 2570982
             }
         },
         "GeoscienceAustralia/uncover-ml": {
@@ -53,6 +122,30 @@
                 ],
                 "totalCount": 3,
                 "totalSize": 2970630
+            }
+        },
+        "GeostatsGuy/GeostatsPy": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 8655804
+                    },
+                    {
+                        "size": 330032
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 8985836
             }
         },
         "JohnWStockwellJr/OpenSeaSeis": {
@@ -292,6 +385,37 @@
                 "totalSize": 44448942
             }
         },
+        "JuliaEarth/GeoStats.jl": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 2815
+                    },
+                    {
+                        "size": 624
+                    },
+                    {
+                        "size": 234
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3D6117",
+                        "name": "TeX"
+                    },
+                    {
+                        "color": "#a270ba",
+                        "name": "Julia"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 3673
+            }
+        },
         "JustinGOSSES/predictatops": {
             "languages": {
                 "edges": [
@@ -378,6 +502,827 @@
                 "totalSize": 163409
             }
         },
+        "Loop3D/GKM": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 4814
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#C1F12E",
+                        "name": "Batchfile"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 4814
+            }
+        },
+        "Loop3D/GKM-Public": {
+            "languages": {
+                "edges": [],
+                "nodes": [],
+                "totalCount": 0,
+                "totalSize": 0
+            }
+        },
+        "Loop3D/GeoSwarm": {
+            "languages": {
+                "edges": [],
+                "nodes": [],
+                "totalCount": 0,
+                "totalSize": 0
+            }
+        },
+        "Loop3D/GeologicalTopology-GraphML": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 10087657
+                    },
+                    {
+                        "size": 4326623
+                    },
+                    {
+                        "size": 4154040
+                    },
+                    {
+                        "size": 38534
+                    },
+                    {
+                        "size": 24656
+                    },
+                    {
+                        "size": 7724
+                    },
+                    {
+                        "size": 3118
+                    },
+                    {
+                        "size": 610
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    },
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    },
+                    {
+                        "color": "#6e4a7e",
+                        "name": "Elixir"
+                    },
+                    {
+                        "color": "#ecdebe",
+                        "name": "Roff"
+                    },
+                    {
+                        "color": "#384d54",
+                        "name": "Dockerfile"
+                    }
+                ],
+                "totalCount": 8,
+                "totalSize": 18642962
+            }
+        },
+        "Loop3D/ImplicitBenchmark": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 4359518
+                    },
+                    {
+                        "size": 1646262
+                    },
+                    {
+                        "size": 155391
+                    },
+                    {
+                        "size": 2772
+                    },
+                    {
+                        "size": 481
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#2b7489",
+                        "name": "TypeScript"
+                    },
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3D6117",
+                        "name": "TeX"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#C1F12E",
+                        "name": "Batchfile"
+                    }
+                ],
+                "totalCount": 5,
+                "totalSize": 6164424
+            }
+        },
+        "Loop3D/Loop3D": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 185443
+                    },
+                    {
+                        "size": 160106
+                    },
+                    {
+                        "size": 30583
+                    },
+                    {
+                        "size": 29468
+                    },
+                    {
+                        "size": 3251
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": "#44a51c",
+                        "name": "QML"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": null,
+                        "name": "GLSL"
+                    },
+                    {
+                        "color": null,
+                        "name": "QMake"
+                    }
+                ],
+                "totalCount": 5,
+                "totalSize": 408851
+            }
+        },
+        "Loop3D/LoopProjectFile": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 88467
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 88467
+            }
+        },
+        "Loop3D/LoopProjectFile-cpp": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 161239
+                    },
+                    {
+                        "size": 3463
+                    },
+                    {
+                        "size": 1799
+                    },
+                    {
+                        "size": 200
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": null,
+                        "name": "CMake"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    },
+                    {
+                        "color": "#C1F12E",
+                        "name": "Batchfile"
+                    }
+                ],
+                "totalCount": 4,
+                "totalSize": 166701
+            }
+        },
+        "Loop3D/LoopStructural": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 433420
+                    },
+                    {
+                        "size": 1303
+                    },
+                    {
+                        "size": 813
+                    },
+                    {
+                        "size": 158
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#384d54",
+                        "name": "Dockerfile"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 4,
+                "totalSize": 435694
+            }
+        },
+        "Loop3D/LoopStructuralWorkshop": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 2116769
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 2116769
+            }
+        },
+        "Loop3D/To-Ranee": {
+            "languages": {
+                "edges": [],
+                "nodes": [],
+                "totalCount": 0,
+                "totalSize": 0
+            }
+        },
+        "Loop3D/Turner_Syncline": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 7368
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 7368
+            }
+        },
+        "Loop3D/conda-publish-action": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 1471
+                    },
+                    {
+                        "size": 520
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#384d54",
+                        "name": "Dockerfile"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 1991
+            }
+        },
+        "Loop3D/dh2loop": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 64684035
+                    },
+                    {
+                        "size": 790113
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 65474148
+            }
+        },
+        "Loop3D/ensemble_generator": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 359540
+                    },
+                    {
+                        "size": 24943
+                    },
+                    {
+                        "size": 15711
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#198CE7",
+                        "name": "R"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 400194
+            }
+        },
+        "Loop3D/github-action-push-to-another-repository": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 721
+                    },
+                    {
+                        "size": 111
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#384d54",
+                        "name": "Dockerfile"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 832
+            }
+        },
+        "Loop3D/hjson": {
+            "languages": {
+                "edges": [],
+                "nodes": [],
+                "totalCount": 0,
+                "totalSize": 0
+            }
+        },
+        "Loop3D/lavavu": {
+            "languages": {
+                "edges": [],
+                "nodes": [],
+                "totalCount": 0,
+                "totalSize": 0
+            }
+        },
+        "Loop3D/loop3d.github.io": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 572556
+                    },
+                    {
+                        "size": 70553
+                    },
+                    {
+                        "size": 56184
+                    },
+                    {
+                        "size": 2758
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    },
+                    {
+                        "color": "#563d7c",
+                        "name": "CSS"
+                    },
+                    {
+                        "color": "#e34c26",
+                        "name": "HTML"
+                    },
+                    {
+                        "color": "#c6538c",
+                        "name": "SCSS"
+                    }
+                ],
+                "totalCount": 4,
+                "totalSize": 702051
+            }
+        },
+        "Loop3D/loop_nightly": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 1905
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#384d54",
+                        "name": "Dockerfile"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 1905
+            }
+        },
+        "Loop3D/map2loop-2": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 539468
+                    },
+                    {
+                        "size": 1840
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#384d54",
+                        "name": "Dockerfile"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 541308
+            }
+        },
+        "Loop3D/map2loop2-notebooks": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 721576
+                    },
+                    {
+                        "size": 3335
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 724911
+            }
+        },
+        "Loop3D/map2model_cpp": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 345300
+                    },
+                    {
+                        "size": 3725
+                    },
+                    {
+                        "size": 1478
+                    },
+                    {
+                        "size": 1358
+                    },
+                    {
+                        "size": 675
+                    },
+                    {
+                        "size": 260
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": null,
+                        "name": "CMake"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#f0a9f0",
+                        "name": "Gnuplot"
+                    },
+                    {
+                        "color": null,
+                        "name": "Awk"
+                    }
+                ],
+                "totalCount": 6,
+                "totalSize": 352796
+            }
+        },
+        "Loop3D/model_library": {
+            "languages": {
+                "edges": [],
+                "nodes": [],
+                "totalCount": 0,
+                "totalSize": 0
+            }
+        },
+        "Loop3D/mplstereonet": {
+            "languages": {
+                "edges": [],
+                "nodes": [],
+                "totalCount": 0,
+                "totalSize": 0
+            }
+        },
+        "Loop3D/noddyverse": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 4897553
+                    },
+                    {
+                        "size": 12019
+                    },
+                    {
+                        "size": 6745
+                    },
+                    {
+                        "size": 3921
+                    },
+                    {
+                        "size": 2243
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    },
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 5,
+                "totalSize": 4922481
+            }
+        },
+        "Loop3D/python-wheels-manylinux-build": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 1794
+                    },
+                    {
+                        "size": 1559
+                    },
+                    {
+                        "size": 143
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#384d54",
+                        "name": "Dockerfile"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 3496
+            }
+        },
+        "Loop3D/staged-recipes": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 49911
+                    },
+                    {
+                        "size": 8230
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 58141
+            }
+        },
+        "Loop3D/surfe": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 525503
+                    },
+                    {
+                        "size": 6553
+                    },
+                    {
+                        "size": 6540
+                    },
+                    {
+                        "size": 2357
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": null,
+                        "name": "CMake"
+                    },
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 4,
+                "totalSize": 540953
+            }
+        },
+        "Loop3D/w3id.org": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 11401
+                    },
+                    {
+                        "size": 1125
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#e34c26",
+                        "name": "HTML"
+                    },
+                    {
+                        "color": "#4F5D95",
+                        "name": "PHP"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 12526
+            }
+        },
+        "MTgeophysics/mtpy": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 9863497
+                    },
+                    {
+                        "size": 22490
+                    },
+                    {
+                        "size": 14537
+                    },
+                    {
+                        "size": 7782
+                    },
+                    {
+                        "size": 2411
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#3D6117",
+                        "name": "TeX"
+                    },
+                    {
+                        "color": "#4d41b1",
+                        "name": "Fortran"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#C1F12E",
+                        "name": "Batchfile"
+                    }
+                ],
+                "totalCount": 5,
+                "totalSize": 9910717
+            }
+        },
         "NSGeophysics/GPRPy": {
             "languages": {
                 "edges": [
@@ -424,6 +1369,72 @@
                 ],
                 "totalCount": 3,
                 "totalSize": 628428
+            }
+        },
+        "OpenGeoscience/geonotebook": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 463211
+                    },
+                    {
+                        "size": 148734
+                    },
+                    {
+                        "size": 61238
+                    },
+                    {
+                        "size": 3626
+                    },
+                    {
+                        "size": 2302
+                    },
+                    {
+                        "size": 1078
+                    },
+                    {
+                        "size": 785
+                    },
+                    {
+                        "size": 191
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    },
+                    {
+                        "color": "#701516",
+                        "name": "Ruby"
+                    },
+                    {
+                        "color": "#384d54",
+                        "name": "Dockerfile"
+                    },
+                    {
+                        "color": "#563d7c",
+                        "name": "CSS"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#e34c26",
+                        "name": "HTML"
+                    }
+                ],
+                "totalCount": 8,
+                "totalSize": 681165
             }
         },
         "SeisComP/seiscomp": {
@@ -1464,6 +2475,23 @@
                 "totalSize": 271018
             }
         },
+        "capaulson/pyKriging": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 103593
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 103593
+            }
+        },
         "cgre-aachen/Bayesian-Inference-Cases": {
             "languages": {
                 "edges": [
@@ -1829,7 +2857,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 6205437
+                        "size": 9768004
                     },
                     {
                         "size": 10628
@@ -1853,7 +2881,7 @@
                     }
                 ],
                 "totalCount": 3,
-                "totalSize": 6223659
+                "totalSize": 9786226
             }
         },
         "cgre-aachen/hspace": {
@@ -2165,6 +3193,85 @@
                 "totalSize": 0
             }
         },
+        "csdms/pymt": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 1570602
+                    },
+                    {
+                        "size": 557711
+                    },
+                    {
+                        "size": 2455
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 2130768
+            }
+        },
+        "davenquinn/geologic-patterns": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 2182
+                    },
+                    {
+                        "size": 1176
+                    },
+                    {
+                        "size": 223
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 3581
+            }
+        },
+        "driftingtides/hyvr": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 254021
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 254021
+            }
+        },
         "emanuelhuber/RGPR": {
             "languages": {
                 "edges": [
@@ -2180,6 +3287,37 @@
                 ],
                 "totalCount": 1,
                 "totalSize": 797329
+            }
+        },
+        "emsig/empymod": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 820048
+                    },
+                    {
+                        "size": 2403
+                    },
+                    {
+                        "size": 1264
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 823715
             }
         },
         "equinor/dlisio": {
@@ -2809,7 +3947,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 11666977
+                        "size": 11666350
                     },
                     {
                         "size": 2654
@@ -2826,7 +3964,7 @@
                     }
                 ],
                 "totalCount": 2,
-                "totalSize": 11669631
+                "totalSize": 11669004
             }
         },
         "fatiando/tutorials": {
@@ -3135,6 +4273,138 @@
                 "totalSize": 66812
             }
         },
+        "groupeLIAMG/bh_tomo": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 1159003
+                    },
+                    {
+                        "size": 532334
+                    },
+                    {
+                        "size": 95117
+                    },
+                    {
+                        "size": 62089
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#e16737",
+                        "name": "MATLAB"
+                    },
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    },
+                    {
+                        "color": null,
+                        "name": "Mathematica"
+                    }
+                ],
+                "totalCount": 4,
+                "totalSize": 1848543
+            }
+        },
+        "hpgl/hpgl": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 12922161
+                    },
+                    {
+                        "size": 1542495
+                    },
+                    {
+                        "size": 437616
+                    },
+                    {
+                        "size": 149361
+                    },
+                    {
+                        "size": 38668
+                    },
+                    {
+                        "size": 27208
+                    },
+                    {
+                        "size": 20616
+                    },
+                    {
+                        "size": 4632
+                    },
+                    {
+                        "size": 3346
+                    },
+                    {
+                        "size": 3055
+                    },
+                    {
+                        "size": 2623
+                    },
+                    {
+                        "size": 441
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#6E4C13",
+                        "name": "Assembly"
+                    },
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#3D6117",
+                        "name": "TeX"
+                    },
+                    {
+                        "color": "#e34c26",
+                        "name": "HTML"
+                    },
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    },
+                    {
+                        "color": "#da291c",
+                        "name": "PostScript"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    },
+                    {
+                        "color": "#438eff",
+                        "name": "Objective-C"
+                    },
+                    {
+                        "color": "#C1F12E",
+                        "name": "Batchfile"
+                    },
+                    {
+                        "color": null,
+                        "name": "QMake"
+                    }
+                ],
+                "totalCount": 12,
+                "totalSize": 15152222
+            }
+        },
         "iannesbitt/readgssi": {
             "languages": {
                 "edges": [
@@ -3176,6 +4446,23 @@
                 "totalSize": 179069
             }
         },
+        "keurfonluu/disba": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 81232
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 81232
+            }
+        },
         "kinverarity1/lasio": {
             "languages": {
                 "edges": [
@@ -3205,6 +4492,507 @@
                 ],
                 "totalCount": 3,
                 "totalSize": 442310
+            }
+        },
+        "landlab/CUAHSI_Biennial_July_2016": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 193797
+                    },
+                    {
+                        "size": 26030
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 219827
+            }
+        },
+        "landlab/General-Landlab-Clinic-2020-21": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 2040787
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 2040787
+            }
+        },
+        "landlab/UT_Landlab_Clinic": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 2040787
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 2040787
+            }
+        },
+        "landlab/conda": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 760
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 760
+            }
+        },
+        "landlab/csdms_meeting_may_2015": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 15370
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 15370
+            }
+        },
+        "landlab/csdms_model_clinic_may_2017": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 352573
+                    },
+                    {
+                        "size": 31443
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 384016
+            }
+        },
+        "landlab/drivers": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 76297
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 76297
+            }
+        },
+        "landlab/flexure-component": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 24744
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 24744
+            }
+        },
+        "landlab/governance_discussion": {
+            "languages": {
+                "edges": [],
+                "nodes": [],
+                "totalCount": 0,
+                "totalSize": 0
+            }
+        },
+        "landlab/grid-sketchbook": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 21398
+                    },
+                    {
+                        "size": 8272
+                    },
+                    {
+                        "size": 4715
+                    },
+                    {
+                        "size": 527
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#563d7c",
+                        "name": "CSS"
+                    },
+                    {
+                        "color": "#e34c26",
+                        "name": "HTML"
+                    }
+                ],
+                "totalCount": 4,
+                "totalSize": 34912
+            }
+        },
+        "landlab/landlab": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 4221106
+                    },
+                    {
+                        "size": 937806
+                    },
+                    {
+                        "size": 42252
+                    },
+                    {
+                        "size": 1917
+                    },
+                    {
+                        "size": 1073
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3D6117",
+                        "name": "TeX"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 5,
+                "totalSize": 5204154
+            }
+        },
+        "landlab/landlab-logo": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 232
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#e34c26",
+                        "name": "HTML"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 232
+            }
+        },
+        "landlab/landlab-rest": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 107139
+                    },
+                    {
+                        "size": 2412
+                    },
+                    {
+                        "size": 1461
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    },
+                    {
+                        "color": "#384d54",
+                        "name": "Dockerfile"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 111012
+            }
+        },
+        "landlab/landlab.github.io": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 14419
+                    },
+                    {
+                        "size": 4039
+                    },
+                    {
+                        "size": 3584
+                    },
+                    {
+                        "size": 642
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#e34c26",
+                        "name": "HTML"
+                    },
+                    {
+                        "color": "#c6538c",
+                        "name": "SCSS"
+                    },
+                    {
+                        "color": "#563d7c",
+                        "name": "CSS"
+                    },
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ],
+                "totalCount": 4,
+                "totalSize": 22684
+            }
+        },
+        "landlab/landlab_teaching_tools": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 110233
+                    },
+                    {
+                        "size": 1701
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 111934
+            }
+        },
+        "landlab/landscape_metrics_course": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 86335
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 86335
+            }
+        },
+        "landlab/nced_summer_instititute_2018": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 8105
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 8105
+            }
+        },
+        "landlab/psu-clinic-2020": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 1676557
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 1676557
+            }
+        },
+        "landlab/pub_adams_etal_gmd": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 9531
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 9531
+            }
+        },
+        "landlab/pub_adams_etal_rainfallvar_jgr": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 81011
+                    },
+                    {
+                        "size": 16834
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#e16737",
+                        "name": "MATLAB"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 97845
+            }
+        },
+        "landlab/pub_nudurupati_etal_wrr": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 277367
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 277367
+            }
+        },
+        "landlab/pub_tucker_etal_gmd": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 96641
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 96641
+            }
+        },
+        "landlab/tutorials": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 74211730
+                    },
+                    {
+                        "size": 32424
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 74244154
             }
         },
         "morganjwilliams/pyrolite": {
@@ -3418,7 +5206,7 @@
                         "size": 41395
                     },
                     {
-                        "size": 39179
+                        "size": 39175
                     },
                     {
                         "size": 21465
@@ -3475,14 +5263,14 @@
                     }
                 ],
                 "totalCount": 9,
-                "totalSize": 3700483
+                "totalSize": 3700479
             }
         },
         "pyvista/pyvista": {
             "languages": {
                 "edges": [
                     {
-                        "size": 1415499
+                        "size": 1415500
                     },
                     {
                         "size": 5077
@@ -3527,14 +5315,52 @@
                     }
                 ],
                 "totalCount": 6,
-                "totalSize": 1425480
+                "totalSize": 1425481
+            }
+        },
+        "r-spatial/gstat": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 336058
+                    },
+                    {
+                        "size": 201331
+                    },
+                    {
+                        "size": 4825
+                    },
+                    {
+                        "size": 100
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#555555",
+                        "name": "C"
+                    },
+                    {
+                        "color": "#198CE7",
+                        "name": "R"
+                    },
+                    {
+                        "color": "#f34b7d",
+                        "name": "C++"
+                    },
+                    {
+                        "color": "#438eff",
+                        "name": "Objective-C"
+                    }
+                ],
+                "totalCount": 4,
+                "totalSize": 542314
             }
         },
         "raspishake/rsudp": {
             "languages": {
                 "edges": [
                     {
-                        "size": 171051
+                        "size": 171027
                     },
                     {
                         "size": 19011
@@ -3572,7 +5398,24 @@
                     }
                 ],
                 "totalCount": 5,
-                "totalSize": 215498
+                "totalSize": 215474
+            }
+        },
+        "robinthibaut/pysgems": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 46461
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 46461
             }
         },
         "simpeg/simpeg": {
@@ -3597,6 +5440,23 @@
                 ],
                 "totalCount": 2,
                 "totalSize": 2473087
+            }
+        },
+        "sinanozaydin/MATE": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 349156
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 349156
             }
         },
         "softwareunderground/52things": {
@@ -4256,6 +6116,23 @@
                 ],
                 "totalCount": 3,
                 "totalSize": 2630862
+            }
+        },
+        "trhallam/segysak": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 171624
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 171624
             }
         },
         "waynegm/OpendTect-Plugins": {
