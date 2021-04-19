@@ -35,6 +35,7 @@
         "raspishake/rsudp",
         "seiscomp/seiscomp",
         "simpeg/simpeg",
+        "trhallam/segysak",
         "toddheitmann/petropy",
         "waynegm/opendtect-plugins",
         "whamlyn/auralib"
