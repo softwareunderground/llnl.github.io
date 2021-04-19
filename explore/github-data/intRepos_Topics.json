@@ -49,10 +49,150 @@
                 "totalCount": 6
             }
         },
+        "GeoPyTool/GeoPyTool": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/geology",
+                        "topic": {
+                            "name": "geology"
+                        },
+                        "url": "https://github.com/topics/geology"
+                    },
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    },
+                    {
+                        "resourcePath": "/topics/chemistry",
+                        "topic": {
+                            "name": "chemistry"
+                        },
+                        "url": "https://github.com/topics/chemistry"
+                    },
+                    {
+                        "resourcePath": "/topics/structual",
+                        "topic": {
+                            "name": "structual"
+                        },
+                        "url": "https://github.com/topics/structual"
+                    },
+                    {
+                        "resourcePath": "/topics/geochemistry",
+                        "topic": {
+                            "name": "geochemistry"
+                        },
+                        "url": "https://github.com/topics/geochemistry"
+                    },
+                    {
+                        "resourcePath": "/topics/sedim",
+                        "topic": {
+                            "name": "sedim"
+                        },
+                        "url": "https://github.com/topics/sedim"
+                    },
+                    {
+                        "resourcePath": "/topics/sedimentary",
+                        "topic": {
+                            "name": "sedimentary"
+                        },
+                        "url": "https://github.com/topics/sedimentary"
+                    },
+                    {
+                        "resourcePath": "/topics/cugb",
+                        "topic": {
+                            "name": "cugb"
+                        },
+                        "url": "https://github.com/topics/cugb"
+                    }
+                ],
+                "totalCount": 8
+            }
+        },
+        "Geode-solutions/OpenGeode": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/brep",
+                        "topic": {
+                            "name": "brep"
+                        },
+                        "url": "https://github.com/topics/brep"
+                    },
+                    {
+                        "resourcePath": "/topics/modeling",
+                        "topic": {
+                            "name": "modeling"
+                        },
+                        "url": "https://github.com/topics/modeling"
+                    },
+                    {
+                        "resourcePath": "/topics/mesh",
+                        "topic": {
+                            "name": "mesh"
+                        },
+                        "url": "https://github.com/topics/mesh"
+                    },
+                    {
+                        "resourcePath": "/topics/meshing",
+                        "topic": {
+                            "name": "meshing"
+                        },
+                        "url": "https://github.com/topics/meshing"
+                    }
+                ],
+                "totalCount": 4
+            }
+        },
         "GeoscienceAustralia/uncover-ml": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "GeostatsGuy/GeostatsPy": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/geostatistics",
+                        "topic": {
+                            "name": "geostatistics"
+                        },
+                        "url": "https://github.com/topics/geostatistics"
+                    },
+                    {
+                        "resourcePath": "/topics/statistics",
+                        "topic": {
+                            "name": "statistics"
+                        },
+                        "url": "https://github.com/topics/statistics"
+                    },
+                    {
+                        "resourcePath": "/topics/spatial",
+                        "topic": {
+                            "name": "spatial"
+                        },
+                        "url": "https://github.com/topics/spatial"
+                    },
+                    {
+                        "resourcePath": "/topics/dataanalytics",
+                        "topic": {
+                            "name": "dataanalytics"
+                        },
+                        "url": "https://github.com/topics/dataanalytics"
+                    },
+                    {
+                        "resourcePath": "/topics/modeling",
+                        "topic": {
+                            "name": "modeling"
+                        },
+                        "url": "https://github.com/topics/modeling"
+                    }
+                ],
+                "totalCount": 5
             }
         },
         "JohnWStockwellJr/OpenSeaSeis": {
@@ -65,6 +205,111 @@
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "JuliaEarth/GeoStats.jl": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/geostatistics",
+                        "topic": {
+                            "name": "geostatistics"
+                        },
+                        "url": "https://github.com/topics/geostatistics"
+                    },
+                    {
+                        "resourcePath": "/topics/spatial-data",
+                        "topic": {
+                            "name": "spatial-data"
+                        },
+                        "url": "https://github.com/topics/spatial-data"
+                    },
+                    {
+                        "resourcePath": "/topics/spatial-statistics",
+                        "topic": {
+                            "name": "spatial-statistics"
+                        },
+                        "url": "https://github.com/topics/spatial-statistics"
+                    },
+                    {
+                        "resourcePath": "/topics/variography",
+                        "topic": {
+                            "name": "variography"
+                        },
+                        "url": "https://github.com/topics/variography"
+                    },
+                    {
+                        "resourcePath": "/topics/geospatial",
+                        "topic": {
+                            "name": "geospatial"
+                        },
+                        "url": "https://github.com/topics/geospatial"
+                    },
+                    {
+                        "resourcePath": "/topics/geo",
+                        "topic": {
+                            "name": "geo"
+                        },
+                        "url": "https://github.com/topics/geo"
+                    },
+                    {
+                        "resourcePath": "/topics/statistics",
+                        "topic": {
+                            "name": "statistics"
+                        },
+                        "url": "https://github.com/topics/statistics"
+                    },
+                    {
+                        "resourcePath": "/topics/spatial",
+                        "topic": {
+                            "name": "spatial"
+                        },
+                        "url": "https://github.com/topics/spatial"
+                    },
+                    {
+                        "resourcePath": "/topics/geostats",
+                        "topic": {
+                            "name": "geostats"
+                        },
+                        "url": "https://github.com/topics/geostats"
+                    },
+                    {
+                        "resourcePath": "/topics/estimation",
+                        "topic": {
+                            "name": "estimation"
+                        },
+                        "url": "https://github.com/topics/estimation"
+                    },
+                    {
+                        "resourcePath": "/topics/simulation",
+                        "topic": {
+                            "name": "simulation"
+                        },
+                        "url": "https://github.com/topics/simulation"
+                    },
+                    {
+                        "resourcePath": "/topics/learning",
+                        "topic": {
+                            "name": "learning"
+                        },
+                        "url": "https://github.com/topics/learning"
+                    },
+                    {
+                        "resourcePath": "/topics/point-patterns",
+                        "topic": {
+                            "name": "point-patterns"
+                        },
+                        "url": "https://github.com/topics/point-patterns"
+                    },
+                    {
+                        "resourcePath": "/topics/interpolation",
+                        "topic": {
+                            "name": "interpolation"
+                        },
+                        "url": "https://github.com/topics/interpolation"
+                    }
+                ],
+                "totalCount": 14
             }
         },
         "JustinGOSSES/predictatops": {
@@ -167,9 +412,16 @@
                             "name": "geoscience"
                         },
                         "url": "https://github.com/topics/geoscience"
+                    },
+                    {
+                        "resourcePath": "/topics/dataunderground",
+                        "topic": {
+                            "name": "dataunderground"
+                        },
+                        "url": "https://github.com/topics/dataunderground"
                     }
                 ],
-                "totalCount": 6
+                "totalCount": 7
             }
         },
         "JustinGOSSES/wellioviz": {
@@ -230,9 +482,202 @@
                             "name": "welllogs"
                         },
                         "url": "https://github.com/topics/welllogs"
+                    },
+                    {
+                        "resourcePath": "/topics/dataunderground",
+                        "topic": {
+                            "name": "dataunderground"
+                        },
+                        "url": "https://github.com/topics/dataunderground"
                     }
                 ],
-                "totalCount": 8
+                "totalCount": 9
+            }
+        },
+        "Loop3D/GKM": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/GKM-Public": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/GeoSwarm": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/GeologicalTopology-GraphML": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/ImplicitBenchmark": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/Loop3D": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/LoopProjectFile": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/LoopProjectFile-cpp": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/LoopStructural": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/LoopStructuralWorkshop": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/To-Ranee": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/Turner_Syncline": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/conda-publish-action": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/dh2loop": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/ensemble_generator": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/github-action-push-to-another-repository": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/hjson": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/lavavu": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/loop3d.github.io": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/loop_nightly": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/map2loop-2": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/map2loop2-notebooks": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/map2model_cpp": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/model_library": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/mplstereonet": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/noddyverse": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/python-wheels-manylinux-build": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/staged-recipes": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/surfe": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/w3id.org": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "MTgeophysics/mtpy": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
             }
         },
         "NSGeophysics/GPRPy": {
@@ -330,6 +775,69 @@
                     }
                 ],
                 "totalCount": 12
+            }
+        },
+        "OpenGeoscience/geonotebook": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/notebook",
+                        "topic": {
+                            "name": "notebook"
+                        },
+                        "url": "https://github.com/topics/notebook"
+                    },
+                    {
+                        "resourcePath": "/topics/mapnik",
+                        "topic": {
+                            "name": "mapnik"
+                        },
+                        "url": "https://github.com/topics/mapnik"
+                    },
+                    {
+                        "resourcePath": "/topics/jupyter",
+                        "topic": {
+                            "name": "jupyter"
+                        },
+                        "url": "https://github.com/topics/jupyter"
+                    },
+                    {
+                        "resourcePath": "/topics/jupyter-notebook-extension",
+                        "topic": {
+                            "name": "jupyter-notebook-extension"
+                        },
+                        "url": "https://github.com/topics/jupyter-notebook-extension"
+                    },
+                    {
+                        "resourcePath": "/topics/tile-server",
+                        "topic": {
+                            "name": "tile-server"
+                        },
+                        "url": "https://github.com/topics/tile-server"
+                    },
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    },
+                    {
+                        "resourcePath": "/topics/opengeoscience",
+                        "topic": {
+                            "name": "opengeoscience"
+                        },
+                        "url": "https://github.com/topics/opengeoscience"
+                    },
+                    {
+                        "resourcePath": "/topics/analysis",
+                        "topic": {
+                            "name": "analysis"
+                        },
+                        "url": "https://github.com/topics/analysis"
+                    }
+                ],
+                "totalCount": 8
             }
         },
         "SeisComP/seiscomp": {
@@ -863,6 +1371,12 @@
                 "totalCount": 0
             }
         },
+        "capaulson/pyKriging": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "cgre-aachen/Bayesian-Inference-Cases": {
             "repositoryTopics": {
                 "nodes": [],
@@ -1366,6 +1880,24 @@
                 "totalCount": 0
             }
         },
+        "csdms/pymt": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "davenquinn/geologic-patterns": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "driftingtides/hyvr": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "emanuelhuber/RGPR": {
             "repositoryTopics": {
                 "nodes": [
@@ -1462,6 +1994,62 @@
                     }
                 ],
                 "totalCount": 13
+            }
+        },
+        "emsig/empymod": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/electromagnetic",
+                        "topic": {
+                            "name": "electromagnetic"
+                        },
+                        "url": "https://github.com/topics/electromagnetic"
+                    },
+                    {
+                        "resourcePath": "/topics/csem",
+                        "topic": {
+                            "name": "csem"
+                        },
+                        "url": "https://github.com/topics/csem"
+                    },
+                    {
+                        "resourcePath": "/topics/gpr",
+                        "topic": {
+                            "name": "gpr"
+                        },
+                        "url": "https://github.com/topics/gpr"
+                    },
+                    {
+                        "resourcePath": "/topics/modelling",
+                        "topic": {
+                            "name": "modelling"
+                        },
+                        "url": "https://github.com/topics/modelling"
+                    },
+                    {
+                        "resourcePath": "/topics/geophysics",
+                        "topic": {
+                            "name": "geophysics"
+                        },
+                        "url": "https://github.com/topics/geophysics"
+                    },
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    },
+                    {
+                        "resourcePath": "/topics/empymod",
+                        "topic": {
+                            "name": "empymod"
+                        },
+                        "url": "https://github.com/topics/empymod"
+                    }
+                ],
+                "totalCount": 7
             }
         },
         "equinor/dlisio": {
@@ -2306,6 +2894,47 @@
                 "totalCount": 0
             }
         },
+        "groupeLIAMG/bh_tomo": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/geophysics",
+                        "topic": {
+                            "name": "geophysics"
+                        },
+                        "url": "https://github.com/topics/geophysics"
+                    },
+                    {
+                        "resourcePath": "/topics/tomography",
+                        "topic": {
+                            "name": "tomography"
+                        },
+                        "url": "https://github.com/topics/tomography"
+                    },
+                    {
+                        "resourcePath": "/topics/borehole",
+                        "topic": {
+                            "name": "borehole"
+                        },
+                        "url": "https://github.com/topics/borehole"
+                    },
+                    {
+                        "resourcePath": "/topics/traveltime",
+                        "topic": {
+                            "name": "traveltime"
+                        },
+                        "url": "https://github.com/topics/traveltime"
+                    }
+                ],
+                "totalCount": 4
+            }
+        },
+        "hpgl/hpgl": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "iannesbitt/readgssi": {
             "repositoryTopics": {
                 "nodes": [
@@ -2380,6 +3009,55 @@
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "keurfonluu/disba": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/surf96",
+                        "topic": {
+                            "name": "surf96"
+                        },
+                        "url": "https://github.com/topics/surf96"
+                    },
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    },
+                    {
+                        "resourcePath": "/topics/surface-wave",
+                        "topic": {
+                            "name": "surface-wave"
+                        },
+                        "url": "https://github.com/topics/surface-wave"
+                    },
+                    {
+                        "resourcePath": "/topics/geosciences",
+                        "topic": {
+                            "name": "geosciences"
+                        },
+                        "url": "https://github.com/topics/geosciences"
+                    },
+                    {
+                        "resourcePath": "/topics/seismology",
+                        "topic": {
+                            "name": "seismology"
+                        },
+                        "url": "https://github.com/topics/seismology"
+                    },
+                    {
+                        "resourcePath": "/topics/dispersion",
+                        "topic": {
+                            "name": "dispersion"
+                        },
+                        "url": "https://github.com/topics/dispersion"
+                    }
+                ],
+                "totalCount": 6
             }
         },
         "kinverarity1/lasio": {
@@ -2478,6 +3156,187 @@
                     }
                 ],
                 "totalCount": 13
+            }
+        },
+        "landlab/CUAHSI_Biennial_July_2016": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/General-Landlab-Clinic-2020-21": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/UT_Landlab_Clinic": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/conda": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/csdms_meeting_may_2015": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/csdms_model_clinic_may_2017": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/drivers": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/flexure-component": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/governance_discussion": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/grid-sketchbook": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/landlab": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/landlab-logo": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/landlab-rest": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/landlab.github.io": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/landlab_teaching_tools": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/landscape_metrics_course": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/nced_summer_instititute_2018": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/psu-clinic-2020": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/pub_adams_etal_gmd": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/pub_adams_etal_rainfallvar_jgr": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/pub_nudurupati_etal_wrr": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "landlab/pub_tucker_etal_gmd": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/landlab",
+                        "topic": {
+                            "name": "landlab"
+                        },
+                        "url": "https://github.com/topics/landlab"
+                    },
+                    {
+                        "resourcePath": "/topics/celllab-cts",
+                        "topic": {
+                            "name": "celllab-cts"
+                        },
+                        "url": "https://github.com/topics/celllab-cts"
+                    },
+                    {
+                        "resourcePath": "/topics/cellular-automata",
+                        "topic": {
+                            "name": "cellular-automata"
+                        },
+                        "url": "https://github.com/topics/cellular-automata"
+                    },
+                    {
+                        "resourcePath": "/topics/cellular-automaton",
+                        "topic": {
+                            "name": "cellular-automaton"
+                        },
+                        "url": "https://github.com/topics/cellular-automaton"
+                    },
+                    {
+                        "resourcePath": "/topics/geomorphology",
+                        "topic": {
+                            "name": "geomorphology"
+                        },
+                        "url": "https://github.com/topics/geomorphology"
+                    },
+                    {
+                        "resourcePath": "/topics/csdms",
+                        "topic": {
+                            "name": "csdms"
+                        },
+                        "url": "https://github.com/topics/csdms"
+                    }
+                ],
+                "totalCount": 6
+            }
+        },
+        "landlab/tutorials": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
             }
         },
         "morganjwilliams/pyrolite": {
@@ -2766,10 +3625,37 @@
                 "totalCount": 12
             }
         },
+        "r-spatial/gstat": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "raspishake/rsudp": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "robinthibaut/pysgems": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/geostatistics",
+                        "topic": {
+                            "name": "geostatistics"
+                        },
+                        "url": "https://github.com/topics/geostatistics"
+                    },
+                    {
+                        "resourcePath": "/topics/sgems",
+                        "topic": {
+                            "name": "sgems"
+                        },
+                        "url": "https://github.com/topics/sgems"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "simpeg/simpeg": {
@@ -2917,6 +3803,41 @@
                     }
                 ],
                 "totalCount": 20
+            }
+        },
+        "sinanozaydin/MATE": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/geophysics",
+                        "topic": {
+                            "name": "geophysics"
+                        },
+                        "url": "https://github.com/topics/geophysics"
+                    },
+                    {
+                        "resourcePath": "/topics/magnetotellurics",
+                        "topic": {
+                            "name": "magnetotellurics"
+                        },
+                        "url": "https://github.com/topics/magnetotellurics"
+                    },
+                    {
+                        "resourcePath": "/topics/petrology",
+                        "topic": {
+                            "name": "petrology"
+                        },
+                        "url": "https://github.com/topics/petrology"
+                    },
+                    {
+                        "resourcePath": "/topics/geology",
+                        "topic": {
+                            "name": "geology"
+                        },
+                        "url": "https://github.com/topics/geology"
+                    }
+                ],
+                "totalCount": 4
             }
         },
         "softwareunderground/52things": {
@@ -3116,8 +4037,16 @@
         },
         "softwareunderground/data-underground": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/dataunderground",
+                        "topic": {
+                            "name": "dataunderground"
+                        },
+                        "url": "https://github.com/topics/dataunderground"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "softwareunderground/event-proposals": {
@@ -3359,6 +4288,41 @@
                             "name": "geoscience"
                         },
                         "url": "https://github.com/topics/geoscience"
+                    }
+                ],
+                "totalCount": 4
+            }
+        },
+        "trhallam/segysak": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/swung-t20",
+                        "topic": {
+                            "name": "swung-t20"
+                        },
+                        "url": "https://github.com/topics/swung-t20"
+                    },
+                    {
+                        "resourcePath": "/topics/segy",
+                        "topic": {
+                            "name": "segy"
+                        },
+                        "url": "https://github.com/topics/segy"
+                    },
+                    {
+                        "resourcePath": "/topics/geophysics",
+                        "topic": {
+                            "name": "geophysics"
+                        },
+                        "url": "https://github.com/topics/geophysics"
+                    },
+                    {
+                        "resourcePath": "/topics/seismic",
+                        "topic": {
+                            "name": "seismic"
+                        },
+                        "url": "https://github.com/topics/seismic"
                     }
                 ],
                 "totalCount": 4
