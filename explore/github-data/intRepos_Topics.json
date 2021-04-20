@@ -554,6 +554,12 @@
                 "totalCount": 0
             }
         },
+        "Loop3D/T21": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "Loop3D/To-Ranee": {
             "repositoryTopics": {
                 "nodes": [],
@@ -3339,6 +3345,27 @@
                 "totalCount": 0
             }
         },
+        "mlbelobraydi/t21-hack-SwellCorr": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/dataunderground",
+                        "topic": {
+                            "name": "dataunderground"
+                        },
+                        "url": "https://github.com/topics/dataunderground"
+                    },
+                    {
+                        "resourcePath": "/topics/swung-t21",
+                        "topic": {
+                            "name": "swung-t21"
+                        },
+                        "url": "https://github.com/topics/swung-t21"
+                    }
+                ],
+                "totalCount": 2
+            }
+        },
         "morganjwilliams/pyrolite": {
             "repositoryTopics": {
                 "nodes": [
@@ -4186,8 +4213,30 @@
         },
         "softwareunderground/subsurface": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/subsurface",
+                        "topic": {
+                            "name": "subsurface"
+                        },
+                        "url": "https://github.com/topics/subsurface"
+                    },
+                    {
+                        "resourcePath": "/topics/geoscientific-data",
+                        "topic": {
+                            "name": "geoscientific-data"
+                        },
+                        "url": "https://github.com/topics/geoscientific-data"
+                    },
+                    {
+                        "resourcePath": "/topics/subsurface-datahub",
+                        "topic": {
+                            "name": "subsurface-datahub"
+                        },
+                        "url": "https://github.com/topics/subsurface-datahub"
+                    }
+                ],
+                "totalCount": 3
             }
         },
         "softwareunderground/subsurface-journal": {

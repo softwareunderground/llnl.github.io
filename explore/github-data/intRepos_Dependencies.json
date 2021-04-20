@@ -4170,6 +4170,19 @@
                 ]
             }
         },
+        "Loop3D/T21": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    }
+                ]
+            }
+        },
         "Loop3D/To-Ranee": {
             "dependencyGraphManifests": {
                 "nodes": []
@@ -16696,6 +16709,19 @@
                 ]
             }
         },
+        "mlbelobraydi/t21-hack-SwellCorr": {
+            "dependencyGraphManifests": {
+                "nodes": []
+            },
+            "languages": {
+                "nodes": [
+                    {
+                        "color": "#999999",
+                        "name": "Lasso"
+                    }
+                ]
+            }
+        },
         "morganjwilliams/pyrolite": {
             "dependencyGraphManifests": {
                 "nodes": [
@@ -18482,6 +18508,31 @@
                             "nodes": [
                                 {
                                     "packageManager": "PIP",
+                                    "packageName": "-",
+                                    "repository": null
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "dependencies": {
+                            "nodes": [
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "pytest",
+                                    "repository": {
+                                        "nameWithOwner": "pytest-dev/pytest"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
+                                    "packageName": "pytest-cov",
+                                    "repository": {
+                                        "nameWithOwner": "pytest-dev/pytest-cov"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
                                     "packageName": "sphinx",
                                     "repository": {
                                         "nameWithOwner": "sphinx-doc/sphinx"
@@ -18572,6 +18623,13 @@
                                 },
                                 {
                                     "packageManager": "PIP",
+                                    "packageName": "scooby",
+                                    "repository": {
+                                        "nameWithOwner": "banesullivan/scooby"
+                                    }
+                                },
+                                {
+                                    "packageManager": "PIP",
                                     "packageName": "segyio",
                                     "repository": {
                                         "nameWithOwner": "equinor/segyio"
@@ -18597,75 +18655,6 @@
                     {
                         "dependencies": {
                             "nodes": [
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "numpy",
-                                    "repository": {
-                                        "nameWithOwner": "numpy/numpy"
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "pandas",
-                                    "repository": {
-                                        "nameWithOwner": "pandas-dev/pandas"
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "pytest",
-                                    "repository": {
-                                        "nameWithOwner": "pytest-dev/pytest"
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "setuptools",
-                                    "repository": {
-                                        "nameWithOwner": "pypa/setuptools"
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "typing",
-                                    "repository": {
-                                        "nameWithOwner": "python/typing"
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "xarray",
-                                    "repository": {
-                                        "nameWithOwner": "pydata/xarray"
-                                    }
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "dependencies": {
-                            "nodes": [
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "numpy",
-                                    "repository": {
-                                        "nameWithOwner": "numpy/numpy"
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "pandas",
-                                    "repository": {
-                                        "nameWithOwner": "pandas-dev/pandas"
-                                    }
-                                },
-                                {
-                                    "packageManager": "PIP",
-                                    "packageName": "pytest",
-                                    "repository": {
-                                        "nameWithOwner": "pytest-dev/pytest"
-                                    }
-                                },
                                 {
                                     "packageManager": "PIP",
                                     "packageName": "xarray",

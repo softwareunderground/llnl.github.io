@@ -394,7 +394,6 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
-                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -716,7 +715,6 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
-                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -769,6 +767,7 @@
                     "Loop3D/LoopProjectFile-cpp",
                     "Loop3D/LoopStructural",
                     "Loop3D/LoopStructuralWorkshop",
+                    "Loop3D/T21",
                     "Loop3D/To-Ranee",
                     "Loop3D/Turner_Syncline",
                     "Loop3D/conda-publish-action",
@@ -829,6 +828,7 @@
                     "Loop3D/LoopProjectFile-cpp",
                     "Loop3D/LoopStructural",
                     "Loop3D/LoopStructuralWorkshop",
+                    "Loop3D/T21",
                     "Loop3D/To-Ranee",
                     "Loop3D/Turner_Syncline",
                     "Loop3D/conda-publish-action",
@@ -918,7 +918,6 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
-                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -1192,7 +1191,6 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
-                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -2058,7 +2056,6 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
-                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -2807,16 +2804,6 @@
             "login": "chad-iris",
             "name": "chad-iris"
         },
-        "chancesang": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/32222820?u=54e75fbc7a4522f08c1aa036d808467a107e6916&v=4",
-            "contributedLabRepositories": {
-                "nodes": [
-                    "softwareunderground/transform-2021-hackathon"
-                ]
-            },
-            "login": "chancesang",
-            "name": null
-        },
         "chrisleaman": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/7591552?u=d2a80d61d1a53bb6b6a50012efe7357c985fa104&v=4",
             "contributedLabRepositories": {
@@ -2967,7 +2954,8 @@
                     "equinor/dlisio",
                     "fatiando/boule",
                     "softwareunderground/52things",
-                    "softwareunderground/northern-lights"
+                    "softwareunderground/northern-lights",
+                    "trhallam/segysak"
                 ]
             },
             "login": "dabiged",
@@ -3106,6 +3094,16 @@
             "login": "dccowan",
             "name": "Devin C. Cowan"
         },
+        "dcostalouis": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/33448938?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "mlbelobraydi/t21-hack-SwellCorr"
+                ]
+            },
+            "login": "dcostalouis",
+            "name": null
+        },
         "dcslagel": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/16831228?u=a0e02586ed3659f23b386cb2e6bcd827c876396d&v=4",
             "contributedLabRepositories": {
@@ -3114,8 +3112,7 @@
                     "JustinGOSSES/wellioviz",
                     "agile-geoscience/welly",
                     "fatiando/verde",
-                    "kinverarity1/lasio",
-                    "softwareunderground/transform-2021-hackathon"
+                    "kinverarity1/lasio"
                 ]
             },
             "login": "dcslagel",
@@ -3455,8 +3452,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/77919676?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "softwareunderground/northern-lights",
-                    "softwareunderground/transform-2021-hackathon"
+                    "softwareunderground/northern-lights"
                 ]
             },
             "login": "ehzimmer",
@@ -3788,7 +3784,6 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
-                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -3886,16 +3881,6 @@
             },
             "login": "fourndo",
             "name": "dom"
-        },
-        "fozba": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/45905263?v=4",
-            "contributedLabRepositories": {
-                "nodes": [
-                    "softwareunderground/transform-2021-hackathon"
-                ]
-            },
-            "login": "fozba",
-            "name": null
         },
         "fperez": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/57394?v=4",
@@ -4045,6 +4030,7 @@
                     "Loop3D/LoopProjectFile-cpp",
                     "Loop3D/LoopStructural",
                     "Loop3D/LoopStructuralWorkshop",
+                    "Loop3D/T21",
                     "Loop3D/To-Ranee",
                     "Loop3D/Turner_Syncline",
                     "Loop3D/conda-publish-action",
@@ -4348,6 +4334,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/11503?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "mlbelobraydi/t21-hack-SwellCorr",
                     "softwareunderground/52things",
                     "softwareunderground/TeapotDome",
                     "softwareunderground/awesome-open-geoscience",
@@ -4379,7 +4366,6 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
-                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -4868,7 +4854,6 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
-                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -4994,7 +4979,6 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
-                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -5447,6 +5431,7 @@
                     "Loop3D/LoopProjectFile-cpp",
                     "Loop3D/LoopStructural",
                     "Loop3D/LoopStructuralWorkshop",
+                    "Loop3D/T21",
                     "Loop3D/To-Ranee",
                     "Loop3D/Turner_Syncline",
                     "Loop3D/conda-publish-action",
@@ -5586,7 +5571,6 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
-                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -6062,6 +6046,16 @@
             "login": "mglesser",
             "name": "Martin Glesser"
         },
+        "mharty3": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/21209567?u=eaad9ddb624182a4ac5ccd9df67d26fe2a7f3798&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "mlbelobraydi/t21-hack-SwellCorr"
+                ]
+            },
+            "login": "mharty3",
+            "name": "Michael Harty"
+        },
         "michaelgrund": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/23025878?u=979908223ebaba73e5ce1f85136b85cd1a2a14c0&v=4",
             "contributedLabRepositories": {
@@ -6122,6 +6116,16 @@
             },
             "login": "mkondratyev85",
             "name": "Mikhail Kondratyev"
+        },
+        "mlbelobraydi": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/66383874?u=6d51276ad6517de77f6c7b7bbf52a05a379ec7aa&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "mlbelobraydi/t21-hack-SwellCorr"
+                ]
+            },
+            "login": "mlbelobraydi",
+            "name": "Matt B."
         },
         "mli0603": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/13513172?u=5ade4a46fb629519e8d047021274c54114efbe61&v=4",
@@ -6310,7 +6314,6 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
-                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -7436,7 +7439,6 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
-                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"

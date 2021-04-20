@@ -2176,6 +2176,10 @@
             {
                 "date": "2021-03-15",
                 "value": 3
+            },
+            {
+                "date": "2021-03-22",
+                "value": 1
             }
         ],
         "JuliaEarth/GeoStats.jl": [
@@ -3089,6 +3093,7 @@
                 "value": 1
             }
         ],
+        "Loop3D/T21": [],
         "Loop3D/To-Ranee": [],
         "Loop3D/Turner_Syncline": [],
         "Loop3D/conda-publish-action": [],
@@ -3132,6 +3137,10 @@
             {
                 "date": "2021-03-22",
                 "value": 4
+            },
+            {
+                "date": "2021-04-05",
+                "value": 1
             }
         ],
         "Loop3D/map2loop2-notebooks": [
@@ -3385,6 +3394,10 @@
             {
                 "date": "2021-03-22",
                 "value": 1
+            },
+            {
+                "date": "2021-04-12",
+                "value": 1
             }
         ],
         "NSGeophysics/GPRPy": [
@@ -3602,6 +3615,10 @@
             },
             {
                 "date": "2021-03-22",
+                "value": 1
+            },
+            {
+                "date": "2021-04-12",
                 "value": 1
             }
         ],
@@ -6041,6 +6058,10 @@
             {
                 "date": "2021-03-08",
                 "value": 1
+            },
+            {
+                "date": "2021-03-15",
+                "value": 2
             }
         ],
         "agile-geoscience/patrol": [],
@@ -7130,6 +7151,10 @@
             },
             {
                 "date": "2021-04-05",
+                "value": 1
+            },
+            {
+                "date": "2021-04-12",
                 "value": 1
             }
         ],
@@ -8686,7 +8711,7 @@
             },
             {
                 "date": "2019-06-17",
-                "value": 3
+                "value": 2
             },
             {
                 "date": "2019-07-01",
@@ -9052,6 +9077,10 @@
             {
                 "date": "2020-10-26",
                 "value": 1
+            },
+            {
+                "date": "2021-03-29",
+                "value": 4
             }
         ],
         "cgre-aachen/hspace": [
@@ -10704,6 +10733,10 @@
             {
                 "date": "2021-01-25",
                 "value": 1
+            },
+            {
+                "date": "2021-03-15",
+                "value": 1
             }
         ],
         "fatiando/.github": [],
@@ -11822,6 +11855,10 @@
             {
                 "date": "2021-04-12",
                 "value": 1
+            },
+            {
+                "date": "2021-04-19",
+                "value": 3
             }
         ],
         "fatiando/prototypes": [],
@@ -11916,7 +11953,12 @@
             }
         ],
         "fatiando/transform2020-lightning": [],
-        "fatiando/transform21": [],
+        "fatiando/transform21": [
+            {
+                "date": "2021-03-29",
+                "value": 2
+            }
+        ],
         "fatiando/tutorials": [],
         "fatiando/v0.1": [],
         "fatiando/v0.2": [],
@@ -13915,6 +13957,10 @@
             {
                 "date": "2021-03-22",
                 "value": 1
+            },
+            {
+                "date": "2021-04-12",
+                "value": 1
             }
         ],
         "landlab/CUAHSI_Biennial_July_2016": [],
@@ -14627,6 +14673,12 @@
             {
                 "date": "2020-04-06",
                 "value": 1
+            }
+        ],
+        "mlbelobraydi/t21-hack-SwellCorr": [
+            {
+                "date": "2021-04-12",
+                "value": 3
             }
         ],
         "morganjwilliams/pyrolite": [
@@ -16771,6 +16823,10 @@
             {
                 "date": "2021-01-25",
                 "value": 1
+            },
+            {
+                "date": "2021-03-15",
+                "value": 1
             }
         ],
         "pyvista/pyvista": [
@@ -17361,6 +17417,10 @@
             {
                 "date": "2021-04-12",
                 "value": 6
+            },
+            {
+                "date": "2021-04-19",
+                "value": 7
             }
         ],
         "r-spatial/gstat": [
@@ -18532,6 +18592,10 @@
             },
             {
                 "date": "2021-04-12",
+                "value": 1
+            },
+            {
+                "date": "2021-04-19",
                 "value": 1
             }
         ],

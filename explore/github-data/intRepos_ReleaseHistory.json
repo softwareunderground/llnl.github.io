@@ -41,7 +41,1023 @@
                 ]
             }
         },
+        "GeoPyTool/GeoPyTool": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Geode-solutions/OpenGeode": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v0.0.1",
+                        "publishedAt": "2019-08-01T09:52:20Z",
+                        "tagName": "v0.0.1"
+                    },
+                    {
+                        "name": "v0.1.0",
+                        "publishedAt": "2019-08-02T17:15:07Z",
+                        "tagName": "v0.1.0"
+                    },
+                    {
+                        "name": "v1.0.0",
+                        "publishedAt": "2019-08-08T10:11:42Z",
+                        "tagName": "v1.0.0"
+                    },
+                    {
+                        "name": "v1.0.1",
+                        "publishedAt": "2019-08-13T10:24:03Z",
+                        "tagName": "v1.0.1"
+                    },
+                    {
+                        "name": "v1.1.0",
+                        "publishedAt": "2019-08-13T14:38:25Z",
+                        "tagName": "v1.1.0"
+                    },
+                    {
+                        "name": "v1.2.0",
+                        "publishedAt": "2019-08-20T10:55:57Z",
+                        "tagName": "v1.2.0"
+                    },
+                    {
+                        "name": "v1.2.1",
+                        "publishedAt": "2019-08-23T05:23:22Z",
+                        "tagName": "v1.2.1"
+                    },
+                    {
+                        "name": "v1.2.2",
+                        "publishedAt": "2019-08-26T13:27:52Z",
+                        "tagName": "v1.2.2"
+                    },
+                    {
+                        "name": "v1.2.3",
+                        "publishedAt": "2019-08-27T09:20:09Z",
+                        "tagName": "v1.2.3"
+                    },
+                    {
+                        "name": "v1.2.4",
+                        "publishedAt": "2019-08-29T15:57:21Z",
+                        "tagName": "v1.2.4"
+                    },
+                    {
+                        "name": "v1.2.5",
+                        "publishedAt": "2019-08-30T15:17:38Z",
+                        "tagName": "v1.2.5"
+                    },
+                    {
+                        "name": "v1.3.0",
+                        "publishedAt": "2019-09-02T08:03:16Z",
+                        "tagName": "v1.3.0"
+                    },
+                    {
+                        "name": "v1.3.1",
+                        "publishedAt": "2019-09-02T13:45:50Z",
+                        "tagName": "v1.3.1"
+                    },
+                    {
+                        "name": "v1.3.2",
+                        "publishedAt": "2019-09-03T12:48:10Z",
+                        "tagName": "v1.3.2"
+                    },
+                    {
+                        "name": "v2.0.0",
+                        "publishedAt": "2019-09-06T17:56:44Z",
+                        "tagName": "v2.0.0"
+                    },
+                    {
+                        "name": "v2.0.1",
+                        "publishedAt": "2019-09-19T14:48:01Z",
+                        "tagName": "v2.0.1"
+                    },
+                    {
+                        "name": "v2.1.0",
+                        "publishedAt": "2019-09-24T11:33:36Z",
+                        "tagName": "v2.1.0"
+                    },
+                    {
+                        "name": "v2.2.0",
+                        "publishedAt": "2019-09-25T07:03:59Z",
+                        "tagName": "v2.2.0"
+                    },
+                    {
+                        "name": "v2.3.0",
+                        "publishedAt": "2019-09-26T08:34:14Z",
+                        "tagName": "v2.3.0"
+                    },
+                    {
+                        "name": "v2.3.1",
+                        "publishedAt": "2019-09-30T12:39:45Z",
+                        "tagName": "v2.3.1"
+                    },
+                    {
+                        "name": "v2.4.0",
+                        "publishedAt": "2019-10-01T15:21:28Z",
+                        "tagName": "v2.4.0"
+                    },
+                    {
+                        "name": "v2.4.1",
+                        "publishedAt": "2019-10-11T09:08:40Z",
+                        "tagName": "v2.4.1"
+                    },
+                    {
+                        "name": "v2.4.2",
+                        "publishedAt": "2019-10-11T09:50:52Z",
+                        "tagName": "v2.4.2"
+                    },
+                    {
+                        "name": "v2.4.3",
+                        "publishedAt": "2019-10-11T10:40:05Z",
+                        "tagName": "v2.4.3"
+                    },
+                    {
+                        "name": "v2.4.4",
+                        "publishedAt": "2019-10-11T11:51:29Z",
+                        "tagName": "v2.4.4"
+                    },
+                    {
+                        "name": "v2.4.5",
+                        "publishedAt": "2019-10-11T12:34:26Z",
+                        "tagName": "v2.4.5"
+                    },
+                    {
+                        "name": "v2.4.6",
+                        "publishedAt": "2019-10-11T12:48:25Z",
+                        "tagName": "v2.4.6"
+                    },
+                    {
+                        "name": "v2.4.7",
+                        "publishedAt": "2019-10-11T13:09:46Z",
+                        "tagName": "v2.4.7"
+                    },
+                    {
+                        "name": "v2.4.8",
+                        "publishedAt": "2019-10-11T13:36:37Z",
+                        "tagName": "v2.4.8"
+                    },
+                    {
+                        "name": "v2.4.9",
+                        "publishedAt": "2019-10-11T14:06:42Z",
+                        "tagName": "v2.4.9"
+                    },
+                    {
+                        "name": "v2.4.10",
+                        "publishedAt": "2019-10-11T14:25:51Z",
+                        "tagName": "v2.4.10"
+                    },
+                    {
+                        "name": "v2.4.11",
+                        "publishedAt": "2019-10-11T15:18:20Z",
+                        "tagName": "v2.4.11"
+                    },
+                    {
+                        "name": "v2.4.12",
+                        "publishedAt": "2019-10-11T15:32:40Z",
+                        "tagName": "v2.4.12"
+                    },
+                    {
+                        "name": "v2.4.13",
+                        "publishedAt": "2019-10-12T16:19:33Z",
+                        "tagName": "v2.4.13"
+                    },
+                    {
+                        "name": "v2.4.14",
+                        "publishedAt": "2019-10-12T19:05:48Z",
+                        "tagName": "v2.4.14"
+                    },
+                    {
+                        "name": "v2.4.15",
+                        "publishedAt": "2019-10-14T08:42:38Z",
+                        "tagName": "v2.4.15"
+                    },
+                    {
+                        "name": "v2.4.16",
+                        "publishedAt": "2019-10-14T09:04:19Z",
+                        "tagName": "v2.4.16"
+                    },
+                    {
+                        "name": "v2.4.17",
+                        "publishedAt": "2019-10-14T09:35:31Z",
+                        "tagName": "v2.4.17"
+                    },
+                    {
+                        "name": "v2.4.18",
+                        "publishedAt": "2019-10-14T16:26:40Z",
+                        "tagName": "v2.4.18"
+                    },
+                    {
+                        "name": "v2.5.0",
+                        "publishedAt": "2019-10-24T15:32:23Z",
+                        "tagName": "v2.5.0"
+                    },
+                    {
+                        "name": "v2.5.1",
+                        "publishedAt": "2019-10-25T09:48:54Z",
+                        "tagName": "v2.5.1"
+                    },
+                    {
+                        "name": "v2.5.2",
+                        "publishedAt": "2019-10-25T10:10:14Z",
+                        "tagName": "v2.5.2"
+                    },
+                    {
+                        "name": "v2.6.0",
+                        "publishedAt": "2019-10-25T15:14:32Z",
+                        "tagName": "v2.6.0"
+                    },
+                    {
+                        "name": "v2.6.1",
+                        "publishedAt": "2019-10-28T07:58:31Z",
+                        "tagName": "v2.6.1"
+                    },
+                    {
+                        "name": "v2.6.2",
+                        "publishedAt": "2019-10-30T08:06:03Z",
+                        "tagName": "v2.6.2"
+                    },
+                    {
+                        "name": "v2.6.3",
+                        "publishedAt": "2019-10-30T09:28:12Z",
+                        "tagName": "v2.6.3"
+                    },
+                    {
+                        "name": "v2.6.4",
+                        "publishedAt": "2019-11-03T15:56:34Z",
+                        "tagName": "v2.6.4"
+                    },
+                    {
+                        "name": "v3.0.0",
+                        "publishedAt": "2019-11-04T16:04:54Z",
+                        "tagName": "v3.0.0"
+                    },
+                    {
+                        "name": "v3.0.1",
+                        "publishedAt": "2019-11-07T16:12:37Z",
+                        "tagName": "v3.0.1"
+                    },
+                    {
+                        "name": "v3.1.0",
+                        "publishedAt": "2019-11-14T16:32:17Z",
+                        "tagName": "v3.1.0"
+                    },
+                    {
+                        "name": "v3.1.1",
+                        "publishedAt": "2019-11-18T23:15:18Z",
+                        "tagName": "v3.1.1"
+                    },
+                    {
+                        "name": "v3.2.0",
+                        "publishedAt": "2019-11-19T16:12:11Z",
+                        "tagName": "v3.2.0"
+                    },
+                    {
+                        "name": "v3.3.0",
+                        "publishedAt": "2019-11-25T14:35:51Z",
+                        "tagName": "v3.3.0"
+                    },
+                    {
+                        "name": "v3.3.1",
+                        "publishedAt": "2019-11-26T08:12:38Z",
+                        "tagName": "v3.3.1"
+                    },
+                    {
+                        "name": "v3.3.2",
+                        "publishedAt": "2019-11-27T16:39:20Z",
+                        "tagName": "v3.3.2"
+                    },
+                    {
+                        "name": "v3.4.0",
+                        "publishedAt": "2019-12-03T16:40:08Z",
+                        "tagName": "v3.4.0"
+                    },
+                    {
+                        "name": "v3.4.1",
+                        "publishedAt": "2019-12-04T10:57:56Z",
+                        "tagName": "v3.4.1"
+                    },
+                    {
+                        "name": "v3.4.2",
+                        "publishedAt": "2019-12-04T15:15:06Z",
+                        "tagName": "v3.4.2"
+                    },
+                    {
+                        "name": "v3.5.0",
+                        "publishedAt": "2019-12-05T16:42:17Z",
+                        "tagName": "v3.5.0"
+                    },
+                    {
+                        "name": "v3.6.0",
+                        "publishedAt": "2019-12-14T00:16:55Z",
+                        "tagName": "v3.6.0"
+                    },
+                    {
+                        "name": "v3.7.0",
+                        "publishedAt": "2019-12-18T13:57:15Z",
+                        "tagName": "v3.7.0"
+                    },
+                    {
+                        "name": "v3.8.0",
+                        "publishedAt": "2020-01-09T14:00:08Z",
+                        "tagName": "v3.8.0"
+                    },
+                    {
+                        "name": "v3.9.0",
+                        "publishedAt": "2020-01-10T20:13:19Z",
+                        "tagName": "v3.9.0"
+                    },
+                    {
+                        "name": "v3.10.0",
+                        "publishedAt": "2020-01-16T16:24:06Z",
+                        "tagName": "v3.10.0"
+                    },
+                    {
+                        "name": "v3.11.0",
+                        "publishedAt": "2020-01-21T11:53:11Z",
+                        "tagName": "v3.11.0"
+                    },
+                    {
+                        "name": "v3.12.0",
+                        "publishedAt": "2020-01-22T17:07:21Z",
+                        "tagName": "v3.12.0"
+                    },
+                    {
+                        "name": "v3.12.1",
+                        "publishedAt": "2020-01-23T17:06:56Z",
+                        "tagName": "v3.12.1"
+                    },
+                    {
+                        "name": "v4.0.0",
+                        "publishedAt": "2020-01-30T09:32:50Z",
+                        "tagName": "v4.0.0"
+                    },
+                    {
+                        "name": "v4.0.1",
+                        "publishedAt": "2020-01-30T09:49:54Z",
+                        "tagName": "v4.0.1"
+                    },
+                    {
+                        "name": "v4.0.2",
+                        "publishedAt": "2020-01-30T10:12:09Z",
+                        "tagName": "v4.0.2"
+                    },
+                    {
+                        "name": "v4.0.3",
+                        "publishedAt": "2020-01-30T10:30:58Z",
+                        "tagName": "v4.0.3"
+                    },
+                    {
+                        "name": "v4.0.4",
+                        "publishedAt": "2020-01-30T13:15:44Z",
+                        "tagName": "v4.0.4"
+                    },
+                    {
+                        "name": "v4.0.5",
+                        "publishedAt": "2020-01-30T15:38:23Z",
+                        "tagName": "v4.0.5"
+                    },
+                    {
+                        "name": "v4.0.6",
+                        "publishedAt": "2020-01-30T16:15:47Z",
+                        "tagName": "v4.0.6"
+                    },
+                    {
+                        "name": "v4.0.7",
+                        "publishedAt": "2020-02-07T21:43:53Z",
+                        "tagName": "v4.0.7"
+                    },
+                    {
+                        "name": "v4.0.8",
+                        "publishedAt": "2020-02-08T07:31:07Z",
+                        "tagName": "v4.0.8"
+                    },
+                    {
+                        "name": "v4.0.9",
+                        "publishedAt": "2020-02-09T10:26:37Z",
+                        "tagName": "v4.0.9"
+                    },
+                    {
+                        "name": "v4.0.10",
+                        "publishedAt": "2020-02-09T17:43:27Z",
+                        "tagName": "v4.0.10"
+                    },
+                    {
+                        "name": "v4.0.11",
+                        "publishedAt": "2020-02-10T13:05:11Z",
+                        "tagName": "v4.0.11"
+                    },
+                    {
+                        "name": "v4.0.12",
+                        "publishedAt": "2020-02-13T12:42:54Z",
+                        "tagName": "v4.0.12"
+                    },
+                    {
+                        "name": "v4.0.13",
+                        "publishedAt": "2020-02-13T21:55:53Z",
+                        "tagName": "v4.0.13"
+                    },
+                    {
+                        "name": "v4.1.0",
+                        "publishedAt": "2020-02-14T10:40:03Z",
+                        "tagName": "v4.1.0"
+                    },
+                    {
+                        "name": "v4.2.0",
+                        "publishedAt": "2020-03-02T17:21:55Z",
+                        "tagName": "v4.2.0"
+                    },
+                    {
+                        "name": "v4.2.1",
+                        "publishedAt": "2020-03-04T09:11:36Z",
+                        "tagName": "v4.2.1"
+                    },
+                    {
+                        "name": "v4.2.2",
+                        "publishedAt": "2020-03-05T08:35:48Z",
+                        "tagName": "v4.2.2"
+                    },
+                    {
+                        "name": "v4.2.3",
+                        "publishedAt": "2020-03-13T15:04:53Z",
+                        "tagName": "v4.2.3"
+                    },
+                    {
+                        "name": "v4.2.4",
+                        "publishedAt": "2020-03-18T14:08:50Z",
+                        "tagName": "v4.2.4"
+                    },
+                    {
+                        "name": "v4.3.0",
+                        "publishedAt": "2020-03-18T15:57:22Z",
+                        "tagName": "v4.3.0"
+                    },
+                    {
+                        "name": "v4.3.1",
+                        "publishedAt": "2020-03-20T08:26:31Z",
+                        "tagName": "v4.3.1"
+                    },
+                    {
+                        "name": "v4.3.2",
+                        "publishedAt": "2020-03-20T16:17:10Z",
+                        "tagName": "v4.3.2"
+                    },
+                    {
+                        "name": "v4.3.3",
+                        "publishedAt": "2020-03-23T16:05:10Z",
+                        "tagName": "v4.3.3"
+                    },
+                    {
+                        "name": "v4.3.4",
+                        "publishedAt": "2020-03-27T00:21:07Z",
+                        "tagName": "v4.3.4"
+                    },
+                    {
+                        "name": "v4.4.0",
+                        "publishedAt": "2020-03-30T17:23:46Z",
+                        "tagName": "v4.4.0"
+                    },
+                    {
+                        "name": "v4.4.1",
+                        "publishedAt": "2020-03-31T13:29:29Z",
+                        "tagName": "v4.4.1"
+                    },
+                    {
+                        "name": "v4.5.0",
+                        "publishedAt": "2020-04-01T17:48:57Z",
+                        "tagName": "v4.5.0"
+                    },
+                    {
+                        "name": "v4.6.0",
+                        "publishedAt": "2020-04-06T10:17:50Z",
+                        "tagName": "v4.6.0"
+                    },
+                    {
+                        "name": "v4.7.0",
+                        "publishedAt": "2020-04-09T08:56:20Z",
+                        "tagName": "v4.7.0"
+                    },
+                    {
+                        "name": "v4.8.0",
+                        "publishedAt": "2020-04-10T11:57:44Z",
+                        "tagName": "v4.8.0"
+                    },
+                    {
+                        "name": "v4.8.1",
+                        "publishedAt": "2020-04-14T07:36:55Z",
+                        "tagName": "v4.8.1"
+                    },
+                    {
+                        "name": "v4.8.2",
+                        "publishedAt": "2020-04-15T16:07:31Z",
+                        "tagName": "v4.8.2"
+                    },
+                    {
+                        "name": "v4.9.0",
+                        "publishedAt": "2020-04-16T15:08:22Z",
+                        "tagName": "v4.9.0"
+                    },
+                    {
+                        "name": "v4.9.1",
+                        "publishedAt": "2020-04-17T09:42:36Z",
+                        "tagName": "v4.9.1"
+                    },
+                    {
+                        "name": "v4.9.2",
+                        "publishedAt": "2020-04-17T14:32:58Z",
+                        "tagName": "v4.9.2"
+                    },
+                    {
+                        "name": "v4.10.0",
+                        "publishedAt": "2020-04-21T09:20:20Z",
+                        "tagName": "v4.10.0"
+                    },
+                    {
+                        "name": "v4.10.1",
+                        "publishedAt": "2020-04-22T12:24:24Z",
+                        "tagName": "v4.10.1"
+                    },
+                    {
+                        "name": "v4.10.2",
+                        "publishedAt": "2020-04-22T13:05:01Z",
+                        "tagName": "v4.10.2"
+                    },
+                    {
+                        "name": "v4.11.0",
+                        "publishedAt": "2020-04-30T08:03:27Z",
+                        "tagName": "v4.11.0"
+                    },
+                    {
+                        "name": "v4.12.0",
+                        "publishedAt": "2020-05-14T15:17:44Z",
+                        "tagName": "v4.12.0"
+                    },
+                    {
+                        "name": "v4.13.0",
+                        "publishedAt": "2020-05-19T08:22:54Z",
+                        "tagName": "v4.13.0"
+                    },
+                    {
+                        "name": "v4.14.0",
+                        "publishedAt": "2020-05-26T07:49:15Z",
+                        "tagName": "v4.14.0"
+                    },
+                    {
+                        "name": "v4.14.1",
+                        "publishedAt": "2020-06-02T14:03:54Z",
+                        "tagName": "v4.14.1"
+                    },
+                    {
+                        "name": "v4.14.2",
+                        "publishedAt": "2020-06-02T14:33:17Z",
+                        "tagName": "v4.14.2"
+                    },
+                    {
+                        "name": "v5.0.0",
+                        "publishedAt": "2020-06-22T14:58:45Z",
+                        "tagName": "v5.0.0"
+                    },
+                    {
+                        "name": "v5.0.1",
+                        "publishedAt": "2020-06-23T07:10:30Z",
+                        "tagName": "v5.0.1"
+                    },
+                    {
+                        "name": "v5.0.2",
+                        "publishedAt": "2020-06-29T07:34:14Z",
+                        "tagName": "v5.0.2"
+                    },
+                    {
+                        "name": "v5.1.0",
+                        "publishedAt": "2020-06-29T14:19:26Z",
+                        "tagName": "v5.1.0"
+                    },
+                    {
+                        "name": "v5.2.0",
+                        "publishedAt": "2020-07-02T10:36:59Z",
+                        "tagName": "v5.2.0"
+                    },
+                    {
+                        "name": "v5.2.1",
+                        "publishedAt": "2020-07-06T13:17:28Z",
+                        "tagName": "v5.2.1"
+                    },
+                    {
+                        "name": "v5.3.0",
+                        "publishedAt": "2020-07-14T15:41:08Z",
+                        "tagName": "v5.3.0"
+                    },
+                    {
+                        "name": "v5.3.1",
+                        "publishedAt": "2020-07-15T19:17:41Z",
+                        "tagName": "v5.3.1"
+                    },
+                    {
+                        "name": "v5.3.2",
+                        "publishedAt": "2020-07-16T10:28:25Z",
+                        "tagName": "v5.3.2"
+                    },
+                    {
+                        "name": "v5.3.3",
+                        "publishedAt": "2020-07-16T14:39:19Z",
+                        "tagName": "v5.3.3"
+                    },
+                    {
+                        "name": "v5.3.4",
+                        "publishedAt": "2020-07-17T07:31:12Z",
+                        "tagName": "v5.3.4"
+                    },
+                    {
+                        "name": "v5.4.0",
+                        "publishedAt": "2020-07-20T09:08:27Z",
+                        "tagName": "v5.4.0"
+                    },
+                    {
+                        "name": "v5.4.1",
+                        "publishedAt": "2020-07-20T14:29:38Z",
+                        "tagName": "v5.4.1"
+                    },
+                    {
+                        "name": "v5.4.2",
+                        "publishedAt": "2020-07-20T22:10:13Z",
+                        "tagName": "v5.4.2"
+                    },
+                    {
+                        "name": "v5.4.3",
+                        "publishedAt": "2020-07-21T13:52:25Z",
+                        "tagName": "v5.4.3"
+                    },
+                    {
+                        "name": "v5.4.4",
+                        "publishedAt": "2020-07-21T15:55:52Z",
+                        "tagName": "v5.4.4"
+                    },
+                    {
+                        "name": "v5.4.5",
+                        "publishedAt": "2020-07-24T19:46:39Z",
+                        "tagName": "v5.4.5"
+                    },
+                    {
+                        "name": "v5.5.0",
+                        "publishedAt": "2020-07-28T13:05:31Z",
+                        "tagName": "v5.5.0"
+                    },
+                    {
+                        "name": "v5.5.1",
+                        "publishedAt": "2020-07-30T11:48:57Z",
+                        "tagName": "v5.5.1"
+                    },
+                    {
+                        "name": "v5.5.2",
+                        "publishedAt": "2020-08-01T18:53:26Z",
+                        "tagName": "v5.5.2"
+                    },
+                    {
+                        "name": "v5.6.0",
+                        "publishedAt": "2020-08-05T15:30:46Z",
+                        "tagName": "v5.6.0"
+                    },
+                    {
+                        "name": "v5.6.1",
+                        "publishedAt": "2020-08-10T09:43:14Z",
+                        "tagName": "v5.6.1"
+                    },
+                    {
+                        "name": "v5.6.2",
+                        "publishedAt": "2020-08-10T16:25:08Z",
+                        "tagName": "v5.6.2"
+                    },
+                    {
+                        "name": "v5.7.0",
+                        "publishedAt": "2020-08-21T13:14:51Z",
+                        "tagName": "v5.7.0"
+                    },
+                    {
+                        "name": "v5.7.1",
+                        "publishedAt": "2020-08-31T08:11:06Z",
+                        "tagName": "v5.7.1"
+                    },
+                    {
+                        "name": "v5.8.0",
+                        "publishedAt": "2020-09-03T10:33:02Z",
+                        "tagName": "v5.8.0"
+                    },
+                    {
+                        "name": "v5.8.1",
+                        "publishedAt": "2020-09-10T13:09:58Z",
+                        "tagName": "v5.8.1"
+                    },
+                    {
+                        "name": "v5.9.0",
+                        "publishedAt": "2020-09-23T15:05:42Z",
+                        "tagName": "v5.9.0"
+                    },
+                    {
+                        "name": "v5.9.1",
+                        "publishedAt": "2020-09-23T20:23:02Z",
+                        "tagName": "v5.9.1"
+                    },
+                    {
+                        "name": "v5.9.2",
+                        "publishedAt": "2020-09-23T21:47:40Z",
+                        "tagName": "v5.9.2"
+                    },
+                    {
+                        "name": "v5.9.3",
+                        "publishedAt": "2020-09-23T22:52:33Z",
+                        "tagName": "v5.9.3"
+                    },
+                    {
+                        "name": "v5.9.4",
+                        "publishedAt": "2020-09-24T08:17:29Z",
+                        "tagName": "v5.9.4"
+                    },
+                    {
+                        "name": "v5.9.5",
+                        "publishedAt": "2020-09-24T09:42:06Z",
+                        "tagName": "v5.9.5"
+                    },
+                    {
+                        "name": "v5.9.6",
+                        "publishedAt": "2020-09-24T10:25:58Z",
+                        "tagName": "v5.9.6"
+                    },
+                    {
+                        "name": "v5.9.7",
+                        "publishedAt": "2020-09-24T11:23:50Z",
+                        "tagName": "v5.9.7"
+                    },
+                    {
+                        "name": "v5.9.8",
+                        "publishedAt": "2020-09-24T12:36:12Z",
+                        "tagName": "v5.9.8"
+                    },
+                    {
+                        "name": "v5.9.9",
+                        "publishedAt": "2020-09-25T08:38:02Z",
+                        "tagName": "v5.9.9"
+                    },
+                    {
+                        "name": "v5.9.10",
+                        "publishedAt": "2020-09-29T06:03:13Z",
+                        "tagName": "v5.9.10"
+                    },
+                    {
+                        "name": "v6.0.0",
+                        "publishedAt": "2020-09-29T14:03:47Z",
+                        "tagName": "v6.0.0"
+                    },
+                    {
+                        "name": "v6.0.1",
+                        "publishedAt": "2020-09-30T15:15:03Z",
+                        "tagName": "v6.0.1"
+                    },
+                    {
+                        "name": "v6.0.2",
+                        "publishedAt": "2020-09-30T20:41:51Z",
+                        "tagName": "v6.0.2"
+                    },
+                    {
+                        "name": "v6.0.3",
+                        "publishedAt": "2020-10-01T06:35:45Z",
+                        "tagName": "v6.0.3"
+                    },
+                    {
+                        "name": "v6.1.0",
+                        "publishedAt": "2020-10-14T08:29:13Z",
+                        "tagName": "v6.1.0"
+                    },
+                    {
+                        "name": "v7.0.0",
+                        "publishedAt": "2020-11-04T14:17:20Z",
+                        "tagName": "v7.0.0"
+                    },
+                    {
+                        "name": "v7.0.1",
+                        "publishedAt": "2020-11-07T07:45:26Z",
+                        "tagName": "v7.0.1"
+                    },
+                    {
+                        "name": "v7.0.2",
+                        "publishedAt": "2020-11-10T07:46:30Z",
+                        "tagName": "v7.0.2"
+                    },
+                    {
+                        "name": "v7.0.3",
+                        "publishedAt": "2020-11-10T11:32:01Z",
+                        "tagName": "v7.0.3"
+                    },
+                    {
+                        "name": "v7.0.4",
+                        "publishedAt": "2020-11-12T07:55:20Z",
+                        "tagName": "v7.0.4"
+                    },
+                    {
+                        "name": "v7.0.5",
+                        "publishedAt": "2020-11-14T12:25:23Z",
+                        "tagName": "v7.0.5"
+                    },
+                    {
+                        "name": "v7.0.6",
+                        "publishedAt": "2020-11-18T12:08:50Z",
+                        "tagName": "v7.0.6"
+                    },
+                    {
+                        "name": "v7.1.0",
+                        "publishedAt": "2020-11-23T14:48:47Z",
+                        "tagName": "v7.1.0"
+                    },
+                    {
+                        "name": "v7.1.1",
+                        "publishedAt": "2020-11-25T06:40:29Z",
+                        "tagName": "v7.1.1"
+                    },
+                    {
+                        "name": "v7.1.2",
+                        "publishedAt": "2020-11-25T08:01:02Z",
+                        "tagName": "v7.1.2"
+                    },
+                    {
+                        "name": "v7.1.3",
+                        "publishedAt": "2020-11-25T09:00:04Z",
+                        "tagName": "v7.1.3"
+                    },
+                    {
+                        "name": "v7.1.4",
+                        "publishedAt": "2020-11-25T16:41:40Z",
+                        "tagName": "v7.1.4"
+                    },
+                    {
+                        "name": "v7.1.5",
+                        "publishedAt": "2020-11-26T16:39:44Z",
+                        "tagName": "v7.1.5"
+                    },
+                    {
+                        "name": "v7.1.6",
+                        "publishedAt": "2020-11-28T19:19:42Z",
+                        "tagName": "v7.1.6"
+                    },
+                    {
+                        "name": "v7.1.7",
+                        "publishedAt": "2020-12-04T10:27:30Z",
+                        "tagName": "v7.1.7"
+                    },
+                    {
+                        "name": "v7.1.8",
+                        "publishedAt": "2020-12-07T15:42:31Z",
+                        "tagName": "v7.1.8"
+                    },
+                    {
+                        "name": "v7.1.9",
+                        "publishedAt": "2020-12-09T13:14:53Z",
+                        "tagName": "v7.1.9"
+                    },
+                    {
+                        "name": "v7.1.10",
+                        "publishedAt": "2020-12-09T14:43:06Z",
+                        "tagName": "v7.1.10"
+                    },
+                    {
+                        "name": "v7.1.11",
+                        "publishedAt": "2020-12-10T13:57:42Z",
+                        "tagName": "v7.1.11"
+                    },
+                    {
+                        "name": "v8.0.0",
+                        "publishedAt": "2020-12-16T11:19:46Z",
+                        "tagName": "v8.0.0"
+                    },
+                    {
+                        "name": "v8.0.1",
+                        "publishedAt": "2020-12-16T12:17:38Z",
+                        "tagName": "v8.0.1"
+                    },
+                    {
+                        "name": "v8.0.2",
+                        "publishedAt": "2020-12-17T07:47:41Z",
+                        "tagName": "v8.0.2"
+                    },
+                    {
+                        "name": "v8.0.3",
+                        "publishedAt": "2020-12-17T10:03:53Z",
+                        "tagName": "v8.0.3"
+                    },
+                    {
+                        "name": "v8.0.4",
+                        "publishedAt": "2020-12-18T11:09:41Z",
+                        "tagName": "v8.0.4"
+                    },
+                    {
+                        "name": "v8.0.5",
+                        "publishedAt": "2020-12-28T16:06:20Z",
+                        "tagName": "v8.0.5"
+                    },
+                    {
+                        "name": "v8.0.6",
+                        "publishedAt": "2020-12-29T13:45:43Z",
+                        "tagName": "v8.0.6"
+                    },
+                    {
+                        "name": "v8.0.7",
+                        "publishedAt": "2021-01-04T09:18:48Z",
+                        "tagName": "v8.0.7"
+                    },
+                    {
+                        "name": "v8.1.0",
+                        "publishedAt": "2021-01-06T07:39:30Z",
+                        "tagName": "v8.1.0"
+                    },
+                    {
+                        "name": "v8.2.0",
+                        "publishedAt": "2021-01-08T15:47:47Z",
+                        "tagName": "v8.2.0"
+                    },
+                    {
+                        "name": "v8.2.1",
+                        "publishedAt": "2021-01-11T19:12:26Z",
+                        "tagName": "v8.2.1"
+                    },
+                    {
+                        "name": "v8.2.2",
+                        "publishedAt": "2021-01-26T13:52:36Z",
+                        "tagName": "v8.2.2"
+                    },
+                    {
+                        "name": "v8.2.3",
+                        "publishedAt": "2021-02-02T17:24:36Z",
+                        "tagName": "v8.2.3"
+                    },
+                    {
+                        "name": "v8.3.0",
+                        "publishedAt": "2021-02-03T13:31:57Z",
+                        "tagName": "v8.3.0"
+                    },
+                    {
+                        "name": "v8.3.1",
+                        "publishedAt": "2021-02-10T11:44:14Z",
+                        "tagName": "v8.3.1"
+                    },
+                    {
+                        "name": "v8.3.2",
+                        "publishedAt": "2021-02-15T16:54:03Z",
+                        "tagName": "v8.3.2"
+                    },
+                    {
+                        "name": "v9.0.0",
+                        "publishedAt": "2021-02-16T09:44:04Z",
+                        "tagName": "v9.0.0"
+                    },
+                    {
+                        "name": "v9.0.1",
+                        "publishedAt": "2021-02-16T11:34:32Z",
+                        "tagName": "v9.0.1"
+                    },
+                    {
+                        "name": "v9.0.2",
+                        "publishedAt": "2021-02-16T17:46:16Z",
+                        "tagName": "v9.0.2"
+                    },
+                    {
+                        "name": "v9.0.3",
+                        "publishedAt": "2021-02-27T13:42:17Z",
+                        "tagName": "v9.0.3"
+                    },
+                    {
+                        "name": "v9.0.4",
+                        "publishedAt": "2021-02-28T14:18:25Z",
+                        "tagName": "v9.0.4"
+                    },
+                    {
+                        "name": "v9.0.5",
+                        "publishedAt": "2021-02-28T15:14:15Z",
+                        "tagName": "v9.0.5"
+                    },
+                    {
+                        "name": "v9.0.6",
+                        "publishedAt": "2021-03-04T12:37:00Z",
+                        "tagName": "v9.0.6"
+                    },
+                    {
+                        "name": "v9.0.7",
+                        "publishedAt": "2021-03-04T14:44:59Z",
+                        "tagName": "v9.0.7"
+                    },
+                    {
+                        "name": "v9.0.8",
+                        "publishedAt": "2021-04-15T08:55:01Z",
+                        "tagName": "v9.0.8"
+                    },
+                    {
+                        "name": "v9.0.9",
+                        "publishedAt": "2021-04-15T15:31:24Z",
+                        "tagName": "v9.0.9"
+                    }
+                ]
+            }
+        },
         "GeoscienceAustralia/uncover-ml": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "GeostatsGuy/GeostatsPy": {
             "releases": {
                 "nodes": []
             }
@@ -54,6 +1070,387 @@
         "JohnWStockwellJr/SeisUnix": {
             "releases": {
                 "nodes": []
+            }
+        },
+        "JuliaEarth/GeoStats.jl": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v0.1.1",
+                        "publishedAt": "2017-03-01T21:03:45Z",
+                        "tagName": "v0.1.1"
+                    },
+                    {
+                        "name": "v0.1.2",
+                        "publishedAt": "2017-05-10T07:48:21Z",
+                        "tagName": "v0.1.2"
+                    },
+                    {
+                        "name": "v0.1.3",
+                        "publishedAt": "2017-05-18T22:20:37Z",
+                        "tagName": "v0.1.3"
+                    },
+                    {
+                        "name": "v0.2.0",
+                        "publishedAt": "2017-06-02T05:46:41Z",
+                        "tagName": "v0.2.0"
+                    },
+                    {
+                        "name": "v0.2.1",
+                        "publishedAt": "2017-06-06T14:41:57Z",
+                        "tagName": "v0.2.1"
+                    },
+                    {
+                        "name": "v0.3.0",
+                        "publishedAt": "2017-06-25T22:25:05Z",
+                        "tagName": "v0.3.0"
+                    },
+                    {
+                        "name": "v0.3.1",
+                        "publishedAt": "2017-06-27T05:42:00Z",
+                        "tagName": "v0.3.1"
+                    },
+                    {
+                        "name": "v0.3.2",
+                        "publishedAt": "2017-07-01T05:11:13Z",
+                        "tagName": "v0.3.2"
+                    },
+                    {
+                        "name": "v0.3.3",
+                        "publishedAt": "2017-07-05T23:55:08Z",
+                        "tagName": "v0.3.3"
+                    },
+                    {
+                        "name": "v0.3.4",
+                        "publishedAt": "2017-07-06T23:39:20Z",
+                        "tagName": "v0.3.4"
+                    },
+                    {
+                        "name": "v0.3.5",
+                        "publishedAt": "2017-07-07T16:25:28Z",
+                        "tagName": "v0.3.5"
+                    },
+                    {
+                        "name": "v0.3.6",
+                        "publishedAt": "2017-07-13T18:13:11Z",
+                        "tagName": "v0.3.6"
+                    },
+                    {
+                        "name": "v0.3.7",
+                        "publishedAt": "2017-07-16T21:50:07Z",
+                        "tagName": "v0.3.7"
+                    },
+                    {
+                        "name": "v0.4.0",
+                        "publishedAt": "2017-09-04T20:18:40Z",
+                        "tagName": "v0.4.0"
+                    },
+                    {
+                        "name": "v0.4.1",
+                        "publishedAt": "2017-09-08T15:20:40Z",
+                        "tagName": "v0.4.1"
+                    },
+                    {
+                        "name": "v0.4.2",
+                        "publishedAt": "2017-09-16T21:25:07Z",
+                        "tagName": "v0.4.2"
+                    },
+                    {
+                        "name": "v0.4.3",
+                        "publishedAt": "2017-09-20T06:49:12Z",
+                        "tagName": "v0.4.3"
+                    },
+                    {
+                        "name": "v0.4.4",
+                        "publishedAt": "2017-10-18T21:52:52Z",
+                        "tagName": "v0.4.4"
+                    },
+                    {
+                        "name": "v0.5.0",
+                        "publishedAt": "2017-11-26T19:21:17Z",
+                        "tagName": "v0.5.0"
+                    },
+                    {
+                        "name": "v0.5.1",
+                        "publishedAt": "2017-12-14T05:06:00Z",
+                        "tagName": "v0.5.1"
+                    },
+                    {
+                        "name": "v0.5.2",
+                        "publishedAt": "2018-01-05T23:51:13Z",
+                        "tagName": "v0.5.2"
+                    },
+                    {
+                        "name": "v0.5.3",
+                        "publishedAt": "2018-03-03T05:02:46Z",
+                        "tagName": "v0.5.3"
+                    },
+                    {
+                        "name": "v0.5.4",
+                        "publishedAt": "2018-03-10T01:45:22Z",
+                        "tagName": "v0.5.4"
+                    },
+                    {
+                        "name": "v0.5.5",
+                        "publishedAt": "2018-04-04T18:07:40Z",
+                        "tagName": "v0.5.5"
+                    },
+                    {
+                        "name": "v0.6.0",
+                        "publishedAt": "2018-04-16T18:44:22Z",
+                        "tagName": "v0.6.0"
+                    },
+                    {
+                        "name": "v0.6.1",
+                        "publishedAt": "2018-04-25T06:02:10Z",
+                        "tagName": "v0.6.1"
+                    },
+                    {
+                        "name": "v0.6.2",
+                        "publishedAt": "2018-04-29T17:13:55Z",
+                        "tagName": "v0.6.2"
+                    },
+                    {
+                        "name": "v0.6.3",
+                        "publishedAt": "2018-05-15T23:52:10Z",
+                        "tagName": "v0.6.3"
+                    },
+                    {
+                        "name": "v0.6.4",
+                        "publishedAt": "2018-05-25T21:24:57Z",
+                        "tagName": "v0.6.4"
+                    },
+                    {
+                        "name": "v0.6.5",
+                        "publishedAt": "2018-05-29T21:18:56Z",
+                        "tagName": "v0.6.5"
+                    },
+                    {
+                        "name": "v0.7.0",
+                        "publishedAt": "2018-09-03T15:52:50Z",
+                        "tagName": "v0.7.0"
+                    },
+                    {
+                        "name": "v0.7.1",
+                        "publishedAt": "2018-10-06T15:04:30Z",
+                        "tagName": "v0.7.1"
+                    },
+                    {
+                        "name": "v0.7.2",
+                        "publishedAt": "2018-12-04T22:18:25Z",
+                        "tagName": "v0.7.2"
+                    },
+                    {
+                        "name": "v0.8.0",
+                        "publishedAt": "2019-01-05T19:32:39Z",
+                        "tagName": "v0.8.0"
+                    },
+                    {
+                        "name": "v0.8.1",
+                        "publishedAt": "2019-01-06T21:59:25Z",
+                        "tagName": "v0.8.1"
+                    },
+                    {
+                        "name": "v0.8.2",
+                        "publishedAt": "2019-01-15T18:00:15Z",
+                        "tagName": "v0.8.2"
+                    },
+                    {
+                        "name": "v0.8.3",
+                        "publishedAt": "2019-01-22T01:59:21Z",
+                        "tagName": "v0.8.3"
+                    },
+                    {
+                        "name": "v0.8.4",
+                        "publishedAt": "2019-01-22T14:46:50Z",
+                        "tagName": "v0.8.4"
+                    },
+                    {
+                        "name": "v0.8.5",
+                        "publishedAt": "2019-01-24T13:39:04Z",
+                        "tagName": "v0.8.5"
+                    },
+                    {
+                        "name": "v0.8.6",
+                        "publishedAt": "2019-02-04T01:20:31Z",
+                        "tagName": "v0.8.6"
+                    },
+                    {
+                        "name": "v0.8.7",
+                        "publishedAt": "2019-02-19T17:38:20Z",
+                        "tagName": "v0.8.7"
+                    },
+                    {
+                        "name": "v0.8.8",
+                        "publishedAt": "2019-03-18T00:57:40Z",
+                        "tagName": "v0.8.8"
+                    },
+                    {
+                        "name": "v0.8.9",
+                        "publishedAt": "2019-05-01T15:37:30Z",
+                        "tagName": "v0.8.9"
+                    },
+                    {
+                        "name": "v0.9.0",
+                        "publishedAt": "2019-06-09T04:57:39Z",
+                        "tagName": "v0.9.0"
+                    },
+                    {
+                        "name": "v0.9.1",
+                        "publishedAt": "2019-06-18T22:37:46Z",
+                        "tagName": "v0.9.1"
+                    },
+                    {
+                        "name": "v0.10.0",
+                        "publishedAt": "2019-10-25T22:02:41Z",
+                        "tagName": "v0.10.0"
+                    },
+                    {
+                        "name": "v0.10.1",
+                        "publishedAt": "2019-10-26T12:02:29Z",
+                        "tagName": "v0.10.1"
+                    },
+                    {
+                        "name": "v0.10.2",
+                        "publishedAt": "2019-12-03T01:47:49Z",
+                        "tagName": "v0.10.2"
+                    },
+                    {
+                        "name": "v0.11.0",
+                        "publishedAt": "2020-04-02T00:01:54Z",
+                        "tagName": "v0.11.0"
+                    },
+                    {
+                        "name": "v0.11.1",
+                        "publishedAt": "2020-04-07T17:01:13Z",
+                        "tagName": "v0.11.1"
+                    },
+                    {
+                        "name": "v0.11.2",
+                        "publishedAt": "2020-04-12T21:01:34Z",
+                        "tagName": "v0.11.2"
+                    },
+                    {
+                        "name": "v0.11.3",
+                        "publishedAt": "2020-04-18T17:01:46Z",
+                        "tagName": "v0.11.3"
+                    },
+                    {
+                        "name": "v0.11.4",
+                        "publishedAt": "2020-04-29T13:01:26Z",
+                        "tagName": "v0.11.4"
+                    },
+                    {
+                        "name": "v0.11.5",
+                        "publishedAt": "2020-05-17T16:01:46Z",
+                        "tagName": "v0.11.5"
+                    },
+                    {
+                        "name": "v0.11.6",
+                        "publishedAt": "2020-05-18T03:01:45Z",
+                        "tagName": "v0.11.6"
+                    },
+                    {
+                        "name": "v0.11.7",
+                        "publishedAt": "2020-06-03T18:01:43Z",
+                        "tagName": "v0.11.7"
+                    },
+                    {
+                        "name": "v0.11.8",
+                        "publishedAt": "2020-06-09T11:01:44Z",
+                        "tagName": "v0.11.8"
+                    },
+                    {
+                        "name": "v0.12.0",
+                        "publishedAt": "2020-06-21T22:01:36Z",
+                        "tagName": "v0.12.0"
+                    },
+                    {
+                        "name": "v0.13.0",
+                        "publishedAt": "2020-06-27T23:01:33Z",
+                        "tagName": "v0.13.0"
+                    },
+                    {
+                        "name": "v0.14.0",
+                        "publishedAt": "2020-07-17T03:01:57Z",
+                        "tagName": "v0.14.0"
+                    },
+                    {
+                        "name": "v0.14.1",
+                        "publishedAt": "2020-07-30T00:05:04Z",
+                        "tagName": "v0.14.1"
+                    },
+                    {
+                        "name": "v0.15.0",
+                        "publishedAt": "2020-08-25T16:02:41Z",
+                        "tagName": "v0.15.0"
+                    },
+                    {
+                        "name": "v0.15.1",
+                        "publishedAt": "2020-08-27T16:02:36Z",
+                        "tagName": "v0.15.1"
+                    },
+                    {
+                        "name": "v0.16.0",
+                        "publishedAt": "2020-09-09T03:02:41Z",
+                        "tagName": "v0.16.0"
+                    },
+                    {
+                        "name": "v0.17.0",
+                        "publishedAt": "2020-09-22T23:02:25Z",
+                        "tagName": "v0.17.0"
+                    },
+                    {
+                        "name": "v0.18.0",
+                        "publishedAt": "2020-10-24T19:03:12Z",
+                        "tagName": "v0.18.0"
+                    },
+                    {
+                        "name": "v0.19.0",
+                        "publishedAt": "2020-11-11T00:19:52Z",
+                        "tagName": "v0.19.0"
+                    },
+                    {
+                        "name": "v0.20.0",
+                        "publishedAt": "2020-12-08T21:41:48Z",
+                        "tagName": "v0.20.0"
+                    },
+                    {
+                        "name": "v0.20.1",
+                        "publishedAt": "2020-12-10T20:07:49Z",
+                        "tagName": "v0.20.1"
+                    },
+                    {
+                        "name": "v0.21.0",
+                        "publishedAt": "2021-01-11T13:29:59Z",
+                        "tagName": "v0.21.0"
+                    },
+                    {
+                        "name": "v0.21.1",
+                        "publishedAt": "2021-02-04T16:52:12Z",
+                        "tagName": "v0.21.1"
+                    },
+                    {
+                        "name": "v0.22.0",
+                        "publishedAt": "2021-03-02T12:06:08Z",
+                        "tagName": "v0.22.0"
+                    },
+                    {
+                        "name": "v0.23.0",
+                        "publishedAt": "2021-03-08T00:53:00Z",
+                        "tagName": "v0.23.0"
+                    },
+                    {
+                        "name": "v0.24.0",
+                        "publishedAt": "2021-03-23T09:03:25Z",
+                        "tagName": "v0.24.0"
+                    },
+                    {
+                        "name": "v0.24.1",
+                        "publishedAt": "2021-04-02T15:55:30Z",
+                        "tagName": "v0.24.1"
+                    }
+                ]
             }
         },
         "JustinGOSSES/predictatops": {
@@ -135,6 +1532,373 @@
                         "name": "fixed small bug in multipleLogPlot",
                         "publishedAt": "2020-05-05T03:22:51Z",
                         "tagName": "v0.0.24"
+                    }
+                ]
+            }
+        },
+        "Loop3D/GKM": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/GKM-Public": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/GeoSwarm": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "GeoSwarm_R1",
+                        "publishedAt": "2021-03-24T20:19:30Z",
+                        "tagName": "GeoSwarm_r01"
+                    }
+                ]
+            }
+        },
+        "Loop3D/GeologicalTopology-GraphML": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/ImplicitBenchmark": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/Loop3D": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/LoopProjectFile": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/LoopProjectFile-cpp": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/LoopStructural": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Loop Structural initial release",
+                        "publishedAt": "2020-06-24T00:33:16Z",
+                        "tagName": "v0.0.1-alpha"
+                    },
+                    {
+                        "name": "LoopStructural 1.0.1",
+                        "publishedAt": "2020-06-24T04:57:13Z",
+                        "tagName": "1.0.1"
+                    },
+                    {
+                        "name": "(FEATURE) save model and export surfaces",
+                        "publishedAt": "2020-07-01T03:19:27Z",
+                        "tagName": "1.0.2"
+                    },
+                    {
+                        "name": "gradient bugfix",
+                        "publishedAt": "2020-07-06T05:10:51Z",
+                        "tagName": "1.0.3"
+                    },
+                    {
+                        "name": "Development Build",
+                        "publishedAt": "2020-09-02T05:18:25Z",
+                        "tagName": "latest"
+                    },
+                    {
+                        "name": "LoopStructural 1.0.4",
+                        "publishedAt": "2020-09-02T06:50:12Z",
+                        "tagName": "1.0.4"
+                    },
+                    {
+                        "name": "Minor release for Zenodo",
+                        "publishedAt": "2020-11-23T21:05:50Z",
+                        "tagName": "1.0.5"
+                    },
+                    {
+                        "name": "improved logging, minor optimisation and bug fixes",
+                        "publishedAt": "2021-01-14T00:10:11Z",
+                        "tagName": "1.0.6"
+                    },
+                    {
+                        "name": "development release for new fault constraints",
+                        "publishedAt": "2021-02-09T03:01:23Z",
+                        "tagName": "1.0.6-dev"
+                    },
+                    {
+                        "name": "development release bugfixes for faults",
+                        "publishedAt": "2021-02-10T03:43:04Z",
+                        "tagName": "1.0.7-dev"
+                    },
+                    {
+                        "name": "development release ",
+                        "publishedAt": "2021-02-10T04:04:24Z",
+                        "tagName": "1.0.71-dev"
+                    },
+                    {
+                        "name": "development release testing conda build and pypi",
+                        "publishedAt": "2021-02-10T05:47:02Z",
+                        "tagName": "1.0.72dev"
+                    },
+                    {
+                        "name": "and again",
+                        "publishedAt": "2021-02-10T06:07:22Z",
+                        "tagName": "1.0.73dev"
+                    },
+                    {
+                        "name": "anaconda testing ",
+                        "publishedAt": "2021-02-10T07:03:57Z",
+                        "tagName": "1.0.75dev"
+                    },
+                    {
+                        "name": "LoopStructural 1.0.8",
+                        "publishedAt": "2021-02-24T03:09:34Z",
+                        "tagName": "1.0.8"
+                    },
+                    {
+                        "name": "minor bug fixes and installation streamlining",
+                        "publishedAt": "2021-03-07T09:36:49Z",
+                        "tagName": "1.0.81"
+                    },
+                    {
+                        "name": "bugfix - missing name in logger",
+                        "publishedAt": "2021-03-08T03:21:40Z",
+                        "tagName": "1.0.82"
+                    },
+                    {
+                        "name": "bumping version to trigger docker build with tags for mybinder",
+                        "publishedAt": "2021-03-08T04:32:59Z",
+                        "tagName": "1.0.83"
+                    },
+                    {
+                        "name": "new pip release because cython builds weren't included",
+                        "publishedAt": "2021-03-12T00:03:49Z",
+                        "tagName": "1.0.84"
+                    },
+                    {
+                        "name": "conda build for multiple python environments",
+                        "publishedAt": "2021-03-12T03:05:43Z",
+                        "tagName": "1.0.85"
+                    },
+                    {
+                        "name": "conda windows",
+                        "publishedAt": "2021-03-12T10:28:28Z",
+                        "tagName": "1.0.860"
+                    },
+                    {
+                        "name": "build for all systems",
+                        "publishedAt": "2021-03-14T08:14:56Z",
+                        "tagName": "1.0.88"
+                    },
+                    {
+                        "name": "adding 3.8 and 3.9 to workflow",
+                        "publishedAt": "2021-03-14T08:54:51Z",
+                        "tagName": "1.0.89"
+                    },
+                    {
+                        "name": "minor bugfixes",
+                        "publishedAt": "2021-03-16T11:03:57Z",
+                        "tagName": "1.0.9"
+                    },
+                    {
+                        "name": "minor features and bug fixes",
+                        "publishedAt": "2021-03-31T04:03:48Z",
+                        "tagName": "1.0.91"
+                    }
+                ]
+            }
+        },
+        "Loop3D/LoopStructuralWorkshop": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/T21": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/To-Ranee": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/Turner_Syncline": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/conda-publish-action": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "",
+                        "publishedAt": "2020-08-03T04:37:51Z",
+                        "tagName": "1.0"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-08-03T06:23:11Z",
+                        "tagName": "1.1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-08-03T07:05:21Z",
+                        "tagName": "1.2"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-08-03T07:06:23Z",
+                        "tagName": "1.3"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-08-05T01:03:46Z",
+                        "tagName": "1.4"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-09-01T03:32:32Z",
+                        "tagName": "1.5"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-09-01T03:42:36Z",
+                        "tagName": "1.6"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-09-29T02:27:04Z",
+                        "tagName": "1.7"
+                    },
+                    {
+                        "name": "Adding cython/numpy",
+                        "publishedAt": "2021-02-10T06:56:33Z",
+                        "tagName": "1.8"
+                    },
+                    {
+                        "name": "adding scikitbuild",
+                        "publishedAt": "2021-03-12T04:58:21Z",
+                        "tagName": "1.9"
+                    }
+                ]
+            }
+        },
+        "Loop3D/dh2loop": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/ensemble_generator": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/github-action-push-to-another-repository": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/hjson": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/lavavu": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/loop3d.github.io": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/loop_nightly": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/map2loop-2": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "First Release",
+                        "publishedAt": "2020-11-24T10:12:45Z",
+                        "tagName": "1"
+                    }
+                ]
+            }
+        },
+        "Loop3D/map2loop2-notebooks": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/map2model_cpp": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/model_library": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/mplstereonet": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/noddyverse": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Noddyverse 1.0",
+                        "publishedAt": "2021-03-09T05:48:30Z",
+                        "tagName": "1.0"
+                    }
+                ]
+            }
+        },
+        "Loop3D/python-wheels-manylinux-build": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/staged-recipes": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/surfe": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Development Build",
+                        "publishedAt": "2020-07-30T04:57:03Z",
+                        "tagName": "latest"
+                    }
+                ]
+            }
+        },
+        "Loop3D/w3id.org": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "MTgeophysics/mtpy": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v1.0",
+                        "publishedAt": "2019-05-21T04:52:48Z",
+                        "tagName": "v1.0"
                     }
                 ]
             }
@@ -249,6 +2013,11 @@
                         "tagName": "v2.0.1"
                     }
                 ]
+            }
+        },
+        "OpenGeoscience/geonotebook": {
+            "releases": {
+                "nodes": []
             }
         },
         "SeisComP/seiscomp": {
@@ -583,6 +2352,22 @@
                 ]
             }
         },
+        "capaulson/pyKriging": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Initial PyKriging Release",
+                        "publishedAt": "2015-07-24T13:30:56Z",
+                        "tagName": "v0.1.0-alpha"
+                    },
+                    {
+                        "name": "Python3 Support",
+                        "publishedAt": "2017-05-30T16:05:43Z",
+                        "tagName": "v0.2.0"
+                    }
+                ]
+            }
+        },
         "cgre-aachen/Bayesian-Inference-Cases": {
             "releases": {
                 "nodes": []
@@ -873,9 +2658,247 @@
                 "nodes": []
             }
         },
+        "csdms/pymt": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "fossil",
+                        "publishedAt": "2016-12-28T21:14:40Z",
+                        "tagName": "v0.1"
+                    },
+                    {
+                        "name": "harvest",
+                        "publishedAt": "2016-12-28T21:18:01Z",
+                        "tagName": "v0.2"
+                    },
+                    {
+                        "name": "The Python Modeling Toolkit (pymt)",
+                        "publishedAt": "2020-02-05T17:20:14Z",
+                        "tagName": "v1.0.0"
+                    }
+                ]
+            }
+        },
+        "davenquinn/geologic-patterns": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Version 1",
+                        "publishedAt": "2017-07-21T04:52:42Z",
+                        "tagName": "v1.0.0"
+                    }
+                ]
+            }
+        },
+        "driftingtides/hyvr": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "emanuelhuber/RGPR": {
             "releases": {
                 "nodes": []
+            }
+        },
+        "emsig/empymod": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Initial release",
+                        "publishedAt": "2016-12-08T15:23:13Z",
+                        "tagName": "v1.0.0"
+                    },
+                    {
+                        "name": "Include source bipole",
+                        "publishedAt": "2016-12-22T22:26:15Z",
+                        "tagName": "v1.1.0"
+                    },
+                    {
+                        "name": "Bipole",
+                        "publishedAt": "2017-02-03T03:13:14Z",
+                        "tagName": "v1.2.0"
+                    },
+                    {
+                        "name": "Installable via pip and conda",
+                        "publishedAt": "2017-03-11T16:32:37Z",
+                        "tagName": "v1.2.1"
+                    },
+                    {
+                        "name": "New transforms QUAD (Hankel) and FFT (Fourier)",
+                        "publishedAt": "2017-03-30T16:32:17Z",
+                        "tagName": "v1.3.0"
+                    },
+                    {
+                        "name": "Own organisation github.com/empymod",
+                        "publishedAt": "2017-05-30T22:15:58Z",
+                        "tagName": "v1.4.1"
+                    },
+                    {
+                        "name": "Final submission version of Geophysics paper",
+                        "publishedAt": "2017-06-05T02:02:59Z",
+                        "tagName": "v1.4.2"
+                    },
+                    {
+                        "name": "TE/TM split",
+                        "publishedAt": "2017-09-19T01:24:09Z",
+                        "tagName": "v1.4.4"
+                    },
+                    {
+                        "name": "Hankel filter wer_201_2018",
+                        "publishedAt": "2018-01-02T17:53:29Z",
+                        "tagName": "v1.5.0"
+                    },
+                    {
+                        "name": "Improved docs",
+                        "publishedAt": "2018-02-24T19:00:20Z",
+                        "tagName": "v1.5.1"
+                    },
+                    {
+                        "name": "Improved DLF",
+                        "publishedAt": "2018-04-26T03:28:09Z",
+                        "tagName": "v1.5.2"
+                    },
+                    {
+                        "name": "More DLF improvements",
+                        "publishedAt": "2018-05-01T13:41:49Z",
+                        "tagName": "v1.6.0"
+                    },
+                    {
+                        "name": "Primary/secondary field",
+                        "publishedAt": "2018-05-05T14:21:43Z",
+                        "tagName": "v1.6.1"
+                    },
+                    {
+                        "name": "Speed improvements for QUAD/QWE",
+                        "publishedAt": "2018-05-21T20:49:21Z",
+                        "tagName": "v1.6.2"
+                    },
+                    {
+                        "name": "Move empyscripts into empymod.scripts",
+                        "publishedAt": "2018-05-24T01:00:59Z",
+                        "tagName": "v1.7.0"
+                    },
+                    {
+                        "name": "Load/save filters in plain text",
+                        "publishedAt": "2018-06-19T17:48:27Z",
+                        "tagName": "v1.7.1"
+                    },
+                    {
+                        "name": "Benchmarked with asv",
+                        "publishedAt": "2018-07-07T21:12:36Z",
+                        "tagName": "v1.7.2"
+                    },
+                    {
+                        "name": "Speed improvements following benchmarks",
+                        "publishedAt": "2018-07-16T13:42:19Z",
+                        "tagName": "v1.7.3"
+                    },
+                    {
+                        "name": "Hook for Cole-Cole IP and similar",
+                        "publishedAt": "2018-10-26T19:35:01Z",
+                        "tagName": "v1.8.0"
+                    },
+                    {
+                        "name": "Version of Filter-article and CSEM-book",
+                        "publishedAt": "2018-11-20T19:46:10Z",
+                        "tagName": "v1.8.1"
+                    },
+                    {
+                        "name": "pts_per_dec for DLF are now floats",
+                        "publishedAt": "2019-04-26T12:50:20Z",
+                        "tagName": "v1.8.2"
+                    },
+                    {
+                        "name": "Scooby",
+                        "publishedAt": "2019-07-05T12:31:50Z",
+                        "tagName": "v1.8.3"
+                    },
+                    {
+                        "name": "Laplace",
+                        "publishedAt": "2019-10-04T12:04:48Z",
+                        "tagName": "v1.9.0"
+                    },
+                    {
+                        "name": "Loop source and receiver",
+                        "publishedAt": "2019-10-15T14:09:18Z",
+                        "tagName": "v1.10.0"
+                    },
+                    {
+                        "name": "setuptools_scm",
+                        "publishedAt": "2019-10-22T12:12:49Z",
+                        "tagName": "v1.10.1"
+                    },
+                    {
+                        "name": "Always EMArray",
+                        "publishedAt": "2019-11-06T07:53:15Z",
+                        "tagName": "v1.10.2"
+                    },
+                    {
+                        "name": "Sphinx Gallery",
+                        "publishedAt": "2019-11-11T14:21:29Z",
+                        "tagName": "v1.10.3"
+                    },
+                    {
+                        "name": "Positive z down- or upwards",
+                        "publishedAt": "2020-02-16T10:48:05Z",
+                        "tagName": "v1.10.4"
+                    },
+                    {
+                        "name": "Continuously in- or decreasing",
+                        "publishedAt": "2020-02-21T09:03:47Z",
+                        "tagName": "v1.10.5"
+                    },
+                    {
+                        "name": "Various azimuths and dips at same depth",
+                        "publishedAt": "2020-03-04T19:31:50Z",
+                        "tagName": "v1.10.6"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-03-15T20:04:31Z",
+                        "tagName": "v2.0.0-rc.1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-03-23T13:33:50Z",
+                        "tagName": "v2.0.0-rc.2"
+                    },
+                    {
+                        "name": "Numba",
+                        "publishedAt": "2020-04-29T10:28:42Z",
+                        "tagName": "v2.0.0"
+                    },
+                    {
+                        "name": "Bug fixes: ftarg, docs, CI, req",
+                        "publishedAt": "2020-06-19T17:43:20Z",
+                        "tagName": "v2.0.1"
+                    },
+                    {
+                        "name": "Fix example: `tem_walktem`",
+                        "publishedAt": "2020-07-02T09:12:07Z",
+                        "tagName": "v2.0.2"
+                    },
+                    {
+                        "name": "Docs and gallery",
+                        "publishedAt": "2020-09-22T10:40:08Z",
+                        "tagName": "v2.0.3"
+                    },
+                    {
+                        "name": "Move to EMSiG",
+                        "publishedAt": "2020-12-09T13:04:28Z",
+                        "tagName": "v2.0.4"
+                    },
+                    {
+                        "name": "M&B I",
+                        "publishedAt": "2021-03-01T13:06:04Z",
+                        "tagName": "v2.0.5"
+                    },
+                    {
+                        "name": "Bugfix Windows int32/64",
+                        "publishedAt": "2021-03-26T17:33:41Z",
+                        "tagName": "v2.0.6"
+                    }
+                ]
             }
         },
         "equinor/dlisio": {
@@ -1754,6 +3777,38 @@
                 "nodes": []
             }
         },
+        "groupeLIAMG/bh_tomo": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "A Matlab borehole radar/seismic tomography package",
+                        "publishedAt": "2018-01-30T18:58:11Z",
+                        "tagName": "v1.0"
+                    },
+                    {
+                        "name": "A Matlab borehole radar/seismic tomography package - version 2",
+                        "publishedAt": "2018-01-30T19:04:09Z",
+                        "tagName": "v2.0.0"
+                    },
+                    {
+                        "name": "A Matlab borehole radar/seismic tomography package - version 2",
+                        "publishedAt": "2018-01-30T19:18:30Z",
+                        "tagName": "v2.0.1"
+                    }
+                ]
+            }
+        },
+        "hpgl/hpgl": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v0.99",
+                        "publishedAt": "2015-04-23T16:08:10Z",
+                        "tagName": "v0.99"
+                    }
+                ]
+            }
+        },
         "iannesbitt/readgssi": {
             "releases": {
                 "nodes": [
@@ -1883,6 +3938,37 @@
         "joferkington/mplstereonet": {
             "releases": {
                 "nodes": []
+            }
+        },
+        "keurfonluu/disba": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "disba v0.4.0",
+                        "publishedAt": "2020-08-16T19:35:29Z",
+                        "tagName": "v0.4.0"
+                    },
+                    {
+                        "name": "disba v0.4.1",
+                        "publishedAt": "2021-01-17T21:24:03Z",
+                        "tagName": "v0.4.1"
+                    },
+                    {
+                        "name": "disba v0.4.2",
+                        "publishedAt": "2021-01-20T19:57:06Z",
+                        "tagName": "v0.4.2"
+                    },
+                    {
+                        "name": "disba v0.4.3",
+                        "publishedAt": "2021-02-09T05:24:50Z",
+                        "tagName": "v0.4.3"
+                    },
+                    {
+                        "name": "disba v0.5.0",
+                        "publishedAt": "2021-02-12T09:35:29Z",
+                        "tagName": "v0.5.0"
+                    }
+                ]
             }
         },
         "kinverarity1/lasio": {
@@ -2019,6 +4105,211 @@
                         "tagName": "v0.29"
                     }
                 ]
+            }
+        },
+        "landlab/CUAHSI_Biennial_July_2016": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/General-Landlab-Clinic-2020-21": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/UT_Landlab_Clinic": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/conda": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/csdms_meeting_may_2015": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/csdms_model_clinic_may_2017": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/drivers": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/flexure-component": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/governance_discussion": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/grid-sketchbook": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/landlab": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Rapunzel",
+                        "publishedAt": "2016-09-16T17:30:08Z",
+                        "tagName": "v1.0.1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-10-08T22:03:41Z",
+                        "tagName": "v1.5.4-alpha"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-10-17T02:25:55Z",
+                        "tagName": "v1.5.4"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-11-24T06:46:52Z",
+                        "tagName": "v1.11.0"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-12-21T05:06:27Z",
+                        "tagName": "v2.0.0b3"
+                    },
+                    {
+                        "name": "v2.0.0b4",
+                        "publishedAt": "2020-01-31T23:54:07Z",
+                        "tagName": "v2.0.0b4"
+                    },
+                    {
+                        "name": "v2.0.0b5",
+                        "publishedAt": "2020-02-04T19:30:23Z",
+                        "tagName": "v2.0.0b5"
+                    },
+                    {
+                        "name": "update release for 1.12.0",
+                        "publishedAt": "2020-04-16T04:39:27Z",
+                        "tagName": "v1.12.0"
+                    },
+                    {
+                        "name": "Mrs. Weasley",
+                        "publishedAt": "2020-04-29T22:23:11Z",
+                        "tagName": "v2.0.1"
+                    }
+                ]
+            }
+        },
+        "landlab/landlab-logo": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/landlab-rest": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/landlab.github.io": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/landlab_teaching_tools": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/landscape_metrics_course": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/nced_summer_instititute_2018": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/psu-clinic-2020": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/pub_adams_etal_gmd": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "pre-submission repository",
+                        "publishedAt": "2016-10-17T20:38:59Z",
+                        "tagName": "v0.1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2016-10-19T21:30:42Z",
+                        "tagName": "v0.2"
+                    }
+                ]
+            }
+        },
+        "landlab/pub_adams_etal_rainfallvar_jgr": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Version 1.0",
+                        "publishedAt": "2020-04-15T04:10:50Z",
+                        "tagName": "v1.0"
+                    }
+                ]
+            }
+        },
+        "landlab/pub_nudurupati_etal_wrr": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "first release for publication submission",
+                        "publishedAt": "2020-04-16T04:57:48Z",
+                        "tagName": "v0.1.0"
+                    },
+                    {
+                        "name": "Release to create DOI",
+                        "publishedAt": "2020-04-23T05:36:57Z",
+                        "tagName": "v0.1.1"
+                    }
+                ]
+            }
+        },
+        "landlab/pub_tucker_etal_gmd": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "landlab/tutorials": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "",
+                        "publishedAt": "2018-10-08T22:35:04Z",
+                        "tagName": "v1.5.4-alpha"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-10-17T01:45:48Z",
+                        "tagName": "v1.5.4"
+                    }
+                ]
+            }
+        },
+        "mlbelobraydi/t21-hack-SwellCorr": {
+            "releases": {
+                "nodes": []
             }
         },
         "morganjwilliams/pyrolite": {
@@ -2456,6 +4747,11 @@
                 ]
             }
         },
+        "r-spatial/gstat": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "raspishake/rsudp": {
             "releases": {
                 "nodes": [
@@ -2488,6 +4784,27 @@
                         "name": "Shetland",
                         "publishedAt": "2020-05-28T02:48:21Z",
                         "tagName": "1.0.1"
+                    }
+                ]
+            }
+        },
+        "robinthibaut/pysgems": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "",
+                        "publishedAt": "2021-03-01T09:56:57Z",
+                        "tagName": "v1.0"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2021-03-06T12:40:54Z",
+                        "tagName": "1.1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2021-03-07T10:41:22Z",
+                        "tagName": "v1.2"
                     }
                 ]
             }
@@ -2773,6 +5090,32 @@
                 ]
             }
         },
+        "sinanozaydin/MATE": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "MATE",
+                        "publishedAt": "2020-04-22T02:20:52Z",
+                        "tagName": "1"
+                    },
+                    {
+                        "name": "MATE",
+                        "publishedAt": "2020-07-24T07:54:03Z",
+                        "tagName": "v1.1"
+                    },
+                    {
+                        "name": "v1.2",
+                        "publishedAt": "2020-08-25T11:15:56Z",
+                        "tagName": "v1.2"
+                    },
+                    {
+                        "name": "v1.3",
+                        "publishedAt": "2021-02-18T01:43:32Z",
+                        "tagName": "v1.3"
+                    }
+                ]
+            }
+        },
         "softwareunderground/52things": {
             "releases": {
                 "nodes": []
@@ -2895,7 +5238,13 @@
         },
         "softwareunderground/subsurface": {
             "releases": {
-                "nodes": []
+                "nodes": [
+                    {
+                        "name": "Test automatic deploy PyPI / conda-forge",
+                        "publishedAt": "2021-04-19T19:42:58Z",
+                        "tagName": "v0.2.3"
+                    }
+                ]
             }
         },
         "softwareunderground/subsurface-journal": {
@@ -2951,6 +5300,67 @@
         "toddheitmann/PetroPy": {
             "releases": {
                 "nodes": []
+            }
+        },
+        "trhallam/segysak": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v0.2.1a pypi test",
+                        "publishedAt": "2020-06-07T22:39:53Z",
+                        "tagName": "v0.2.1a"
+                    },
+                    {
+                        "name": "v0.2.1",
+                        "publishedAt": "2020-06-07T22:59:19Z",
+                        "tagName": "v0.2.1"
+                    },
+                    {
+                        "name": "v0.2.2 ",
+                        "publishedAt": "2020-06-08T01:13:18Z",
+                        "tagName": "v0.2.2"
+                    },
+                    {
+                        "name": "v0.2.3",
+                        "publishedAt": "2020-06-13T18:28:49Z",
+                        "tagName": "v0.2.3"
+                    },
+                    {
+                        "name": "v0.2.4",
+                        "publishedAt": "2020-06-13T19:18:15Z",
+                        "tagName": "v0.2.4"
+                    },
+                    {
+                        "name": "v0.2.5",
+                        "publishedAt": "2020-06-14T15:55:48Z",
+                        "tagName": "v0.2.5"
+                    },
+                    {
+                        "name": "v0.2.6",
+                        "publishedAt": "2020-08-07T14:16:53Z",
+                        "tagName": "v0.2.6"
+                    },
+                    {
+                        "name": "v0.2.7",
+                        "publishedAt": "2020-11-25T13:23:15Z",
+                        "tagName": "v0.2.7"
+                    },
+                    {
+                        "name": "v0.2.8",
+                        "publishedAt": "2021-01-26T00:15:31Z",
+                        "tagName": "v0.2.8"
+                    },
+                    {
+                        "name": "v0.2.9",
+                        "publishedAt": "2021-02-28T10:59:04Z",
+                        "tagName": "v0.2.9"
+                    },
+                    {
+                        "name": "v0.2.10",
+                        "publishedAt": "2021-03-17T15:24:44Z",
+                        "tagName": "v0.2.10"
+                    }
+                ]
             }
         },
         "waynegm/OpendTect-Plugins": {

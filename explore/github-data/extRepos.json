@@ -516,6 +516,14 @@
             },
             "nameWithOwner": "conda-forge/staged-recipes"
         },
+        "conda-forge/subsurface-feedstock": {
+            "labContributors": {
+                "nodes": [
+                    "prisae"
+                ]
+            },
+            "nameWithOwner": "conda-forge/subsurface-feedstock"
+        },
         "conda-forge/verde-feedstock": {
             "labContributors": {
                 "nodes": [
