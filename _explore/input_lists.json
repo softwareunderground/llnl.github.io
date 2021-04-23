@@ -9,7 +9,8 @@
         "landlab",
         "loop3d",
         "opengeostat",
-        "softwareunderground"
+        "softwareunderground",
+        "FRI-energy-Analytics"
     ],
     "repos": [
         "ahotovec/redpy",
