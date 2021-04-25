@@ -8,7 +8,7 @@
         "fatiando",
         "landlab",
         "loop3d",
-        "Neil-Symington",
+        "neil-symington",
         "opengeostat",
         "softwareunderground",
         "FRI-energy-Analytics"
@@ -28,6 +28,7 @@
         "genericmappingtools/pygmt",
         "geode-solutions/opengeode",
         "geopytool/geopytool",
+        'geoscienceaustralia/geophys_utils',
         "geoscienceaustralia/uncover-ml",
         "geostatsguy/geostatspy",
         "groupeliamg/bh_tomo",
