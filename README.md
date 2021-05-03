@@ -10,6 +10,22 @@ Explore page: https://softwareunderground.github.io/open_geosciene_code_projects
 Dependencies analysis: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/dependencies/
 Most popular repositories: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/popular-repos/
 
+## Places Changed From Original 
+
+#### _config.yml
+
+Changed:
+
+```
+url: "https://software.llnl.gov"
+repo_url: "https://github.com/LLNL/llnl.github.io"
+``` 
+to 
+```
+baseurl: "/open_geosciene_code_projects_viz"
+```
+
+
 ...............
 ...............
 ...............
