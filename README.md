@@ -25,6 +25,10 @@ to
 baseurl: "/open_geosciene_code_projects_viz"
 ```
 
+### Links on header
+- github repo
+- fork this repo
+- twitter
 
 ...............
 ...............
