@@ -1,5 +1,41 @@
 {
     "data": {
+        "FRI-Energy-Analytics/2020_summer_fellows": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "FRI-Energy-Analytics/alaska": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "FRI-Energy-Analytics/energyanalytics": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "FRI-Energy-Analytics/extra_credit": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "FRI-Energy-Analytics/project": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "FRI-Energy-Analytics/sandbox": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "GenericMappingTools/pygmt": {
             "repositoryTopics": {
                 "nodes": [
@@ -145,6 +181,12 @@
                     }
                 ],
                 "totalCount": 4
+            }
+        },
+        "GeoscienceAustralia/geophys_utils": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
             }
         },
         "GeoscienceAustralia/uncover-ml": {
@@ -363,9 +405,23 @@
                             "name": "dataunderground"
                         },
                         "url": "https://github.com/topics/dataunderground"
+                    },
+                    {
+                        "resourcePath": "/topics/athabasca",
+                        "topic": {
+                            "name": "athabasca"
+                        },
+                        "url": "https://github.com/topics/athabasca"
+                    },
+                    {
+                        "resourcePath": "/topics/athabasca-preprocessed",
+                        "topic": {
+                            "name": "athabasca-preprocessed"
+                        },
+                        "url": "https://github.com/topics/athabasca-preprocessed"
                     }
                 ],
-                "totalCount": 7
+                "totalCount": 9
             }
         },
         "JustinGOSSES/wellio.js": {
@@ -419,9 +475,23 @@
                             "name": "dataunderground"
                         },
                         "url": "https://github.com/topics/dataunderground"
+                    },
+                    {
+                        "resourcePath": "/topics/athabasca",
+                        "topic": {
+                            "name": "athabasca"
+                        },
+                        "url": "https://github.com/topics/athabasca"
+                    },
+                    {
+                        "resourcePath": "/topics/athabasca-preprocessed",
+                        "topic": {
+                            "name": "athabasca-preprocessed"
+                        },
+                        "url": "https://github.com/topics/athabasca-preprocessed"
                     }
                 ],
-                "totalCount": 7
+                "totalCount": 9
             }
         },
         "JustinGOSSES/wellioviz": {
@@ -489,9 +559,23 @@
                             "name": "dataunderground"
                         },
                         "url": "https://github.com/topics/dataunderground"
+                    },
+                    {
+                        "resourcePath": "/topics/athabasca",
+                        "topic": {
+                            "name": "athabasca"
+                        },
+                        "url": "https://github.com/topics/athabasca"
+                    },
+                    {
+                        "resourcePath": "/topics/athabasca-preprocessed",
+                        "topic": {
+                            "name": "athabasca-preprocessed"
+                        },
+                        "url": "https://github.com/topics/athabasca-preprocessed"
                     }
                 ],
-                "totalCount": 9
+                "totalCount": 11
             }
         },
         "Loop3D/GKM": {
@@ -687,6 +771,24 @@
             }
         },
         "NSGeophysics/GPRPy": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Neil-Symington/AEM2SEG-Y": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Neil-Symington/borehole_gfx_utils": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Neil-Symington/garjmcmctdem_utils": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -2161,6 +2263,12 @@
                 "totalCount": 0
             }
         },
+        "fatiando/2021-gsh": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "fatiando/boule": {
             "repositoryTopics": {
                 "nodes": [
@@ -3066,6 +3174,34 @@
                 "totalCount": 6
             }
         },
+        "kinverarity1/aseg_gdf2": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/geophysics",
+                        "topic": {
+                            "name": "geophysics"
+                        },
+                        "url": "https://github.com/topics/geophysics"
+                    },
+                    {
+                        "resourcePath": "/topics/file-formats",
+                        "topic": {
+                            "name": "file-formats"
+                        },
+                        "url": "https://github.com/topics/file-formats"
+                    },
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    }
+                ],
+                "totalCount": 3
+            }
+        },
         "kinverarity1/lasio": {
             "repositoryTopics": {
                 "nodes": [
@@ -3159,9 +3295,22 @@
                             "name": "python"
                         },
                         "url": "https://github.com/topics/python"
+                    },
+                    {
+                        "resourcePath": "/topics/swung-t21",
+                        "topic": {
+                            "name": "swung-t21"
+                        },
+                        "url": "https://github.com/topics/swung-t21"
                     }
                 ],
-                "totalCount": 13
+                "totalCount": 14
+            }
+        },
+        "kinverarity1/mtwaffle": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
             }
         },
         "landlab/CUAHSI_Biennial_July_2016": {
@@ -4140,8 +4289,16 @@
         },
         "softwareunderground/northern-lights": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/swung-t21",
+                        "topic": {
+                            "name": "swung-t21"
+                        },
+                        "url": "https://github.com/topics/swung-t21"
+                    }
+                ],
+                "totalCount": 1
             }
         },
         "softwareunderground/notebooks": {
@@ -4234,9 +4391,30 @@
                             "name": "subsurface-datahub"
                         },
                         "url": "https://github.com/topics/subsurface-datahub"
+                    },
+                    {
+                        "resourcePath": "/topics/swung-t21",
+                        "topic": {
+                            "name": "swung-t21"
+                        },
+                        "url": "https://github.com/topics/swung-t21"
+                    },
+                    {
+                        "resourcePath": "/topics/swung-t20",
+                        "topic": {
+                            "name": "swung-t20"
+                        },
+                        "url": "https://github.com/topics/swung-t20"
+                    },
+                    {
+                        "resourcePath": "/topics/swung-t19",
+                        "topic": {
+                            "name": "swung-t19"
+                        },
+                        "url": "https://github.com/topics/swung-t19"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 6
             }
         },
         "softwareunderground/subsurface-journal": {
@@ -4372,9 +4550,16 @@
                             "name": "seismic"
                         },
                         "url": "https://github.com/topics/seismic"
+                    },
+                    {
+                        "resourcePath": "/topics/swung-t21",
+                        "topic": {
+                            "name": "swung-t21"
+                        },
+                        "url": "https://github.com/topics/swung-t21"
                     }
                 ],
-                "totalCount": 4
+                "totalCount": 5
             }
         },
         "waynegm/OpendTect-Plugins": {

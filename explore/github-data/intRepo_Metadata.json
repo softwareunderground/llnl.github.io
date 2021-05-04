@@ -1,4 +1,40 @@
 {
+    "FRI-Energy-Analytics/2020_summer_fellows": {
+        "description": "A repository for FRI Energy Analytics fellows",
+        "name": "FRI-Energy-Analytics/2020_summer_fellows",
+        "topics": null,
+        "website": null
+    },
+    "FRI-Energy-Analytics/alaska": {
+        "description": "AlasKA well log LAS file aliaser",
+        "name": "FRI-Energy-Analytics/alaska",
+        "topics": null,
+        "website": ""
+    },
+    "FRI-Energy-Analytics/energyanalytics": {
+        "description": "Repository for the FRI Energy Analytics Stream CS 309",
+        "name": "FRI-Energy-Analytics/energyanalytics",
+        "topics": null,
+        "website": null
+    },
+    "FRI-Energy-Analytics/extra_credit": {
+        "description": null,
+        "name": "FRI-Energy-Analytics/extra_credit",
+        "topics": null,
+        "website": null
+    },
+    "FRI-Energy-Analytics/project": {
+        "description": "2020 FRI EA final project",
+        "name": "FRI-Energy-Analytics/project",
+        "topics": null,
+        "website": null
+    },
+    "FRI-Energy-Analytics/sandbox": {
+        "description": "FRI sandbox for learning GitHub without breaking anything",
+        "name": "FRI-Energy-Analytics/sandbox",
+        "topics": null,
+        "website": null
+    },
     "GenericMappingTools/pygmt": {
         "description": "A Python interface for the Generic Mapping Tools.",
         "name": "GenericMappingTools/pygmt",
@@ -37,6 +73,12 @@
             "meshing"
         ],
         "website": "https://geode-solutions.com/opengeode"
+    },
+    "GeoscienceAustralia/geophys_utils": {
+        "description": "A collection of utilities for discovering, accessing and using geophysics data via web services or from netCDF files",
+        "name": "GeoscienceAustralia/geophys_utils",
+        "topics": null,
+        "website": null
     },
     "GeoscienceAustralia/uncover-ml": {
         "description": "Machine Learning system for Geoscience Australia uncover project",
@@ -99,7 +141,9 @@
             "machine-learning",
             "hackathon-project",
             "well-logs",
-            "dataunderground"
+            "dataunderground",
+            "athabasca",
+            "athabasca-preprocessed"
         ],
         "website": "https://justingosses.github.io/predictatops/html/index.html"
     },
@@ -113,7 +157,9 @@
             "json-parser",
             "well-logs",
             "geoscience",
-            "dataunderground"
+            "dataunderground",
+            "athabasca",
+            "athabasca-preprocessed"
         ],
         "website": "https://justingosses.github.io/wellio.js/"
     },
@@ -129,7 +175,9 @@
             "d3",
             "swung-t20",
             "welllogs",
-            "dataunderground"
+            "dataunderground",
+            "athabasca",
+            "athabasca-preprocessed"
         ],
         "website": "https://justingosses.github.io/wellioviz/#introduction"
     },
@@ -328,6 +376,24 @@
     "NSGeophysics/GPRPy": {
         "description": "Ground Penetrating Radar processing and visualization software for python",
         "name": "NSGeophysics/GPRPy",
+        "topics": null,
+        "website": null
+    },
+    "Neil-Symington/AEM2SEG-Y": {
+        "description": "A package for converting AEM conductivity line data into seg-y format for use in 3D packages",
+        "name": "Neil-Symington/AEM2SEG-Y",
+        "topics": null,
+        "website": null
+    },
+    "Neil-Symington/borehole_gfx_utils": {
+        "description": "Package for processing induction/ gamma borehole data",
+        "name": "Neil-Symington/borehole_gfx_utils",
+        "topics": null,
+        "website": null
+    },
+    "Neil-Symington/garjmcmctdem_utils": {
+        "description": "A collection of python based utilities for visualising, analysing and interpreting the results of transdimensionsal AEM inversions. ",
+        "name": "Neil-Symington/garjmcmctdem_utils",
         "topics": null,
         "website": null
     },
@@ -990,6 +1056,12 @@
         "topics": null,
         "website": null
     },
+    "fatiando/2021-gsh": {
+        "description": "Talk about Fatiando for the Geophysical Society of Houston",
+        "name": "fatiando/2021-gsh",
+        "topics": null,
+        "website": ""
+    },
     "fatiando/boule": {
         "description": "Reference ellipsoids for geodesy, geophysics, and coordinate calculations",
         "name": "fatiando/boule",
@@ -1331,6 +1403,16 @@
         ],
         "website": "https://github.com/keurfonluu/disba"
     },
+    "kinverarity1/aseg_gdf2": {
+        "description": "Python code to help read ASEG GDF2 packages",
+        "name": "kinverarity1/aseg_gdf2",
+        "topics": [
+            "geophysics",
+            "file-formats",
+            "python"
+        ],
+        "website": null
+    },
     "kinverarity1/lasio": {
         "description": "Python library for reading and writing well data using Log ASCII Standard (LAS) files",
         "name": "kinverarity1/lasio",
@@ -1347,8 +1429,15 @@
             "data-mining",
             "mineral-exploration",
             "log-ascii-standard",
-            "python"
+            "python",
+            "swung-t21"
         ],
+        "website": ""
+    },
+    "kinverarity1/mtwaffle": {
+        "description": "utility functions for analysis of magnetotelluric data",
+        "name": "kinverarity1/mtwaffle",
+        "topics": null,
         "website": ""
     },
     "landlab/CUAHSI_Biennial_July_2016": {
@@ -1776,8 +1865,10 @@
     "softwareunderground/northern-lights": {
         "description": "The CCS / Northern Lights hackathon project",
         "name": "softwareunderground/northern-lights",
-        "topics": null,
-        "website": null
+        "topics": [
+            "swung-t21"
+        ],
+        "website": ""
     },
     "softwareunderground/notebooks": {
         "description": "A collection of IPython notebooks showcasing a range of Earth Science applications",
@@ -1816,7 +1907,10 @@
         "topics": [
             "subsurface",
             "geoscientific-data",
-            "subsurface-datahub"
+            "subsurface-datahub",
+            "swung-t21",
+            "swung-t20",
+            "swung-t19"
         ],
         "website": "https://softwareunderground.github.io/subsurface"
     },
@@ -1900,7 +1994,8 @@
             "swung-t20",
             "segy",
             "geophysics",
-            "seismic"
+            "seismic",
+            "swung-t21"
         ],
         "website": "https://segysak.readthedocs.io/en/latest/"
     },

@@ -1,5 +1,35 @@
 {
     "data": {
+        "FRI-Energy-Analytics/2020_summer_fellows": {
+            "createdAt": "2020-05-08T19:01:49Z",
+            "firstCommitAt": "2020-05-08T19:01:50Z",
+            "initBeforeGitHubRepo": false
+        },
+        "FRI-Energy-Analytics/alaska": {
+            "createdAt": "2020-08-18T14:22:20Z",
+            "firstCommitAt": "2020-08-18T14:22:21Z",
+            "initBeforeGitHubRepo": false
+        },
+        "FRI-Energy-Analytics/energyanalytics": {
+            "createdAt": "2020-07-20T15:59:53Z",
+            "firstCommitAt": "2020-07-20T15:59:54Z",
+            "initBeforeGitHubRepo": false
+        },
+        "FRI-Energy-Analytics/extra_credit": {
+            "createdAt": "2020-09-28T19:45:28Z",
+            "firstCommitAt": "2020-09-28T19:45:29Z",
+            "initBeforeGitHubRepo": false
+        },
+        "FRI-Energy-Analytics/project": {
+            "createdAt": "2020-10-19T18:56:51Z",
+            "firstCommitAt": "2020-10-19T18:56:53Z",
+            "initBeforeGitHubRepo": false
+        },
+        "FRI-Energy-Analytics/sandbox": {
+            "createdAt": "2020-07-20T16:10:46Z",
+            "firstCommitAt": "2020-07-20T16:10:47Z",
+            "initBeforeGitHubRepo": false
+        },
         "GenericMappingTools/pygmt": {
             "createdAt": "2017-03-17T20:31:51Z",
             "firstCommitAt": "2017-03-17T20:50:19Z",
@@ -13,6 +43,11 @@
         "Geode-solutions/OpenGeode": {
             "createdAt": "2019-08-01T08:58:36Z",
             "firstCommitAt": "2019-08-01T08:57:03Z",
+            "initBeforeGitHubRepo": true
+        },
+        "GeoscienceAustralia/geophys_utils": {
+            "createdAt": "2016-11-16T00:09:31Z",
+            "firstCommitAt": "2016-11-16T00:09:31Z",
             "initBeforeGitHubRepo": true
         },
         "GeoscienceAustralia/uncover-ml": {
@@ -219,6 +254,21 @@
             "createdAt": "2018-04-04T01:21:07Z",
             "firstCommitAt": "2018-04-04T01:21:08Z",
             "initBeforeGitHubRepo": false
+        },
+        "Neil-Symington/AEM2SEG-Y": {
+            "createdAt": "2019-05-08T00:32:25Z",
+            "firstCommitAt": "2019-05-08T00:32:25Z",
+            "initBeforeGitHubRepo": true
+        },
+        "Neil-Symington/borehole_gfx_utils": {
+            "createdAt": "2020-11-25T01:38:08Z",
+            "firstCommitAt": "2020-11-25T01:39:13Z",
+            "initBeforeGitHubRepo": false
+        },
+        "Neil-Symington/garjmcmctdem_utils": {
+            "createdAt": "2019-12-08T22:53:54Z",
+            "firstCommitAt": "2019-12-08T22:53:46Z",
+            "initBeforeGitHubRepo": true
         },
         "OpenGeoVis/PVGeo": {
             "createdAt": "2017-07-18T18:05:56Z",
@@ -640,6 +690,11 @@
             "firstCommitAt": "2020-02-25T15:05:49Z",
             "initBeforeGitHubRepo": false
         },
+        "fatiando/2021-gsh": {
+            "createdAt": "2021-04-29T11:58:08Z",
+            "firstCommitAt": "2021-04-28T18:30:57Z",
+            "initBeforeGitHubRepo": true
+        },
         "fatiando/boule": {
             "createdAt": "2019-10-18T15:53:46Z",
             "firstCommitAt": "2019-10-21T14:23:34Z",
@@ -835,9 +890,19 @@
             "firstCommitAt": "2020-06-19T06:32:44Z",
             "initBeforeGitHubRepo": false
         },
+        "kinverarity1/aseg_gdf2": {
+            "createdAt": "2018-07-22T09:30:26Z",
+            "firstCommitAt": "2018-07-22T09:30:26Z",
+            "initBeforeGitHubRepo": true
+        },
         "kinverarity1/lasio": {
             "createdAt": "2013-12-24T08:56:49Z",
             "firstCommitAt": "2013-12-24T08:56:49Z",
+            "initBeforeGitHubRepo": true
+        },
+        "kinverarity1/mtwaffle": {
+            "createdAt": "2015-08-19T08:32:55Z",
+            "firstCommitAt": "2015-08-19T08:32:55Z",
             "initBeforeGitHubRepo": true
         },
         "landlab/CUAHSI_Biennial_July_2016": {

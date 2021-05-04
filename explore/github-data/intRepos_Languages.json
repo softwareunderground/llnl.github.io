@@ -1,10 +1,152 @@
 {
     "data": {
+        "FRI-Energy-Analytics/2020_summer_fellows": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 341757660
+                    },
+                    {
+                        "size": 253235
+                    },
+                    {
+                        "size": 12404
+                    },
+                    {
+                        "size": 482
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#999999",
+                        "name": "Lasso"
+                    },
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    }
+                ],
+                "totalCount": 4,
+                "totalSize": 342023781
+            }
+        },
+        "FRI-Energy-Analytics/alaska": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 3723836
+                    },
+                    {
+                        "size": 235558
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#999999",
+                        "name": "Lasso"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 3959394
+            }
+        },
+        "FRI-Energy-Analytics/energyanalytics": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 2208559
+                    },
+                    {
+                        "size": 147
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 2208706
+            }
+        },
+        "FRI-Energy-Analytics/extra_credit": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 45807
+                    },
+                    {
+                        "size": 26320
+                    },
+                    {
+                        "size": 1467
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#b07219",
+                        "name": "Java"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 73594
+            }
+        },
+        "FRI-Energy-Analytics/project": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 7386
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 7386
+            }
+        },
+        "FRI-Energy-Analytics/sandbox": {
+            "languages": {
+                "edges": [],
+                "nodes": [],
+                "totalCount": 0,
+                "totalSize": 0
+            }
+        },
         "GenericMappingTools/pygmt": {
             "languages": {
                 "edges": [
                     {
-                        "size": 522145
+                        "size": 545456
                     },
                     {
                         "size": 2429
@@ -21,7 +163,7 @@
                     }
                 ],
                 "totalCount": 2,
-                "totalSize": 524574
+                "totalSize": 547885
             }
         },
         "GeoPyTool/GeoPyTool": {
@@ -66,7 +208,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 2293259
+                        "size": 2302485
                     },
                     {
                         "size": 182313
@@ -90,7 +232,38 @@
                     }
                 ],
                 "totalCount": 3,
-                "totalSize": 2570982
+                "totalSize": 2580208
+            }
+        },
+        "GeoscienceAustralia/geophys_utils": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 696916
+                    },
+                    {
+                        "size": 4276
+                    },
+                    {
+                        "size": 4137
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#C1F12E",
+                        "name": "Batchfile"
+                    },
+                    {
+                        "color": "#89e051",
+                        "name": "Shell"
+                    }
+                ],
+                "totalCount": 3,
+                "totalSize": 705329
             }
         },
         "GeoscienceAustralia/uncover-ml": {
@@ -750,7 +923,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 433420
+                        "size": 433673
                     },
                     {
                         "size": 1303
@@ -781,7 +954,7 @@
                     }
                 ],
                 "totalCount": 4,
-                "totalSize": 435694
+                "totalSize": 435947
             }
         },
         "Loop3D/LoopStructuralWorkshop": {
@@ -1028,7 +1201,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 539468
+                        "size": 545022
                     },
                     {
                         "size": 1840
@@ -1045,7 +1218,7 @@
                     }
                 ],
                 "totalCount": 2,
-                "totalSize": 541308
+                "totalSize": 546862
             }
         },
         "Loop3D/map2loop2-notebooks": {
@@ -1362,6 +1535,78 @@
                 ],
                 "totalCount": 1,
                 "totalSize": 188832
+            }
+        },
+        "Neil-Symington/AEM2SEG-Y": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 15266
+                    },
+                    {
+                        "size": 105
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#C1F12E",
+                        "name": "Batchfile"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 15371
+            }
+        },
+        "Neil-Symington/borehole_gfx_utils": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 2569955
+                    },
+                    {
+                        "size": 17282
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#999999",
+                        "name": "Lasso"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 2587237
+            }
+        },
+        "Neil-Symington/garjmcmctdem_utils": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 184603
+                    },
+                    {
+                        "size": 18771
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 203374
             }
         },
         "OpenGeoVis/PVGeo": {
@@ -2486,7 +2731,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 271018
+                        "size": 271090
                     }
                 ],
                 "nodes": [
@@ -2496,7 +2741,7 @@
                     }
                 ],
                 "totalCount": 1,
-                "totalSize": 271018
+                "totalSize": 271090
             }
         },
         "capaulson/pyKriging": {
@@ -2881,13 +3126,13 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 9768004
+                        "size": 18946569
+                    },
+                    {
+                        "size": 11391
                     },
                     {
                         "size": 10628
-                    },
-                    {
-                        "size": 7594
                     }
                 ],
                 "nodes": [
@@ -2896,16 +3141,16 @@
                         "name": "Jupyter Notebook"
                     },
                     {
-                        "color": "#44a51c",
-                        "name": "QML"
-                    },
-                    {
                         "color": "#3572A5",
                         "name": "Python"
+                    },
+                    {
+                        "color": "#44a51c",
+                        "name": "QML"
                     }
                 ],
                 "totalCount": 3,
-                "totalSize": 9786226
+                "totalSize": 18968588
             }
         },
         "cgre-aachen/hspace": {
@@ -2957,7 +3202,7 @@
                         "size": 216130356
                     },
                     {
-                        "size": 616285
+                        "size": 616398
                     },
                     {
                         "size": 38
@@ -2978,7 +3223,7 @@
                     }
                 ],
                 "totalCount": 3,
-                "totalSize": 216746679
+                "totalSize": 216746792
             }
         },
         "cgre-aachen/pynoddy": {
@@ -3134,7 +3379,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 6879079
+                        "size": 6885805
                     },
                     {
                         "size": 118616
@@ -3165,7 +3410,7 @@
                     }
                 ],
                 "totalCount": 4,
-                "totalSize": 7035991
+                "totalSize": 7042717
             }
         },
         "cgre-aachen/teaching-geomodeling": {
@@ -3300,7 +3545,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 797329
+                        "size": 797659
                     }
                 ],
                 "nodes": [
@@ -3310,14 +3555,14 @@
                     }
                 ],
                 "totalCount": 1,
-                "totalSize": 797329
+                "totalSize": 797659
             }
         },
         "emsig/empymod": {
             "languages": {
                 "edges": [
                     {
-                        "size": 820048
+                        "size": 819994
                     },
                     {
                         "size": 2403
@@ -3341,17 +3586,17 @@
                     }
                 ],
                 "totalCount": 3,
-                "totalSize": 823715
+                "totalSize": 823661
             }
         },
         "equinor/dlisio": {
             "languages": {
                 "edges": [
                     {
-                        "size": 504280
+                        "size": 535654
                     },
                     {
-                        "size": 490802
+                        "size": 502241
                     },
                     {
                         "size": 18635
@@ -3360,7 +3605,7 @@
                         "size": 8883
                     },
                     {
-                        "size": 2566
+                        "size": 2612
                     },
                     {
                         "size": 2359
@@ -3393,7 +3638,7 @@
                     }
                 ],
                 "totalCount": 6,
-                "totalSize": 1027525
+                "totalSize": 1070384
             }
         },
         "equinor/segyio": {
@@ -3452,7 +3697,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 120714
+                        "size": 120680
                     }
                 ],
                 "nodes": [
@@ -3462,7 +3707,7 @@
                     }
                 ],
                 "totalCount": 1,
-                "totalSize": 120714
+                "totalSize": 120680
             }
         },
         "fatiando/.github": {
@@ -3471,6 +3716,65 @@
                 "nodes": [],
                 "totalCount": 0,
                 "totalSize": 0
+            }
+        },
+        "fatiando/2021-gsh": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 257761
+                    },
+                    {
+                        "size": 154388
+                    },
+                    {
+                        "size": 75597
+                    },
+                    {
+                        "size": 6482
+                    },
+                    {
+                        "size": 1887
+                    },
+                    {
+                        "size": 284
+                    },
+                    {
+                        "size": 24
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#f1e05a",
+                        "name": "JavaScript"
+                    },
+                    {
+                        "color": "#e34c26",
+                        "name": "HTML"
+                    },
+                    {
+                        "color": "#c6538c",
+                        "name": "SCSS"
+                    },
+                    {
+                        "color": "#1d365d",
+                        "name": "Less"
+                    },
+                    {
+                        "color": "#563d7c",
+                        "name": "CSS"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    },
+                    {
+                        "color": "#427819",
+                        "name": "Makefile"
+                    }
+                ],
+                "totalCount": 7,
+                "totalSize": 496423
             }
         },
         "fatiando/boule": {
@@ -3593,10 +3897,19 @@
         },
         "fatiando/egu2021": {
             "languages": {
-                "edges": [],
-                "nodes": [],
-                "totalCount": 0,
-                "totalSize": 0
+                "edges": [
+                    {
+                        "size": 5199640
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    }
+                ],
+                "totalCount": 1,
+                "totalSize": 5199640
             }
         },
         "fatiando/erizo": {
@@ -3720,7 +4033,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 292250
+                        "size": 292264
                     },
                     {
                         "size": 1952
@@ -3737,7 +4050,7 @@
                     }
                 ],
                 "totalCount": 2,
-                "totalSize": 294202
+                "totalSize": 294216
             }
         },
         "fatiando/logo": {
@@ -3971,7 +4284,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 11668398
+                        "size": 11790227
                     },
                     {
                         "size": 2419
@@ -3988,7 +4301,7 @@
                     }
                 ],
                 "totalCount": 2,
-                "totalSize": 11670817
+                "totalSize": 11792646
             }
         },
         "fatiando/tutorials": {
@@ -4487,6 +4800,30 @@
                 "totalSize": 81232
             }
         },
+        "kinverarity1/aseg_gdf2": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 458431
+                    },
+                    {
+                        "size": 27560
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 485991
+            }
+        },
         "kinverarity1/lasio": {
             "languages": {
                 "edges": [
@@ -4494,7 +4831,7 @@
                         "size": 237819
                     },
                     {
-                        "size": 205125
+                        "size": 210409
                     },
                     {
                         "size": 260
@@ -4515,7 +4852,31 @@
                     }
                 ],
                 "totalCount": 3,
-                "totalSize": 443204
+                "totalSize": 448488
+            }
+        },
+        "kinverarity1/mtwaffle": {
+            "languages": {
+                "edges": [
+                    {
+                        "size": 204318
+                    },
+                    {
+                        "size": 73149
+                    }
+                ],
+                "nodes": [
+                    {
+                        "color": "#DA5B0B",
+                        "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
+                    }
+                ],
+                "totalCount": 2,
+                "totalSize": 277467
             }
         },
         "landlab/CUAHSI_Biennial_July_2016": {
@@ -4718,7 +5079,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 4221106
+                        "size": 4221108
                     },
                     {
                         "size": 937806
@@ -4756,7 +5117,7 @@
                     }
                 ],
                 "totalCount": 5,
-                "totalSize": 5204154
+                "totalSize": 5204156
             }
         },
         "landlab/landlab-logo": {
@@ -4811,7 +5172,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 14419
+                        "size": 13683
                     },
                     {
                         "size": 4039
@@ -4842,7 +5203,7 @@
                     }
                 ],
                 "totalCount": 4,
-                "totalSize": 22684
+                "totalSize": 21948
             }
         },
         "landlab/landlab_teaching_tools": {
@@ -5023,13 +5384,13 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 13551676
+                        "size": 13551772
                     },
                     {
-                        "size": 206642
+                        "size": 211100
                     },
                     {
-                        "size": 12846
+                        "size": 31865
                     }
                 ],
                 "nodes": [
@@ -5047,7 +5408,7 @@
                     }
                 ],
                 "totalCount": 3,
-                "totalSize": 13771164
+                "totalSize": 13794737
             }
         },
         "morganjwilliams/pyrolite": {
@@ -5078,7 +5439,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 7546286
+                        "size": 7547759
                     },
                     {
                         "size": 1085211
@@ -5114,7 +5475,7 @@
                         "size": 11067
                     },
                     {
-                        "size": 9380
+                        "size": 8442
                     },
                     {
                         "size": 3846
@@ -5124,6 +5485,9 @@
                     },
                     {
                         "size": 2209
+                    },
+                    {
+                        "size": 938
                     },
                     {
                         "size": 643
@@ -5195,12 +5559,16 @@
                         "name": "Fortran"
                     },
                     {
+                        "color": "#a52a22",
+                        "name": "Jinja"
+                    },
+                    {
                         "color": "#00a6a6",
                         "name": "MAXScript"
                     }
                 ],
-                "totalCount": 17,
-                "totalSize": 9763123
+                "totalCount": 18,
+                "totalSize": 9764596
             }
         },
         "opengeostat/pygslib": {
@@ -5252,7 +5620,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 3226076
+                        "size": 3226226
                     },
                     {
                         "size": 343796
@@ -5318,14 +5686,14 @@
                     }
                 ],
                 "totalCount": 9,
-                "totalSize": 3700479
+                "totalSize": 3700629
             }
         },
         "pyvista/pyvista": {
             "languages": {
                 "edges": [
                     {
-                        "size": 1415922
+                        "size": 1416512
                     },
                     {
                         "size": 5077
@@ -5370,7 +5738,7 @@
                     }
                 ],
                 "totalCount": 6,
-                "totalSize": 1425903
+                "totalSize": 1426493
             }
         },
         "r-spatial/gstat": {
@@ -5477,7 +5845,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 2472607
+                        "size": 2545878
                     },
                     {
                         "size": 480
@@ -5494,7 +5862,7 @@
                     }
                 ],
                 "totalCount": 2,
-                "totalSize": 2473087
+                "totalSize": 2546358
             }
         },
         "sinanozaydin/MATE": {
@@ -5756,7 +6124,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 7373
+                        "size": 7374
                     },
                     {
                         "size": 65
@@ -5773,7 +6141,7 @@
                     }
                 ],
                 "totalCount": 2,
-                "totalSize": 7438
+                "totalSize": 7439
             }
         },
         "softwareunderground/jupyterhub-terraform-modules": {
@@ -5812,24 +6180,24 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 26799
+                        "size": 2698167
                     },
                     {
-                        "size": 20176
+                        "size": 42859
                     }
                 ],
                 "nodes": [
                     {
-                        "color": "#3572A5",
-                        "name": "Python"
-                    },
-                    {
                         "color": "#DA5B0B",
                         "name": "Jupyter Notebook"
+                    },
+                    {
+                        "color": "#3572A5",
+                        "name": "Python"
                     }
                 ],
                 "totalCount": 2,
-                "totalSize": 46975
+                "totalSize": 2741026
             }
         },
         "softwareunderground/notebooks": {
@@ -5946,7 +6314,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 188653
+                        "size": 191878
                     }
                 ],
                 "nodes": [
@@ -5956,7 +6324,7 @@
                     }
                 ],
                 "totalCount": 1,
-                "totalSize": 188653
+                "totalSize": 191878
             }
         },
         "softwareunderground/subsurface-journal": {
@@ -6177,7 +6545,7 @@
             "languages": {
                 "edges": [
                     {
-                        "size": 171624
+                        "size": 207947
                     }
                 ],
                 "nodes": [
@@ -6187,7 +6555,7 @@
                     }
                 ],
                 "totalCount": 1,
-                "totalSize": 171624
+                "totalSize": 207947
             }
         },
         "waynegm/OpendTect-Plugins": {

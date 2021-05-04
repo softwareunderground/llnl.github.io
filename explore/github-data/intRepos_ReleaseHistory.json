@@ -1,5 +1,61 @@
 {
     "data": {
+        "FRI-Energy-Analytics/2020_summer_fellows": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "FRI-Energy-Analytics/alaska": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Alpha release",
+                        "publishedAt": "2020-08-25T20:38:15Z",
+                        "tagName": "v0.1-alpha"
+                    },
+                    {
+                        "name": "Alpha version 0.2",
+                        "publishedAt": "2020-09-23T20:12:15Z",
+                        "tagName": "v0.2-alpha"
+                    },
+                    {
+                        "name": "Beta Release",
+                        "publishedAt": "2020-09-28T21:55:51Z",
+                        "tagName": "v0.3-beta"
+                    },
+                    {
+                        "name": "Beta version 0.4",
+                        "publishedAt": "2021-03-24T16:56:29Z",
+                        "tagName": "v0.4-beta"
+                    },
+                    {
+                        "name": "Beta version 0.4.1",
+                        "publishedAt": "2021-03-24T21:23:15Z",
+                        "tagName": "v0.4.1-beta"
+                    }
+                ]
+            }
+        },
+        "FRI-Energy-Analytics/energyanalytics": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "FRI-Energy-Analytics/extra_credit": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "FRI-Energy-Analytics/project": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "FRI-Energy-Analytics/sandbox": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "GenericMappingTools/pygmt": {
             "releases": {
                 "nodes": [
@@ -1048,8 +1104,38 @@
                         "name": "v9.0.9",
                         "publishedAt": "2021-04-15T15:31:24Z",
                         "tagName": "v9.0.9"
+                    },
+                    {
+                        "name": "v9.0.10",
+                        "publishedAt": "2021-04-23T08:53:42Z",
+                        "tagName": "v9.0.10"
+                    },
+                    {
+                        "name": "v9.0.11",
+                        "publishedAt": "2021-04-24T10:32:53Z",
+                        "tagName": "v9.0.11"
+                    },
+                    {
+                        "name": "v9.0.12",
+                        "publishedAt": "2021-04-25T16:35:13Z",
+                        "tagName": "v9.0.12"
+                    },
+                    {
+                        "name": "v9.0.13",
+                        "publishedAt": "2021-04-26T16:10:52Z",
+                        "tagName": "v9.0.13"
+                    },
+                    {
+                        "name": "v9.0.14",
+                        "publishedAt": "2021-04-30T09:59:50Z",
+                        "tagName": "v9.0.14"
                     }
                 ]
+            }
+        },
+        "GeoscienceAustralia/geophys_utils": {
+            "releases": {
+                "nodes": []
             }
         },
         "GeoscienceAustralia/uncover-ml": {
@@ -1917,6 +2003,21 @@
                         "tagName": "v1.0.5"
                     }
                 ]
+            }
+        },
+        "Neil-Symington/AEM2SEG-Y": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Neil-Symington/borehole_gfx_utils": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Neil-Symington/garjmcmctdem_utils": {
+            "releases": {
+                "nodes": []
             }
         },
         "OpenGeoVis/PVGeo": {
@@ -2854,16 +2955,6 @@
                         "tagName": "v1.10.6"
                     },
                     {
-                        "name": "",
-                        "publishedAt": "2020-03-15T20:04:31Z",
-                        "tagName": "v2.0.0-rc.1"
-                    },
-                    {
-                        "name": "",
-                        "publishedAt": "2020-03-23T13:33:50Z",
-                        "tagName": "v2.0.0-rc.2"
-                    },
-                    {
                         "name": "Numba",
                         "publishedAt": "2020-04-29T10:28:42Z",
                         "tagName": "v2.0.0"
@@ -3083,6 +3174,11 @@
                         "name": "Preview release 0.3.2",
                         "publishedAt": "2021-03-19T14:39:21Z",
                         "tagName": "v0.3.2"
+                    },
+                    {
+                        "name": "Preview release 0.3.3",
+                        "publishedAt": "2021-04-30T06:05:59Z",
+                        "tagName": "v0.3.3"
                     }
                 ]
             }
@@ -3350,6 +3446,11 @@
             }
         },
         "fatiando/.github": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "fatiando/2021-gsh": {
             "releases": {
                 "nodes": []
             }
@@ -3971,6 +4072,27 @@
                 ]
             }
         },
+        "kinverarity1/aseg_gdf2": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "",
+                        "publishedAt": "2019-04-22T20:45:17Z",
+                        "tagName": "v0.1.2"
+                    },
+                    {
+                        "name": "Version 0.2.0",
+                        "publishedAt": "2019-10-21T02:09:11Z",
+                        "tagName": "v0.2.0"
+                    },
+                    {
+                        "name": "Version 0.3.0 (16 Sep 2020)",
+                        "publishedAt": "2020-09-16T06:30:03Z",
+                        "tagName": "v0.3.0"
+                    }
+                ]
+            }
+        },
         "kinverarity1/lasio": {
             "releases": {
                 "nodes": [
@@ -4105,6 +4227,11 @@
                         "tagName": "v0.29"
                     }
                 ]
+            }
+        },
+        "kinverarity1/mtwaffle": {
+            "releases": {
+                "nodes": []
             }
         },
         "landlab/CUAHSI_Biennial_July_2016": {
@@ -4309,7 +4436,13 @@
         },
         "mlbelobraydi/t21-hack-SwellCorr": {
             "releases": {
-                "nodes": []
+                "nodes": [
+                    {
+                        "name": "T21-hack-a-thon Demo",
+                        "publishedAt": "2021-04-23T02:14:49Z",
+                        "tagName": "0.1"
+                    }
+                ]
             }
         },
         "morganjwilliams/pyrolite": {
@@ -5243,6 +5376,11 @@
                         "name": "Test automatic deploy PyPI / conda-forge",
                         "publishedAt": "2021-04-19T19:42:58Z",
                         "tagName": "v0.2.3"
+                    },
+                    {
+                        "name": "Documentation Automation Complete",
+                        "publishedAt": "2021-04-22T15:01:36Z",
+                        "tagName": "v0.2.4"
                     }
                 ]
             }
@@ -5359,6 +5497,11 @@
                         "name": "v0.2.10",
                         "publishedAt": "2021-03-17T15:24:44Z",
                         "tagName": "v0.2.10"
+                    },
+                    {
+                        "name": "v0.3.0",
+                        "publishedAt": "2021-04-23T11:20:49Z",
+                        "tagName": "v0.3.0"
                     }
                 ]
             }
@@ -5520,6 +5663,11 @@
                         "name": "v6.6.6",
                         "publishedAt": "2020-11-18T07:05:09Z",
                         "tagName": "v6.6.6"
+                    },
+                    {
+                        "name": "Release 6.6.7",
+                        "publishedAt": "2021-05-01T02:03:38Z",
+                        "tagName": "v6.6.7"
                     }
                 ]
             }

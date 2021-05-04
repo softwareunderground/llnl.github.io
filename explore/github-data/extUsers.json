@@ -30,6 +30,16 @@
             "login": "APethick",
             "name": "Andrew Pethick"
         },
+        "AidanPetr": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/50280191?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit"
+                ]
+            },
+            "login": "AidanPetr",
+            "name": null
+        },
         "AlainPlattner": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/16839587?u=f3f348f846ac6e1fb94b27afafa4be5da0e4f02e&v=4",
             "contributedLabRepositories": {
@@ -95,6 +105,17 @@
             "login": "Antoine-Cate",
             "name": "Antoine Cat\u00e9"
         },
+        "BadrBelhiti": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10263834?u=70da82a970ffc8928111aa2d28dfac63fde2ed5b&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "BadrBelhiti",
+            "name": "Badr"
+        },
         "BenGraeler": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/2741361?v=4",
             "contributedLabRepositories": {
@@ -114,6 +135,16 @@
             },
             "login": "BirteThornquist",
             "name": "Birte Thornquist"
+        },
+        "Bo-Deng": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/14853804?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit"
+                ]
+            },
+            "login": "Bo-Deng",
+            "name": null
         },
         "Boorhin": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/9576982?v=4",
@@ -363,6 +394,7 @@
                     "agile-geoscience/visualizr",
                     "agile-geoscience/welly",
                     "agile-geoscience/xlines",
+                    "mlbelobraydi/t21-hack-SwellCorr",
                     "softwareunderground/52things",
                     "softwareunderground/TeapotDome",
                     "softwareunderground/awesome-open-geoscience",
@@ -394,6 +426,7 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
+                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -437,6 +470,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/70729921?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "GeoscienceAustralia/geophys_utils",
                     "GeoscienceAustralia/uncover-ml"
                 ]
             },
@@ -607,6 +641,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/54867782?u=8363c7b8c0023ff4d5e49f60bf5412ef6b3f8163&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "FRI-Energy-Analytics/2020_summer_fellows",
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox",
                     "GeostatsGuy/GeostatsPy"
                 ]
             },
@@ -653,6 +690,16 @@
             },
             "login": "JiaweiZhuang",
             "name": "Jiawei Zhuang"
+        },
+        "JohnBreedis": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70459970?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit"
+                ]
+            },
+            "login": "JohnBreedis",
+            "name": null
         },
         "JohnWStockwellJr": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/5042740?u=cae7d7b4b0f8ae65538832699a41e268a6fb36e9&v=4",
@@ -715,6 +762,7 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
+                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -918,6 +966,7 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
+                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -945,6 +994,26 @@
             },
             "login": "Ludecan",
             "name": "Pablo Alfaro"
+        },
+        "LukasMosser": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4195648?u=21b2a7851d5d69bbf81ae154963059962598adac&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "mlbelobraydi/t21-hack-SwellCorr"
+                ]
+            },
+            "login": "LukasMosser",
+            "name": "Lukas Mosser"
+        },
+        "LydiaWharton": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70349964?u=3e0b646f68f41691e463ceb2fbf668e271fce560&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "LydiaWharton",
+            "name": null
         },
         "MMesch": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/2597803?u=ca8bb4e6aa8a26c2a42c1b48c031c4437f94750b&v=4",
@@ -1146,6 +1215,19 @@
             "login": "Nathandloria",
             "name": null
         },
+        "Neil-Symington": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/12077478?u=1c5999b5b0ac23eb4becfed53cf94e2bcd6471a3&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "GeoscienceAustralia/geophys_utils",
+                    "Neil-Symington/AEM2SEG-Y",
+                    "Neil-Symington/borehole_gfx_utils",
+                    "Neil-Symington/garjmcmctdem_utils"
+                ]
+            },
+            "login": "Neil-Symington",
+            "name": "Neil Symington"
+        },
         "NonZen": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/29451305?v=4",
             "contributedLabRepositories": {
@@ -1156,44 +1238,22 @@
             "login": "NonZen",
             "name": null
         },
+        "NotAlexB": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/48373865?u=bc07578b25a65b890b4494dbbf9d952e2317683a&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "NotAlexB",
+            "name": null
+        },
         "Patrick-Cole": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/8198125?u=eeae28c2600b06d24f4765d6bb8730757cb9e1b8&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "softwareunderground/52things",
-                    "softwareunderground/TeapotDome",
-                    "softwareunderground/awesome-open-geoscience",
-                    "softwareunderground/badges",
-                    "softwareunderground/brand",
-                    "softwareunderground/careermap",
-                    "softwareunderground/cloud",
-                    "softwareunderground/code-of-conduct",
-                    "softwareunderground/cookbook",
-                    "softwareunderground/data-underground",
-                    "softwareunderground/event-proposals",
-                    "softwareunderground/fossilnet",
-                    "softwareunderground/geo-docker",
-                    "softwareunderground/geotherm.ai",
-                    "softwareunderground/getting-started",
-                    "softwareunderground/gostin",
-                    "softwareunderground/jupyterhub-deployment",
-                    "softwareunderground/jupyterhub-terraform-modules",
-                    "softwareunderground/meetings-that-matter",
-                    "softwareunderground/northern-lights",
-                    "softwareunderground/notebooks",
-                    "softwareunderground/open_geosciene_code_projects_viz",
-                    "softwareunderground/paris2017",
-                    "softwareunderground/repro-zoo",
-                    "softwareunderground/subsurface",
-                    "softwareunderground/subsurface-journal",
-                    "softwareunderground/subsurface-ml-docker",
-                    "softwareunderground/swung-org",
-                    "softwareunderground/t21-hackathon",
-                    "softwareunderground/teaching",
-                    "softwareunderground/the-structure-does-what",
-                    "softwareunderground/undersampledradio",
-                    "softwareunderground/website",
-                    "softwareunderground/xsdf"
+                    "softwareunderground/notebooks"
                 ]
             },
             "login": "Patrick-Cole",
@@ -1213,6 +1273,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1284559?u=56484c48767e0105e3e112dd448033f0cec2da77&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "GeoscienceAustralia/geophys_utils",
                     "GeoscienceAustralia/uncover-ml"
                 ]
             },
@@ -1224,6 +1285,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "fatiando/.github",
+                    "fatiando/2021-gsh",
                     "fatiando/boule",
                     "fatiando/continuous-integration",
                     "fatiando/contributing",
@@ -1288,6 +1350,8 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "GeoscienceAustralia/uncover-ml",
+                    "Loop3D/map2loop-2",
+                    "Neil-Symington/AEM2SEG-Y",
                     "OpenGeoVis/PVGeo",
                     "cgre-aachen/gemgis",
                     "pyvista/pyvista",
@@ -1353,6 +1417,16 @@
             },
             "login": "SarthakJariwala",
             "name": null
+        },
+        "Sentinaal": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/66400905?u=03581e9d06728f03df64fc697bc5d3eab717fc48&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "Sentinaal",
+            "name": "Akash Aedavelli"
         },
         "ShikhaMishra9": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/40306488?u=39e573b57418a90c811205da8cccaefb6839e51d&v=4",
@@ -1452,6 +1526,17 @@
             "login": "Snegovikufa",
             "name": "Rustam Safin"
         },
+        "Specter34": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/17577704?u=02616a7b3c6331ca85393d2d287ab957052afde3&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "Specter34",
+            "name": "Alan Goff"
+        },
         "Spectre5": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/31610422?v=4",
             "contributedLabRepositories": {
@@ -1461,6 +1546,16 @@
             },
             "login": "Spectre5",
             "name": null
+        },
+        "SsanyaS14": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/54488204?u=3b4dea32f9c2aae9aa4d782c250bad34644fb2e3&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/2020_summer_fellows"
+                ]
+            },
+            "login": "SsanyaS14",
+            "name": "Sanya Srivastava"
         },
         "Steforb87": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/76999829?v=4",
@@ -1515,6 +1610,16 @@
             },
             "login": "Swanson-Hysell",
             "name": "Nick Swanson-Hysell"
+        },
+        "T4mmi": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6515799?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "Loop3D/map2loop-2"
+                ]
+            },
+            "login": "T4mmi",
+            "name": "Thomas Janvier"
         },
         "ThomasLecocq": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/916937?v=4",
@@ -1594,6 +1699,8 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/20154488?u=2218b7ddfd73f037141d616d430158a322f5e25e&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "FRI-Energy-Analytics/2020_summer_fellows",
+                    "FRI-Energy-Analytics/extra_credit",
                     "agile-geoscience/bruges"
                 ]
             },
@@ -1658,6 +1765,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/26425132?u=e21c9ddda62244eb7aef0d8f403458b91d4e896c&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "GeoscienceAustralia/geophys_utils",
                     "GeoscienceAustralia/uncover-ml"
                 ]
             },
@@ -1712,6 +1820,16 @@
             },
             "login": "Zhuoliulz",
             "name": "Liu.zzzz"
+        },
+        "a2ray": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/52647259?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "Neil-Symington/garjmcmctdem_utils"
+                ]
+            },
+            "login": "a2ray",
+            "name": null
         },
         "aadm": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1705498?u=304ec33be0d35eb4f8ddaffed7ce5e2d9b8cae64&v=4",
@@ -1987,6 +2105,17 @@
             "login": "akeshavan",
             "name": "Anisha Keshavan"
         },
+        "akifabidi": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/57880945?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "akifabidi",
+            "name": null
+        },
         "akshmakov": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/6558063?v=4",
             "contributedLabRepositories": {
@@ -2017,6 +2146,16 @@
             "login": "alessiamarcolini",
             "name": "Alessia Marcolini"
         },
+        "alex-ip": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4361008?u=95b64cbd72769e86506b79524276e3d29300aff2&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "GeoscienceAustralia/geophys_utils"
+                ]
+            },
+            "login": "alex-ip",
+            "name": "Alex Ip"
+        },
         "alex-schaaf": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/17277800?u=4e54066b9e45c217f60708f3e054f982f9773f19&v=4",
             "contributedLabRepositories": {
@@ -2025,40 +2164,7 @@
                     "cgre-aachen/gempy",
                     "cgre-aachen/pynoddy",
                     "cgre-aachen/remote-geomod",
-                    "softwareunderground/52things",
-                    "softwareunderground/TeapotDome",
-                    "softwareunderground/awesome-open-geoscience",
-                    "softwareunderground/badges",
-                    "softwareunderground/brand",
-                    "softwareunderground/careermap",
-                    "softwareunderground/cloud",
-                    "softwareunderground/code-of-conduct",
-                    "softwareunderground/cookbook",
-                    "softwareunderground/data-underground",
-                    "softwareunderground/event-proposals",
-                    "softwareunderground/fossilnet",
-                    "softwareunderground/geo-docker",
-                    "softwareunderground/geotherm.ai",
-                    "softwareunderground/getting-started",
-                    "softwareunderground/gostin",
-                    "softwareunderground/jupyterhub-deployment",
-                    "softwareunderground/jupyterhub-terraform-modules",
-                    "softwareunderground/meetings-that-matter",
-                    "softwareunderground/northern-lights",
-                    "softwareunderground/notebooks",
-                    "softwareunderground/open_geosciene_code_projects_viz",
-                    "softwareunderground/paris2017",
-                    "softwareunderground/repro-zoo",
-                    "softwareunderground/subsurface",
-                    "softwareunderground/subsurface-journal",
-                    "softwareunderground/subsurface-ml-docker",
-                    "softwareunderground/swung-org",
-                    "softwareunderground/t21-hackathon",
-                    "softwareunderground/teaching",
-                    "softwareunderground/the-structure-does-what",
-                    "softwareunderground/undersampledradio",
-                    "softwareunderground/website",
-                    "softwareunderground/xsdf"
+                    "softwareunderground/subsurface"
                 ]
             },
             "login": "alex-schaaf",
@@ -2068,6 +2174,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/3445853?u=720ad498fb8a6398a7c67e929cd39a676027a092&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "GeoscienceAustralia/geophys_utils",
                     "GeoscienceAustralia/uncover-ml"
                 ]
             },
@@ -2104,6 +2211,17 @@
             },
             "login": "alkirkby",
             "name": "Alison Kirkby"
+        },
+        "allenkting": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70622916?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "allenkting",
+            "name": null
         },
         "allstadt": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/7049376?v=4",
@@ -2170,6 +2288,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "fatiando/.github",
+                    "fatiando/2021-gsh",
                     "fatiando/boule",
                     "fatiando/continuous-integration",
                     "fatiando/contributing",
@@ -2239,6 +2358,16 @@
             "login": "andres-h",
             "name": null
         },
+        "andrew-j-turner-000": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/18476642?u=6f54c24ad4b0d2f1e347fb6369ef8803cd401278&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "GeoscienceAustralia/geophys_utils"
+                ]
+            },
+            "login": "andrew-j-turner-000",
+            "name": null
+        },
         "andreww": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/19102?u=470bfb4dda4296af93646bbf4f038ac012b1d647&v=4",
             "contributedLabRepositories": {
@@ -2304,6 +2433,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/7279440?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "GeoscienceAustralia/geophys_utils",
                     "GeoscienceAustralia/uncover-ml"
                 ]
             },
@@ -2330,10 +2460,21 @@
             "login": "asbjorn",
             "name": "Asbj\u00f8rn Alexander Fellinghaug"
         },
+        "asedgmen": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4951826?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "GeoscienceAustralia/geophys_utils"
+                ]
+            },
+            "login": "asedgmen",
+            "name": "Aaron Sedgmen"
+        },
         "ashwanth2001": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/27123991?u=e50456cccfab77a8b320d7b0c88b76209d80b8eb&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "FRI-Energy-Analytics/2020_summer_fellows",
                     "GeostatsGuy/GeostatsPy"
                 ]
             },
@@ -2392,6 +2533,17 @@
             },
             "login": "autt",
             "name": "Anette Uttisrud"
+        },
+        "aviguptatx": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/29493580?u=b3ffbc422299ba255b4ed75b4625216d9b4c7108&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "aviguptatx",
+            "name": "Avi Gupta"
         },
         "baagaard-usgs": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/22621443?v=4",
@@ -2499,10 +2651,22 @@
             "login": "bhalitim",
             "name": "bachir"
         },
+        "biancaleal": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70350058?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "biancaleal",
+            "name": null
+        },
         "billfarmakis": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/8022750?u=8877eec79f1bddb6a3d85de48097230099c2367f&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "GeoscienceAustralia/geophys_utils",
                     "GeoscienceAustralia/uncover-ml"
                 ]
             },
@@ -2514,6 +2678,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "fatiando/.github",
+                    "fatiando/2021-gsh",
                     "fatiando/boule",
                     "fatiando/continuous-integration",
                     "fatiando/contributing",
@@ -2552,6 +2717,16 @@
             },
             "login": "birocoles",
             "name": "Vanderlei C Oliveira Jr"
+        },
+        "blakety": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70598271?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "blakety",
+            "name": null
         },
         "bluetyson": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/17399794?u=7a2ee618e6512a061d47507f38635828008bf54a&v=4",
@@ -2598,6 +2773,17 @@
             },
             "login": "borsden",
             "name": "Denis Borsh"
+        },
+        "brandonvietlam": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/56048840?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "brandonvietlam",
+            "name": null
         },
         "braunfuss": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/18213634?u=e5926240b48f21a618a93e807da174a900f51c42&v=4",
@@ -2698,6 +2884,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/60947353?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "FRI-Energy-Analytics/2020_summer_fellows",
                     "GeostatsGuy/GeostatsPy"
                 ]
             },
@@ -2803,6 +2990,26 @@
             },
             "login": "chad-iris",
             "name": "chad-iris"
+        },
+        "chancesang": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/32222820?u=54e75fbc7a4522f08c1aa036d808467a107e6916&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "softwareunderground/transform-2021-hackathon"
+                ]
+            },
+            "login": "chancesang",
+            "name": null
+        },
+        "charlietripp01": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70611947?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "charlietripp01",
+            "name": null
         },
         "chrisleaman": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/7591552?u=d2a80d61d1a53bb6b6a50012efe7357c985fa104&v=4",
@@ -2948,7 +3155,7 @@
             "name": "David Wade"
         },
         "dabiged": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/29368602?v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/29368602?u=f20e2655cd53ebbc8a312509688638b7d9e93e45&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "equinor/dlisio",
@@ -3108,11 +3315,14 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/16831228?u=a0e02586ed3659f23b386cb2e6bcd827c876396d&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "FRI-Energy-Analytics/alaska",
                     "JustinGOSSES/wellio.js",
                     "JustinGOSSES/wellioviz",
                     "agile-geoscience/welly",
                     "fatiando/verde",
-                    "kinverarity1/lasio"
+                    "kinverarity1/aseg_gdf2",
+                    "kinverarity1/lasio",
+                    "softwareunderground/transform-2021-hackathon"
                 ]
             },
             "login": "dcslagel",
@@ -3232,6 +3442,17 @@
             },
             "login": "didiooi",
             "name": "Didi (Sher) Ooi"
+        },
+        "dingdonged": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/42194656?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/2020_summer_fellows",
+                    "FRI-Energy-Analytics/alaska"
+                ]
+            },
+            "login": "dingdonged",
+            "name": null
         },
         "divad-nhok": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/3292906?u=8d84646972b6db500cd550c0a3919223a14511de&v=4",
@@ -3417,6 +3638,16 @@
             "login": "dwfmarchant",
             "name": "David Marchant"
         },
+        "dylanrhageman": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70607223?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "dylanrhageman",
+            "name": "Dylan Hageman"
+        },
         "edekemp": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/49497155?u=326f4b23e290a003580e72904a53d18be37ce98e&v=4",
             "contributedLabRepositories": {
@@ -3452,7 +3683,8 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/77919676?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "softwareunderground/northern-lights"
+                    "softwareunderground/northern-lights",
+                    "softwareunderground/transform-2021-hackathon"
                 ]
             },
             "login": "ehzimmer",
@@ -3703,6 +3935,16 @@
             "login": "fastamo",
             "name": "Fabian"
         },
+        "fastfists": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/32852291?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "fastfists",
+            "name": null
+        },
         "fatiando-bot": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/50936856?u=49f1d4fe18c8f407ecbb06efda7f468361b73ea0&v=4",
             "contributedLabRepositories": {
@@ -3784,6 +4026,7 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
+                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -3882,6 +4125,16 @@
             "login": "fourndo",
             "name": "dom"
         },
+        "fozba": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/45905263?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "softwareunderground/transform-2021-hackathon"
+                ]
+            },
+            "login": "fozba",
+            "name": null
+        },
         "fperez": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/57394?v=4",
             "contributedLabRepositories": {
@@ -3897,7 +4150,8 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "softwareunderground/52things",
-                    "softwareunderground/getting-started"
+                    "softwareunderground/getting-started",
+                    "trhallam/segysak"
                 ]
             },
             "login": "fr1ll",
@@ -3986,10 +4240,21 @@
             "login": "fxsimon",
             "name": null
         },
+        "g-allison": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70544693?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "g-allison",
+            "name": null
+        },
         "ga-autobots": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/16145575?u=0be0f0e66e2f2b4ef13a806e248f9ad20617315c&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "GeoscienceAustralia/geophys_utils",
                     "GeoscienceAustralia/uncover-ml"
                 ]
             },
@@ -4161,6 +4426,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/16719397?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "GeoscienceAustralia/geophys_utils",
                     "GeoscienceAustralia/uncover-ml"
                 ]
             },
@@ -4366,6 +4632,7 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
+                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -4390,6 +4657,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "fatiando/.github",
+                    "fatiando/2021-gsh",
                     "fatiando/boule",
                     "fatiando/continuous-integration",
                     "fatiando/contributing",
@@ -4469,6 +4737,16 @@
             "login": "hexmode",
             "name": "Mark A. Hershberger"
         },
+        "hkumar02": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70499985?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "hkumar02",
+            "name": null
+        },
         "hnformentin": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/62240435?u=746b07f1950ce850ad304f4e3fa24a9b693b9475&v=4",
             "contributedLabRepositories": {
@@ -4514,6 +4792,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "fatiando/.github",
+                    "fatiando/2021-gsh",
                     "fatiando/boule",
                     "fatiando/continuous-integration",
                     "fatiando/contributing",
@@ -4754,6 +5033,17 @@
             "login": "jedman",
             "name": "Jacob Edman"
         },
+        "jehilm": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/31190173?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "jehilm",
+            "name": null
+        },
         "jennyknuth": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/10714699?u=b5fd0114545543854c0c2554a4f1f817b122b1bc&v=4",
             "contributedLabRepositories": {
@@ -4810,6 +5100,12 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/12752033?u=e73cfc29c3defde423777ca04d940a18d7229d50&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "FRI-Energy-Analytics/2020_summer_fellows",
+                    "FRI-Energy-Analytics/alaska",
+                    "FRI-Energy-Analytics/energyanalytics",
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/project",
+                    "FRI-Energy-Analytics/sandbox",
                     "GeostatsGuy/GeostatsPy",
                     "agile-geoscience/bruges",
                     "fatiando/verde",
@@ -4819,44 +5115,24 @@
             "login": "jessepisel",
             "name": "Jesse Pisel"
         },
+        "jessicachen011": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70322639?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "jessicachen011",
+            "name": null
+        },
         "jfoshee": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/480334?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "softwareunderground/52things",
-                    "softwareunderground/TeapotDome",
-                    "softwareunderground/awesome-open-geoscience",
-                    "softwareunderground/badges",
-                    "softwareunderground/brand",
-                    "softwareunderground/careermap",
-                    "softwareunderground/cloud",
-                    "softwareunderground/code-of-conduct",
-                    "softwareunderground/cookbook",
-                    "softwareunderground/data-underground",
                     "softwareunderground/event-proposals",
-                    "softwareunderground/fossilnet",
-                    "softwareunderground/geo-docker",
-                    "softwareunderground/geotherm.ai",
-                    "softwareunderground/getting-started",
-                    "softwareunderground/gostin",
-                    "softwareunderground/jupyterhub-deployment",
-                    "softwareunderground/jupyterhub-terraform-modules",
-                    "softwareunderground/meetings-that-matter",
-                    "softwareunderground/northern-lights",
                     "softwareunderground/notebooks",
-                    "softwareunderground/open_geosciene_code_projects_viz",
-                    "softwareunderground/paris2017",
-                    "softwareunderground/repro-zoo",
-                    "softwareunderground/subsurface",
-                    "softwareunderground/subsurface-journal",
-                    "softwareunderground/subsurface-ml-docker",
-                    "softwareunderground/swung-org",
-                    "softwareunderground/t21-hackathon",
-                    "softwareunderground/teaching",
-                    "softwareunderground/the-structure-does-what",
-                    "softwareunderground/undersampledradio",
-                    "softwareunderground/website",
-                    "softwareunderground/xsdf"
+                    "softwareunderground/the-structure-does-what"
                 ]
             },
             "login": "jfoshee",
@@ -4979,6 +5255,7 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
+                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -4997,6 +5274,16 @@
             },
             "login": "johnjarmitage",
             "name": "John Armitage"
+        },
+        "johnsunbuns": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/68819130?u=dce9361b45ca85e85028c7bf52abb70d1841e3a4&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit"
+                ]
+            },
+            "login": "johnsunbuns",
+            "name": "Johnson"
         },
         "jokva": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/8667957?u=62cd66ee621fc9416b9671917915fa065e5f3219&v=4",
@@ -5105,6 +5392,17 @@
             },
             "login": "justinkheisler",
             "name": null
+        },
+        "justinm02": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/32209085?u=038b9cd42270417b8b774275523e67db406358f6&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "justinm02",
+            "name": "Justin Milushev"
         },
         "jwassermann": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/2551876?v=4",
@@ -5229,6 +5527,17 @@
             "login": "kbarnhart",
             "name": "Katy Barnhart"
         },
+        "kczhou5": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70451045?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "kczhou5",
+            "name": null
+        },
         "kdal108": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/49471231?v=4",
             "contributedLabRepositories": {
@@ -5278,7 +5587,9 @@
                     "MTgeophysics/mtpy",
                     "agile-geoscience/bruges",
                     "agile-geoscience/welly",
+                    "kinverarity1/aseg_gdf2",
                     "kinverarity1/lasio",
+                    "kinverarity1/mtwaffle",
                     "softwareunderground/subsurface-journal"
                 ]
             },
@@ -5304,6 +5615,16 @@
             },
             "login": "kmaterna",
             "name": null
+        },
+        "kmkhami": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/15804464?u=571f3ce71a58c0fa1a9f824380ed00fcaffb2be7&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "kmkhami",
+            "name": "Nicholas Khami"
         },
         "knut-erik": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/3600521?u=43c7ccf70e3e9374da46fb8dabf26de98e1e1351&v=4",
@@ -5524,6 +5845,16 @@
             "login": "leonfoks",
             "name": "Leon Foks"
         },
+        "leoorshansky": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/17693118?u=3287f50966150d31b17dcb2a30a427de925e3edb&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "leoorshansky",
+            "name": "Leo Orshansky"
+        },
         "lewistgoss": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/24781443?v=4",
             "contributedLabRepositories": {
@@ -5571,6 +5902,7 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
+                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -5579,8 +5911,18 @@
             "login": "lheagy",
             "name": "Lindsey Heagy"
         },
+        "lhoupert": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/10154151?u=ae4d6c769564ee187f10b7947a0f288b1b746e22&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "GenericMappingTools/pygmt"
+                ]
+            },
+            "login": "lhoupert",
+            "name": "Lo\u00efc Houpert"
+        },
         "liamtoney": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/38269494?u=ec7c595a1be7f29d1634c63bb893c7fae1d5448a&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/38269494?u=b638262ea4135ebcbcf94b9541d408be54fb9a7c&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "GenericMappingTools/pygmt"
@@ -6097,6 +6439,17 @@
             "login": "miili",
             "name": "Mi!"
         },
+        "miniminivan": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/54867773?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "miniminivan",
+            "name": null
+        },
         "mjziebarth": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/16732293?u=c89a79e0b66570cca645b72287d200ec56b3e418&v=4",
             "contributedLabRepositories": {
@@ -6225,6 +6578,16 @@
             "login": "mparquer",
             "name": null
         },
+        "mpeljo": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/11265591?u=08dd1a9175e889127506baf1c49e7b7a4fed19e9&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "Neil-Symington/borehole_gfx_utils"
+                ]
+            },
+            "login": "mpeljo",
+            "name": "Matti Peljo"
+        },
         "mperignon": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/7684657?u=a8d6ef517d5785419f066224e84d01136e98650d&v=4",
             "contributedLabRepositories": {
@@ -6314,6 +6677,7 @@
                     "softwareunderground/t21-hackathon",
                     "softwareunderground/teaching",
                     "softwareunderground/the-structure-does-what",
+                    "softwareunderground/transform-2021-hackathon",
                     "softwareunderground/undersampledradio",
                     "softwareunderground/website",
                     "softwareunderground/xsdf"
@@ -6341,6 +6705,16 @@
             },
             "login": "nalimilan",
             "name": "Milan Bouchet-Valat"
+        },
+        "nandini002": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70561694?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "nandini002",
+            "name": null
         },
         "nasedil": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/3921196?u=0b5c3dcf91b98e28857fc57ecd7a22f2bad4d1c6&v=4",
@@ -6524,8 +6898,18 @@
             "login": "nimanzik",
             "name": "Nima Nooshiri"
         },
+        "nityalohia": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70461611?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "nityalohia",
+            "name": null
+        },
         "noorbuchi": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/55197145?u=4d9f8704821ac24fc1d0bb5f0118a6a86403f7f9&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55197145?u=2f6b4da72807263350a3c7de098b50b9e93170d5&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "GenericMappingTools/pygmt"
@@ -6549,6 +6933,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "fatiando/.github",
+                    "fatiando/2021-gsh",
                     "fatiando/boule",
                     "fatiando/continuous-integration",
                     "fatiando/contributing",
@@ -6587,6 +6972,17 @@
             },
             "login": "nshea3",
             "name": "Nicholas Shea"
+        },
+        "oaimtiaz": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/64919720?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "oaimtiaz",
+            "name": null
         },
         "obspy-bot": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/68334989?u=c18edf89e7808c7a09165c646e52e2c4b765e99b&v=4",
@@ -6950,6 +7346,16 @@
             "login": "rafaelmds",
             "name": "Rafael Silva"
         },
+        "rahuls02": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/39536388?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "rahuls02",
+            "name": "Rahul Shanmugham"
+        },
         "ralfcam": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/13245179?u=937b4a539f7422c070457c06264e42dd9de20b47&v=4",
             "contributedLabRepositories": {
@@ -7040,6 +7446,17 @@
             },
             "login": "rh-downunder",
             "name": "Rakib Hassan"
+        },
+        "richardt94": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/29562583?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "Neil-Symington/borehole_gfx_utils",
+                    "Neil-Symington/garjmcmctdem_utils"
+                ]
+            },
+            "login": "richardt94",
+            "name": "Richard Taylor"
         },
         "rizac": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/6418666?u=91d8355f49343d990a057580395cb56b642ddcbd&v=4",
@@ -7173,6 +7590,17 @@
             "login": "s-schneider",
             "name": "Simon Schneider"
         },
+        "saineelanjana": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70400096?u=ab6f29cce9c0e81635a8525707d65047db704fbb&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "saineelanjana",
+            "name": null
+        },
         "saisiddu": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/7194053?u=9045ca9eb064ad074efd4e340dd942d6bc25e839&v=4",
             "contributedLabRepositories": {
@@ -7225,6 +7653,18 @@
             "login": "salichon",
             "name": "jerry"
         },
+        "samirabr12": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/54867772?u=e01037c61f24da072d4402fefd9e94e18188e7fe&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/2020_summer_fellows",
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "samirabr12",
+            "name": null
+        },
         "sampotter": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/6035363?u=fc7d329edbce7833101a19fc3563c1a7aa5f69b5&v=4",
             "contributedLabRepositories": {
@@ -7262,6 +7702,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "fatiando/.github",
+                    "fatiando/2021-gsh",
                     "fatiando/boule",
                     "fatiando/continuous-integration",
                     "fatiando/contributing",
@@ -7407,41 +7848,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/6054371?u=3934f5030fe3cf85785148edd8cc441f9cb2417a&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "simpeg/simpeg",
-                    "softwareunderground/52things",
-                    "softwareunderground/TeapotDome",
-                    "softwareunderground/awesome-open-geoscience",
-                    "softwareunderground/badges",
-                    "softwareunderground/brand",
-                    "softwareunderground/careermap",
-                    "softwareunderground/cloud",
-                    "softwareunderground/code-of-conduct",
-                    "softwareunderground/cookbook",
-                    "softwareunderground/data-underground",
-                    "softwareunderground/event-proposals",
-                    "softwareunderground/fossilnet",
-                    "softwareunderground/geo-docker",
-                    "softwareunderground/geotherm.ai",
-                    "softwareunderground/getting-started",
-                    "softwareunderground/gostin",
-                    "softwareunderground/jupyterhub-deployment",
-                    "softwareunderground/jupyterhub-terraform-modules",
-                    "softwareunderground/meetings-that-matter",
-                    "softwareunderground/northern-lights",
-                    "softwareunderground/notebooks",
-                    "softwareunderground/open_geosciene_code_projects_viz",
-                    "softwareunderground/paris2017",
-                    "softwareunderground/repro-zoo",
-                    "softwareunderground/subsurface",
-                    "softwareunderground/subsurface-journal",
-                    "softwareunderground/subsurface-ml-docker",
-                    "softwareunderground/swung-org",
-                    "softwareunderground/t21-hackathon",
-                    "softwareunderground/teaching",
-                    "softwareunderground/the-structure-does-what",
-                    "softwareunderground/undersampledradio",
-                    "softwareunderground/website",
-                    "softwareunderground/xsdf"
+                    "simpeg/simpeg"
                 ]
             },
             "login": "sgkang",
@@ -7466,6 +7873,16 @@
             },
             "login": "shakasaki",
             "name": "Alexis Shakas"
+        },
+        "shankarmath888": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/47063867?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "shankarmath888",
+            "name": null
         },
         "sharkman424": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/25874763?v=4",
@@ -7496,6 +7913,26 @@
             },
             "login": "shicks-seismo",
             "name": "Stephen Hicks"
+        },
+        "shiyuxu001": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70592716?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "shiyuxu001",
+            "name": null
+        },
+        "shyni-s": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/66771939?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "GeoscienceAustralia/geophys_utils"
+                ]
+            },
+            "login": "shyni-s",
+            "name": null
         },
         "sigmafelix": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/25448786?u=fe2158c4bd573cf9aeb7efb7cf5c2c6bca2d8560&v=4",
@@ -7552,6 +7989,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/13673803?u=6b04a568927da720cfc055d46d4cadc30ecd2d4e&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "GeoscienceAustralia/geophys_utils",
                     "GeoscienceAustralia/uncover-ml"
                 ]
             },
@@ -7593,6 +8031,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/40300871?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
                     "GeostatsGuy/GeostatsPy"
                 ]
             },
@@ -7690,6 +8129,17 @@
             },
             "login": "sveinung-r",
             "name": "Sveinung Styve Rundhovde"
+        },
+        "swapnil-shaurya": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/70607405?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "FRI-Energy-Analytics/extra_credit",
+                    "FRI-Energy-Analytics/sandbox"
+                ]
+            },
+            "login": "swapnil-shaurya",
+            "name": null
         },
         "takluyver": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/327925?u=531978106c59408445ec2560992b08da33a9e742&v=4",
@@ -7846,6 +8296,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/7513610?u=3a29937127b197c7181f08901441c800271b5ba0&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "OpenGeoVis/PVGeo",
                     "pyvista/pyvista"
                 ]
             },
@@ -7958,11 +8409,22 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/19561488?u=46a3932c876063199331fd9ca679be8f342ebe31&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "GeoscienceAustralia/geophys_utils",
                     "GeoscienceAustralia/uncover-ml"
                 ]
             },
             "login": "umeat",
             "name": "Brandon Owen"
+        },
+        "umma-zannat": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/44008611?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "GeoscienceAustralia/geophys_utils"
+                ]
+            },
+            "login": "umma-zannat",
+            "name": "Umma Zannat"
         },
         "unjymslf": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/33404428?u=b1240143a597c82dfc372d0b4c05d60da04deae5&v=4",
@@ -8012,6 +8474,16 @@
                 ]
             },
             "login": "vcoeur61",
+            "name": null
+        },
+        "vedgell": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/23090096?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "GeoscienceAustralia/geophys_utils"
+                ]
+            },
+            "login": "vedgell",
             "name": null
         },
         "vero-so": {
@@ -8180,6 +8652,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/491396?u=5c056120c187618a6b6d1bd2d74a20c2992b2adc&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "GeoscienceAustralia/geophys_utils",
                     "GeoscienceAustralia/uncover-ml"
                 ]
             },

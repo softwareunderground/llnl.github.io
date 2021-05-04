@@ -40,14 +40,6 @@
             },
             "nameWithOwner": "GenericMappingTools/2020-unavco-course"
         },
-        "GenericMappingTools/gmt": {
-            "labContributors": {
-                "nodes": [
-                    "leouieda"
-                ]
-            },
-            "nameWithOwner": "GenericMappingTools/gmt"
-        },
         "GenericMappingTools/website": {
             "labContributors": {
                 "nodes": [
@@ -72,14 +64,6 @@
             },
             "nameWithOwner": "GeophysicsLibrary/logo"
         },
-        "GeoscienceAustralia/geophys_utils": {
-            "labContributors": {
-                "nodes": [
-                    "leouieda"
-                ]
-            },
-            "nameWithOwner": "GeoscienceAustralia/geophys_utils"
-        },
         "HumbleData/HumbleData.github.io": {
             "labContributors": {
                 "nodes": [
@@ -87,6 +71,22 @@
                 ]
             },
             "nameWithOwner": "HumbleData/HumbleData.github.io"
+        },
+        "HumbleData/beginners-data-workshop": {
+            "labContributors": {
+                "nodes": [
+                    "JesperDramsch"
+                ]
+            },
+            "nameWithOwner": "HumbleData/beginners-data-workshop"
+        },
+        "ICWallis/T21-Tutorial-WellTestAnalysis": {
+            "labContributors": {
+                "nodes": [
+                    "stevejpurves"
+                ]
+            },
+            "nameWithOwner": "ICWallis/T21-Tutorial-WellTestAnalysis"
         },
         "InsightSoftwareConsortium/itkwidgets": {
             "labContributors": {
@@ -96,22 +96,6 @@
                 ]
             },
             "nameWithOwner": "InsightSoftwareConsortium/itkwidgets"
-        },
-        "KevinStarWars/GeothermalDataGenerator": {
-            "labContributors": {
-                "nodes": [
-                    "kwinkunks"
-                ]
-            },
-            "nameWithOwner": "KevinStarWars/GeothermalDataGenerator"
-        },
-        "Kitware/ipyparaview": {
-            "labContributors": {
-                "nodes": [
-                    "banesullivan"
-                ]
-            },
-            "nameWithOwner": "Kitware/ipyparaview"
         },
         "Kitware/ipyvtk": {
             "labContributors": {
@@ -152,14 +136,6 @@
                 ]
             },
             "nameWithOwner": "Kitware/vtk-js"
-        },
-        "NVIDIA/ipyparaview": {
-            "labContributors": {
-                "nodes": [
-                    "banesullivan"
-                ]
-            },
-            "nameWithOwner": "NVIDIA/ipyparaview"
         },
         "OpenGeoVis/PVGeo-Examples": {
             "labContributors": {
@@ -272,30 +248,6 @@
                 ]
             },
             "nameWithOwner": "agu-ossi/2020-agu-oss"
-        },
-        "amanzi/amanzi": {
-            "labContributors": {
-                "nodes": [
-                    "banesullivan"
-                ]
-            },
-            "nameWithOwner": "amanzi/amanzi"
-        },
-        "amanzi/ats": {
-            "labContributors": {
-                "nodes": [
-                    "banesullivan"
-                ]
-            },
-            "nameWithOwner": "amanzi/ats"
-        },
-        "amanzi/ats-demos": {
-            "labContributors": {
-                "nodes": [
-                    "banesullivan"
-                ]
-            },
-            "nameWithOwner": "amanzi/ats-demos"
         },
         "banesullivan/scooby": {
             "labContributors": {
@@ -473,14 +425,6 @@
             },
             "nameWithOwner": "conda-forge/nox-feedstock"
         },
-        "conda-forge/paraview-feedstock": {
-            "labContributors": {
-                "nodes": [
-                    "banesullivan"
-                ]
-            },
-            "nameWithOwner": "conda-forge/paraview-feedstock"
-        },
         "conda-forge/pooch-feedstock": {
             "labContributors": {
                 "nodes": [
@@ -615,14 +559,6 @@
                 ]
             },
             "nameWithOwner": "curvenote/svg"
-        },
-        "d3/d3-drag": {
-            "labContributors": {
-                "nodes": [
-                    "rowanc1"
-                ]
-            },
-            "nameWithOwner": "d3/d3-drag"
         },
         "danieltichiyama/danieltichiyama.github.io": {
             "labContributors": {
@@ -792,6 +728,14 @@
             },
             "nameWithOwner": "equinor/segyio-notebooks"
         },
+        "euclidity/t21-lorem-ipsum": {
+            "labContributors": {
+                "nodes": [
+                    "stevejpurves"
+                ]
+            },
+            "nameWithOwner": "euclidity/t21-lorem-ipsum"
+        },
         "euclidity/transform-2020-ray": {
             "labContributors": {
                 "nodes": [
@@ -856,6 +800,22 @@
                 ]
             },
             "nameWithOwner": "ezygeo-ai/Fluid-Substitution"
+        },
+        "getnikola/nikola-action": {
+            "labContributors": {
+                "nodes": [
+                    "JesperDramsch"
+                ]
+            },
+            "nameWithOwner": "getnikola/nikola-action"
+        },
+        "getnikola/plugins": {
+            "labContributors": {
+                "nodes": [
+                    "JesperDramsch"
+                ]
+            },
+            "nameWithOwner": "getnikola/plugins"
         },
         "girder/django-composed-configuration": {
             "labContributors": {
@@ -1025,6 +985,14 @@
             },
             "nameWithOwner": "numpy/numpy.org"
         },
+        "ofekmiz/Habitica-Pomodoro-SiteKeeper": {
+            "labContributors": {
+                "nodes": [
+                    "JesperDramsch"
+                ]
+            },
+            "nameWithOwner": "ofekmiz/Habitica-Pomodoro-SiteKeeper"
+        },
         "openscm/openscm-twolayermodel": {
             "labContributors": {
                 "nodes": [
@@ -1162,6 +1130,14 @@
             },
             "nameWithOwner": "seg/tutorials-2014"
         },
+        "simpeg/community": {
+            "labContributors": {
+                "nodes": [
+                    "rowanc1"
+                ]
+            },
+            "nameWithOwner": "simpeg/community"
+        },
         "simpeg/discretize": {
             "labContributors": {
                 "nodes": [
@@ -1195,30 +1171,6 @@
                 ]
             },
             "nameWithOwner": "simpeg/simpeg.github.io"
-        },
-        "simpeg/simpegEM1D": {
-            "labContributors": {
-                "nodes": [
-                    "prisae"
-                ]
-            },
-            "nameWithOwner": "simpeg/simpegEM1D"
-        },
-        "sorrycc/awesome-javascript": {
-            "labContributors": {
-                "nodes": [
-                    "rowanc1"
-                ]
-            },
-            "nameWithOwner": "sorrycc/awesome-javascript"
-        },
-        "sp4ke/awesome-explorables": {
-            "labContributors": {
-                "nodes": [
-                    "rowanc1"
-                ]
-            },
-            "nameWithOwner": "sp4ke/awesome-explorables"
         },
         "sphinx-gallery/sphinx-gallery": {
             "labContributors": {

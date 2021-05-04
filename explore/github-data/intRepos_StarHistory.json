@@ -1,5 +1,58 @@
 {
     "data": {
+        "FRI-Energy-Analytics/2020_summer_fellows": [
+            {
+                "date": "2020-06-01",
+                "value": 2
+            },
+            {
+                "date": "2020-06-08",
+                "value": 1
+            }
+        ],
+        "FRI-Energy-Analytics/alaska": [
+            {
+                "date": "2020-09-28",
+                "value": 1
+            },
+            {
+                "date": "2020-10-05",
+                "value": 1
+            },
+            {
+                "date": "2020-10-12",
+                "value": 1
+            },
+            {
+                "date": "2020-10-19",
+                "value": 1
+            },
+            {
+                "date": "2021-01-04",
+                "value": 1
+            },
+            {
+                "date": "2021-01-11",
+                "value": 1
+            },
+            {
+                "date": "2021-03-01",
+                "value": 2
+            },
+            {
+                "date": "2021-04-19",
+                "value": 1
+            }
+        ],
+        "FRI-Energy-Analytics/energyanalytics": [
+            {
+                "date": "2020-09-07",
+                "value": 1
+            }
+        ],
+        "FRI-Energy-Analytics/extra_credit": [],
+        "FRI-Energy-Analytics/project": [],
+        "FRI-Energy-Analytics/sandbox": [],
         "GenericMappingTools/pygmt": [
             {
                 "date": "2017-04-03",
@@ -422,10 +475,6 @@
                 "value": 3
             },
             {
-                "date": "2020-01-06",
-                "value": 1
-            },
-            {
                 "date": "2020-01-20",
                 "value": 2
             },
@@ -628,6 +677,10 @@
             {
                 "date": "2021-04-12",
                 "value": 4
+            },
+            {
+                "date": "2021-04-19",
+                "value": 1
             }
         ],
         "GeoPyTool/GeoPyTool": [
@@ -978,6 +1031,10 @@
             {
                 "date": "2021-04-12",
                 "value": 2
+            },
+            {
+                "date": "2021-04-19",
+                "value": 1
             }
         ],
         "Geode-solutions/OpenGeode": [
@@ -1095,6 +1152,68 @@
             },
             {
                 "date": "2021-02-22",
+                "value": 1
+            }
+        ],
+        "GeoscienceAustralia/geophys_utils": [
+            {
+                "date": "2017-12-04",
+                "value": 1
+            },
+            {
+                "date": "2018-05-21",
+                "value": 2
+            },
+            {
+                "date": "2018-12-31",
+                "value": 1
+            },
+            {
+                "date": "2019-01-28",
+                "value": 1
+            },
+            {
+                "date": "2019-06-17",
+                "value": 1
+            },
+            {
+                "date": "2019-09-16",
+                "value": 1
+            },
+            {
+                "date": "2019-10-07",
+                "value": 1
+            },
+            {
+                "date": "2020-02-03",
+                "value": 1
+            },
+            {
+                "date": "2020-03-16",
+                "value": 1
+            },
+            {
+                "date": "2020-03-30",
+                "value": 3
+            },
+            {
+                "date": "2020-04-06",
+                "value": 1
+            },
+            {
+                "date": "2020-05-25",
+                "value": 1
+            },
+            {
+                "date": "2020-10-19",
+                "value": 1
+            },
+            {
+                "date": "2020-10-26",
+                "value": 1
+            },
+            {
+                "date": "2021-02-08",
                 "value": 1
             }
         ],
@@ -1588,6 +1707,10 @@
             {
                 "date": "2021-04-12",
                 "value": 5
+            },
+            {
+                "date": "2021-04-26",
+                "value": 1
             }
         ],
         "JohnWStockwellJr/OpenSeaSeis": [
@@ -2180,6 +2303,10 @@
             {
                 "date": "2021-03-22",
                 "value": 1
+            },
+            {
+                "date": "2021-04-26",
+                "value": 1
             }
         ],
         "JuliaEarth/GeoStats.jl": [
@@ -2686,6 +2813,14 @@
             {
                 "date": "2021-04-12",
                 "value": 4
+            },
+            {
+                "date": "2021-04-19",
+                "value": 4
+            },
+            {
+                "date": "2021-04-26",
+                "value": 2
             }
         ],
         "JustinGOSSES/predictatops": [
@@ -2800,6 +2935,10 @@
             {
                 "date": "2021-03-29",
                 "value": 1
+            },
+            {
+                "date": "2021-04-12",
+                "value": 1
             }
         ],
         "JustinGOSSES/wellio.js": [
@@ -2865,6 +3004,10 @@
             },
             {
                 "date": "2021-01-18",
+                "value": 1
+            },
+            {
+                "date": "2021-02-22",
                 "value": 1
             }
         ],
@@ -2936,6 +3079,10 @@
             {
                 "date": "2021-03-22",
                 "value": 1
+            },
+            {
+                "date": "2021-04-05",
+                "value": 1
             }
         ],
         "Loop3D/GKM": [
@@ -2980,6 +3127,10 @@
         "Loop3D/Loop3D": [
             {
                 "date": "2020-10-26",
+                "value": 1
+            },
+            {
+                "date": "2021-02-08",
                 "value": 1
             }
         ],
@@ -3116,6 +3267,14 @@
             },
             {
                 "date": "2021-04-05",
+                "value": 1
+            },
+            {
+                "date": "2021-04-12",
+                "value": 1
+            },
+            {
+                "date": "2021-04-26",
                 "value": 1
             }
         ],
@@ -3398,6 +3557,10 @@
             {
                 "date": "2021-04-12",
                 "value": 1
+            },
+            {
+                "date": "2021-04-26",
+                "value": 1
             }
         ],
         "NSGeophysics/GPRPy": [
@@ -3619,6 +3782,19 @@
             },
             {
                 "date": "2021-04-12",
+                "value": 1
+            }
+        ],
+        "Neil-Symington/AEM2SEG-Y": [
+            {
+                "date": "2019-06-17",
+                "value": 1
+            }
+        ],
+        "Neil-Symington/borehole_gfx_utils": [],
+        "Neil-Symington/garjmcmctdem_utils": [
+            {
+                "date": "2020-09-14",
                 "value": 1
             }
         ],
@@ -3922,6 +4098,10 @@
             {
                 "date": "2021-04-19",
                 "value": 3
+            },
+            {
+                "date": "2021-04-26",
+                "value": 2
             }
         ],
         "OpenGeoscience/geonotebook": [
@@ -4708,6 +4888,14 @@
             {
                 "date": "2021-04-12",
                 "value": 1
+            },
+            {
+                "date": "2021-04-19",
+                "value": 3
+            },
+            {
+                "date": "2021-04-26",
+                "value": 1
             }
         ],
         "SeisComP/seiscomp": [
@@ -4777,6 +4965,10 @@
             },
             {
                 "date": "2021-03-22",
+                "value": 1
+            },
+            {
+                "date": "2021-03-29",
                 "value": 1
             }
         ],
@@ -5345,6 +5537,10 @@
             {
                 "date": "2021-04-12",
                 "value": 3
+            },
+            {
+                "date": "2021-04-19",
+                "value": 1
             }
         ],
         "agile-geoscience/digidisc": [
@@ -6658,6 +6854,10 @@
             {
                 "date": "2021-03-29",
                 "value": 1
+            },
+            {
+                "date": "2021-04-05",
+                "value": 1
             }
         ],
         "agile-geoscience/transform-2020-tutorial": [
@@ -7156,6 +7356,10 @@
             {
                 "date": "2021-04-12",
                 "value": 1
+            },
+            {
+                "date": "2021-04-26",
+                "value": 2
             }
         ],
         "agile-geoscience/xlines": [
@@ -7555,6 +7759,10 @@
             },
             {
                 "date": "2021-03-15",
+                "value": 1
+            },
+            {
+                "date": "2021-04-12",
                 "value": 1
             }
         ],
@@ -8472,6 +8680,14 @@
             {
                 "date": "2021-04-12",
                 "value": 2
+            },
+            {
+                "date": "2021-04-19",
+                "value": 1
+            },
+            {
+                "date": "2021-04-26",
+                "value": 2
             }
         ],
         "cgre-aachen/gemgis_data": [],
@@ -9056,6 +9272,10 @@
             {
                 "date": "2021-04-19",
                 "value": 4
+            },
+            {
+                "date": "2021-04-26",
+                "value": 9
             }
         ],
         "cgre-aachen/gempy-canvas": [],
@@ -10398,7 +10618,7 @@
             },
             {
                 "date": "2019-08-05",
-                "value": 4
+                "value": 3
             },
             {
                 "date": "2019-08-12",
@@ -10667,6 +10887,10 @@
             {
                 "date": "2021-04-05",
                 "value": 2
+            },
+            {
+                "date": "2021-04-19",
+                "value": 3
             }
         ],
         "equinor/seismic-zfp": [
@@ -10740,6 +10964,7 @@
             }
         ],
         "fatiando/.github": [],
+        "fatiando/2021-gsh": [],
         "fatiando/boule": [
             {
                 "date": "2020-01-13",
@@ -10826,7 +11051,12 @@
                 "value": 1
             }
         ],
-        "fatiando/erizo": [],
+        "fatiando/erizo": [
+            {
+                "date": "2019-11-11",
+                "value": 1
+            }
+        ],
         "fatiando/fatiando": [
             {
                 "date": "2013-05-27",
@@ -11034,10 +11264,6 @@
             },
             {
                 "date": "2016-12-19",
-                "value": 1
-            },
-            {
-                "date": "2017-01-02",
                 "value": 1
             },
             {
@@ -11611,6 +11837,10 @@
             {
                 "date": "2021-04-12",
                 "value": 2
+            },
+            {
+                "date": "2021-04-19",
+                "value": 1
             }
         ],
         "fatiando/logo": [],
@@ -11859,6 +12089,10 @@
             {
                 "date": "2021-04-19",
                 "value": 3
+            },
+            {
+                "date": "2021-04-26",
+                "value": 1
             }
         ],
         "fatiando/prototypes": [],
@@ -12076,7 +12310,7 @@
             },
             {
                 "date": "2019-04-01",
-                "value": 7
+                "value": 6
             },
             {
                 "date": "2019-04-08",
@@ -12405,6 +12639,14 @@
             {
                 "date": "2021-04-12",
                 "value": 3
+            },
+            {
+                "date": "2021-04-19",
+                "value": 3
+            },
+            {
+                "date": "2021-04-26",
+                "value": 1
             }
         ],
         "fatiando/wavefd": [
@@ -12426,6 +12668,10 @@
             },
             {
                 "date": "2020-03-09",
+                "value": 1
+            },
+            {
+                "date": "2020-06-22",
                 "value": 1
             }
         ],
@@ -12571,10 +12817,6 @@
                 "value": 2
             },
             {
-                "date": "2016-01-11",
-                "value": 1
-            },
-            {
                 "date": "2016-02-01",
                 "value": 1
             },
@@ -12624,10 +12866,6 @@
             },
             {
                 "date": "2017-11-06",
-                "value": 1
-            },
-            {
-                "date": "2018-02-12",
                 "value": 1
             },
             {
@@ -13331,6 +13569,32 @@
             {
                 "date": "2021-04-12",
                 "value": 2
+            },
+            {
+                "date": "2021-04-19",
+                "value": 1
+            }
+        ],
+        "kinverarity1/aseg_gdf2": [
+            {
+                "date": "2019-02-25",
+                "value": 1
+            },
+            {
+                "date": "2019-08-12",
+                "value": 1
+            },
+            {
+                "date": "2019-09-30",
+                "value": 1
+            },
+            {
+                "date": "2020-02-03",
+                "value": 1
+            },
+            {
+                "date": "2020-09-28",
+                "value": 1
             }
         ],
         "kinverarity1/lasio": [
@@ -13961,8 +14225,13 @@
             {
                 "date": "2021-04-12",
                 "value": 1
+            },
+            {
+                "date": "2021-04-26",
+                "value": 2
             }
         ],
+        "kinverarity1/mtwaffle": [],
         "landlab/CUAHSI_Biennial_July_2016": [],
         "landlab/General-Landlab-Clinic-2020-21": [],
         "landlab/UT_Landlab_Clinic": [],
@@ -14574,6 +14843,10 @@
             {
                 "date": "2021-03-22",
                 "value": 1
+            },
+            {
+                "date": "2021-04-12",
+                "value": 1
             }
         ],
         "landlab/landlab-logo": [],
@@ -14679,6 +14952,14 @@
             {
                 "date": "2021-04-12",
                 "value": 3
+            },
+            {
+                "date": "2021-04-19",
+                "value": 1
+            },
+            {
+                "date": "2021-04-26",
+                "value": 1
             }
         ],
         "morganjwilliams/pyrolite": [
@@ -15218,7 +15499,7 @@
             },
             {
                 "date": "2016-03-28",
-                "value": 2
+                "value": 1
             },
             {
                 "date": "2016-04-11",
@@ -16158,7 +16439,7 @@
             },
             {
                 "date": "2021-04-05",
-                "value": 2
+                "value": 1
             },
             {
                 "date": "2021-04-12",
@@ -16167,6 +16448,10 @@
             {
                 "date": "2021-04-19",
                 "value": 5
+            },
+            {
+                "date": "2021-04-26",
+                "value": 3
             }
         ],
         "opengeostat/pygslib": [
@@ -16409,6 +16694,10 @@
             {
                 "date": "2021-04-05",
                 "value": 1
+            },
+            {
+                "date": "2021-04-12",
+                "value": 2
             }
         ],
         "pyrocko/pyrocko": [
@@ -17421,6 +17710,10 @@
             {
                 "date": "2021-04-19",
                 "value": 7
+            },
+            {
+                "date": "2021-04-26",
+                "value": 7
             }
         ],
         "r-spatial/gstat": [
@@ -17898,6 +18191,10 @@
             },
             {
                 "date": "2021-03-15",
+                "value": 1
+            },
+            {
+                "date": "2021-03-29",
                 "value": 1
             }
         ],
@@ -19039,7 +19336,7 @@
             },
             {
                 "date": "2018-11-19",
-                "value": 4
+                "value": 3
             },
             {
                 "date": "2018-11-26",
@@ -19371,7 +19668,7 @@
             },
             {
                 "date": "2020-07-27",
-                "value": 6
+                "value": 5
             },
             {
                 "date": "2020-08-03",
@@ -19459,7 +19756,7 @@
             },
             {
                 "date": "2020-12-28",
-                "value": 3
+                "value": 2
             },
             {
                 "date": "2021-01-04",
@@ -19524,6 +19821,10 @@
             {
                 "date": "2021-04-19",
                 "value": 10
+            },
+            {
+                "date": "2021-04-26",
+                "value": 15
             }
         ],
         "softwareunderground/badges": [],
@@ -19654,7 +19955,12 @@
                 "value": 1
             }
         ],
-        "softwareunderground/open_geosciene_code_projects_viz": [],
+        "softwareunderground/open_geosciene_code_projects_viz": [
+            {
+                "date": "2021-04-19",
+                "value": 1
+            }
+        ],
         "softwareunderground/paris2017": [
             {
                 "date": "2017-04-17",
@@ -19774,6 +20080,10 @@
             {
                 "date": "2021-04-19",
                 "value": 2
+            },
+            {
+                "date": "2021-04-26",
+                "value": 2
             }
         ],
         "softwareunderground/subsurface-journal": [
@@ -19844,6 +20154,10 @@
             {
                 "date": "2021-04-12",
                 "value": 5
+            },
+            {
+                "date": "2021-04-19",
+                "value": 1
             }
         ],
         "softwareunderground/undersampledradio": [
@@ -20187,6 +20501,14 @@
             {
                 "date": "2021-04-05",
                 "value": 1
+            },
+            {
+                "date": "2021-04-12",
+                "value": 1
+            },
+            {
+                "date": "2021-04-26",
+                "value": 1
             }
         ],
         "trhallam/segysak": [
@@ -20264,6 +20586,10 @@
             },
             {
                 "date": "2021-03-22",
+                "value": 1
+            },
+            {
+                "date": "2021-04-26",
                 "value": 1
             }
         ],
