@@ -10,25 +10,45 @@ Explore page: https://softwareunderground.github.io/open_geosciene_code_projects
 Dependencies analysis: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/dependencies/
 Most popular repositories: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/popular-repos/
 
-## Places Changed From Original 
 
-#### _config.yml
+## Types of Changes from LLNL Original
+### LLNL content that is just removed or links to them take away
+- Entire folders & markdown removed
+  - About/index.md
+  - About/FAQ
+  - posts/*
+  - news/*
+  - radiuss/*
 
-Changed:
+### LLNL content that is swapped out
+#### Swapped out individual words
+- Most common = "LLNL" => "SWUNG"
+- Less common = "LLNL" => ""
+#### HTML Elements Removed
+- Links to certain pages that have been replaced
+  - header 
+    - github repo
+    - fork this repo
+    - twitter
+  - -in progress-
+- Links to certain pages have been removed entirely:
+    - header: -in progress-
+    - homepage: -in progress-
 
+### Configuration Changed in _config.yml
+- replaced
 ```
 url: "https://software.llnl.gov"
-repo_url: "https://github.com/LLNL/llnl.github.io"
-``` 
-to 
+repo_u
+```
+with 
 ```
 baseurl: "/open_geosciene_code_projects_viz"
 ```
 
-### Links on header
-- github repo
-- fork this repo
-- twitter
+
+
+
 
 
 
