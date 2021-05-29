@@ -8,7 +8,9 @@ function draw_force_graph(areaID, adjacentAreaID) {
 
     // Draws graph
     function drawGraph(data, areaID, adjacentAreaID) {
-        const graphHeader = 'LLNL Dependencies';
+        // <!-- replaced -->
+        // const graphHeader = 'LLNL Dependencies';
+        const graphHeader = 'SWUNG Dependencies';
 
         const margin = { top: stdMargin.top, right: stdMargin.right / 2, bottom: stdMargin.bottom / 2, left: stdMargin.left / 2 },
             width = stdTotalWidth * 2 + 80 - margin.left - margin.right,
@@ -276,8 +278,12 @@ function draw_force_graph(areaID, adjacentAreaID) {
         // Options for graph view
         options.normalView = { name: 'normalView', text: 'Repos connected to dependencies', labels: ['Repositories with Dependencies', 'External Packages', 'Internal Packages'], languages: true, function: redraw };
         options.simplifiedView = { name: 'simplifiedView', text: 'Repos connected by shared dependencies', labels: ['Repositories with Dependencies', 'External Packages', 'Internal Packages'], languages: true, function: simplify };
-        options.orgView = { name: 'orgView', text: 'Organizations connected to dependency organizations', labels: ['Organizations', 'External Package Organizations', 'LLNL Package Organizations'], languages: false, function: organize };
-        options.simplifiedOrgView = { name: 'simplifiedOrgView', text: 'Organizations connected by shared dependencies', labels: ['Organizations', 'External Package Organizations', 'LLNL Package Organizations'], languages: false, function: simplifyOrganize };
+        //<!-- replaced -->
+        // options.orgView = { name: 'orgView', text: 'Organizations connected to dependency organizations', labels: ['Organizations', 'External Package Organizations', 'LLNL Package Organizations'], languages: false, function: organize };
+        // options.simplifiedOrgView = { name: 'simplifiedOrgView', text: 'Organizations connected by shared dependencies', labels: ['Organizations', 'External Package Organizations', 'LLNL Package Organizations'], languages: false, function: simplifyOrganize };
+        options.orgView = { name: 'orgView', text: 'Organizations connected to dependency organizations', labels: ['Organizations', 'External Package Organizations', 'SWUNG Package Organizations'], languages: false, function: organize };
+        options.simplifiedOrgView = { name: 'simplifiedOrgView', text: 'Organizations connected by shared dependencies', labels: ['Organizations', 'External Package Organizations', 'SWUNG Package Organizations'], languages: false, function: simplifyOrganize };
+        
         const optionsArray = Object.values(options);
 
         // Options slider

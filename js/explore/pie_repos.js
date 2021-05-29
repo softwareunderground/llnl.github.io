@@ -147,7 +147,10 @@ function draw_pie_repos(areaID) {
             }
         });
         var subTotal = repoSubset.size;
-        var data = [{ label: 'External Contributors', count: subTotal }, { label: 'Only LLNL Contributors', count: repoTotal - subTotal }];
+        // <!-- replaced -->
+        // var data = [{ label: 'External Contributors', count: subTotal }, { label: 'Only LLNL Contributors', count: repoTotal - subTotal }];
+        var data = [{ label: 'External Contributors', count: subTotal }, { label: 'Only SWUNG Contributors', count: repoTotal - subTotal }];
+
         return data;
     }
 }

@@ -162,8 +162,10 @@ function draw_pie_repoUsers(areaID, repoNameWOwner) {
 
         var labTotal = contribs_lab.size;
         var extTotal = contribs_ext.size;
+        // <!-- replaced -->
+        // var data = [{ label: 'External Users', count: extTotal }, { label: 'LLNL Members', count: labTotal }];
+        var data = [{ label: 'External Users', count: extTotal }, { label: 'SWUNG Members', count: labTotal }];
 
-        var data = [{ label: 'External Users', count: extTotal }, { label: 'LLNL Members', count: labTotal }];
         return data;
     }
 }
