@@ -5,6 +5,9 @@ https://github.com/softwareunderground/transform-2021-hackathon/discussions/14
 
 The project plan has now been moved to issues: https://github.com/softwareunderground/open_geosciene_code_projects_viz/issues
 
+## Slides on What's trying to be accomplished with this repository
+https://observablehq.com/@justingosses/more-visible-connections-between-projects-can-nudge-devel 
+
 ## Live Pages
 Explore page: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/
 Dependencies analysis: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/dependencies/
