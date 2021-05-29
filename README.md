@@ -30,6 +30,37 @@ baseurl: "/open_geosciene_code_projects_viz"
 - fork this repo
 - twitter
 
+
+
+------------
+
+## Prerequisites
+
+Before you begin, make sure you have working installs of Git, Ruby, and Bundler <https://bundler.io/> You will need these tools for development.
+
+## Getting Started
+
+To work locally, first clone into the repository:
+
+```
+git clone https://github.com/softwareunderground/open_geosciene_code_projects_viz.git
+```
+
+Make sure you are in the directory you just created by running `cd llnl.github.io` Then you can use `bundler` to install the Ruby dependencies (see the [Jekyll installation docs](https://jekyllrb.com/docs/installation/) for step-by-step guides to setting this up):
+
+```
+bundle install
+```
+
+Running this will install everything in your Gemfile (including Jekyll). Finally, run the development web server with:
+
+```
+bundle exec jekyll serve
+```
+
+Followed by opening <http://127.0.0.1:4000/open_geosciene_code_projects_viz/> in a web browser.
+
+
 ...............
 ...............
 ...............
@@ -74,7 +105,7 @@ Running this will install everything in your Gemfile (including Jekyll). Finally
 bundle exec jekyll serve
 ```
 
-Followed by opening <http://localhost:4000> in a web browser.
+Followed by opening <http://127.0.0.1:4000/open_geosciene_code_projects_viz/> in a web browser.
 
 ### Tips
 

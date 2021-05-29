@@ -200,6 +200,8 @@ a:visited {
     color: #005dab;
     font-weight: bold;
     text-decoration: none;
+    height:7rem;
+
 }
 
 .navbar a.navbar-normal {
@@ -332,7 +334,10 @@ a:visited {
 
         background-image: url('/open_geosciene_code_projects_viz/assets/images/logos/swung_logo_vector.svg');
         background-color: #3d444a;
-        background-size: 30%;
+        background-position: center, 50% 90%;
+        background-repeat: no-repeat, no-repeat;
+        background-size: 70%;
+        /* background-size: auto, 80px 80px; */
         height: 200px;
     }
     }
