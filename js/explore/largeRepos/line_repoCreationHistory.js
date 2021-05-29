@@ -69,7 +69,8 @@ function draw_line_repoCreationHistory(areaID, repoNamesWOwner) {
         );
         timerange.push(gitrelease);
         timerange.push(ghfounded);
-        timerange.push(sw_llnl);
+        //<!-- replaced -->
+        // timerange.push(sw_llnl);
 
         // Get min-max values across both datasets
         var datrange = d3.extent(data, function(d) {

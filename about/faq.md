@@ -15,7 +15,7 @@ layout: info
 
 If you’re new to GitHub and open source in general, figuring out how to get set up can be a challenge. You may want to read through the GitHub Help pages on [setting up and managing your GitHub profile](https://help.github.com/categories/setting-up-and-managing-your-github-profile/).
 
-1. [Create an account on GitHub](https://github.com/join).
+<!-- 1. [Create an account on GitHub](https://github.com/join).
 
     You *do not need* a separate work account and personal account. Instead, you can [link multiple email addresses to the same GitHub account](https://help.github.com/articles/adding-an-email-address-to-your-github-account/), which is almost always preferred.
 
@@ -178,4 +178,4 @@ Refer to individual projects for their requirements on accepting contributions. 
 
 4. Create a pull request to the "upstream" repository.
 
-5. If approved, changes will be merged in by a repository maintainer.
+5. If approved, changes will be merged in by a repository maintainer. -->
