@@ -271,7 +271,9 @@ function draw_pie_commits(areaID) {
 
     // Turn json obj into desired working data
     function reformatData(obj) {
-        var data = [{ label: 'In Top Ten LLNL Repos', count: totalCommits(obj, mostPopularRepositories.map(d => `${d.owner}/${d.name}`)) }, { label: 'In Other LLNL Repos', count: totalCommits(obj) }, { labels: mostPopularRepositories.map(d => `${d.owner}/${d.name}`), counts: mostPopularRepositories.map(d => totalCommits(obj, [`${d.owner}/${d.name}`])) }];
+        // <!-- replaced -->
+        // var data = [{ label: 'In Top Ten LLNL Repos', count: totalCommits(obj, mostPopularRepositories.map(d => `${d.owner}/${d.name}`)) }, { label: 'In Other LLNL Repos', count: totalCommits(obj) }, { labels: mostPopularRepositories.map(d => `${d.owner}/${d.name}`), counts: mostPopularRepositories.map(d => totalCommits(obj, [`${d.owner}/${d.name}`])) }];
+        var data = [{ label: 'In Top Ten Repos', count: totalCommits(obj, mostPopularRepositories.map(d => `${d.owner}/${d.name}`)) }, { label: 'In Other Repos', count: totalCommits(obj) }, { labels: mostPopularRepositories.map(d => `${d.owner}/${d.name}`), counts: mostPopularRepositories.map(d => totalCommits(obj, [`${d.owner}/${d.name}`])) }];
         return data;
     }
 

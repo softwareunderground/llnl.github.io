@@ -22,7 +22,8 @@ function draw_line_repoCreationHistory(areaID, repoNamesWOwner) {
         // GitHub founded
         var ghfounded = '2008-02-08';
         // Software.llnl.gov founded
-        var sw_llnl = '2015-11-24';
+        //<!-- replaced -->
+        // var sw_llnl = '2015-11-24';
 
         function addDateLine(dateString, label) {
             var dateObj = parseTime(dateString);
@@ -146,7 +147,9 @@ function draw_line_repoCreationHistory(areaID, repoNamesWOwner) {
         // Draw reference date lines
         addDateLine(gitrelease, 'Git Released');
         addDateLine(ghfounded, 'GitHub Founded');
-        addDateLine(sw_llnl, 'LLNL Soft. Portal');
+        //<!-- replaced -->
+        // addDateLine(sw_llnl, 'LLNL Soft. Portal');
+
 
         // Add title
         chart

@@ -1,8 +1,9 @@
 name: "Open Geoscience Code Projects Geoscience"
 author: "Justin Gosses"
-title: Open Geoscience Code Projects Geoscience
-description: "Porting Lawrence Livermore National Laboratory Software Portal as a way to understand open source software by SWUNG members"
+title: "Open Geoscience Code Projects Geoscience"
+description: "This site shows all the repositories on Awesome-Open-Geoscience awesome list that have github.com repositories as well as additional code projects suggeted via pull request. The explore section attempts to show levels of engagement with these projects and how dependencies (which are both skills and tools) and contributers can reveal linkages between geoscience code projects!"
 remote_theme: LLNL/Jekyll-LLNL-Theme@main
+shortname: "SWUNG"
 
 # url: "https://softwareunderground.github.io/llnl.github.io/"
 # repo_url: "https://github.com/softwareunderground/llnl.github.io"

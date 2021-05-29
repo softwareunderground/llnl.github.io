@@ -19,6 +19,10 @@ Most popular repositories: https://softwareunderground.github.io/open_geosciene_
   - posts/*
   - news/*
   - radiuss/*
+  - JS/Explore/pie_activityCommits.js
+  - JS/Explore/pie_activityLines.js
+  - JS/Explore/line_repoCreationHistory.js
+
 
 ### LLNL content that is swapped out
 #### Swapped out individual words

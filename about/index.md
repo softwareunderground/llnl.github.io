@@ -1,5 +1,5 @@
 ---
-title: About the LLNL Software Portal
+title: About 
 layout: info
 ---
 
@@ -9,7 +9,61 @@ layout: info
 * Table of Contents
 {:toc}
 
-**Collaboration fuels our culture.**
+### What is this?
+This is a website that attempts to offer new ways to understand the variety of open source subsurface geoscience code available for use that people think is valuable.
+
+### What is the value of this?
+
+The basic idea is that within smaller communities it can be difficult to find applicable open source code for your problem. A lot of what code you use is based on word of mouth and stumbling upon someone else's repository working on similar problems. This can be inefficient. 
+
+<a href="https://github.com/sindresorhus/awesome">Awesome lists</a> are a great way to source code specific to a domain, problem, or use case that others think is "awesome", but they are limited in that they don't show connections between projects or directly show you how popularity of projects might have changed over time.
+
+<i>If it was easier to understand what code is being most used, what code uses similar dependencies, and what projects are attracting the same groups of contributers, community participants might be nudged into more impactful contributions more often.</i>
+
+##### This site uses code repository metadata sourced through the Github API to create new interfaces for exploring code repositories and their connections with the idea that extra view can help drive more impactful contribution & use.  
+
+<br/>
+
+You can understand more about the value & vision of this project by checking out <a href="https://observablehq.com/@justingosses/more-visible-connections-between-projects-can-nudge-devel">this slide presentation</a> on Observablehq.com.
+
+
+### When was it created?
+It was initially created as part of the Transform 21' hackathon put on by The Software Underground or SWUNG.
+
+
+### What is SWUNG? 
+SWUNG, or the Software Underground, is a digital first non-profit society focused on code & rocks. To quote <a href="https://softwareunderground.org/">their front page</a>:
+```
+The place for scientists and engineers that love rocks and computers. The Software Underground is a grass-roots community of digital subsurface professionals. We are academic and applied geologists, geophysicists, engineers, and others — Welcome!
+```
+
+### What is it based off of?
+This site was created by taking a fork of the <a href="https://github.com/LLNL/llnl.github.io">Lawrence Livermore National Laboratory's open source software catalog</a> and changing <a href="https://github.com/softwareunderground/open_geosciene_code_projects_viz">a bunch of stuff</a> to make it useful for SWUNG.
+
+
+### Where to get more information
+Check out the <a href="https://github.com/softwareunderground/open_geosciene_code_projects_viz">README</a>.
+
+
+### How to get additional code repositories tracked
+Check out the instructions in this <a href="https://github.com/softwareunderground/open_geosciene_code_projects_viz/issues/5">issue</a>.
+
+Also, the plan is to eventually automatically pull in any repository that on github.com that is a part of <a href="https://github.com/softwareunderground/awesome-open-geoscience">AWESOME OPEN GEOSCIENCE</a> awesome list. Awesome lists are a standardized way to share code that many people think is useful to a particular problem, domain, or use case.
+
+
+### How to contribute code improvements
+Check out the <a href="https://github.com/softwareunderground/open_geosciene_code_projects_viz/projects/1">issue board </a>. There will be a separate contributions instructions soonish.
+
+### Possible roadmap & ways to use in future
+- Add CI/CD automation such that any changes in <a href="https://github.com/softwareunderground/awesome-open-geoscience">AWESOME OPEN GEOSCIENCE</a> awesome list show up here. 
+- Better document all the changes between the original LLNL software catalog and here in order to help others replace using these code to understand  other communities. 
+
+
+
+<!-- OLD ABOUT CONTENT BELOW -->
+ <!-- replaced -->
+
+<!-- **Collaboration fuels our culture.**
 
 Welcome to the Lawrence Livermore National Laboratory (LLNL) software portal&mdash;a hub for open source software (OSS) produced at the Lab.
 
@@ -53,4 +107,4 @@ Follow us on Twitter for up-to-date information about the latest developments!
 
 <div class="text-center">
   <a href="https://twitter.com/LLNL_OpenSource" class="twitter-follow-button" data-show-count="true">Follow @LLNL_OpenSource</a>
-</div>
+</div> -->
