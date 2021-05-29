@@ -31,7 +31,7 @@ You can understand more about the value & vision of this project by checking out
 It was initially created as part of the Transform 21' hackathon put on by The Software Underground or SWUNG.
 
 
-### What is SWUNG? 
+### What is NASA? 
 SWUNG, or the Software Underground, is a digital first non-profit society focused on code & rocks. To quote <a href="https://softwareunderground.org/">their front page</a>:
 ```
 The place for scientists and engineers that love rocks and computers. The Software Underground is a grass-roots community of digital subsurface professionals. We are academic and applied geologists, geophysicists, engineers, and others — Welcome!

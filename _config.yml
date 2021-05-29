@@ -1,9 +1,9 @@
-name: "Open Geoscience Code Projects Geoscience"
-author: "Justin Gosses"
-title: "Open Geoscience Code Projects Geoscience"
-description: "This site shows all the repositories on Awesome-Open-Geoscience awesome list that have github.com repositories as well as additional code projects suggeted via pull request. The explore section attempts to show levels of engagement with these projects and how dependencies (which are both skills and tools) and contributers can reveal linkages between geoscience code projects!"
+name: Open Source NASA Code
+author: Justin Gosses
+title: Open Source NASA Codes
+description: This site currently hasn't updated to NASA data, it is only updated naming.
 remote_theme: LLNL/Jekyll-LLNL-Theme@main
-shortname: "SWUNG"
+shortname: NASA
 
 # url: "https://softwareunderground.github.io/llnl.github.io/"
 # repo_url: "https://github.com/softwareunderground/llnl.github.io"

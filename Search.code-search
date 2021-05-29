@@ -1,0 +1,24 @@
+# Query:  SWUNG 
+# ContextLines: 1
+
+4 results - 4 files
+
+explore • github-data/intRepo_Metadata.json:
+  1765      "softwareunderground/badges": {
+  1766:         "description": "badges for swung repos, software and research projects",
+  1767          "name": "softwareunderground/badges",
+
+explore • github-data/intReposInfo.json:
+  11782              },
+  11783:             "description": "badges for swung repos, software and research projects",
+  11784              "forks": {
+
+js • explore/pie_repos.js:
+  151          // var data = [{ label: 'External Contributors', count: subTotal }, { label: 'Only LLNL Contributors', count: repoTotal - subTotal }];
+  152:         var data = [{ label: 'External Contributors', count: subTotal }, { label: 'Only SWUNG Contributors', count: repoTotal - subTotal }];
+  153  
+
+~/Code/open_geosciene_code_projects_viz/index.html:
+  1  ---
+  2: title: NASA Software Portal
+  3  layout: homepage

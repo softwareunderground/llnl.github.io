@@ -53,7 +53,15 @@ with
 baseurl: "/open_geosciene_code_projects_viz"
 ```
 
-
+## Minimum number of places to change in SWUNG fork main branch
+- _config.yml
+- header.html
+- head.html
+- about/index.html
+- assets/[logo and other imagery]
+- few JavaScript functions that mention LLNL or SWUNG <== Most of these can be changed to not mention a specific org name and probably should be!s
+- index.html in page title section
+- standard repopulation of repo content as described in "_explore/README.mdss" folder README.
 
 
 
