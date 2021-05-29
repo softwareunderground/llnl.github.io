@@ -405,12 +405,14 @@ a:visited {
     height: 100%;
 }
 
-@media (max-width: 1199px) {
+/* @media (max-width: 1199px) { */
+@media (max-width: 2199px) {
     .nav-container {
         display: none;
     }
 }
-@media (min-width: 1200px) {
+@media (min-width: 2200px) {
+/* @media (min-width: 1200px) { */
     .nav-container {
         min-width: 300px;
         width: 400px;
@@ -428,7 +430,8 @@ a:visited {
     }
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 2199px) {
+/* @media (max-width: 1199px) { */
     .hamburger-container {
         width: 100%;
         background-color: #f8f8f8;
@@ -438,7 +441,8 @@ a:visited {
         z-index: 1;
     }
 }
-@media (min-width: 1200px) {
+@media (min-width: 2200px) {
+/* @media (min-width: 1200px) { */
     .hamburger-container {
         display: none;
     }
