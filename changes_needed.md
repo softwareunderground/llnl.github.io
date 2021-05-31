@@ -6,7 +6,9 @@ https://justingosses.medium.com/beyond-awesome-lists-3ccb074f7859
 ### Read slides presented during hackathon when development work first occured:
 https://observablehq.com/@justingosses/more-visible-connections-between-projects-can-nudge-devel
 
-#### Getting the list of code projects
+## Components of a Version of this that Could be Ready Made Add-on to Awesome Lists
+
+#### Getting the list of code projects Automatically Updated
 
 The code currently takes in a manually generated list of projects on GitHub stored in this JSON file. It can also be given an org or user accounts and then it also gets every repository owned by those entities in addition to the specifically listed repositories. A major limitation is it won't work with anything not on GitHub, because it uses the Github API to find all the metadata. 
 
@@ -21,7 +23,9 @@ This approach is a little fragile in the sense that if someone where to add a pr
 The original LLNL project has a variety of pre-written scripts for the GitHub API that do all the heavy lifting. I've pretty much used them exactly as is and didn't need to change a thing. If I wanted additional metadata from the API or the Github API changed structure, then there might be some needed changes here.
 
 #### Adding to the visualizations
-The visualizations are d3.js based. Most of the code for each individual visualization list in separate files.
+The visualizations are d3.js based. Most of the code for each individual visualization list in separate files. 
+
+This makes updates or adding new one relatively straight forward, but there could be some documentation and best practices for this in order to ensure long-term updats and reusability.
 
 ##### Modifications to Existing Visualizations in the LLNL version
 The visualizations were mostly used as is with exception of some LLNL branding and content that was removed as well as file paths. 
@@ -46,7 +50,6 @@ Here: https://github.com/softwareunderground/open_geosciene_code_projects_viz/pr
 ## Types of Changes from LLNL Original Already Done
 ### LLNL content that is just removed or links to them take away
 - Entire folders & markdown removed
-  - About/index.md
   - About/FAQ
   - posts/*
   - news/*
@@ -57,8 +60,9 @@ Here: https://github.com/softwareunderground/open_geosciene_code_projects_viz/pr
 
 ### LLNL content that is swapped out
 #### Swapped out individual words
-- Most common = "LLNL" => "SWUNG"
-- Less common = "LLNL" => ""
+  - About/index.md
+  - Changes across a variety of files.... Most common = "LLNL" => "SWUNG"
+  - Changes across a variety of files.... Less common = "LLNL" => ""
 #### HTML Elements Removed
 - Links to certain pages that have been replaced
   - header 
