@@ -21,19 +21,17 @@ The basic idea is that within smaller communities it can be difficult to find ap
 
 <br/>
 
-### When was it created?
-It was initially created as part of the Transform 21' hackathon put on by The Software Underground or SWUNG.
-
-#### Original Project Plan
-https://github.com/softwareunderground/transform-2021-hackathon/discussions/14
-
-The project plan has now been moved to issues: https://github.com/softwareunderground/open_geosciene_code_projects_viz/issues
+## Summary of Where This Start and Where It is Going
 
 ### What is it based off of?
 This site was created by taking a fork of the <a href="https://github.com/LLNL/llnl.github.io">Lawrence Livermore National Laboratory's open source software catalog</a> and changing <a href="https://github.com/softwareunderground/open_geosciene_code_projects_viz">a bunch of stuff</a> to make it useful for SWUNG.
 
-### Where to get more information
-Check out the <a href="https://github.com/softwareunderground/open_geosciene_code_projects_viz">README</a>.
+### When was it created?
+It was initially created as part of the Transform 21' hackathon put on by The Software Underground or SWUNG.
+
+Original Project Plan: https://github.com/softwareunderground/transform-2021-hackathon/discussions/14
+
+The project plan has now been moved to issues: https://github.com/softwareunderground/open_geosciene_code_projects_viz/projects/1
 
 ### How to get additional code repositories tracked
 Check out the instructions in this <a href="https://github.com/softwareunderground/open_geosciene_code_projects_viz/issues/5">issue</a>.
@@ -43,16 +41,14 @@ Also, the plan is to eventually automatically pull in any repository that on git
 ### Completed Changes From Original Project & Possible Future Changes Roadmap 
 https://github.com/softwareunderground/open_geosciene_code_projects_viz/blob/main/changes_needed.md
 
-## Presentations on What's trying to be accomplished with this repository
+### Presentations on What's trying to be accomplished with this repository
 
 SLIDES PRESENTED DURING HACKATHON: https://observablehq.com/@justingosses/more-visible-connections-between-projects-can-nudge-devel 
 
 MEDIUM STORY: https://justingosses.medium.com/beyond-awesome-lists-3ccb074f7859
 
-
 ### How to contribute code improvements
 Check out the <a href="https://github.com/softwareunderground/open_geosciene_code_projects_viz/projects/1">issue board </a>. There will be a separate contributions instructions soonish.
-
 
 ## Prerequisites
 
