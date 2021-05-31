@@ -5,9 +5,9 @@
 This is a website that attempts to offer new ways to understand the variety of open source subsurface geoscience code available for use that people think is valuable.
 
 ## Live Pages
-Explore page: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/
-Dependencies analysis: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/dependencies/
-Most popular repositories: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/popular-repos/
+- Explore page: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/
+- Dependencies analysis: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/dependencies/
+- Most popular repositories: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/popular-repos/
 
 ### What is the value of this?
 
