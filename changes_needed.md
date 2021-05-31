@@ -42,3 +42,41 @@ Slightly harder is the content that is written into the homepage.html file and o
 
 ## Issues are in a Project Template:
 Here: https://github.com/softwareunderground/open_geosciene_code_projects_viz/projects/1
+
+## Types of Changes from LLNL Original Already Done
+### LLNL content that is just removed or links to them take away
+- Entire folders & markdown removed
+  - About/index.md
+  - About/FAQ
+  - posts/*
+  - news/*
+  - radiuss/*
+  - JS/Explore/pie_activityCommits.js
+  - JS/Explore/pie_activityLines.js
+  - JS/Explore/line_repoCreationHistory.js
+
+### LLNL content that is swapped out
+#### Swapped out individual words
+- Most common = "LLNL" => "SWUNG"
+- Less common = "LLNL" => ""
+#### HTML Elements Removed
+- Links to certain pages that have been replaced
+  - header 
+    - github repo
+    - fork this repo
+    - twitter
+  - -in progress-
+- Links to certain pages have been removed entirely:
+    - header: -in progress-
+    - homepage: -in progress-
+
+### Configuration Changed in _config.yml
+- replaced
+```
+url: "https://software.llnl.gov"
+repo_u
+```
+with 
+```
+baseurl: "/open_geosciene_code_projects_viz"
+```
