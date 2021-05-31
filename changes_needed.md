@@ -39,3 +39,6 @@ The original LLNL software catalog repository is primarily the repository of the
 Most of this content is in markdown files within specific sections of the website, which makes removing it relatively simple. You just comment out the links in the header.html file and then delete specific folders and their content. For example, I deleted the news and radiuss folders. 
 
 Slightly harder is the content that is written into the homepage.html file and other CSS, JavaScript, and HTML layout files that are reused. In the open_geosciene_code_projects_viz repo, I've tried to limit project specific content within these files as much as possible. There's more that could be done in terms of having more of the page names, titles, etc. be generated from the _config.yml file and not be hardcoded into the CSS, JavaScript, and HTML files.
+
+## Issues are in a Project Template:
+Here: https://github.com/softwareunderground/open_geosciene_code_projects_viz/projects/1
