@@ -12,6 +12,8 @@ The code currently takes in a manually generated list of projects on GitHub stor
 
 Currently, I'm manually copied the github links from https://github.com/softwareunderground/awesome-open-geoscience into the JSON file, but ideally you'd have a GitHub Actions script that would scrape all GitHub repository links from the README.md file used in the Awesome list and populate any updates into the JSON file used to fetch the metadata. 
 
+- <b>Specifically add CI/CD automation such that any changes in <a href="https://github.com/softwareunderground/awesome-open-geoscience">AWESOME OPEN GEOSCIENCE</a> awesome list show up here.</b> 
+
 This approach is a little fragile in the sense that if someone where to add a project to the Awesome List and not follow the standard, format, GitHub Actions script that scrapes the GitHub repo links might fail. I've also considered changing the Awesome List repo's structure such that contributors add new projects to a CSV and CI/CD adds those projects to an automatically created markdown file that forms the human readable Awesome List. This has the advantage that the GitHub repo links are in a structured file in a known location. The cost is the process of submitting a new project is slightly elevated in complexity. This idea is being discussed in this WIP (Work in Progress) Pull Request. 
 
 #### Getting the metadata
