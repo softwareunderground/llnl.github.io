@@ -36,7 +36,7 @@ jobs:
     - name: Run MASTER script
       run: |
         cd _explore/scripts/
-        if [ -f test.sh ]; then ./test.sh;
+        if [ -f test.sh ]; then bash test.sh;
         cd ../../
         fi
     - name: commit files
