@@ -29,11 +29,8 @@ jobs:
         python -m pip install --upgrade pip
         pip install flake8 pytest
         cd _explore/scripts/
-# Create a Python virtual environment
         virtualenv -p python3 venv
-# Activate the virtual environment
         source venv/bin/activate
-# Install dependencies
         if [ -f requirements.txt ]; then pip install -r requirements.txt; 
         cd ../../
         fi
