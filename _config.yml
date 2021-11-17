@@ -9,6 +9,8 @@ shortname: "SWUNG"
 # repo_url: "https://github.com/softwareunderground/llnl.github.io"
 baseurl: "/open_geosciene_code_projects_viz"
 
+
+should_a_readme_be_parsed_for_code_projects: False
 raw_link_to_awesome_list_readme_to_parse: https://raw.githubusercontent.com/softwareunderground/awesome-open-geoscience/main/README.md
 path_to_directory_to_save_awesome_list_readme: _explore
 filename_to_save_awesome_list_readme: awesome-open-geoscience.md

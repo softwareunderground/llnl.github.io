@@ -5,7 +5,6 @@ import re
 import os
 import yaml
 
-
 # Load YAML data from the file
 with open('../../_config.yml') as file:
     try:
@@ -29,7 +28,9 @@ cwd = os.getcwd()
 # directory (CWD)
 print("Current working directory:", cwd)
 
+## hardcoded as it is relative to this file
 path_back_to__explore = "../"
+
 print("path_back_to__explore = ",path_back_to__explore)
 print("name_of_awesome_list = ",name_of_awesome_list)
 
@@ -39,6 +40,13 @@ path_to_markdown_test_file = os.path.join(path_back_to__explore ,name_of_awesome
 #### Open and read the file at the path established above
 f = open(path_to_markdown_test_file, 'r') 
 text = f.read() 
+
+#### Placing a copy elsewhere in case it gets messed up
+path_to_markdown_test_file_copied_for_safe_keeping = os.path.join(path_back_to__explore,"previous_versions_for_safe_keeping",name_of_awesome_list)
+
+with open(path_to_markdown_test_file_copied_for_safe_keeping, 'a+') as safe_copy:
+    safe_copy.write(text)
+    safe_copy.close()
 
 #### Commenting out this line to print the entire markdown for now but it might be useful later!
 # print("text is:",text)
@@ -106,6 +114,14 @@ jsonFile.close()
 path_to_input_lists_json = "../input_lists.json"
 with open(path_to_input_lists_json) as file:
     input_lists = json.load(file)
+
+
+#### Placing a copy elsewhere in case it gets messed up
+path_to_input_lists_json_file_copied_for_safe_keeping = os.path.join("../","previous_versions_for_safe_keeping","input_lists.json")
+
+with open(path_to_input_lists_json_file_copied_for_safe_keeping, 'a+') as safe_copy_inputs_list:
+    safe_copy_inputs_list.write(json.dumps(input_lists))
+    safe_copy_inputs_list.close()
 
 
 # input_lists_f = open(path_to_input_lists_json,)
