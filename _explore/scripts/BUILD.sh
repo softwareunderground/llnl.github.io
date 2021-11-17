@@ -1,6 +1,8 @@
 #!/bin/bash
 # Run this script to refresh all data for today
 
+echo "got into BUILD.sh file"
+
 exec &> >(tee ../LAST_MASTER_UPDATE.log)
 
 export GITHUB_DATA=../../explore/github-data
@@ -12,6 +14,8 @@ function finish {
     echo -e "END\t$(date -u)" >> $DATELOG
 }
 trap finish EXIT
+
+echo "got to line 18 of BUILD.sh file"
 
 # Stop and Log for failed scripts
 function errorCheck() {
