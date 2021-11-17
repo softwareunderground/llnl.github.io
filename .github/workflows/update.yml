@@ -42,7 +42,7 @@ jobs:
     - name: Run BUILD script
       run: |
         cd _explore/scripts/
-        if [ -f BUILD.sh ]; then BUILD.sh;
+        if [ -f BUILD.sh ]; then bash BUILD.sh;
         cd ../../
         fi
     - name: commit files
