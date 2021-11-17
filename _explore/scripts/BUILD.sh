@@ -31,6 +31,7 @@ function runScript() {
 }
 
 
+
 echo "RUNNING MASTER UPDATE SCRIPT"
 
 # Log start time

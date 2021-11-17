@@ -33,10 +33,16 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; 
         cd ../../
         fi
-    - name: Run MASTER script
+    - name: Run grabNewRepos Script
       run: |
         cd _explore/scripts/
-        if [ -f test.sh ]; then bash test.sh;
+        if [ -f grabNewRepos.sh ]; then bash grabNewRepos.sh;
+        cd ../../
+        fi
+    - name: Run BUILD script
+      run: |
+        cd _explore/scripts/
+        if [ -f BUILD.sh ]; then BUILD.sh;
         cd ../../
         fi
     - name: commit files
