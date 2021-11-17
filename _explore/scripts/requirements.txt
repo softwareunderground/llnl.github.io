@@ -1,2 +1,2 @@
 llnl-scraper>=0.10.0
-pyyaml
+pyyaml>=0.6.0

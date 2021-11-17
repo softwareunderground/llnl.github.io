@@ -24,6 +24,9 @@ echo The filename to save the README under is $filename_to_save_awesome_list_rea
 
 curl $raw_link_to_awesome_list_readme_to_parse -o ../$filename_to_save_awesome_list_readme
 
+#### Doing this as pyyaml doesnt' work correctly if installed via requirements.txt sometimes
+pip install pyyaml
+
 # Basic script run procedure
 function runScript() {
     echo "Run - $1"
