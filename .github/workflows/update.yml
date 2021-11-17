@@ -35,12 +35,14 @@ jobs:
         fi
     - name: Run grabNewRepos Script
       run: |
+        source venv/bin/activate
         cd _explore/scripts/
         if [ -f grabNewRepos.sh ]; then bash grabNewRepos.sh;
         cd ../../
         fi
     - name: Run BUILD script
       run: |
+        source venv/bin/activate
         cd _explore/scripts/
         if [ -f BUILD.sh ]; then bash BUILD.sh;
         cd ../../
