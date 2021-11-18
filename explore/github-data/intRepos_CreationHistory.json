@@ -5,6 +5,16 @@
             "firstCommitAt": "2020-05-08T19:01:50Z",
             "initBeforeGitHubRepo": false
         },
+        "FRI-Energy-Analytics/2021_summer_fellows": {
+            "createdAt": "2021-04-19T17:58:09Z",
+            "firstCommitAt": "2021-04-19T17:58:10Z",
+            "initBeforeGitHubRepo": false
+        },
+        "FRI-Energy-Analytics/academic-poster-template": {
+            "createdAt": "2021-06-16T15:33:38Z",
+            "firstCommitAt": "2020-09-15T21:34:39Z",
+            "initBeforeGitHubRepo": true
+        },
         "FRI-Energy-Analytics/alaska": {
             "createdAt": "2020-08-18T14:22:20Z",
             "firstCommitAt": "2020-08-18T14:22:21Z",
@@ -88,6 +98,11 @@
         "JustinGOSSES/wellioviz": {
             "createdAt": "2019-10-27T02:13:55Z",
             "firstCommitAt": "2019-10-27T02:13:56Z",
+            "initBeforeGitHubRepo": false
+        },
+        "Loop3D/.github": {
+            "createdAt": "2021-06-21T02:06:21Z",
+            "firstCommitAt": "2021-06-21T02:06:22Z",
             "initBeforeGitHubRepo": false
         },
         "Loop3D/GKM": {
@@ -185,15 +200,30 @@
             "firstCommitAt": "2020-08-05T02:09:06Z",
             "initBeforeGitHubRepo": false
         },
+        "Loop3D/loop-conda": {
+            "createdAt": "2021-08-16T03:20:45Z",
+            "firstCommitAt": "2021-08-16T03:20:46Z",
+            "initBeforeGitHubRepo": false
+        },
         "Loop3D/loop3d.github.io": {
             "createdAt": "2021-03-11T01:37:53Z",
             "firstCommitAt": "2021-02-24T06:42:38Z",
+            "initBeforeGitHubRepo": true
+        },
+        "Loop3D/loopUI": {
+            "createdAt": "2021-06-15T04:34:53Z",
+            "firstCommitAt": "2021-06-15T04:34:53Z",
             "initBeforeGitHubRepo": true
         },
         "Loop3D/loop_nightly": {
             "createdAt": "2020-11-27T01:16:32Z",
             "firstCommitAt": "2020-11-27T01:16:33Z",
             "initBeforeGitHubRepo": false
+        },
+        "Loop3D/loopy-conda": {
+            "createdAt": "2021-05-10T04:21:20Z",
+            "firstCommitAt": "2021-05-09T09:06:18Z",
+            "initBeforeGitHubRepo": true
         },
         "Loop3D/map2loop-2": {
             "createdAt": "2020-04-30T04:29:03Z",
@@ -223,6 +253,11 @@
         "Loop3D/noddyverse": {
             "createdAt": "2021-02-05T10:19:38Z",
             "firstCommitAt": "2021-02-05T10:19:40Z",
+            "initBeforeGitHubRepo": false
+        },
+        "Loop3D/publish_to_conda": {
+            "createdAt": "2021-07-07T05:37:45Z",
+            "firstCommitAt": "2021-07-07T05:37:46Z",
             "initBeforeGitHubRepo": false
         },
         "Loop3D/python-wheels-manylinux-build": {
@@ -270,9 +305,19 @@
             "firstCommitAt": "2019-12-08T22:53:46Z",
             "initBeforeGitHubRepo": true
         },
+        "OPM/ResInsight": {
+            "createdAt": "2012-05-15T13:08:52Z",
+            "firstCommitAt": "2012-05-18T07:42:17Z",
+            "initBeforeGitHubRepo": false
+        },
         "OpenGeoVis/PVGeo": {
             "createdAt": "2017-07-18T18:05:56Z",
             "firstCommitAt": "2017-07-18T21:11:38Z",
+            "initBeforeGitHubRepo": false
+        },
+        "OpenGeoVis/omfvista": {
+            "createdAt": "2019-01-09T20:44:53Z",
+            "firstCommitAt": "2019-01-09T20:45:38Z",
             "initBeforeGitHubRepo": false
         },
         "OpenGeoscience/geonotebook": {
@@ -280,10 +325,20 @@
             "firstCommitAt": "2016-06-29T14:14:52Z",
             "initBeforeGitHubRepo": true
         },
+        "OpendTect/OpendTect": {
+            "createdAt": "2015-04-05T21:13:26Z",
+            "firstCommitAt": "1999-09-03T10:11:41Z",
+            "initBeforeGitHubRepo": true
+        },
         "SeisComP/seiscomp": {
             "createdAt": "2020-03-26T10:27:56Z",
             "firstCommitAt": "2014-09-19T08:41:29Z",
             "initBeforeGitHubRepo": true
+        },
+        "Zabamund/wellpathpy": {
+            "createdAt": "2019-05-09T08:01:26Z",
+            "firstCommitAt": "2019-05-09T08:01:27Z",
+            "initBeforeGitHubRepo": false
         },
         "agile-geoscience/AVO_app": {
             "createdAt": "2012-05-01T14:03:43Z",
@@ -380,11 +435,6 @@
             "firstCommitAt": "2019-06-03T10:14:21Z",
             "initBeforeGitHubRepo": false
         },
-        "agile-geoscience/geocomputing": {
-            "createdAt": "2020-07-27T12:56:28Z",
-            "firstCommitAt": "2020-07-27T12:56:29Z",
-            "initBeforeGitHubRepo": false
-        },
         "agile-geoscience/geotransect": {
             "createdAt": "2015-02-16T17:24:53Z",
             "firstCommitAt": "2015-02-16T17:24:53Z",
@@ -460,6 +510,11 @@
             "firstCommitAt": "2016-03-01T13:49:33Z",
             "initBeforeGitHubRepo": true
         },
+        "agile-geoscience/rocky-playground": {
+            "createdAt": "2021-08-06T23:41:39Z",
+            "firstCommitAt": "2016-03-11T00:22:55Z",
+            "initBeforeGitHubRepo": true
+        },
         "agile-geoscience/seismobit": {
             "createdAt": "2018-06-01T17:17:19Z",
             "firstCommitAt": "2018-06-01T17:17:20Z",
@@ -524,6 +579,11 @@
             "createdAt": "2020-09-15T14:08:42Z",
             "firstCommitAt": "2020-09-15T14:06:14Z",
             "initBeforeGitHubRepo": true
+        },
+        "cgre-aachen/InformedLocalSmoothing": {
+            "createdAt": "2021-09-16T08:44:54Z",
+            "firstCommitAt": "2021-09-16T08:44:55Z",
+            "initBeforeGitHubRepo": false
         },
         "cgre-aachen/MSc_theses": {
             "createdAt": "2018-08-07T08:06:03Z",
@@ -635,6 +695,16 @@
             "firstCommitAt": "2020-06-04T15:22:56Z",
             "initBeforeGitHubRepo": false
         },
+        "cgre-aachen/teaching-git": {
+            "createdAt": "2021-10-21T03:11:33Z",
+            "firstCommitAt": "2021-10-21T03:11:34Z",
+            "initBeforeGitHubRepo": false
+        },
+        "cgre-aachen/teaching-multivariate-stats": {
+            "createdAt": "2021-11-09T13:34:22Z",
+            "firstCommitAt": "2021-11-09T13:34:23Z",
+            "initBeforeGitHubRepo": false
+        },
         "cgre-aachen/teaching-quantitative-methods": {
             "createdAt": "2020-11-06T10:44:50Z",
             "firstCommitAt": "2020-11-06T10:44:51Z",
@@ -644,6 +714,11 @@
             "createdAt": "2020-12-04T08:45:37Z",
             "firstCommitAt": "2020-12-04T08:45:39Z",
             "initBeforeGitHubRepo": false
+        },
+        "csdms/bmi": {
+            "createdAt": "2014-06-05T20:23:42Z",
+            "firstCommitAt": "2011-09-26T21:45:22Z",
+            "initBeforeGitHubRepo": true
         },
         "csdms/pymt": {
             "createdAt": "2014-03-06T18:46:48Z",
@@ -675,6 +750,26 @@
             "firstCommitAt": "2018-07-04T20:08:53Z",
             "initBeforeGitHubRepo": false
         },
+        "equinor/ecl": {
+            "createdAt": "2017-03-16T08:39:13Z",
+            "firstCommitAt": "2006-10-02T11:18:37Z",
+            "initBeforeGitHubRepo": true
+        },
+        "equinor/libres": {
+            "createdAt": "2017-04-24T10:57:30Z",
+            "firstCommitAt": "2006-10-02T11:18:37Z",
+            "initBeforeGitHubRepo": true
+        },
+        "equinor/pyvds": {
+            "createdAt": "2021-07-30T10:07:41Z",
+            "firstCommitAt": "2021-07-30T10:32:56Z",
+            "initBeforeGitHubRepo": false
+        },
+        "equinor/pyzgy": {
+            "createdAt": "2021-08-19T13:53:54Z",
+            "firstCommitAt": "2021-08-20T11:20:04Z",
+            "initBeforeGitHubRepo": false
+        },
         "equinor/segyio": {
             "createdAt": "2016-09-27T13:40:09Z",
             "firstCommitAt": "2016-09-30T13:22:46Z",
@@ -683,6 +778,11 @@
         "equinor/seismic-zfp": {
             "createdAt": "2019-10-18T14:19:43Z",
             "firstCommitAt": "2019-10-18T13:15:12Z",
+            "initBeforeGitHubRepo": true
+        },
+        "equinor/webviz": {
+            "createdAt": "2018-07-09T14:00:36Z",
+            "firstCommitAt": "2018-07-05T11:56:46Z",
             "initBeforeGitHubRepo": true
         },
         "fatiando/.github": {
@@ -695,20 +795,25 @@
             "firstCommitAt": "2021-04-28T18:30:57Z",
             "initBeforeGitHubRepo": true
         },
+        "fatiando/agu2021": {
+            "createdAt": "2021-07-27T15:50:39Z",
+            "firstCommitAt": "2021-07-27T15:50:40Z",
+            "initBeforeGitHubRepo": false
+        },
         "fatiando/boule": {
             "createdAt": "2019-10-18T15:53:46Z",
             "firstCommitAt": "2019-10-21T14:23:34Z",
             "initBeforeGitHubRepo": false
         },
+        "fatiando/community": {
+            "createdAt": "2018-04-26T02:20:30Z",
+            "firstCommitAt": "2018-04-26T02:20:25Z",
+            "initBeforeGitHubRepo": true
+        },
         "fatiando/continuous-integration": {
             "createdAt": "2018-04-20T01:18:52Z",
             "firstCommitAt": "2018-04-25T23:21:11Z",
             "initBeforeGitHubRepo": false
-        },
-        "fatiando/contributing": {
-            "createdAt": "2018-04-26T02:20:30Z",
-            "firstCommitAt": "2018-04-26T02:20:25Z",
-            "initBeforeGitHubRepo": true
         },
         "fatiando/deeplook": {
             "createdAt": "2019-03-14T20:24:03Z",
@@ -748,6 +853,11 @@
         "fatiando/harmonica": {
             "createdAt": "2018-07-14T20:47:24Z",
             "firstCommitAt": "2018-07-15T18:30:27Z",
+            "initBeforeGitHubRepo": false
+        },
+        "fatiando/legacy-docs": {
+            "createdAt": "2016-09-26T23:58:19Z",
+            "firstCommitAt": "2016-11-28T00:15:49Z",
             "initBeforeGitHubRepo": false
         },
         "fatiando/logo": {
@@ -840,11 +950,6 @@
             "firstCommitAt": "2016-09-27T00:05:39Z",
             "initBeforeGitHubRepo": false
         },
-        "fatiando/v0.5": {
-            "createdAt": "2016-09-26T23:58:19Z",
-            "firstCommitAt": "2016-11-28T00:15:49Z",
-            "initBeforeGitHubRepo": false
-        },
         "fatiando/verde": {
             "createdAt": "2018-04-25T23:21:08Z",
             "firstCommitAt": "2018-04-26T03:36:28Z",
@@ -869,6 +974,11 @@
             "createdAt": "2016-02-17T15:26:22Z",
             "firstCommitAt": "2015-11-11T20:49:27Z",
             "initBeforeGitHubRepo": true
+        },
+        "holoviz/colorcet": {
+            "createdAt": "2016-11-07T03:30:57Z",
+            "firstCommitAt": "2016-11-07T03:30:58Z",
+            "initBeforeGitHubRepo": false
         },
         "hpgl/hpgl": {
             "createdAt": "2011-07-04T12:42:09Z",
@@ -1035,9 +1145,19 @@
             "firstCommitAt": "2007-08-05T18:55:56Z",
             "initBeforeGitHubRepo": true
         },
+        "ondrolexa/apsg": {
+            "createdAt": "2014-10-07T06:31:58Z",
+            "firstCommitAt": "2014-10-07T06:31:58Z",
+            "initBeforeGitHubRepo": true
+        },
         "opengeostat/pygslib": {
             "createdAt": "2015-08-29T05:32:10Z",
             "firstCommitAt": "2015-08-29T01:31:56Z",
+            "initBeforeGitHubRepo": true
+        },
+        "pemn/vtk_triangulate_points": {
+            "createdAt": "2021-02-24T13:31:46Z",
+            "firstCommitAt": "2021-02-24T13:31:46Z",
             "initBeforeGitHubRepo": true
         },
         "pyrocko/pyrocko": {
@@ -1145,6 +1265,11 @@
             "firstCommitAt": "2020-05-01T12:52:12Z",
             "initBeforeGitHubRepo": false
         },
+        "softwareunderground/geothermal-hack-2021": {
+            "createdAt": "2021-05-10T14:38:14Z",
+            "firstCommitAt": "2021-05-10T14:38:15Z",
+            "initBeforeGitHubRepo": false
+        },
         "softwareunderground/getting-started": {
             "createdAt": "2019-05-08T13:14:45Z",
             "firstCommitAt": "2019-05-08T13:14:46Z",
@@ -1194,6 +1319,11 @@
             "createdAt": "2020-09-03T14:26:45Z",
             "firstCommitAt": "2020-09-03T14:26:47Z",
             "initBeforeGitHubRepo": false
+        },
+        "softwareunderground/stack-smoke-test": {
+            "createdAt": "2021-10-04T16:21:59Z",
+            "firstCommitAt": "2021-10-04T16:21:59Z",
+            "initBeforeGitHubRepo": true
         },
         "softwareunderground/subsurface": {
             "createdAt": "2019-05-09T12:21:12Z",
@@ -1258,6 +1388,11 @@
         "trhallam/segysak": {
             "createdAt": "2019-07-19T19:13:22Z",
             "firstCommitAt": "2019-07-19T19:13:22Z",
+            "initBeforeGitHubRepo": true
+        },
+        "waynegm/OpendTect": {
+            "createdAt": "2019-09-04T01:28:26Z",
+            "firstCommitAt": "1999-09-03T10:11:41Z",
             "initBeforeGitHubRepo": true
         },
         "waynegm/OpendTect-Plugins": {

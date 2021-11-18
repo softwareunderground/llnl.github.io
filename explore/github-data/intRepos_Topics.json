@@ -6,6 +6,18 @@
                 "totalCount": 0
             }
         },
+        "FRI-Energy-Analytics/2021_summer_fellows": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "FRI-Energy-Analytics/academic-poster-template": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "FRI-Energy-Analytics/alaska": {
             "repositoryTopics": {
                 "nodes": [],
@@ -80,9 +92,16 @@
                             "name": "seismology"
                         },
                         "url": "https://github.com/topics/seismology"
+                    },
+                    {
+                        "resourcePath": "/topics/hacktoberfest",
+                        "topic": {
+                            "name": "hacktoberfest"
+                        },
+                        "url": "https://github.com/topics/hacktoberfest"
                     }
                 ],
-                "totalCount": 6
+                "totalCount": 7
             }
         },
         "GeoPyTool/GeoPyTool": {
@@ -349,9 +368,23 @@
                             "name": "interpolation"
                         },
                         "url": "https://github.com/topics/interpolation"
+                    },
+                    {
+                        "resourcePath": "/topics/kriging",
+                        "topic": {
+                            "name": "kriging"
+                        },
+                        "url": "https://github.com/topics/kriging"
+                    },
+                    {
+                        "resourcePath": "/topics/gaussian-processes",
+                        "topic": {
+                            "name": "gaussian-processes"
+                        },
+                        "url": "https://github.com/topics/gaussian-processes"
                     }
                 ],
-                "totalCount": 14
+                "totalCount": 16
             }
         },
         "JustinGOSSES/predictatops": {
@@ -578,6 +611,12 @@
                 "totalCount": 11
             }
         },
+        "Loop3D/.github": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "Loop3D/GKM": {
             "repositoryTopics": {
                 "nodes": [],
@@ -628,8 +667,79 @@
         },
         "Loop3D/LoopStructural": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/geoscience",
+                        "topic": {
+                            "name": "geoscience"
+                        },
+                        "url": "https://github.com/topics/geoscience"
+                    },
+                    {
+                        "resourcePath": "/topics/geology",
+                        "topic": {
+                            "name": "geology"
+                        },
+                        "url": "https://github.com/topics/geology"
+                    },
+                    {
+                        "resourcePath": "/topics/interpolation",
+                        "topic": {
+                            "name": "interpolation"
+                        },
+                        "url": "https://github.com/topics/interpolation"
+                    },
+                    {
+                        "resourcePath": "/topics/geology-modelling",
+                        "topic": {
+                            "name": "geology-modelling"
+                        },
+                        "url": "https://github.com/topics/geology-modelling"
+                    },
+                    {
+                        "resourcePath": "/topics/structural-geology",
+                        "topic": {
+                            "name": "structural-geology"
+                        },
+                        "url": "https://github.com/topics/structural-geology"
+                    },
+                    {
+                        "resourcePath": "/topics/folds",
+                        "topic": {
+                            "name": "folds"
+                        },
+                        "url": "https://github.com/topics/folds"
+                    },
+                    {
+                        "resourcePath": "/topics/faults",
+                        "topic": {
+                            "name": "faults"
+                        },
+                        "url": "https://github.com/topics/faults"
+                    },
+                    {
+                        "resourcePath": "/topics/kinematics",
+                        "topic": {
+                            "name": "kinematics"
+                        },
+                        "url": "https://github.com/topics/kinematics"
+                    },
+                    {
+                        "resourcePath": "/topics/implicit-modelling",
+                        "topic": {
+                            "name": "implicit-modelling"
+                        },
+                        "url": "https://github.com/topics/implicit-modelling"
+                    },
+                    {
+                        "resourcePath": "/topics/3d-modelling",
+                        "topic": {
+                            "name": "3d-modelling"
+                        },
+                        "url": "https://github.com/topics/3d-modelling"
+                    }
+                ],
+                "totalCount": 10
             }
         },
         "Loop3D/LoopStructuralWorkshop": {
@@ -692,13 +802,31 @@
                 "totalCount": 0
             }
         },
+        "Loop3D/loop-conda": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "Loop3D/loop3d.github.io": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
             }
         },
+        "Loop3D/loopUI": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "Loop3D/loop_nightly": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/loopy-conda": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -735,6 +863,12 @@
             }
         },
         "Loop3D/noddyverse": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Loop3D/publish_to_conda": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -792,6 +926,76 @@
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "OPM/ResInsight": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/visualization",
+                        "topic": {
+                            "name": "visualization"
+                        },
+                        "url": "https://github.com/topics/visualization"
+                    },
+                    {
+                        "resourcePath": "/topics/octave",
+                        "topic": {
+                            "name": "octave"
+                        },
+                        "url": "https://github.com/topics/octave"
+                    },
+                    {
+                        "resourcePath": "/topics/reservoir-modeling",
+                        "topic": {
+                            "name": "reservoir-modeling"
+                        },
+                        "url": "https://github.com/topics/reservoir-modeling"
+                    },
+                    {
+                        "resourcePath": "/topics/eclipse",
+                        "topic": {
+                            "name": "eclipse"
+                        },
+                        "url": "https://github.com/topics/eclipse"
+                    },
+                    {
+                        "resourcePath": "/topics/cross-platform",
+                        "topic": {
+                            "name": "cross-platform"
+                        },
+                        "url": "https://github.com/topics/cross-platform"
+                    },
+                    {
+                        "resourcePath": "/topics/opengl",
+                        "topic": {
+                            "name": "opengl"
+                        },
+                        "url": "https://github.com/topics/opengl"
+                    },
+                    {
+                        "resourcePath": "/topics/c-plus-plus",
+                        "topic": {
+                            "name": "c-plus-plus"
+                        },
+                        "url": "https://github.com/topics/c-plus-plus"
+                    },
+                    {
+                        "resourcePath": "/topics/geomechanics",
+                        "topic": {
+                            "name": "geomechanics"
+                        },
+                        "url": "https://github.com/topics/geomechanics"
+                    },
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    }
+                ],
+                "totalCount": 9
             }
         },
         "OpenGeoVis/PVGeo": {
@@ -885,6 +1089,12 @@
                 "totalCount": 12
             }
         },
+        "OpenGeoVis/omfvista": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "OpenGeoscience/geonotebook": {
             "repositoryTopics": {
                 "nodes": [
@@ -948,7 +1158,19 @@
                 "totalCount": 8
             }
         },
+        "OpendTect/OpendTect": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "SeisComP/seiscomp": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "Zabamund/wellpathpy": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -1092,12 +1314,6 @@
             }
         },
         "agile-geoscience/geocomp-public": {
-            "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
-            }
-        },
-        "agile-geoscience/geocomputing": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -1250,6 +1466,41 @@
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "agile-geoscience/rocky-playground": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/machine-learning",
+                        "topic": {
+                            "name": "machine-learning"
+                        },
+                        "url": "https://github.com/topics/machine-learning"
+                    },
+                    {
+                        "resourcePath": "/topics/teaching-tool",
+                        "topic": {
+                            "name": "teaching-tool"
+                        },
+                        "url": "https://github.com/topics/teaching-tool"
+                    },
+                    {
+                        "resourcePath": "/topics/geoscience",
+                        "topic": {
+                            "name": "geoscience"
+                        },
+                        "url": "https://github.com/topics/geoscience"
+                    },
+                    {
+                        "resourcePath": "/topics/neural-networks",
+                        "topic": {
+                            "name": "neural-networks"
+                        },
+                        "url": "https://github.com/topics/neural-networks"
+                    }
+                ],
+                "totalCount": 4
             }
         },
         "agile-geoscience/seismobit": {
@@ -1498,6 +1749,12 @@
             }
         },
         "cgre-aachen/FastElephant": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "cgre-aachen/InformedLocalSmoothing": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -1976,6 +2233,18 @@
                 "totalCount": 0
             }
         },
+        "cgre-aachen/teaching-git": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "cgre-aachen/teaching-multivariate-stats": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "cgre-aachen/teaching-quantitative-methods": {
             "repositoryTopics": {
                 "nodes": [],
@@ -1986,6 +2255,62 @@
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "csdms/bmi": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/bmi",
+                        "topic": {
+                            "name": "bmi"
+                        },
+                        "url": "https://github.com/topics/bmi"
+                    },
+                    {
+                        "resourcePath": "/topics/csdms",
+                        "topic": {
+                            "name": "csdms"
+                        },
+                        "url": "https://github.com/topics/csdms"
+                    },
+                    {
+                        "resourcePath": "/topics/geosciences",
+                        "topic": {
+                            "name": "geosciences"
+                        },
+                        "url": "https://github.com/topics/geosciences"
+                    },
+                    {
+                        "resourcePath": "/topics/c",
+                        "topic": {
+                            "name": "c"
+                        },
+                        "url": "https://github.com/topics/c"
+                    },
+                    {
+                        "resourcePath": "/topics/fortran",
+                        "topic": {
+                            "name": "fortran"
+                        },
+                        "url": "https://github.com/topics/fortran"
+                    },
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    },
+                    {
+                        "resourcePath": "/topics/cxx",
+                        "topic": {
+                            "name": "cxx"
+                        },
+                        "url": "https://github.com/topics/cxx"
+                    }
+                ],
+                "totalCount": 7
             }
         },
         "csdms/pymt": {
@@ -2195,6 +2520,81 @@
                 "totalCount": 4
             }
         },
+        "equinor/ecl": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/reservoir",
+                        "topic": {
+                            "name": "reservoir"
+                        },
+                        "url": "https://github.com/topics/reservoir"
+                    },
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    },
+                    {
+                        "resourcePath": "/topics/c",
+                        "topic": {
+                            "name": "c"
+                        },
+                        "url": "https://github.com/topics/c"
+                    },
+                    {
+                        "resourcePath": "/topics/opm",
+                        "topic": {
+                            "name": "opm"
+                        },
+                        "url": "https://github.com/topics/opm"
+                    },
+                    {
+                        "resourcePath": "/topics/eclipse",
+                        "topic": {
+                            "name": "eclipse"
+                        },
+                        "url": "https://github.com/topics/eclipse"
+                    },
+                    {
+                        "resourcePath": "/topics/hacktoberfest",
+                        "topic": {
+                            "name": "hacktoberfest"
+                        },
+                        "url": "https://github.com/topics/hacktoberfest"
+                    }
+                ],
+                "totalCount": 6
+            }
+        },
+        "equinor/libres": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/hacktoberfest",
+                        "topic": {
+                            "name": "hacktoberfest"
+                        },
+                        "url": "https://github.com/topics/hacktoberfest"
+                    }
+                ],
+                "totalCount": 1
+            }
+        },
+        "equinor/pyvds": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "equinor/pyzgy": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "equinor/segyio": {
             "repositoryTopics": {
                 "nodes": [
@@ -2257,6 +2657,12 @@
                 "totalCount": 0
             }
         },
+        "equinor/webviz": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "fatiando/.github": {
             "repositoryTopics": {
                 "nodes": [],
@@ -2264,6 +2670,12 @@
             }
         },
         "fatiando/2021-gsh": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "fatiando/agu2021": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -2346,6 +2758,12 @@
                 "totalCount": 10
             }
         },
+        "fatiando/community": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "fatiando/continuous-integration": {
             "repositoryTopics": {
                 "nodes": [
@@ -2379,12 +2797,6 @@
                     }
                 ],
                 "totalCount": 4
-            }
-        },
-        "fatiando/contributing": {
-            "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
             }
         },
         "fatiando/deeplook": {
@@ -2635,6 +3047,12 @@
                 "totalCount": 9
             }
         },
+        "fatiando/legacy-docs": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "fatiando/logo": {
             "repositoryTopics": {
                 "nodes": [],
@@ -2799,8 +3217,23 @@
         },
         "fatiando/rockhound-data": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/earth-science",
+                        "topic": {
+                            "name": "earth-science"
+                        },
+                        "url": "https://github.com/topics/earth-science"
+                    },
+                    {
+                        "resourcePath": "/topics/data",
+                        "topic": {
+                            "name": "data"
+                        },
+                        "url": "https://github.com/topics/data"
+                    }
+                ],
+                "totalCount": 2
             }
         },
         "fatiando/sticker": {
@@ -2902,12 +3335,6 @@
             }
         },
         "fatiando/v0.4": {
-            "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
-            }
-        },
-        "fatiando/v0.5": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -3041,6 +3468,55 @@
                     }
                 ],
                 "totalCount": 4
+            }
+        },
+        "holoviz/colorcet": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/holoviz",
+                        "topic": {
+                            "name": "holoviz"
+                        },
+                        "url": "https://github.com/topics/holoviz"
+                    },
+                    {
+                        "resourcePath": "/topics/colorcet",
+                        "topic": {
+                            "name": "colorcet"
+                        },
+                        "url": "https://github.com/topics/colorcet"
+                    },
+                    {
+                        "resourcePath": "/topics/colormaps",
+                        "topic": {
+                            "name": "colormaps"
+                        },
+                        "url": "https://github.com/topics/colormaps"
+                    },
+                    {
+                        "resourcePath": "/topics/matplotlib",
+                        "topic": {
+                            "name": "matplotlib"
+                        },
+                        "url": "https://github.com/topics/matplotlib"
+                    },
+                    {
+                        "resourcePath": "/topics/bokeh",
+                        "topic": {
+                            "name": "bokeh"
+                        },
+                        "url": "https://github.com/topics/bokeh"
+                    },
+                    {
+                        "resourcePath": "/topics/plotly",
+                        "topic": {
+                            "name": "plotly"
+                        },
+                        "url": "https://github.com/topics/plotly"
+                    }
+                ],
+                "totalCount": 6
             }
         },
         "hpgl/hpgl": {
@@ -3302,9 +3778,16 @@
                             "name": "swung-t21"
                         },
                         "url": "https://github.com/topics/swung-t21"
+                    },
+                    {
+                        "resourcePath": "/topics/lasio",
+                        "topic": {
+                            "name": "lasio"
+                        },
+                        "url": "https://github.com/topics/lasio"
                     }
                 ],
-                "totalCount": 14
+                "totalCount": 15
             }
         },
         "kinverarity1/mtwaffle": {
@@ -3662,10 +4145,59 @@
                 "totalCount": 11
             }
         },
+        "ondrolexa/apsg": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/python",
+                        "topic": {
+                            "name": "python"
+                        },
+                        "url": "https://github.com/topics/python"
+                    },
+                    {
+                        "resourcePath": "/topics/structural-geology",
+                        "topic": {
+                            "name": "structural-geology"
+                        },
+                        "url": "https://github.com/topics/structural-geology"
+                    }
+                ],
+                "totalCount": 2
+            }
+        },
         "opengeostat/pygslib": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "pemn/vtk_triangulate_points": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/mining",
+                        "topic": {
+                            "name": "mining"
+                        },
+                        "url": "https://github.com/topics/mining"
+                    },
+                    {
+                        "resourcePath": "/topics/3d",
+                        "topic": {
+                            "name": "3d"
+                        },
+                        "url": "https://github.com/topics/3d"
+                    },
+                    {
+                        "resourcePath": "/topics/delaunay",
+                        "topic": {
+                            "name": "delaunay"
+                        },
+                        "url": "https://github.com/topics/delaunay"
+                    }
+                ],
+                "totalCount": 3
             }
         },
         "pyrocko/pyrocko": {
@@ -4249,6 +4781,12 @@
                 "totalCount": 0
             }
         },
+        "softwareunderground/geothermal-hack-2021": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "softwareunderground/getting-started": {
             "repositoryTopics": {
                 "nodes": [],
@@ -4363,6 +4901,12 @@
             }
         },
         "softwareunderground/repro-zoo": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "softwareunderground/stack-smoke-test": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -4560,6 +5104,12 @@
                     }
                 ],
                 "totalCount": 5
+            }
+        },
+        "waynegm/OpendTect": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
             }
         },
         "waynegm/OpendTect-Plugins": {

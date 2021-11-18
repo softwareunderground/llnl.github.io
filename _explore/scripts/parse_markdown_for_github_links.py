@@ -17,6 +17,8 @@ url_of_readme = config["raw_link_to_awesome_list_readme_to_parse"]
 name_of_awesome_list = config["filename_to_save_awesome_list_readme"]
 name_of_code_platform_searched = config["name_of_code_platform_searched"]
 
+exclude_these_usernames = config["exclude_these_usernames"]
+
 # url_of_readme = "https://raw.githubusercontent.com/softwareunderground/awesome-open-geoscience/main/README.md"
 # name_of_awesome_list = "awesome-open-geoscience"
 # name_of_code_platform_searched = "https://github.com"
@@ -69,6 +71,18 @@ found_in_search = re.findall(r'https://github.com/\w+/\w+',text,re.IGNORECASE)
 #### Take out duplicates
 found_in_search_no_duplicates = list(dict.fromkeys(found_in_search))
 #print(len(found_in_search_no_duplicates))
+
+def takeOutAnyWithExcludedUserNames(exclude_these_usernames, found_in_search_no_duplicates):
+    new_list = []
+    for name in found_in_search_no_duplicates:
+        for bannedName in exclude_these_usernames:
+            if bannedName not in name:
+                new_list.append(name)
+            else:
+                print("found an excluded username string",bannedName," in the URL for ",name, "and will therefore exclude it. The usernames to exclude are defined in _config.yml")
+    return new_list
+
+found_in_search_no_duplicates = takeOutAnyWithExcludedUserNames(exclude_these_usernames, found_in_search_no_duplicates)
 
 print("found ",len(found_in_search_no_duplicates), "different URLs to github of the form https://github.com/ ... / ... / in the markdown file",name_of_awesome_list)
 print("They are:",found_in_search_no_duplicates)

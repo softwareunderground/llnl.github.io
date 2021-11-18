@@ -16,6 +16,10 @@ path_to_directory_to_save_awesome_list_readme: _explore
 filename_to_save_awesome_list_readme: awesome-open-geoscience.md
 name_of_code_platform_searched: https://github.com
 
+
+exclude_these_usernames:
+  - "sindresorhus"
+
 # LLNL Piwik Analytics https://analytics.llnl.gov
 # piwik_id: 250
 

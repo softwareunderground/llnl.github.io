@@ -5,6 +5,18 @@
         "topics": null,
         "website": null
     },
+    "FRI-Energy-Analytics/2021_summer_fellows": {
+        "description": "repository for the 2021 EA summer fellows",
+        "name": "FRI-Energy-Analytics/2021_summer_fellows",
+        "topics": null,
+        "website": null
+    },
+    "FRI-Energy-Analytics/academic-poster-template": {
+        "description": "An HTML+CSS template for making more accessible posters",
+        "name": "FRI-Energy-Analytics/academic-poster-template",
+        "topics": null,
+        "website": "https://cpitclaudel.github.io/academic-poster-template/tutorial/poster.html"
+    },
     "FRI-Energy-Analytics/alaska": {
         "description": "AlasKA well log LAS file aliaser",
         "name": "FRI-Energy-Analytics/alaska",
@@ -44,7 +56,8 @@
             "earth-science",
             "geophysics",
             "maps",
-            "seismology"
+            "seismology",
+            "hacktoberfest"
         ],
         "website": "https://www.pygmt.org"
     },
@@ -105,7 +118,7 @@
         "website": ""
     },
     "JohnWStockwellJr/SeisUnix": {
-        "description": "The CWP/SU: Seismic Un*x Package - a free open seismic processing, research, and educational software package.",
+        "description": "The CWP/SU: Seismic Un*x Package - a free open seismic processing, research, and educational software package. Please seek distribution gzipped tar files at https://wiki.Seismic-Unix.org not the Github version.",
         "name": "JohnWStockwellJr/SeisUnix",
         "topics": null,
         "website": "https://wiki.Seismic-Unix.org"
@@ -127,7 +140,9 @@
             "simulation",
             "learning",
             "point-patterns",
-            "interpolation"
+            "interpolation",
+            "kriging",
+            "gaussian-processes"
         ],
         "website": "https://juliaearth.github.io/GeoStats.jl/stable"
     },
@@ -181,6 +196,12 @@
         ],
         "website": "https://justingosses.github.io/wellioviz/#introduction"
     },
+    "Loop3D/.github": {
+        "description": null,
+        "name": "Loop3D/.github",
+        "topics": null,
+        "website": null
+    },
     "Loop3D/GKM": {
         "description": "Geoscience Knowledge Manager",
         "name": "Loop3D/GKM",
@@ -230,9 +251,20 @@
         "website": null
     },
     "Loop3D/LoopStructural": {
-        "description": "Loop: Structural",
+        "description": "LoopStructural is an open-source 3D structural geological modelling library. ",
         "name": "Loop3D/LoopStructural",
-        "topics": null,
+        "topics": [
+            "geoscience",
+            "geology",
+            "interpolation",
+            "geology-modelling",
+            "structural-geology",
+            "folds",
+            "faults",
+            "kinematics",
+            "implicit-modelling",
+            "3d-modelling"
+        ],
         "website": ""
     },
     "Loop3D/LoopStructuralWorkshop": {
@@ -295,15 +327,33 @@
         "topics": null,
         "website": null
     },
+    "Loop3D/loop-conda": {
+        "description": "A repository with build recipes for loop3d channel ",
+        "name": "Loop3D/loop-conda",
+        "topics": null,
+        "website": null
+    },
     "Loop3D/loop3d.github.io": {
         "description": null,
         "name": "Loop3D/loop3d.github.io",
         "topics": null,
         "website": null
     },
+    "Loop3D/loopUI": {
+        "description": null,
+        "name": "Loop3D/loopUI",
+        "topics": null,
+        "website": null
+    },
     "Loop3D/loop_nightly": {
         "description": "This repository will handle creating nightly releases of Loop code: LoopStructural, map2loop",
         "name": "Loop3D/loop_nightly",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/loopy-conda": {
+        "description": "Complete programmatic Loop workflow in one package.",
+        "name": "Loop3D/loopy-conda",
         "topics": null,
         "website": null
     },
@@ -340,6 +390,12 @@
     "Loop3D/noddyverse": {
         "description": null,
         "name": "Loop3D/noddyverse",
+        "topics": null,
+        "website": null
+    },
+    "Loop3D/publish_to_conda": {
+        "description": "cross platform action to publish python libaries to conda channels.",
+        "name": "Loop3D/publish_to_conda",
         "topics": null,
         "website": null
     },
@@ -397,6 +453,22 @@
         "topics": null,
         "website": null
     },
+    "OPM/ResInsight": {
+        "description": "3D viewer and post processing of reservoir models",
+        "name": "OPM/ResInsight",
+        "topics": [
+            "visualization",
+            "octave",
+            "reservoir-modeling",
+            "eclipse",
+            "cross-platform",
+            "opengl",
+            "c-plus-plus",
+            "geomechanics",
+            "python"
+        ],
+        "website": "http://resinsight.org/"
+    },
     "OpenGeoVis/PVGeo": {
         "description": "Python package of VTK-based algorithms to analyze geoscientific data and models",
         "name": "OpenGeoVis/PVGeo",
@@ -416,6 +488,12 @@
         ],
         "website": "https://pvgeo.org"
     },
+    "OpenGeoVis/omfvista": {
+        "description": "3D visualization for the Open Mining Format (omf)",
+        "name": "OpenGeoVis/omfvista",
+        "topics": null,
+        "website": "https://opengeovis.github.io/omfvista/"
+    },
     "OpenGeoscience/geonotebook": {
         "description": "A Jupyter notebook extension for geospatial visualization and analysis",
         "name": "OpenGeoscience/geonotebook",
@@ -431,9 +509,21 @@
         ],
         "website": ""
     },
+    "OpendTect/OpendTect": {
+        "description": "4cce3e7a",
+        "name": "OpendTect/OpendTect",
+        "topics": null,
+        "website": ""
+    },
     "SeisComP/seiscomp": {
         "description": "The build environment for all SeisComP repositories. Includes the documentation.",
         "name": "SeisComP/seiscomp",
+        "topics": null,
+        "website": null
+    },
+    "Zabamund/wellpathpy": {
+        "description": "Well deviation import",
+        "name": "Zabamund/wellpathpy",
         "topics": null,
         "website": null
     },
@@ -556,12 +646,6 @@
         "topics": null,
         "website": null
     },
-    "agile-geoscience/geocomputing": {
-        "description": "The public geocomputing class for beginners",
-        "name": "agile-geoscience/geocomputing",
-        "topics": null,
-        "website": null
-    },
     "agile-geoscience/geotransect": {
         "description": "Tool for summarizing data available along 2D transects.",
         "name": "agile-geoscience/geotransect",
@@ -662,6 +746,17 @@
         "name": "agile-geoscience/recipes",
         "topics": null,
         "website": null
+    },
+    "agile-geoscience/rocky-playground": {
+        "description": "An adaptation of the TensorFlow Playground, with some new datasets and activation functions.",
+        "name": "agile-geoscience/rocky-playground",
+        "topics": [
+            "machine-learning",
+            "teaching-tool",
+            "geoscience",
+            "neural-networks"
+        ],
+        "website": "https://playground.geosci.ai/"
     },
     "agile-geoscience/seismobit": {
         "description": "A real-time seismograph animation using a micro:bit",
@@ -767,6 +862,12 @@
     "cgre-aachen/FastElephant": {
         "description": "Coupling and processing options for DwarfElephant",
         "name": "cgre-aachen/FastElephant",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/InformedLocalSmoothing": {
+        "description": null,
+        "name": "cgre-aachen/InformedLocalSmoothing",
         "topics": null,
         "website": null
     },
@@ -955,6 +1056,18 @@
         "topics": null,
         "website": null
     },
+    "cgre-aachen/teaching-git": {
+        "description": "A simple repository to try working with git",
+        "name": "cgre-aachen/teaching-git",
+        "topics": null,
+        "website": null
+    },
+    "cgre-aachen/teaching-multivariate-stats": {
+        "description": "Material for multivariate statistics class",
+        "name": "cgre-aachen/teaching-multivariate-stats",
+        "topics": null,
+        "website": null
+    },
     "cgre-aachen/teaching-quantitative-methods": {
         "description": "Teaching material for class \"quantitative methods in geosciences\"",
         "name": "cgre-aachen/teaching-quantitative-methods",
@@ -966,6 +1079,20 @@
         "name": "cgre-aachen/teaching-research-module",
         "topics": null,
         "website": null
+    },
+    "csdms/bmi": {
+        "description": "The Basic Model Interface",
+        "name": "csdms/bmi",
+        "topics": [
+            "bmi",
+            "csdms",
+            "geosciences",
+            "c",
+            "fortran",
+            "python",
+            "cxx"
+        ],
+        "website": "https://bmi.readthedocs.io"
     },
     "csdms/pymt": {
         "description": "A Python toolkit for running and coupling Earth surface models",
@@ -1017,7 +1144,7 @@
             "python",
             "empymod"
         ],
-        "website": "https://emsig.xyz"
+        "website": "https://empymod.emsig.xyz"
     },
     "equinor/dlisio": {
         "description": "Python library for working with the well log formats Digital Log Interchange Standard (DLIS V1) and Log Information Standard (LIS79)",
@@ -1028,7 +1155,40 @@
             "lis",
             "lis79"
         ],
-        "website": "https://dlisio.readthedocs.io/en/stable/"
+        "website": "https://dlisio.readthedocs.io/en/latest/"
+    },
+    "equinor/ecl": {
+        "description": "Software for reading and writing the result files from the Eclipse reservoir simulator.",
+        "name": "equinor/ecl",
+        "topics": [
+            "reservoir",
+            "python",
+            "c",
+            "opm",
+            "eclipse",
+            "hacktoberfest"
+        ],
+        "website": ""
+    },
+    "equinor/libres": {
+        "description": null,
+        "name": "equinor/libres",
+        "topics": [
+            "hacktoberfest"
+        ],
+        "website": ""
+    },
+    "equinor/pyvds": {
+        "description": "Read VDS files with segyio-like syntax",
+        "name": "equinor/pyvds",
+        "topics": null,
+        "website": null
+    },
+    "equinor/pyzgy": {
+        "description": "Read Schlumberger's ZGY format with syntax familiar to users of segyio",
+        "name": "equinor/pyzgy",
+        "topics": null,
+        "website": null
     },
     "equinor/segyio": {
         "description": "Fast Python library for SEGY files.",
@@ -1050,6 +1210,12 @@
         "topics": null,
         "website": null
     },
+    "equinor/webviz": {
+        "description": "THIS REPO IS NOT MAINTAINED ANYMORE. Go to https://github.com/equinor/webviz-config for the new repo.",
+        "name": "equinor/webviz",
+        "topics": null,
+        "website": ""
+    },
     "fatiando/.github": {
         "description": "Templates for Issues and Pull Requests shared between our projects",
         "name": "fatiando/.github",
@@ -1060,10 +1226,16 @@
         "description": "Talk about Fatiando for the Geophysical Society of Houston",
         "name": "fatiando/2021-gsh",
         "topics": null,
-        "website": ""
+        "website": "https://www.fatiando.org/2021-gsh/"
+    },
+    "fatiando/agu2021": {
+        "description": "Invited presentation about Fatiando at AGU2021",
+        "name": "fatiando/agu2021",
+        "topics": null,
+        "website": null
     },
     "fatiando/boule": {
-        "description": "Reference ellipsoids for geodesy, geophysics, and coordinate calculations",
+        "description": "Reference ellipsoids for geodesy and geophysics",
         "name": "fatiando/boule",
         "topics": [
             "geophysics",
@@ -1079,8 +1251,14 @@
         ],
         "website": "https://www.fatiando.org/boule"
     },
+    "fatiando/community": {
+        "description": "Community resources, guidelines, meeting notes, authorship policy, maintenance, etc.",
+        "name": "fatiando/community",
+        "topics": null,
+        "website": ""
+    },
     "fatiando/continuous-integration": {
-        "description": "Scripts for managing continuous integration services: setup environments, deploy build artifacts, etc",
+        "description": "THIS REPOSITORY IS READ-ONLY and is no longer actively maintained. We have since moved to GitHub Actions, which makes most of these scripts redundant.",
         "name": "fatiando/continuous-integration",
         "topics": [
             "travis",
@@ -1088,12 +1266,6 @@
             "miniconda",
             "azure"
         ],
-        "website": null
-    },
-    "fatiando/contributing": {
-        "description": "Guidelines and instructions for contributing to Fatiando a Terra, including authorship policies, maintenance, and code of conduct",
-        "name": "fatiando/contributing",
-        "topics": null,
         "website": ""
     },
     "fatiando/deeplook": {
@@ -1129,7 +1301,7 @@
         "website": "https://www.fatiando.org/erizo"
     },
     "fatiando/fatiando": {
-        "description": "Python toolkit for modeling and inversion in geophysics. DEPRECATED in favor of our newer libraries (see www.fatiando.org)",
+        "description": "DEPRECATED in favor of our newer libraries (see www.fatiando.org). Python toolkit for modeling and inversion in geophysics. ",
         "name": "fatiando/fatiando",
         "topics": [
             "python",
@@ -1176,6 +1348,12 @@
         ],
         "website": "https://www.fatiando.org/harmonica"
     },
+    "fatiando/legacy-docs": {
+        "description": "Serves the documentation for the last release of the \"fatiando\" library.",
+        "name": "fatiando/legacy-docs",
+        "topics": null,
+        "website": "https://legacy.fatiando.org/"
+    },
     "fatiando/logo": {
         "description": "Source files for the Fatiando a Terra logos",
         "name": "fatiando/logo",
@@ -1183,16 +1361,16 @@
         "website": ""
     },
     "fatiando/maintenance": {
-        "description": "Keeping track of maintenance tasks for Fatiando repositories though issues",
+        "description": "NOTICE: This repository is archived. Content and functionality has been moved to https://github.com/fatiando/community",
         "name": "fatiando/maintenance",
         "topics": null,
-        "website": null
+        "website": ""
     },
     "fatiando/meeting-notes": {
-        "description": "Notes from Fatiando Community Calls. Decisions taken by the group, discussions, updates, etc. ",
+        "description": "NOTICE: This repository is archived. Content and functionality has been moved to https://github.com/fatiando/community",
         "name": "fatiando/meeting-notes",
         "topics": null,
-        "website": null
+        "website": ""
     },
     "fatiando/moulder": {
         "description": "Interactive 2D gravity forward modeling.",
@@ -1243,9 +1421,12 @@
         "website": "https://www.fatiando.org/rockhound"
     },
     "fatiando/rockhound-data": {
-        "description": "A place to format data for RockHound consumption",
+        "description": "A place to format and curate sample data for documentation and tutorials",
         "name": "fatiando/rockhound-data",
-        "topics": null,
+        "topics": [
+            "earth-science",
+            "data"
+        ],
         "website": ""
     },
     "fatiando/sticker": {
@@ -1310,12 +1491,6 @@
         "topics": null,
         "website": null
     },
-    "fatiando/v0.5": {
-        "description": "Documentation for v0.5 built using sphinx. Hosts the generated HTML files.",
-        "name": "fatiando/v0.5",
-        "topics": null,
-        "website": null
-    },
     "fatiando/verde": {
         "description": "Processing and interpolating spatial data with a twist of machine learning",
         "name": "fatiando/verde",
@@ -1340,7 +1515,7 @@
         "website": null
     },
     "fatiando/website": {
-        "description": "Sphinx source used to generate the www.fatiando.org page",
+        "description": "Sphinx sources used to generate the www.fatiando.org page",
         "name": "fatiando/website",
         "topics": null,
         "website": ""
@@ -1361,6 +1536,19 @@
             "traveltime"
         ],
         "website": ""
+    },
+    "holoviz/colorcet": {
+        "description": "A set of useful perceptually uniform colormaps for plotting scientific data",
+        "name": "holoviz/colorcet",
+        "topics": [
+            "holoviz",
+            "colorcet",
+            "colormaps",
+            "matplotlib",
+            "bokeh",
+            "plotly"
+        ],
+        "website": "http://colorcet.holoviz.org"
     },
     "hpgl/hpgl": {
         "description": "High Perfomance Geostatistics Library",
@@ -1430,7 +1618,8 @@
             "mineral-exploration",
             "log-ascii-standard",
             "python",
-            "swung-t21"
+            "swung-t21",
+            "lasio"
         ],
         "website": ""
     },
@@ -1627,11 +1816,30 @@
         ],
         "website": "https://www.obspy.org"
     },
+    "ondrolexa/apsg": {
+        "description": "Structural geology package for Python",
+        "name": "ondrolexa/apsg",
+        "topics": [
+            "python",
+            "structural-geology"
+        ],
+        "website": ""
+    },
     "opengeostat/pygslib": {
         "description": "GSLIB fortran code wrapped into python",
         "name": "opengeostat/pygslib",
         "topics": null,
         "website": null
+    },
+    "pemn/vtk_triangulate_points": {
+        "description": "Creates simplified surfaces from dense point clouds",
+        "name": "pemn/vtk_triangulate_points",
+        "topics": [
+            "mining",
+            "3d",
+            "delaunay"
+        ],
+        "website": ""
     },
     "pyrocko/pyrocko": {
         "description": "An official read-only mirror of https://git.pyrocko.org/pyrocko/pyrocko. A seismology toolkit for Python.",
@@ -1830,6 +2038,12 @@
         "topics": null,
         "website": null
     },
+    "softwareunderground/geothermal-hack-2021": {
+        "description": "Repo for general stuff at the Geothermal Hackathon 2021",
+        "name": "softwareunderground/geothermal-hack-2021",
+        "topics": null,
+        "website": null
+    },
     "softwareunderground/getting-started": {
         "description": "How to get started with Open Source contributions",
         "name": "softwareunderground/getting-started",
@@ -1877,7 +2091,7 @@
         "website": null
     },
     "softwareunderground/open_geosciene_code_projects_viz": {
-        "description": "fork of....Public home for LLNL software catalog",
+        "description": "experimental visualization of Awesome List",
         "name": "softwareunderground/open_geosciene_code_projects_viz",
         "topics": [
             "geology",
@@ -1898,6 +2112,12 @@
     "softwareunderground/repro-zoo": {
         "description": "Continuing the Repro Zoo project",
         "name": "softwareunderground/repro-zoo",
+        "topics": null,
+        "website": null
+    },
+    "softwareunderground/stack-smoke-test": {
+        "description": null,
+        "name": "softwareunderground/stack-smoke-test",
         "topics": null,
         "website": null
     },
@@ -1998,6 +2218,12 @@
             "swung-t21"
         ],
         "website": "https://segysak.readthedocs.io/en/latest/"
+    },
+    "waynegm/OpendTect": {
+        "description": "4cce3e7a",
+        "name": "waynegm/OpendTect",
+        "topics": null,
+        "website": ""
     },
     "waynegm/OpendTect-Plugins": {
         "description": "Various plugins for the open source seismic interpretation system - OpendTect",

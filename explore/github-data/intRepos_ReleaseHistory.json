@@ -5,6 +5,16 @@
                 "nodes": []
             }
         },
+        "FRI-Energy-Analytics/2021_summer_fellows": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "FRI-Energy-Analytics/academic-poster-template": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "FRI-Energy-Analytics/alaska": {
             "releases": {
                 "nodes": [
@@ -32,6 +42,11 @@
                         "name": "Beta version 0.4.1",
                         "publishedAt": "2021-03-24T21:23:15Z",
                         "tagName": "v0.4.1-beta"
+                    },
+                    {
+                        "name": "Beta version 0.5",
+                        "publishedAt": "2021-06-03T17:33:54Z",
+                        "tagName": "v0.5-beta"
                     }
                 ]
             }
@@ -93,6 +108,21 @@
                         "name": "v0.3.1",
                         "publishedAt": "2021-03-14T11:18:54Z",
                         "tagName": "v0.3.1"
+                    },
+                    {
+                        "name": "v0.4.0",
+                        "publishedAt": "2021-06-20T23:46:19Z",
+                        "tagName": "v0.4.0"
+                    },
+                    {
+                        "name": "v0.4.1",
+                        "publishedAt": "2021-08-07T10:59:45Z",
+                        "tagName": "v0.4.1"
+                    },
+                    {
+                        "name": "v0.5.0",
+                        "publishedAt": "2021-10-29T19:47:28Z",
+                        "tagName": "v0.5.0"
                     }
                 ]
             }
@@ -1129,6 +1159,146 @@
                         "name": "v9.0.14",
                         "publishedAt": "2021-04-30T09:59:50Z",
                         "tagName": "v9.0.14"
+                    },
+                    {
+                        "name": "v9.0.15",
+                        "publishedAt": "2021-05-12T10:47:33Z",
+                        "tagName": "v9.0.15"
+                    },
+                    {
+                        "name": "v9.0.16",
+                        "publishedAt": "2021-05-19T12:19:32Z",
+                        "tagName": "v9.0.16"
+                    },
+                    {
+                        "name": "v9.0.17",
+                        "publishedAt": "2021-06-21T12:33:04Z",
+                        "tagName": "v9.0.17"
+                    },
+                    {
+                        "name": "v9.0.18",
+                        "publishedAt": "2021-07-13T16:15:01Z",
+                        "tagName": "v9.0.18"
+                    },
+                    {
+                        "name": "v9.0.19",
+                        "publishedAt": "2021-08-17T13:50:49Z",
+                        "tagName": "v9.0.19"
+                    },
+                    {
+                        "name": "v9.1.0",
+                        "publishedAt": "2021-08-19T14:48:54Z",
+                        "tagName": "v9.1.0"
+                    },
+                    {
+                        "name": "v9.1.1",
+                        "publishedAt": "2021-08-26T14:39:56Z",
+                        "tagName": "v9.1.1"
+                    },
+                    {
+                        "name": "v9.1.2",
+                        "publishedAt": "2021-08-30T13:44:39Z",
+                        "tagName": "v9.1.2"
+                    },
+                    {
+                        "name": "v9.1.3",
+                        "publishedAt": "2021-08-31T14:56:09Z",
+                        "tagName": "v9.1.3"
+                    },
+                    {
+                        "name": "v9.1.4",
+                        "publishedAt": "2021-09-08T05:31:30Z",
+                        "tagName": "v9.1.4"
+                    },
+                    {
+                        "name": "v9.1.5",
+                        "publishedAt": "2021-09-10T15:42:30Z",
+                        "tagName": "v9.1.5"
+                    },
+                    {
+                        "name": "v9.1.6",
+                        "publishedAt": "2021-09-15T23:55:05Z",
+                        "tagName": "v9.1.6"
+                    },
+                    {
+                        "name": "v9.1.7",
+                        "publishedAt": "2021-09-16T07:17:42Z",
+                        "tagName": "v9.1.7"
+                    },
+                    {
+                        "name": "v9.1.8",
+                        "publishedAt": "2021-09-16T08:04:11Z",
+                        "tagName": "v9.1.8"
+                    },
+                    {
+                        "name": "v9.1.9",
+                        "publishedAt": "2021-09-24T08:00:51Z",
+                        "tagName": "v9.1.9"
+                    },
+                    {
+                        "name": "v9.1.10",
+                        "publishedAt": "2021-09-29T15:01:42Z",
+                        "tagName": "v9.1.10"
+                    },
+                    {
+                        "name": "v9.2.0",
+                        "publishedAt": "2021-10-04T13:51:07Z",
+                        "tagName": "v9.2.0"
+                    },
+                    {
+                        "name": "v9.2.1",
+                        "publishedAt": "2021-10-05T07:34:54Z",
+                        "tagName": "v9.2.1"
+                    },
+                    {
+                        "name": "v9.2.2",
+                        "publishedAt": "2021-10-05T08:27:54Z",
+                        "tagName": "v9.2.2"
+                    },
+                    {
+                        "name": "v9.2.3",
+                        "publishedAt": "2021-10-05T10:25:07Z",
+                        "tagName": "v9.2.3"
+                    },
+                    {
+                        "name": "v9.2.4",
+                        "publishedAt": "2021-10-05T13:10:13Z",
+                        "tagName": "v9.2.4"
+                    },
+                    {
+                        "name": "v9.2.5",
+                        "publishedAt": "2021-10-06T00:30:06Z",
+                        "tagName": "v9.2.5"
+                    },
+                    {
+                        "name": "v9.2.6",
+                        "publishedAt": "2021-10-06T10:19:51Z",
+                        "tagName": "v9.2.6"
+                    },
+                    {
+                        "name": "v9.3.0",
+                        "publishedAt": "2021-10-06T13:48:34Z",
+                        "tagName": "v9.3.0"
+                    },
+                    {
+                        "name": "v9.3.1",
+                        "publishedAt": "2021-10-08T06:22:26Z",
+                        "tagName": "v9.3.1"
+                    },
+                    {
+                        "name": "v9.4.0",
+                        "publishedAt": "2021-10-13T07:11:59Z",
+                        "tagName": "v9.4.0"
+                    },
+                    {
+                        "name": "v9.4.1",
+                        "publishedAt": "2021-10-14T14:21:12Z",
+                        "tagName": "v9.4.1"
+                    },
+                    {
+                        "name": "v9.5.0",
+                        "publishedAt": "2021-11-15T15:34:27Z",
+                        "tagName": "v9.5.0"
                     }
                 ]
             }
@@ -1535,6 +1705,56 @@
                         "name": "v0.24.1",
                         "publishedAt": "2021-04-02T15:55:30Z",
                         "tagName": "v0.24.1"
+                    },
+                    {
+                        "name": "v0.25.0",
+                        "publishedAt": "2021-05-15T15:37:32Z",
+                        "tagName": "v0.25.0"
+                    },
+                    {
+                        "name": "v0.25.1",
+                        "publishedAt": "2021-05-27T22:40:07Z",
+                        "tagName": "v0.25.1"
+                    },
+                    {
+                        "name": "v0.25.2",
+                        "publishedAt": "2021-06-09T16:20:35Z",
+                        "tagName": "v0.25.2"
+                    },
+                    {
+                        "name": "v0.25.3",
+                        "publishedAt": "2021-08-01T13:52:59Z",
+                        "tagName": "v0.25.3"
+                    },
+                    {
+                        "name": "v0.25.4",
+                        "publishedAt": "2021-08-11T18:04:21Z",
+                        "tagName": "v0.25.4"
+                    },
+                    {
+                        "name": "v0.26.0",
+                        "publishedAt": "2021-08-15T16:50:31Z",
+                        "tagName": "v0.26.0"
+                    },
+                    {
+                        "name": "v0.26.1",
+                        "publishedAt": "2021-08-16T18:54:08Z",
+                        "tagName": "v0.26.1"
+                    },
+                    {
+                        "name": "v0.26.2",
+                        "publishedAt": "2021-08-24T17:13:18Z",
+                        "tagName": "v0.26.2"
+                    },
+                    {
+                        "name": "v0.27.0",
+                        "publishedAt": "2021-09-10T22:31:50Z",
+                        "tagName": "v0.27.0"
+                    },
+                    {
+                        "name": "v0.28.0",
+                        "publishedAt": "2021-11-16T15:40:27Z",
+                        "tagName": "v0.28.0"
                     }
                 ]
             }
@@ -1602,6 +1822,11 @@
                         "name": "v0.1.11",
                         "publishedAt": "2021-02-15T02:12:04Z",
                         "tagName": "v0.1.11"
+                    },
+                    {
+                        "name": "v0.1.12",
+                        "publishedAt": "2021-06-20T00:40:24Z",
+                        "tagName": "v0.1.12"
                     }
                 ]
             }
@@ -1622,9 +1847,30 @@
                 ]
             }
         },
-        "Loop3D/GKM": {
+        "Loop3D/.github": {
             "releases": {
                 "nodes": []
+            }
+        },
+        "Loop3D/GKM": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Release 1.0.0",
+                        "publishedAt": "2021-05-07T22:20:15Z",
+                        "tagName": "1.0.0"
+                    },
+                    {
+                        "name": "Release 1.0.1 minor bug fixes",
+                        "publishedAt": "2021-05-07T22:59:10Z",
+                        "tagName": "1.0.1"
+                    },
+                    {
+                        "name": "Release 1.0.2",
+                        "publishedAt": "2021-05-11T23:55:16Z",
+                        "tagName": "1.0.2"
+                    }
+                ]
             }
         },
         "Loop3D/GKM-Public": {
@@ -1795,6 +2041,91 @@
                         "name": "minor features and bug fixes",
                         "publishedAt": "2021-03-31T04:03:48Z",
                         "tagName": "1.0.91"
+                    },
+                    {
+                        "name": "performance upgrade and map2loop update",
+                        "publishedAt": "2021-06-10T01:30:47Z",
+                        "tagName": "1.1.0-alpha"
+                    },
+                    {
+                        "name": "Data processor and GMD fault paper ",
+                        "publishedAt": "2021-08-23T04:21:38Z",
+                        "tagName": "1.2.0"
+                    },
+                    {
+                        "name": "m2l link fix and conda build fix",
+                        "publishedAt": "2021-08-23T23:45:48Z",
+                        "tagName": "1.2.1"
+                    },
+                    {
+                        "name": "running conda scripts",
+                        "publishedAt": "2021-08-23T23:47:17Z",
+                        "tagName": "1.2.2"
+                    },
+                    {
+                        "name": "LoopStructural v1.2.3",
+                        "publishedAt": "2021-09-07T08:31:33Z",
+                        "tagName": "v1.2.3"
+                    },
+                    {
+                        "name": "LoopStructural v1.2.4",
+                        "publishedAt": "2021-09-07T08:45:43Z",
+                        "tagName": "v1.2.4"
+                    },
+                    {
+                        "name": "LoopStructural v1.3.0",
+                        "publishedAt": "2021-09-28T05:13:19Z",
+                        "tagName": "v1.3.0"
+                    },
+                    {
+                        "name": "LoopStructural v1.3.1",
+                        "publishedAt": "2021-09-28T06:04:05Z",
+                        "tagName": "v1.3.1"
+                    },
+                    {
+                        "name": "LoopStructural v1.3.2",
+                        "publishedAt": "2021-09-28T06:15:22Z",
+                        "tagName": "v1.3.2"
+                    },
+                    {
+                        "name": "LoopStructural v1.3.3",
+                        "publishedAt": "2021-09-29T06:20:59Z",
+                        "tagName": "v1.3.3"
+                    },
+                    {
+                        "name": "LoopStructural v1.3.4",
+                        "publishedAt": "2021-10-05T22:22:18Z",
+                        "tagName": "v1.3.4"
+                    },
+                    {
+                        "name": "LoopStructural v1.3.5",
+                        "publishedAt": "2021-10-12T00:08:40Z",
+                        "tagName": "v1.3.5"
+                    },
+                    {
+                        "name": "LoopStructural v1.3.6",
+                        "publishedAt": "2021-10-12T00:33:45Z",
+                        "tagName": "v1.3.6"
+                    },
+                    {
+                        "name": "LoopStructural v1.3.7",
+                        "publishedAt": "2021-10-13T05:17:32Z",
+                        "tagName": "v1.3.7"
+                    },
+                    {
+                        "name": "LoopStructural v1.3.8",
+                        "publishedAt": "2021-11-08T05:44:07Z",
+                        "tagName": "v1.3.8"
+                    },
+                    {
+                        "name": "LoopStructural v1.3.9",
+                        "publishedAt": "2021-11-10T03:19:03Z",
+                        "tagName": "v1.3.9"
+                    },
+                    {
+                        "name": "LoopStructural v1.3.10",
+                        "publishedAt": "2021-11-10T04:52:30Z",
+                        "tagName": "v1.3.10"
                     }
                 ]
             }
@@ -1900,12 +2231,38 @@
                 "nodes": []
             }
         },
+        "Loop3D/loop-conda": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "Loop3D/loop3d.github.io": {
             "releases": {
                 "nodes": []
             }
         },
+        "Loop3D/loopUI": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v0.1",
+                        "publishedAt": "2021-11-08T07:39:25Z",
+                        "tagName": "v0.1"
+                    },
+                    {
+                        "name": "v0.1",
+                        "publishedAt": "2021-11-09T06:29:44Z",
+                        "tagName": "v0.1-gamma"
+                    }
+                ]
+            }
+        },
         "Loop3D/loop_nightly": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "Loop3D/loopy-conda": {
             "releases": {
                 "nodes": []
             }
@@ -1917,18 +2274,35 @@
                         "name": "First Release",
                         "publishedAt": "2020-11-24T10:12:45Z",
                         "tagName": "1"
+                    },
+                    {
+                        "name": "GMD 2021 release",
+                        "publishedAt": "2021-07-09T09:09:57Z",
+                        "tagName": "v1.0.1"
                     }
                 ]
             }
         },
         "Loop3D/map2loop2-notebooks": {
             "releases": {
-                "nodes": []
+                "nodes": [
+                    {
+                        "name": "map2loop Notebooks v 1.0 (GMD version)",
+                        "publishedAt": "2021-07-09T08:57:22Z",
+                        "tagName": "v1.0"
+                    }
+                ]
             }
         },
         "Loop3D/map2model_cpp": {
             "releases": {
-                "nodes": []
+                "nodes": [
+                    {
+                        "name": "GMD release",
+                        "publishedAt": "2021-07-09T09:08:09Z",
+                        "tagName": "V1.0"
+                    }
+                ]
             }
         },
         "Loop3D/model_library": {
@@ -1952,6 +2326,17 @@
                 ]
             }
         },
+        "Loop3D/publish_to_conda": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "test release",
+                        "publishedAt": "2021-07-07T05:51:00Z",
+                        "tagName": "0.1"
+                    }
+                ]
+            }
+        },
         "Loop3D/python-wheels-manylinux-build": {
             "releases": {
                 "nodes": []
@@ -1969,6 +2354,41 @@
                         "name": "Development Build",
                         "publishedAt": "2020-07-30T04:57:03Z",
                         "tagName": "latest"
+                    },
+                    {
+                        "name": "surfepy v0.1.0",
+                        "publishedAt": "2021-09-28T04:07:11Z",
+                        "tagName": "v0.1.0"
+                    },
+                    {
+                        "name": "surfepy v0.1.1",
+                        "publishedAt": "2021-09-28T04:23:18Z",
+                        "tagName": "v0.1.1"
+                    },
+                    {
+                        "name": "surfepy v0.1.2",
+                        "publishedAt": "2021-09-28T04:28:40Z",
+                        "tagName": "v0.1.2"
+                    },
+                    {
+                        "name": "surfepy v0.1.3",
+                        "publishedAt": "2021-09-28T04:34:23Z",
+                        "tagName": "v0.1.3"
+                    },
+                    {
+                        "name": "surfepy v0.1.4",
+                        "publishedAt": "2021-09-28T04:39:26Z",
+                        "tagName": "v0.1.4"
+                    },
+                    {
+                        "name": "surfepy v0.1.5",
+                        "publishedAt": "2021-10-01T01:02:57Z",
+                        "tagName": "v0.1.5"
+                    },
+                    {
+                        "name": "surfepy v0.1.6",
+                        "publishedAt": "2021-10-01T05:01:12Z",
+                        "tagName": "v0.1.6"
                     }
                 ]
             }
@@ -2001,6 +2421,11 @@
                         "name": "GPRPy Version 1.0.5",
                         "publishedAt": "2019-08-01T19:44:37Z",
                         "tagName": "v1.0.5"
+                    },
+                    {
+                        "name": "GPRPy release 1.0.10",
+                        "publishedAt": "2021-05-26T16:34:56Z",
+                        "tagName": "1.0.10"
                     }
                 ]
             }
@@ -2018,6 +2443,187 @@
         "Neil-Symington/garjmcmctdem_utils": {
             "releases": {
                 "nodes": []
+            }
+        },
+        "OPM/ResInsight": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "ResInsight 0.9.28",
+                        "publishedAt": "2013-09-20T09:57:20Z",
+                        "tagName": "0.9.28"
+                    },
+                    {
+                        "name": "ResInsight 0.9.30",
+                        "publishedAt": "2013-10-09T11:55:30Z",
+                        "tagName": "0.9.30"
+                    },
+                    {
+                        "name": "ResInsight 1.0",
+                        "publishedAt": "2013-10-25T09:58:21Z",
+                        "tagName": "1.0.0"
+                    },
+                    {
+                        "name": "ResInsight 1.1",
+                        "publishedAt": "2014-01-24T06:04:27Z",
+                        "tagName": "1.1.0"
+                    },
+                    {
+                        "name": "ResInsight 1.2",
+                        "publishedAt": "2014-07-02T13:59:21Z",
+                        "tagName": "v1.2.0"
+                    },
+                    {
+                        "name": "ResInsight 1.3",
+                        "publishedAt": "2014-09-24T15:28:43Z",
+                        "tagName": "v1.3.0"
+                    },
+                    {
+                        "name": "ResInsight 1.3.1",
+                        "publishedAt": "2014-11-07T17:26:08Z",
+                        "tagName": "v1.3.1"
+                    },
+                    {
+                        "name": "Intermediate 1.3.2-dev",
+                        "publishedAt": "2015-01-09T08:24:01Z",
+                        "tagName": "v1.3.2-dev"
+                    },
+                    {
+                        "name": "ResInsight 1.4.0",
+                        "publishedAt": "2015-08-23T19:13:49Z",
+                        "tagName": "v1.4.0"
+                    },
+                    {
+                        "name": "ResInsight 1.5.0",
+                        "publishedAt": "2015-11-09T13:04:23Z",
+                        "tagName": "v1.5.0"
+                    },
+                    {
+                        "name": "ResInsight 1.6.0",
+                        "publishedAt": "2016-01-11T12:12:09Z",
+                        "tagName": "v1.6.0"
+                    },
+                    {
+                        "name": "Intermediate 1.6.7-gm-beta",
+                        "publishedAt": "2016-11-02T16:18:33Z",
+                        "tagName": "v1.6.7-gm-beta"
+                    },
+                    {
+                        "name": "ResInsight 2016.11 ",
+                        "publishedAt": "2016-11-29T10:20:24Z",
+                        "tagName": "v2016.11"
+                    },
+                    {
+                        "name": "ResInsight 2017.05",
+                        "publishedAt": "2017-05-31T08:46:27Z",
+                        "tagName": "v2017.05"
+                    },
+                    {
+                        "name": "ResInsight 2017.05.2",
+                        "publishedAt": "2017-06-21T12:14:54Z",
+                        "tagName": "v2017.05.2"
+                    },
+                    {
+                        "name": "ResInsight 2018.01",
+                        "publishedAt": "2018-01-05T14:32:28Z",
+                        "tagName": "v2018.01"
+                    },
+                    {
+                        "name": "ResInsight 2018.01.1",
+                        "publishedAt": "2018-02-22T08:02:09Z",
+                        "tagName": "v2018.01.1"
+                    },
+                    {
+                        "name": "ResInsight 2018.05",
+                        "publishedAt": "2018-05-22T10:58:09Z",
+                        "tagName": "v2018.05"
+                    },
+                    {
+                        "name": "ResInsight 2018.05.1",
+                        "publishedAt": "2018-05-25T09:13:02Z",
+                        "tagName": "v2018.05.1"
+                    },
+                    {
+                        "name": "ResInsight 2018.11",
+                        "publishedAt": "2018-11-28T10:08:59Z",
+                        "tagName": "v2018.11"
+                    },
+                    {
+                        "name": "ResInsight 2018.11.1",
+                        "publishedAt": "2018-12-21T10:37:44Z",
+                        "tagName": "v2018.11.1"
+                    },
+                    {
+                        "name": "ResInsight 2018.11.2",
+                        "publishedAt": "2019-02-04T16:23:40Z",
+                        "tagName": "v2018.11.2"
+                    },
+                    {
+                        "name": "ResInsight 2019.04",
+                        "publishedAt": "2019-04-30T07:32:10Z",
+                        "tagName": "v2019.04"
+                    },
+                    {
+                        "name": "ResInsight 2019.08",
+                        "publishedAt": "2019-08-27T08:17:14Z",
+                        "tagName": "v2019.08"
+                    },
+                    {
+                        "name": "ResInsight 2019.08.1",
+                        "publishedAt": "2019-09-05T11:43:11Z",
+                        "tagName": "v2019.08.1"
+                    },
+                    {
+                        "name": "ResInsight 2019.08.2",
+                        "publishedAt": "2019-10-01T12:04:50Z",
+                        "tagName": "v2019.08.2"
+                    },
+                    {
+                        "name": "ResInsight 2019.12",
+                        "publishedAt": "2019-12-19T09:30:47Z",
+                        "tagName": "v2019.12.0"
+                    },
+                    {
+                        "name": "ResInsight 2019.12.1",
+                        "publishedAt": "2020-01-28T20:05:09Z",
+                        "tagName": "v2019.12.1"
+                    },
+                    {
+                        "name": "ResInsight 2020.04",
+                        "publishedAt": "2020-04-19T19:35:04Z",
+                        "tagName": "v2020.04.0"
+                    },
+                    {
+                        "name": "ResInsight 2020.04.1",
+                        "publishedAt": "2020-05-27T13:18:23Z",
+                        "tagName": "v2020.04.1"
+                    },
+                    {
+                        "name": "ResInsight 2020.10",
+                        "publishedAt": "2020-10-20T10:30:53Z",
+                        "tagName": "v2020.10.0"
+                    },
+                    {
+                        "name": "ResInsight 2020.10.1",
+                        "publishedAt": "2020-12-10T08:00:27Z",
+                        "tagName": "v2020.10.1"
+                    },
+                    {
+                        "name": "ResInsight 2021.10",
+                        "publishedAt": "2021-11-03T09:15:22Z",
+                        "tagName": "v2021.10.0"
+                    },
+                    {
+                        "name": "ResInsight 2021.06",
+                        "publishedAt": "2021-11-03T09:31:55Z",
+                        "tagName": "v2021.06.0"
+                    },
+                    {
+                        "name": "ResInsight 2020.10.1",
+                        "publishedAt": "2021-11-11T12:14:35Z",
+                        "tagName": "v2021.10.1"
+                    }
+                ]
             }
         },
         "OpenGeoVis/PVGeo": {
@@ -2116,9 +2722,70 @@
                 ]
             }
         },
+        "OpenGeoVis/omfvista": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "OpenGeoscience/geonotebook": {
             "releases": {
                 "nodes": []
+            }
+        },
+        "OpendTect/OpendTect": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "",
+                        "publishedAt": "2016-04-29T11:56:19Z",
+                        "tagName": "6.0.3rc2"
+                    },
+                    {
+                        "name": "6.0.3rc3",
+                        "publishedAt": "2016-05-19T04:25:59Z",
+                        "tagName": "6.0.3rc3"
+                    },
+                    {
+                        "name": "6.0.3 Public Release",
+                        "publishedAt": "2016-06-27T11:06:34Z",
+                        "tagName": "6.0.3"
+                    },
+                    {
+                        "name": "6.0.4 Release Candidate #1",
+                        "publishedAt": "2016-06-27T11:07:48Z",
+                        "tagName": "6.0.4rc1"
+                    },
+                    {
+                        "name": "6.0.4 Public Release",
+                        "publishedAt": "2016-10-05T06:15:19Z",
+                        "tagName": "6.0.4"
+                    },
+                    {
+                        "name": "6.0.5 Release Candidate #1",
+                        "publishedAt": "2016-10-05T06:20:41Z",
+                        "tagName": "6.0.5rc1"
+                    },
+                    {
+                        "name": "6.0.6 Public release",
+                        "publishedAt": "2017-04-11T06:20:42Z",
+                        "tagName": "6.0.6"
+                    },
+                    {
+                        "name": "6.4.4 public release",
+                        "publishedAt": "2019-07-11T20:46:20Z",
+                        "tagName": "6.4.4"
+                    },
+                    {
+                        "name": "OpendTect 6.6.0 Official Release ",
+                        "publishedAt": "2020-09-03T21:58:31Z",
+                        "tagName": "6.6.0"
+                    },
+                    {
+                        "name": "OpendTect 6.6.0 Official Release (v7)",
+                        "publishedAt": "2020-09-03T22:15:25Z",
+                        "tagName": "6.7.0"
+                    }
+                ]
             }
         },
         "SeisComP/seiscomp": {
@@ -2188,6 +2855,72 @@
                         "name": "4.5.0",
                         "publishedAt": "2021-02-24T13:41:01Z",
                         "tagName": "4.5.0"
+                    },
+                    {
+                        "name": "4.6.0",
+                        "publishedAt": "2021-06-04T12:06:38Z",
+                        "tagName": "4.6.0"
+                    },
+                    {
+                        "name": "4.6.1",
+                        "publishedAt": "2021-06-21T07:08:50Z",
+                        "tagName": "4.6.1"
+                    },
+                    {
+                        "name": "4.7.0",
+                        "publishedAt": "2021-10-07T09:17:34Z",
+                        "tagName": "4.7.0"
+                    },
+                    {
+                        "name": "4.7.1",
+                        "publishedAt": "2021-10-29T13:33:33Z",
+                        "tagName": "4.7.1"
+                    },
+                    {
+                        "name": "4.7.2",
+                        "publishedAt": "2021-10-29T13:34:15Z",
+                        "tagName": "4.7.2"
+                    },
+                    {
+                        "name": "4.7.3",
+                        "publishedAt": "2021-11-11T06:54:49Z",
+                        "tagName": "4.7.3"
+                    }
+                ]
+            }
+        },
+        "Zabamund/wellpathpy": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Intermediate alpha relase",
+                        "publishedAt": "2019-07-26T09:35:10Z",
+                        "tagName": "0.1.0a2"
+                    },
+                    {
+                        "name": "Version 0.1.0",
+                        "publishedAt": "2021-01-01T14:34:58Z",
+                        "tagName": "0.1.0"
+                    },
+                    {
+                        "name": "Version 0.1.1",
+                        "publishedAt": "2021-01-06T14:16:43Z",
+                        "tagName": "0.1.1"
+                    },
+                    {
+                        "name": "Version 0.2.0",
+                        "publishedAt": "2021-03-08T13:43:31Z",
+                        "tagName": "0.2.0"
+                    },
+                    {
+                        "name": "Version 0.3.0",
+                        "publishedAt": "2021-03-16T14:49:06Z",
+                        "tagName": "0.3.0"
+                    },
+                    {
+                        "name": "Version 0.4.0",
+                        "publishedAt": "2021-04-14T07:45:46Z",
+                        "tagName": "0.4.0"
                     }
                 ]
             }
@@ -2287,11 +3020,6 @@
                 "nodes": []
             }
         },
-        "agile-geoscience/geocomputing": {
-            "releases": {
-                "nodes": []
-            }
-        },
         "agile-geoscience/geotransect": {
             "releases": {
                 "nodes": []
@@ -2363,6 +3091,11 @@
             }
         },
         "agile-geoscience/recipes": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "agile-geoscience/rocky-playground": {
             "releases": {
                 "nodes": []
             }
@@ -2486,6 +3219,11 @@
             }
         },
         "cgre-aachen/FastElephant": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/InformedLocalSmoothing": {
             "releases": {
                 "nodes": []
             }
@@ -2749,6 +3487,16 @@
                 "nodes": []
             }
         },
+        "cgre-aachen/teaching-git": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "cgre-aachen/teaching-multivariate-stats": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "cgre-aachen/teaching-quantitative-methods": {
             "releases": {
                 "nodes": []
@@ -2757,6 +3505,17 @@
         "cgre-aachen/teaching-research-module": {
             "releases": {
                 "nodes": []
+            }
+        },
+        "csdms/bmi": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Basic Model Interface 2.0",
+                        "publishedAt": "2020-07-21T16:59:59Z",
+                        "tagName": "v2.0"
+                    }
+                ]
             }
         },
         "csdms/pymt": {
@@ -2776,6 +3535,11 @@
                         "name": "The Python Modeling Toolkit (pymt)",
                         "publishedAt": "2020-02-05T17:20:14Z",
                         "tagName": "v1.0.0"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2021-06-18T15:04:41Z",
+                        "tagName": "v1.3.1"
                     }
                 ]
             }
@@ -2988,6 +3752,21 @@
                         "name": "Bugfix Windows int32/64",
                         "publishedAt": "2021-03-26T17:33:41Z",
                         "tagName": "v2.0.6"
+                    },
+                    {
+                        "name": "Theme change & streamline",
+                        "publishedAt": "2021-05-30T19:19:04Z",
+                        "tagName": "v2.1.0"
+                    },
+                    {
+                        "name": "Bugfix azm/dip broadcasting",
+                        "publishedAt": "2021-06-23T07:06:50Z",
+                        "tagName": "v2.1.1"
+                    },
+                    {
+                        "name": "Bugfix np.seterr(all='ignore')",
+                        "publishedAt": "2021-07-04T10:55:44Z",
+                        "tagName": "v2.1.2"
                     }
                 ]
             }
@@ -3179,6 +3958,1320 @@
                         "name": "Preview release 0.3.3",
                         "publishedAt": "2021-04-30T06:05:59Z",
                         "tagName": "v0.3.3"
+                    },
+                    {
+                        "name": "Preview release 0.3.4",
+                        "publishedAt": "2021-05-07T11:05:55Z",
+                        "tagName": "v0.3.4"
+                    },
+                    {
+                        "name": "Preview release 0.3.5",
+                        "publishedAt": "2021-05-31T13:28:49Z",
+                        "tagName": "v0.3.5"
+                    }
+                ]
+            }
+        },
+        "equinor/ecl": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "pre run_id",
+                        "publishedAt": "2017-08-10T08:19:48Z",
+                        "tagName": "2017.07.0"
+                    },
+                    {
+                        "name": "Initial 2.2 release",
+                        "publishedAt": "2017-09-02T07:50:12Z",
+                        "tagName": "2.2.0"
+                    },
+                    {
+                        "name": "Added release notes",
+                        "publishedAt": "2017-09-27T13:21:13Z",
+                        "tagName": "2.2.1"
+                    },
+                    {
+                        "name": "Bugfix for `smspec_cmp`",
+                        "publishedAt": "2017-10-04T10:31:20Z",
+                        "tagName": "2.2.2"
+                    },
+                    {
+                        "name": "Add stringlist_unique and util_chdir_file",
+                        "publishedAt": "2017-10-11T07:27:16Z",
+                        "tagName": "2.2.3"
+                    },
+                    {
+                        "name": "Micro version 2.2.4",
+                        "publishedAt": "2017-10-12T12:58:49Z",
+                        "tagName": "2.2.4"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2017-10-24T08:53:12Z",
+                        "tagName": "release/2017.10/rc1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2017-10-30T13:17:49Z",
+                        "tagName": "release/2017.10/final"
+                    },
+                    {
+                        "name": "Version 2.2.5",
+                        "publishedAt": "2017-11-03T15:21:49Z",
+                        "tagName": "2.2.5"
+                    },
+                    {
+                        "name": "Summary keyword vector - handle missing values",
+                        "publishedAt": "2017-11-16T15:24:04Z",
+                        "tagName": "2.2.6"
+                    },
+                    {
+                        "name": "Fixed test_env import",
+                        "publishedAt": "2017-12-07T14:22:21Z",
+                        "tagName": "2.2.7"
+                    },
+                    {
+                        "name": "Fixed bug in summary loading - RESTART with /abs/path",
+                        "publishedAt": "2018-02-07T11:54:06Z",
+                        "tagName": "2.2.8"
+                    },
+                    {
+                        "name": "Added import local from ert/__init__.py",
+                        "publishedAt": "2018-02-10T11:26:29Z",
+                        "tagName": "2.2.9"
+                    },
+                    {
+                        "name": "Cwrap-1.40",
+                        "publishedAt": "2018-02-10T13:57:56Z",
+                        "tagName": "2.2.10"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-02-14T20:22:17Z",
+                        "tagName": "2.3.a1"
+                    },
+                    {
+                        "name": "Removed matrix ",
+                        "publishedAt": "2018-02-28T10:03:58Z",
+                        "tagName": "2.3.a2"
+                    },
+                    {
+                        "name": "No title",
+                        "publishedAt": "2018-03-19T16:19:47Z",
+                        "tagName": "2.3.a3"
+                    },
+                    {
+                        "name": "RC1 2018.04",
+                        "publishedAt": "2018-04-16T07:50:43Z",
+                        "tagName": "release/2018.04/rc1"
+                    },
+                    {
+                        "name": "Added some C++ code",
+                        "publishedAt": "2018-04-20T05:30:00Z",
+                        "tagName": "release/2018.04/rc2"
+                    },
+                    {
+                        "name": "Changed ecl mock signature ",
+                        "publishedAt": "2018-04-24T06:52:04Z",
+                        "tagName": "2.3.a4"
+                    },
+                    {
+                        "name": "2018.04/final",
+                        "publishedAt": "2018-04-30T07:18:31Z",
+                        "tagName": "release/2018.04/final"
+                    },
+                    {
+                        "name": "Add numpy + pandas export from EclSum",
+                        "publishedAt": "2018-05-06T21:09:16Z",
+                        "tagName": "2.3.a5"
+                    },
+                    {
+                        "name": "Utility functions to get summary var type",
+                        "publishedAt": "2018-06-04T13:19:58Z",
+                        "tagName": "2.3.a6"
+                    },
+                    {
+                        "name": "Refactored summary loader",
+                        "publishedAt": "2018-07-12T12:25:29Z",
+                        "tagName": "2.3.a7"
+                    },
+                    {
+                        "name": "Temporary disabled warnings-as-error",
+                        "publishedAt": "2018-07-16T12:38:22Z",
+                        "tagName": "2.3a8"
+                    },
+                    {
+                        "name": "Dynamic summary load",
+                        "publishedAt": "2018-08-15T09:15:42Z",
+                        "tagName": "2.3.a9"
+                    },
+                    {
+                        "name": "Add rms forward model",
+                        "publishedAt": "2018-08-20T08:52:19Z",
+                        "tagName": "2.3.a10"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-08-27T08:17:33Z",
+                        "tagName": "2.3.a11"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-08-31T15:11:23Z",
+                        "tagName": "2.3.a12"
+                    },
+                    {
+                        "name": "2.3.b1",
+                        "publishedAt": "2018-09-06T12:36:29Z",
+                        "tagName": "2.3.b1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-09-22T07:56:10Z",
+                        "tagName": "2.3.b2"
+                    },
+                    {
+                        "name": "Final beta?",
+                        "publishedAt": "2018-09-28T11:16:13Z",
+                        "tagName": "2.3.b3"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-10-04T05:12:53Z",
+                        "tagName": "release/2018.10/rc1"
+                    },
+                    {
+                        "name": "Fixed bug with CASE.SMSPACE and directory CASE",
+                        "publishedAt": "2018-10-05T18:03:02Z",
+                        "tagName": "release/2018.10/rc2"
+                    },
+                    {
+                        "name": "2.3.rc1",
+                        "publishedAt": "2018-10-10T08:00:32Z",
+                        "tagName": "2.3.rc1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-10-19T11:36:48Z",
+                        "tagName": "2.3.rc2"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-10-23T10:19:13Z",
+                        "tagName": "2.3.rc3"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-10-24T20:09:26Z",
+                        "tagName": "2.3.rc4"
+                    },
+                    {
+                        "name": "Version 2.3.0",
+                        "publishedAt": "2018-10-31T08:28:46Z",
+                        "tagName": "2.3.0"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-11-11T22:31:09Z",
+                        "tagName": "2.4.a1"
+                    },
+                    {
+                        "name": "Fix LGR load bug",
+                        "publishedAt": "2018-11-12T14:48:02Z",
+                        "tagName": "2.3.1"
+                    },
+                    {
+                        "name": "Fixed crash when loading NNC data for some grids",
+                        "publishedAt": "2019-01-24T07:53:42Z",
+                        "tagName": "2.3.2"
+                    },
+                    {
+                        "name": "Version 2.4.b1",
+                        "publishedAt": "2019-01-29T08:28:30Z",
+                        "tagName": "2.4.b1"
+                    },
+                    {
+                        "name": "Release candidate - Version 2.4",
+                        "publishedAt": "2019-02-06T09:25:52Z",
+                        "tagName": "2.4.rc1"
+                    },
+                    {
+                        "name": "Release candidate - version 2.4",
+                        "publishedAt": "2019-02-19T19:21:25Z",
+                        "tagName": "2.4.rc2"
+                    },
+                    {
+                        "name": "Version 2.4.0",
+                        "publishedAt": "2019-03-26T14:34:00Z",
+                        "tagName": "2.4.0"
+                    },
+                    {
+                        "name": "Version 2.4.1",
+                        "publishedAt": "2019-05-22T07:05:17Z",
+                        "tagName": "2.4.1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-09-06T14:19:40Z",
+                        "tagName": "2.5.a2"
+                    },
+                    {
+                        "name": "Vesion 2.5.b0",
+                        "publishedAt": "2019-10-16T07:23:26Z",
+                        "tagName": "2.5.b0"
+                    },
+                    {
+                        "name": "Version 2.5.b1",
+                        "publishedAt": "2019-10-22T05:38:53Z",
+                        "tagName": "2.5.b1"
+                    },
+                    {
+                        "name": "Release candidate - 2.5",
+                        "publishedAt": "2019-10-29T06:15:32Z",
+                        "tagName": "2.5.rc0"
+                    },
+                    {
+                        "name": "Release candidate - 2.5",
+                        "publishedAt": "2019-10-30T06:30:48Z",
+                        "tagName": "2.5.rc1"
+                    },
+                    {
+                        "name": "Release candidate - 2.5",
+                        "publishedAt": "2019-11-19T13:53:10Z",
+                        "tagName": "2.5.rc2"
+                    },
+                    {
+                        "name": "Release - 2.5.0",
+                        "publishedAt": "2019-12-06T06:30:46Z",
+                        "tagName": "2.5.0"
+                    },
+                    {
+                        "name": "Version 2.5.1",
+                        "publishedAt": "2019-12-13T07:46:54Z",
+                        "tagName": "2.5.1"
+                    },
+                    {
+                        "name": "2.6.0",
+                        "publishedAt": "2020-01-10T13:06:11Z",
+                        "tagName": "2.6.0"
+                    },
+                    {
+                        "name": "2.7.rc0",
+                        "publishedAt": "2020-01-31T13:10:54Z",
+                        "tagName": "2.7.rc0"
+                    },
+                    {
+                        "name": "2.8.0a0",
+                        "publishedAt": "2020-02-06T11:21:57Z",
+                        "tagName": "2.8.0a0"
+                    },
+                    {
+                        "name": "2.7.0",
+                        "publishedAt": "2020-02-19T10:58:20Z",
+                        "tagName": "2.7.0"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-02-20T13:17:26Z",
+                        "tagName": "2.8.0a2"
+                    },
+                    {
+                        "name": "2.8.0",
+                        "publishedAt": "2020-04-01T11:10:30Z",
+                        "tagName": "2.8.0"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-05-04T06:41:53Z",
+                        "tagName": "2.9.0"
+                    },
+                    {
+                        "name": "2.9.1",
+                        "publishedAt": "2020-08-12T07:47:18Z",
+                        "tagName": "2.9.1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-09-24T07:31:36Z",
+                        "tagName": "2.9.2rc1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-10-27T11:27:35Z",
+                        "tagName": "2.9.2"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-10-28T13:51:08Z",
+                        "tagName": "2.9.3rc0"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-11-03T08:38:07Z",
+                        "tagName": "2.9.3"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-11-24T10:46:01Z",
+                        "tagName": "2.9.4"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2021-01-13T14:42:09Z",
+                        "tagName": "2.10.0"
+                    },
+                    {
+                        "name": "Python 3.9 support",
+                        "publishedAt": "2021-03-18T08:32:40Z",
+                        "tagName": "2.10.1"
+                    },
+                    {
+                        "name": "2.11.0-rc0",
+                        "publishedAt": "2021-06-30T11:36:17Z",
+                        "tagName": "2.11.0-rc0"
+                    },
+                    {
+                        "name": "2.11.0-rc1",
+                        "publishedAt": "2021-08-23T07:23:04Z",
+                        "tagName": "2.11.0-rc1"
+                    },
+                    {
+                        "name": "2.11.0",
+                        "publishedAt": "2021-09-23T07:52:12Z",
+                        "tagName": "2.11.0"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2021-10-18T11:03:21Z",
+                        "tagName": "2.12.0"
+                    },
+                    {
+                        "name": "Python 3.10",
+                        "publishedAt": "2021-11-01T11:14:41Z",
+                        "tagName": "2.13.0"
+                    },
+                    {
+                        "name": "2.13.1",
+                        "publishedAt": "2021-11-16T10:55:40Z",
+                        "tagName": "2.13.1"
+                    }
+                ]
+            }
+        },
+        "equinor/libres": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Before run_id",
+                        "publishedAt": "2017-08-10T07:40:03Z",
+                        "tagName": "2017.07.0"
+                    },
+                    {
+                        "name": "Update PYTHONPATH in job_dispatch",
+                        "publishedAt": "2017-08-10T07:41:42Z",
+                        "tagName": "2017.07.1"
+                    },
+                    {
+                        "name": "Initial 2.2 release",
+                        "publishedAt": "2017-09-02T07:45:28Z",
+                        "tagName": "2.2.0"
+                    },
+                    {
+                        "name": "Removed debug message",
+                        "publishedAt": "2017-09-05T10:51:49Z",
+                        "tagName": "2.2.1"
+                    },
+                    {
+                        "name": "Will add LSF_JOBID to STATUS file",
+                        "publishedAt": "2017-09-11T09:27:16Z",
+                        "tagName": "2.2.2"
+                    },
+                    {
+                        "name": "Fixed version mixup in log payload",
+                        "publishedAt": "2017-09-13T09:53:18Z",
+                        "tagName": "2.2.3"
+                    },
+                    {
+                        "name": "Added some debug output for LSF node failure.",
+                        "publishedAt": "2017-09-18T14:21:36Z",
+                        "tagName": "2.2.4"
+                    },
+                    {
+                        "name": "Added log calls to gen_data loading.",
+                        "publishedAt": "2017-09-19T11:32:48Z",
+                        "tagName": "2.2.5"
+                    },
+                    {
+                        "name": "Bug fix",
+                        "publishedAt": "2017-09-19T13:16:59Z",
+                        "tagName": "2.2.6"
+                    },
+                    {
+                        "name": "Updated PRE_SIMULATION_COPY",
+                        "publishedAt": "2017-09-20T10:29:59Z",
+                        "tagName": "2.2.7"
+                    },
+                    {
+                        "name": "Load summary unconditionally",
+                        "publishedAt": "2017-09-21T11:12:59Z",
+                        "tagName": "2.2.8"
+                    },
+                    {
+                        "name": "Load summary if GEN_DATA",
+                        "publishedAt": "2017-09-25T13:02:07Z",
+                        "tagName": "2.2.9"
+                    },
+                    {
+                        "name": "Added release notes",
+                        "publishedAt": "2017-09-27T13:20:47Z",
+                        "tagName": "2.2.10"
+                    },
+                    {
+                        "name": "2017.10.01, was 2.3 Alpha 1 --- Everest compatible Res",
+                        "publishedAt": "2017-10-10T14:42:30Z",
+                        "tagName": "2017.10.01"
+                    },
+                    {
+                        "name": "2.2.12 Fix span error in LSF call",
+                        "publishedAt": "2017-10-12T09:22:07Z",
+                        "tagName": "2.2.12"
+                    },
+                    {
+                        "name": "2.2.13 Backup parameters.txt if it already exists",
+                        "publishedAt": "2017-10-19T15:18:34Z",
+                        "tagName": "2.2.13"
+                    },
+                    {
+                        "name": "Will set ERT_RUN_ID environment variable in job_dispatch",
+                        "publishedAt": "2017-11-29T18:34:55Z",
+                        "tagName": "2.2.14"
+                    },
+                    {
+                        "name": "Added keywords to silnce warnings",
+                        "publishedAt": "2017-12-10T22:19:29Z",
+                        "tagName": "2.2.15"
+                    },
+                    {
+                        "name": "Removed PYTHONPATH manipulations from job_dispatch",
+                        "publishedAt": "2018-01-25T14:58:42Z",
+                        "tagName": "2.2.15-komodo"
+                    },
+                    {
+                        "name": "Drop PYTHONPATH manipulation from job_dispatch",
+                        "publishedAt": "2018-01-25T16:56:39Z",
+                        "tagName": "2.2.15+komodo"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-02-10T11:32:55Z",
+                        "tagName": "2.2.16"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-02-10T11:37:09Z",
+                        "tagName": "2.2.16+komodo"
+                    },
+                    {
+                        "name": "Cwrap-1.40",
+                        "publishedAt": "2018-02-10T13:58:25Z",
+                        "tagName": "2.2.17"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-02-14T20:22:42Z",
+                        "tagName": "2.3.a2"
+                    },
+                    {
+                        "name": "Remove circular dependencies in EnKFMain",
+                        "publishedAt": "2018-02-28T09:50:46Z",
+                        "tagName": "2.3.a3"
+                    },
+                    {
+                        "name": "Added progress api",
+                        "publishedAt": "2018-03-08T14:09:48Z",
+                        "tagName": "2.3.a4"
+                    },
+                    {
+                        "name": "Changed callback api",
+                        "publishedAt": "2018-03-19T16:19:08Z",
+                        "tagName": "2.3.a5"
+                    },
+                    {
+                        "name": "2.3.a6",
+                        "publishedAt": "2018-03-20T15:13:49Z",
+                        "tagName": "2.3.a6"
+                    },
+                    {
+                        "name": "2.3.a7",
+                        "publishedAt": "2018-03-20T20:15:14Z",
+                        "tagName": "2.3.a7"
+                    },
+                    {
+                        "name": "LSF and status.json",
+                        "publishedAt": "2018-04-11T20:54:35Z",
+                        "tagName": "2.3.a8"
+                    },
+                    {
+                        "name": "LSF resources",
+                        "publishedAt": "2018-04-13T14:15:04Z",
+                        "tagName": "2.3.a9"
+                    },
+                    {
+                        "name": "Fix bug in output of environment variables in forward models",
+                        "publishedAt": "2018-04-18T07:25:29Z",
+                        "tagName": "2.2.18"
+                    },
+                    {
+                        "name": "Fix bug in output of environment variables in forward models",
+                        "publishedAt": "2018-04-18T07:25:58Z",
+                        "tagName": "2.2.17+komodo"
+                    },
+                    {
+                        "name": "Add exec_env",
+                        "publishedAt": "2018-05-14T13:34:14Z",
+                        "tagName": "2.2.19"
+                    },
+                    {
+                        "name": "Add exec_env",
+                        "publishedAt": "2018-05-14T13:34:26Z",
+                        "tagName": "2.2.18+komodo"
+                    },
+                    {
+                        "name": "Various minor fixes and improvements",
+                        "publishedAt": "2018-05-22T14:29:28Z",
+                        "tagName": "2.3a10"
+                    },
+                    {
+                        "name": "Removed util functions",
+                        "publishedAt": "2018-06-05T09:31:09Z",
+                        "tagName": "2.3.a11"
+                    },
+                    {
+                        "name": "Install rml_enkf",
+                        "publishedAt": "2018-07-12T12:24:38Z",
+                        "tagName": "2.3.0a12"
+                    },
+                    {
+                        "name": "Install rml_enkf",
+                        "publishedAt": "2018-07-12T12:26:33Z",
+                        "tagName": "2.3.a12"
+                    },
+                    {
+                        "name": "Add eclipse forward model from ert-statoil",
+                        "publishedAt": "2018-07-18T19:48:00Z",
+                        "tagName": "2.3.a13"
+                    },
+                    {
+                        "name": "JOBNAME without path + lsf_info",
+                        "publishedAt": "2018-08-15T08:43:26Z",
+                        "tagName": "2.3.a14"
+                    },
+                    {
+                        "name": "Add rms forward model",
+                        "publishedAt": "2018-08-20T08:51:47Z",
+                        "tagName": "2.3.a15"
+                    },
+                    {
+                        "name": "Serial init",
+                        "publishedAt": "2018-08-27T08:17:01Z",
+                        "tagName": "2.3.a16"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-08-31T15:12:01Z",
+                        "tagName": "2.3.a17"
+                    },
+                    {
+                        "name": "2.3.b1",
+                        "publishedAt": "2018-09-06T12:35:51Z",
+                        "tagName": "2.3.b1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-09-12T15:29:35Z",
+                        "tagName": "2.3.b2"
+                    },
+                    {
+                        "name": "Fix bug in smoother GUI",
+                        "publishedAt": "2018-09-24T14:42:05Z",
+                        "tagName": "2.3.b3"
+                    },
+                    {
+                        "name": "Final beta?",
+                        "publishedAt": "2018-09-28T11:16:50Z",
+                        "tagName": "2.3.b4"
+                    },
+                    {
+                        "name": "2.3.rc1",
+                        "publishedAt": "2018-10-10T07:59:31Z",
+                        "tagName": "2.3.rc1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-10-18T13:37:09Z",
+                        "tagName": "2.3.rc2"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-10-23T14:16:44Z",
+                        "tagName": "2.3.rc3"
+                    },
+                    {
+                        "name": "Version 2.3.0",
+                        "publishedAt": "2018-10-31T08:29:38Z",
+                        "tagName": "2.3.0"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2018-11-02T07:11:28Z",
+                        "tagName": "2.3.1"
+                    },
+                    {
+                        "name": "Bugfix in rms pythonpath manip",
+                        "publishedAt": "2018-11-08T13:14:47Z",
+                        "tagName": "2.3.2"
+                    },
+                    {
+                        "name": "Server functionality has been removed",
+                        "publishedAt": "2018-11-11T22:17:30Z",
+                        "tagName": "2.4.a1"
+                    },
+                    {
+                        "name": "2.3.3",
+                        "publishedAt": "2018-11-12T21:16:27Z",
+                        "tagName": "2.3.3"
+                    },
+                    {
+                        "name": "Fix issue with ext_job and <...>",
+                        "publishedAt": "2018-11-14T22:34:47Z",
+                        "tagName": "2.3.4"
+                    },
+                    {
+                        "name": "Add SYMLINK alias for ert-statoil compatibility",
+                        "publishedAt": "2018-11-17T06:04:57Z",
+                        "tagName": "2.3.5"
+                    },
+                    {
+                        "name": "Version 2.3.6",
+                        "publishedAt": "2018-11-22T12:45:11Z",
+                        "tagName": "2.3.6"
+                    },
+                    {
+                        "name": "New rms fix",
+                        "publishedAt": "2018-11-23T11:25:29Z",
+                        "tagName": "2.3.7"
+                    },
+                    {
+                        "name": "Fixed bug in std scaling workflow",
+                        "publishedAt": "2018-11-28T08:39:22Z",
+                        "tagName": "2.3.8"
+                    },
+                    {
+                        "name": "Log komodo release",
+                        "publishedAt": "2018-11-29T09:32:17Z",
+                        "tagName": "2.3.9"
+                    },
+                    {
+                        "name": "Fix time step mapping",
+                        "publishedAt": "2018-12-11T13:35:15Z",
+                        "tagName": "2.3.10"
+                    },
+                    {
+                        "name": "2.4.b1",
+                        "publishedAt": "2019-01-30T14:08:01Z",
+                        "tagName": "2.4.b1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-02-06T18:56:12Z",
+                        "tagName": "2.4.b2"
+                    },
+                    {
+                        "name": "Release candidate - Version 2.4",
+                        "publishedAt": "2019-02-20T09:16:28Z",
+                        "tagName": "2.4.rc1"
+                    },
+                    {
+                        "name": "Release candidate - Version 2.4",
+                        "publishedAt": "2019-02-20T12:01:54Z",
+                        "tagName": "2.4.rc2"
+                    },
+                    {
+                        "name": "alpha - Version 2.5",
+                        "publishedAt": "2019-03-26T08:15:06Z",
+                        "tagName": "2.5.a"
+                    },
+                    {
+                        "name": "alpha 2 - Version 2.5",
+                        "publishedAt": "2019-03-26T08:18:23Z",
+                        "tagName": "2.5.a2"
+                    },
+                    {
+                        "name": "Version 2.4.0",
+                        "publishedAt": "2019-03-26T14:55:07Z",
+                        "tagName": "2.4.0"
+                    },
+                    {
+                        "name": "Release candidate - 2.5",
+                        "publishedAt": "2019-04-09T19:00:39Z",
+                        "tagName": "2.5.rc1"
+                    },
+                    {
+                        "name": "Internalize from run context",
+                        "publishedAt": "2019-04-17T12:53:14Z",
+                        "tagName": "2.5.rc2"
+                    },
+                    {
+                        "name": "Alpha release - 2.6",
+                        "publishedAt": "2019-04-24T14:56:08Z",
+                        "tagName": "2.6.a1"
+                    },
+                    {
+                        "name": "Version 2.5.0",
+                        "publishedAt": "2019-05-08T07:40:40Z",
+                        "tagName": "2.5.0"
+                    },
+                    {
+                        "name": "Version 2.5.1",
+                        "publishedAt": "2019-05-21T06:55:51Z",
+                        "tagName": "2.5.1"
+                    },
+                    {
+                        "name": "Version 2.5.2",
+                        "publishedAt": "2019-05-22T08:28:03Z",
+                        "tagName": "2.5.2"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-07-11T11:42:33Z",
+                        "tagName": "2.6.a3"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-08-01T13:17:16Z",
+                        "tagName": "2.6.a4"
+                    },
+                    {
+                        "name": "2.6.a5",
+                        "publishedAt": "2019-09-02T10:38:43Z",
+                        "tagName": "2.6.a5"
+                    },
+                    {
+                        "name": "2.6.a6",
+                        "publishedAt": "2019-10-18T11:56:15Z",
+                        "tagName": "2.6.a6"
+                    },
+                    {
+                        "name": "2.6.b0",
+                        "publishedAt": "2019-10-21T13:16:21Z",
+                        "tagName": "2.6.b0"
+                    },
+                    {
+                        "name": "2.6.b1",
+                        "publishedAt": "2019-11-06T11:35:30Z",
+                        "tagName": "2.6.b1"
+                    },
+                    {
+                        "name": "2.6.b2",
+                        "publishedAt": "2019-11-15T12:23:08Z",
+                        "tagName": "2.6.b2"
+                    },
+                    {
+                        "name": "2.6.rc0",
+                        "publishedAt": "2019-11-21T06:31:04Z",
+                        "tagName": "2.6.rc0"
+                    },
+                    {
+                        "name": "Release - 2.6.0",
+                        "publishedAt": "2019-12-06T07:33:41Z",
+                        "tagName": "2.6.0"
+                    },
+                    {
+                        "name": "Version 2.6.1",
+                        "publishedAt": "2019-12-06T13:40:24Z",
+                        "tagName": "2.6.1"
+                    },
+                    {
+                        "name": "Version 2.6.2",
+                        "publishedAt": "2019-12-16T06:41:57Z",
+                        "tagName": "2.6.2"
+                    },
+                    {
+                        "name": "Version 2.6.3",
+                        "publishedAt": "2019-12-16T11:27:35Z",
+                        "tagName": "2.6.3"
+                    },
+                    {
+                        "name": "2.7.a1",
+                        "publishedAt": "2019-12-17T07:08:15Z",
+                        "tagName": "2.7.a1"
+                    },
+                    {
+                        "name": "2.6.4",
+                        "publishedAt": "2019-12-18T13:37:02Z",
+                        "tagName": "2.6.4"
+                    },
+                    {
+                        "name": "2.7.a2",
+                        "publishedAt": "2020-01-07T13:35:43Z",
+                        "tagName": "2.7.a2"
+                    },
+                    {
+                        "name": "2.6.5",
+                        "publishedAt": "2020-01-10T12:45:03Z",
+                        "tagName": "2.6.5"
+                    },
+                    {
+                        "name": "2.7.0",
+                        "publishedAt": "2020-01-10T15:43:36Z",
+                        "tagName": "2.7.0"
+                    },
+                    {
+                        "name": "2.8.a1",
+                        "publishedAt": "2020-01-13T14:22:09Z",
+                        "tagName": "2.8.a1"
+                    },
+                    {
+                        "name": "2.6.6",
+                        "publishedAt": "2020-01-16T11:49:41Z",
+                        "tagName": "2.6.6"
+                    },
+                    {
+                        "name": "2.8.a2",
+                        "publishedAt": "2020-01-16T12:32:08Z",
+                        "tagName": "2.8.a2"
+                    },
+                    {
+                        "name": "2.8.a3",
+                        "publishedAt": "2020-01-24T13:59:40Z",
+                        "tagName": "2.8.a3"
+                    },
+                    {
+                        "name": "2.8.rc0",
+                        "publishedAt": "2020-01-31T14:16:55Z",
+                        "tagName": "2.8.rc0"
+                    },
+                    {
+                        "name": "2.9.0a0",
+                        "publishedAt": "2020-02-19T11:37:33Z",
+                        "tagName": "2.9.0a0"
+                    },
+                    {
+                        "name": "2.8.0",
+                        "publishedAt": "2020-02-19T13:40:49Z",
+                        "tagName": "2.8.0"
+                    },
+                    {
+                        "name": "3.0.0",
+                        "publishedAt": "2020-02-20T10:52:00Z",
+                        "tagName": "3.0.0"
+                    },
+                    {
+                        "name": "3.1.0a0",
+                        "publishedAt": "2020-02-20T10:53:16Z",
+                        "tagName": "3.1.0a0"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-03-02T15:30:02Z",
+                        "tagName": "3.2.0"
+                    },
+                    {
+                        "name": "3.2.1",
+                        "publishedAt": "2020-04-02T15:07:40Z",
+                        "tagName": "3.2.1"
+                    },
+                    {
+                        "name": "3.2.2",
+                        "publishedAt": "2020-04-02T17:54:50Z",
+                        "tagName": "3.2.2"
+                    },
+                    {
+                        "name": "3.3.0a0",
+                        "publishedAt": "2020-04-07T09:34:43Z",
+                        "tagName": "3.3.0a0"
+                    },
+                    {
+                        "name": "3.3.0a1",
+                        "publishedAt": "2020-04-16T08:53:13Z",
+                        "tagName": "3.3.0a1"
+                    },
+                    {
+                        "name": "3.3.0",
+                        "publishedAt": "2020-04-27T13:20:55Z",
+                        "tagName": "3.3.0"
+                    },
+                    {
+                        "name": "4.0.0",
+                        "publishedAt": "2020-04-30T04:58:09Z",
+                        "tagName": "4.0.0"
+                    },
+                    {
+                        "name": "4.0.1a0",
+                        "publishedAt": "2020-06-02T12:34:00Z",
+                        "tagName": "4.0.1a0"
+                    },
+                    {
+                        "name": "4.0.1",
+                        "publishedAt": "2020-06-03T05:34:54Z",
+                        "tagName": "4.0.1"
+                    },
+                    {
+                        "name": "4.0.2",
+                        "publishedAt": "2020-06-05T12:41:42Z",
+                        "tagName": "4.0.2"
+                    },
+                    {
+                        "name": "4.1.b0",
+                        "publishedAt": "2020-06-10T10:38:51Z",
+                        "tagName": "4.1.b0"
+                    },
+                    {
+                        "name": "4.1.b1",
+                        "publishedAt": "2020-06-17T10:25:01Z",
+                        "tagName": "4.1.b1"
+                    },
+                    {
+                        "name": "4.1.0",
+                        "publishedAt": "2020-06-24T10:48:09Z",
+                        "tagName": "4.1.0"
+                    },
+                    {
+                        "name": "4.2.b0",
+                        "publishedAt": "2020-07-06T17:57:09Z",
+                        "tagName": "4.2.b0"
+                    },
+                    {
+                        "name": "4.2.b1",
+                        "publishedAt": "2020-07-21T10:32:49Z",
+                        "tagName": "4.2.b1"
+                    },
+                    {
+                        "name": "4.2.0",
+                        "publishedAt": "2020-07-28T09:52:27Z",
+                        "tagName": "4.2.0"
+                    },
+                    {
+                        "name": "5.0.b0",
+                        "publishedAt": "2020-07-28T12:48:35Z",
+                        "tagName": "5.0.b0"
+                    },
+                    {
+                        "name": "4.2.1",
+                        "publishedAt": "2020-07-28T13:17:30Z",
+                        "tagName": "4.2.1"
+                    },
+                    {
+                        "name": "4.2.2",
+                        "publishedAt": "2020-08-06T07:30:19Z",
+                        "tagName": "4.2.2"
+                    },
+                    {
+                        "name": "5.0.b1",
+                        "publishedAt": "2020-08-07T08:31:29Z",
+                        "tagName": "5.0.b1"
+                    },
+                    {
+                        "name": "4.2.3",
+                        "publishedAt": "2020-08-17T08:13:11Z",
+                        "tagName": "4.2.3"
+                    },
+                    {
+                        "name": "5.0.b2",
+                        "publishedAt": "2020-08-19T08:33:02Z",
+                        "tagName": "5.0.b2"
+                    },
+                    {
+                        "name": "5.0.0",
+                        "publishedAt": "2020-08-25T12:36:20Z",
+                        "tagName": "5.0.0"
+                    },
+                    {
+                        "name": "5.0.1",
+                        "publishedAt": "2020-08-26T10:28:08Z",
+                        "tagName": "5.0.1"
+                    },
+                    {
+                        "name": "5.0.2b1",
+                        "publishedAt": "2020-09-17T11:03:22Z",
+                        "tagName": "5.0.2b1"
+                    },
+                    {
+                        "name": "6.0.0rc0",
+                        "publishedAt": "2020-09-24T20:46:22Z",
+                        "tagName": "6.0.0rc0"
+                    },
+                    {
+                        "name": "6.0.0rc1",
+                        "publishedAt": "2020-10-05T08:34:52Z",
+                        "tagName": "6.0.0rc1"
+                    },
+                    {
+                        "name": "7.0.b0",
+                        "publishedAt": "2020-10-05T09:18:10Z",
+                        "tagName": "7.0.b0"
+                    },
+                    {
+                        "name": "6.0.0rc2",
+                        "publishedAt": "2020-10-20T09:52:01Z",
+                        "tagName": "6.0.0rc2"
+                    },
+                    {
+                        "name": "7.0.0b1",
+                        "publishedAt": "2020-10-26T13:29:04Z",
+                        "tagName": "7.0.0b1"
+                    },
+                    {
+                        "name": "7.0.0b2",
+                        "publishedAt": "2020-10-26T15:01:47Z",
+                        "tagName": "7.0.0b2"
+                    },
+                    {
+                        "name": "7.0.0b3",
+                        "publishedAt": "2020-10-30T06:57:51Z",
+                        "tagName": "7.0.0b3"
+                    },
+                    {
+                        "name": "7.0.0rc0",
+                        "publishedAt": "2020-11-03T15:25:09Z",
+                        "tagName": "7.0.0rc0"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-11-04T10:31:03Z",
+                        "tagName": "7.1.0"
+                    },
+                    {
+                        "name": "7.2.0b0",
+                        "publishedAt": "2020-11-11T08:45:28Z",
+                        "tagName": "7.2.0b0"
+                    },
+                    {
+                        "name": "7.0.0rc1",
+                        "publishedAt": "2020-11-12T12:27:08Z",
+                        "tagName": "7.0.0rc1"
+                    },
+                    {
+                        "name": "7.0.0",
+                        "publishedAt": "2020-11-23T16:06:32Z",
+                        "tagName": "7.0.0"
+                    },
+                    {
+                        "name": "7.2.0rc0",
+                        "publishedAt": "2020-11-26T15:59:18Z",
+                        "tagName": "7.2.0rc0"
+                    },
+                    {
+                        "name": "8.0.0b0",
+                        "publishedAt": "2020-11-27T13:43:46Z",
+                        "tagName": "8.0.0b0"
+                    },
+                    {
+                        "name": "8.0.0rc0",
+                        "publishedAt": "2020-12-11T08:08:59Z",
+                        "tagName": "8.0.0rc0"
+                    },
+                    {
+                        "name": "7.2.0",
+                        "publishedAt": "2020-12-15T14:31:49Z",
+                        "tagName": "7.2.0"
+                    },
+                    {
+                        "name": "8.0.0",
+                        "publishedAt": "2021-01-11T15:00:34Z",
+                        "tagName": "8.0.0"
+                    },
+                    {
+                        "name": "8.0.1",
+                        "publishedAt": "2021-01-18T11:32:34Z",
+                        "tagName": "8.0.1"
+                    },
+                    {
+                        "name": "8.1.0rc0",
+                        "publishedAt": "2021-01-28T07:45:59Z",
+                        "tagName": "8.1.0rc0"
+                    },
+                    {
+                        "name": "8.1.0rc1",
+                        "publishedAt": "2021-02-05T08:10:04Z",
+                        "tagName": "8.1.0rc1"
+                    },
+                    {
+                        "name": "8.1.0",
+                        "publishedAt": "2021-02-08T09:57:09Z",
+                        "tagName": "8.1.0"
+                    },
+                    {
+                        "name": "8.2.0b0",
+                        "publishedAt": "2021-02-10T09:26:13Z",
+                        "tagName": "8.2.0b0"
+                    },
+                    {
+                        "name": "9.0.0b0",
+                        "publishedAt": "2021-02-11T19:35:16Z",
+                        "tagName": "9.0.0b0"
+                    },
+                    {
+                        "name": "9.0.0b1",
+                        "publishedAt": "2021-02-12T11:34:52Z",
+                        "tagName": "9.0.0b1"
+                    },
+                    {
+                        "name": "9.0.0rc0",
+                        "publishedAt": "2021-02-23T08:08:49Z",
+                        "tagName": "9.0.0rc0"
+                    },
+                    {
+                        "name": "9.0.0rc1",
+                        "publishedAt": "2021-02-24T10:10:13Z",
+                        "tagName": "9.0.0rc1"
+                    },
+                    {
+                        "name": "9.0.0rc2",
+                        "publishedAt": "2021-03-02T08:42:13Z",
+                        "tagName": "9.0.0rc2"
+                    },
+                    {
+                        "name": "9.0.0rc3",
+                        "publishedAt": "2021-03-10T13:50:21Z",
+                        "tagName": "9.0.0rc3"
+                    },
+                    {
+                        "name": "9.0.0",
+                        "publishedAt": "2021-03-12T13:29:02Z",
+                        "tagName": "9.0.0"
+                    },
+                    {
+                        "name": "Python 3.9 support",
+                        "publishedAt": "2021-03-19T11:12:31Z",
+                        "tagName": "9.0.1"
+                    },
+                    {
+                        "name": "9.1.0rc0",
+                        "publishedAt": "2021-03-22T13:11:12Z",
+                        "tagName": "9.1.0rc0"
+                    },
+                    {
+                        "name": "9.1.0",
+                        "publishedAt": "2021-04-07T07:23:21Z",
+                        "tagName": "9.1.0"
+                    },
+                    {
+                        "name": "10.0.0b0",
+                        "publishedAt": "2021-04-07T07:27:30Z",
+                        "tagName": "10.0.0b0"
+                    },
+                    {
+                        "name": "10.0.0b1",
+                        "publishedAt": "2021-04-16T08:06:46Z",
+                        "tagName": "10.0.0b1"
+                    },
+                    {
+                        "name": "10.0.0rc0",
+                        "publishedAt": "2021-04-27T08:25:26Z",
+                        "tagName": "10.0.0rc0"
+                    },
+                    {
+                        "name": "10.0.0rc1",
+                        "publishedAt": "2021-04-27T13:01:39Z",
+                        "tagName": "10.0.0rc1"
+                    },
+                    {
+                        "name": "10.1.0b0",
+                        "publishedAt": "2021-04-27T13:27:58Z",
+                        "tagName": "10.1.0b0"
+                    },
+                    {
+                        "name": "10.1.0b1",
+                        "publishedAt": "2021-05-04T07:33:01Z",
+                        "tagName": "10.1.0b1"
+                    },
+                    {
+                        "name": "10.1.0b2",
+                        "publishedAt": "2021-05-04T10:53:21Z",
+                        "tagName": "10.1.0b2"
+                    },
+                    {
+                        "name": "11.0.0b0",
+                        "publishedAt": "2021-05-07T12:19:18Z",
+                        "tagName": "11.0.0b0"
+                    },
+                    {
+                        "name": "10.0.0",
+                        "publishedAt": "2021-05-18T13:46:12Z",
+                        "tagName": "10.0.0"
+                    },
+                    {
+                        "name": "11.0.0b1",
+                        "publishedAt": "2021-05-20T13:56:25Z",
+                        "tagName": "11.0.0b1"
+                    },
+                    {
+                        "name": "11.0.0b2",
+                        "publishedAt": "2021-05-25T13:47:06Z",
+                        "tagName": "11.0.0b2"
+                    },
+                    {
+                        "name": "11.0.0rc0",
+                        "publishedAt": "2021-05-31T10:08:03Z",
+                        "tagName": "11.0.0rc0"
+                    },
+                    {
+                        "name": "11.0.0",
+                        "publishedAt": "2021-06-15T07:17:29Z",
+                        "tagName": "11.0.0"
+                    },
+                    {
+                        "name": "11.0.1",
+                        "publishedAt": "2021-07-02T10:53:47Z",
+                        "tagName": "11.0.1"
+                    }
+                ]
+            }
+        },
+        "equinor/pyvds": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v0.0.1",
+                        "publishedAt": "2021-09-28T11:37:26Z",
+                        "tagName": "v0.0.1"
+                    },
+                    {
+                        "name": "v0.0.2",
+                        "publishedAt": "2021-09-28T12:24:08Z",
+                        "tagName": "v0.0.2"
+                    },
+                    {
+                        "name": "v0.0.3",
+                        "publishedAt": "2021-09-29T07:01:25Z",
+                        "tagName": "v0.0.3"
+                    }
+                ]
+            }
+        },
+        "equinor/pyzgy": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v0.0.2",
+                        "publishedAt": "2021-09-27T12:54:42Z",
+                        "tagName": "v0.0.2"
+                    },
+                    {
+                        "name": "v0.0.3",
+                        "publishedAt": "2021-09-27T14:14:29Z",
+                        "tagName": "v0.0.3"
+                    },
+                    {
+                        "name": "v0.0.4",
+                        "publishedAt": "2021-09-28T07:10:54Z",
+                        "tagName": "v0.0.4"
+                    },
+                    {
+                        "name": "v0.0.5",
+                        "publishedAt": "2021-10-04T08:32:19Z",
+                        "tagName": "v0.0.5"
                     }
                 ]
             }
@@ -3420,6 +5513,16 @@
                         "name": "Version 1.9.6",
                         "publishedAt": "2021-02-19T13:15:39Z",
                         "tagName": "v1.9.6"
+                    },
+                    {
+                        "name": "Version 1.9.7",
+                        "publishedAt": "2021-08-13T06:18:31Z",
+                        "tagName": "1.9.7"
+                    },
+                    {
+                        "name": "Version 1.9.8",
+                        "publishedAt": "2021-10-26T21:02:17Z",
+                        "tagName": "1.9.8"
                     }
                 ]
             }
@@ -3441,6 +5544,62 @@
                         "name": "v0.1.7",
                         "publishedAt": "2020-12-02T09:08:24Z",
                         "tagName": "v0.1.7"
+                    },
+                    {
+                        "name": "v0.1.8",
+                        "publishedAt": "2021-06-07T09:51:15Z",
+                        "tagName": "v0.1.8"
+                    },
+                    {
+                        "name": "v0.1.9",
+                        "publishedAt": "2021-07-09T10:04:48Z",
+                        "tagName": "v0.1.9"
+                    },
+                    {
+                        "name": "v0.1.10",
+                        "publishedAt": "2021-08-27T12:28:46Z",
+                        "tagName": "v0.1.10"
+                    },
+                    {
+                        "name": "v0.2.0",
+                        "publishedAt": "2021-10-06T09:52:20Z",
+                        "tagName": "v0.2.0"
+                    },
+                    {
+                        "name": "v0.2.1",
+                        "publishedAt": "2021-10-18T11:38:30Z",
+                        "tagName": "v0.2.1"
+                    },
+                    {
+                        "name": "v0.2.2.rc1",
+                        "publishedAt": "2021-11-13T19:20:45Z",
+                        "tagName": "v0.2.2.rc1"
+                    }
+                ]
+            }
+        },
+        "equinor/webviz": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "v0.10.1",
+                        "publishedAt": "2018-10-12T12:00:34Z",
+                        "tagName": "v0.10.1"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-12-12T12:23:06Z",
+                        "tagName": "v0.10.3"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2019-12-18T13:49:41Z",
+                        "tagName": "v0.10.4"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2020-01-20T08:25:19Z",
+                        "tagName": "v0.10.5"
                     }
                 ]
             }
@@ -3451,6 +5610,11 @@
             }
         },
         "fatiando/2021-gsh": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "fatiando/agu2021": {
             "releases": {
                 "nodes": []
             }
@@ -3472,8 +5636,23 @@
                         "name": "v0.2.0",
                         "publishedAt": "2020-07-10T21:02:03Z",
                         "tagName": "v0.2.0"
+                    },
+                    {
+                        "name": "v0.3.0",
+                        "publishedAt": "2021-10-18T14:27:43Z",
+                        "tagName": "v0.3.0"
+                    },
+                    {
+                        "name": "v0.3.1",
+                        "publishedAt": "2021-10-19T07:58:06Z",
+                        "tagName": "v0.3.1"
                     }
                 ]
+            }
+        },
+        "fatiando/community": {
+            "releases": {
+                "nodes": []
             }
         },
         "fatiando/continuous-integration": {
@@ -3500,11 +5679,6 @@
                         "tagName": "1.2.0"
                     }
                 ]
-            }
-        },
-        "fatiando/contributing": {
-            "releases": {
-                "nodes": []
             }
         },
         "fatiando/deeplook": {
@@ -3591,8 +5765,33 @@
                         "name": "v0.2.1",
                         "publishedAt": "2021-04-13T22:41:33Z",
                         "tagName": "v0.2.1"
+                    },
+                    {
+                        "name": "v0.3.0",
+                        "publishedAt": "2021-10-20T11:42:14Z",
+                        "tagName": "v0.3.0"
+                    },
+                    {
+                        "name": "v0.3.1",
+                        "publishedAt": "2021-10-20T17:43:51Z",
+                        "tagName": "v0.3.1"
+                    },
+                    {
+                        "name": "v0.3.2",
+                        "publishedAt": "2021-10-21T15:49:14Z",
+                        "tagName": "v0.3.2"
+                    },
+                    {
+                        "name": "v0.3.3",
+                        "publishedAt": "2021-10-22T15:54:53Z",
+                        "tagName": "v0.3.3"
                     }
                 ]
+            }
+        },
+        "fatiando/legacy-docs": {
+            "releases": {
+                "nodes": []
             }
         },
         "fatiando/logo": {
@@ -3717,6 +5916,26 @@
                         "name": "v1.3.0",
                         "publishedAt": "2020-11-27T07:44:27Z",
                         "tagName": "v1.3.0"
+                    },
+                    {
+                        "name": "v1.4.0",
+                        "publishedAt": "2021-06-08T22:08:16Z",
+                        "tagName": "v1.4.0"
+                    },
+                    {
+                        "name": "v1.5.0",
+                        "publishedAt": "2021-08-23T09:45:11Z",
+                        "tagName": "v1.5.0"
+                    },
+                    {
+                        "name": "v1.5.1",
+                        "publishedAt": "2021-08-24T12:44:55Z",
+                        "tagName": "v1.5.1"
+                    },
+                    {
+                        "name": "v1.5.2",
+                        "publishedAt": "2021-10-11T09:03:05Z",
+                        "tagName": "v1.5.2"
                     }
                 ]
             }
@@ -3793,11 +6012,6 @@
             }
         },
         "fatiando/v0.4": {
-            "releases": {
-                "nodes": []
-            }
-        },
-        "fatiando/v0.5": {
             "releases": {
                 "nodes": []
             }
@@ -3895,6 +6109,52 @@
                         "name": "A Matlab borehole radar/seismic tomography package - version 2",
                         "publishedAt": "2018-01-30T19:18:30Z",
                         "tagName": "v2.0.1"
+                    }
+                ]
+            }
+        },
+        "holoviz/colorcet": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "0.9.0",
+                        "publishedAt": "2016-11-08T01:33:22Z",
+                        "tagName": "0.9.0"
+                    },
+                    {
+                        "name": "Version 0.9.1",
+                        "publishedAt": "2016-12-14T17:54:20Z",
+                        "tagName": "0.9.1"
+                    },
+                    {
+                        "name": "Version 1.0.0",
+                        "publishedAt": "2017-09-26T02:07:27Z",
+                        "tagName": "v1.0.0"
+                    },
+                    {
+                        "name": "Version 1.0.1",
+                        "publishedAt": "2019-02-14T16:56:37Z",
+                        "tagName": "v1.0.1"
+                    },
+                    {
+                        "name": "Version 2.0.0",
+                        "publishedAt": "2019-04-03T13:46:52Z",
+                        "tagName": "v2.0.0"
+                    },
+                    {
+                        "name": "Version 2.0.1",
+                        "publishedAt": "2019-04-03T16:59:20Z",
+                        "tagName": "v2.0.1"
+                    },
+                    {
+                        "name": "Version 2.0.2",
+                        "publishedAt": "2020-07-03T20:02:26Z",
+                        "tagName": "v2.0.2"
+                    },
+                    {
+                        "name": "Version 2.0.5",
+                        "publishedAt": "2021-01-19T15:42:07Z",
+                        "tagName": "v2.0.5"
                     }
                 ]
             }
@@ -4032,6 +6292,11 @@
                         "name": "0.0.18.post1 \"Jiminy\"",
                         "publishedAt": "2020-12-02T04:17:43Z",
                         "tagName": "0.0.18.post1"
+                    },
+                    {
+                        "name": "0.0.19 \"Taconic\"",
+                        "publishedAt": "2021-05-04T03:11:38Z",
+                        "tagName": "0.0.19"
                     }
                 ]
             }
@@ -4068,6 +6333,21 @@
                         "name": "disba v0.5.0",
                         "publishedAt": "2021-02-12T09:35:29Z",
                         "tagName": "v0.5.0"
+                    },
+                    {
+                        "name": "disba v0.5.1",
+                        "publishedAt": "2021-10-01T17:52:27Z",
+                        "tagName": "v0.5.1"
+                    },
+                    {
+                        "name": "disba v0.5.2",
+                        "publishedAt": "2021-10-01T17:52:46Z",
+                        "tagName": "v0.5.2"
+                    },
+                    {
+                        "name": "disba v0.6.0",
+                        "publishedAt": "2021-11-01T19:38:21Z",
+                        "tagName": "v0.6.0"
                     }
                 ]
             }
@@ -4409,6 +6689,11 @@
                         "name": "Release to create DOI",
                         "publishedAt": "2020-04-23T05:36:57Z",
                         "tagName": "v0.1.1"
+                    },
+                    {
+                        "name": "Release for Zenodo DOI",
+                        "publishedAt": "2021-09-07T03:32:56Z",
+                        "tagName": "v0.2.0"
                     }
                 ]
             }
@@ -4662,6 +6947,122 @@
                 ]
             }
         },
+        "ondrolexa/apsg": {
+            "releases": {
+                "nodes": [
+                    {
+                        "name": "Initial release of APSG python module",
+                        "publishedAt": "2014-12-02T15:50:56Z",
+                        "tagName": "v0.1.0"
+                    },
+                    {
+                        "name": "Alpha-2 version of APSG python module",
+                        "publishedAt": "2014-12-09T11:56:07Z",
+                        "tagName": "v0.2.0"
+                    },
+                    {
+                        "name": "Alpha-2.1 version of APSG python module",
+                        "publishedAt": "2014-12-10T15:44:18Z",
+                        "tagName": "v0.2.1"
+                    },
+                    {
+                        "name": "Alpha-2.2 version of APSG python module",
+                        "publishedAt": "2015-04-17T12:21:52Z",
+                        "tagName": "v0.2.2"
+                    },
+                    {
+                        "name": "Alpha-2.3 version of APSG python module",
+                        "publishedAt": "2015-10-21T08:35:42Z",
+                        "tagName": "v0.2.3"
+                    },
+                    {
+                        "name": "Beta-3.0 version of APSG python module",
+                        "publishedAt": "2015-11-09T15:04:15Z",
+                        "tagName": "v0.3.0"
+                    },
+                    {
+                        "name": "Beta-3.1 version of APSG python module",
+                        "publishedAt": "2015-11-20T10:22:17Z",
+                        "tagName": "v0.3.1"
+                    },
+                    {
+                        "name": "Beta-3.2 version of APSG python module",
+                        "publishedAt": "2016-02-22T09:48:09Z",
+                        "tagName": "v0.3.2"
+                    },
+                    {
+                        "name": "Beta-3.3 version of APSG python module",
+                        "publishedAt": "2016-06-04T13:29:50Z",
+                        "tagName": "v0.3.3"
+                    },
+                    {
+                        "name": "Beta-4.0 version of APSG python module",
+                        "publishedAt": "2017-03-04T21:26:39Z",
+                        "tagName": "v0.4.0"
+                    },
+                    {
+                        "name": "APSG 0.4.2 release",
+                        "publishedAt": "2017-03-07T00:05:58Z",
+                        "tagName": "0.4.2"
+                    },
+                    {
+                        "name": "APSG 0.4.3 release",
+                        "publishedAt": "2017-11-18T16:14:45Z",
+                        "tagName": "0.4.3"
+                    },
+                    {
+                        "name": "APSG 0.4.4 release",
+                        "publishedAt": "2017-11-18T16:16:14Z",
+                        "tagName": "0.4.4"
+                    },
+                    {
+                        "name": "APSG 0.5.0 release",
+                        "publishedAt": "2017-11-19T01:04:46Z",
+                        "tagName": "0.5.0"
+                    },
+                    {
+                        "name": "APSG 0.5.1 release",
+                        "publishedAt": "2017-12-13T00:08:49Z",
+                        "tagName": "0.5.1"
+                    },
+                    {
+                        "name": "APSG 0.5.3 release",
+                        "publishedAt": "2018-10-24T12:25:35Z",
+                        "tagName": "0.5.3"
+                    },
+                    {
+                        "name": "APSG 0.5.4 release",
+                        "publishedAt": "2018-10-24T12:26:39Z",
+                        "tagName": "0.5.4"
+                    },
+                    {
+                        "name": "APSG 0.6.0 release",
+                        "publishedAt": "2018-11-07T11:22:21Z",
+                        "tagName": "0.6.0"
+                    },
+                    {
+                        "name": "APSG 0.6.1 release",
+                        "publishedAt": "2018-12-13T12:08:33Z",
+                        "tagName": "0.6.1"
+                    },
+                    {
+                        "name": "APSG 0.6.2 release",
+                        "publishedAt": "2020-01-29T23:44:44Z",
+                        "tagName": "0.6.2"
+                    },
+                    {
+                        "name": "APSG 0.6.3 release",
+                        "publishedAt": "2020-01-29T23:48:27Z",
+                        "tagName": "0.6.3"
+                    },
+                    {
+                        "name": "APSG 0.7 release",
+                        "publishedAt": "2021-02-03T00:18:43Z",
+                        "tagName": "v0.7.0"
+                    }
+                ]
+            }
+        },
         "opengeostat/pygslib": {
             "releases": {
                 "nodes": [
@@ -4671,6 +7072,11 @@
                         "tagName": "v0.0.0.3"
                     }
                 ]
+            }
+        },
+        "pemn/vtk_triangulate_points": {
+            "releases": {
+                "nodes": []
             }
         },
         "pyrocko/pyrocko": {
@@ -4876,6 +7282,26 @@
                         "name": "Under the hood changes for VTK9",
                         "publishedAt": "2021-03-09T19:56:53Z",
                         "tagName": "0.29.0"
+                    },
+                    {
+                        "name": "Improved Jupyterlab Support",
+                        "publishedAt": "2021-05-10T14:39:45Z",
+                        "tagName": "0.30.0"
+                    },
+                    {
+                        "name": "Global Theme and Bug Fixes",
+                        "publishedAt": "2021-06-08T01:14:41Z",
+                        "tagName": "0.31.0"
+                    },
+                    {
+                        "name": "Support Latest VTK Development Wheels",
+                        "publishedAt": "2021-06-23T21:48:36Z",
+                        "tagName": "0.31.3"
+                    },
+                    {
+                        "name": "v0.32.0",
+                        "publishedAt": "2021-09-10T03:06:55Z",
+                        "tagName": "0.32.0"
                     }
                 ]
             }
@@ -4917,6 +7343,11 @@
                         "name": "Shetland",
                         "publishedAt": "2020-05-28T02:48:21Z",
                         "tagName": "1.0.1"
+                    },
+                    {
+                        "name": "Antarctic",
+                        "publishedAt": "2021-10-18T03:02:41Z",
+                        "tagName": "1.0.2"
                     }
                 ]
             }
@@ -4938,6 +7369,11 @@
                         "name": "",
                         "publishedAt": "2021-03-07T10:41:22Z",
                         "tagName": "v1.2"
+                    },
+                    {
+                        "name": "Variance",
+                        "publishedAt": "2021-05-19T15:16:52Z",
+                        "tagName": "v1.3"
                     }
                 ]
             }
@@ -5319,6 +7755,11 @@
                 "nodes": []
             }
         },
+        "softwareunderground/geothermal-hack-2021": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "softwareunderground/getting-started": {
             "releases": {
                 "nodes": []
@@ -5369,6 +7810,11 @@
                 "nodes": []
             }
         },
+        "softwareunderground/stack-smoke-test": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "softwareunderground/subsurface": {
             "releases": {
                 "nodes": [
@@ -5381,6 +7827,31 @@
                         "name": "Documentation Automation Complete",
                         "publishedAt": "2021-04-22T15:01:36Z",
                         "tagName": "v0.2.4"
+                    },
+                    {
+                        "name": "Better Reading of dxf files",
+                        "publishedAt": "2021-05-21T11:21:25Z",
+                        "tagName": "v0.2.5"
+                    },
+                    {
+                        "name": "Fall 2021 Hotfixes",
+                        "publishedAt": "2021-11-11T15:00:50Z",
+                        "tagName": "v0.2.6"
+                    },
+                    {
+                        "name": "Fall 2021 Hotfixes 2",
+                        "publishedAt": "2021-11-12T12:20:53Z",
+                        "tagName": "v0.2.7"
+                    },
+                    {
+                        "name": "Fall 2021 Hotfixes 3",
+                        "publishedAt": "2021-11-12T13:29:55Z",
+                        "tagName": "v0.2.8"
+                    },
+                    {
+                        "name": "Fall 2021 Hotfixes 4",
+                        "publishedAt": "2021-11-12T13:58:01Z",
+                        "tagName": "v0.2.9"
                     }
                 ]
             }
@@ -5502,8 +7973,28 @@
                         "name": "v0.3.0",
                         "publishedAt": "2021-04-23T11:20:49Z",
                         "tagName": "v0.3.0"
+                    },
+                    {
+                        "name": "v0.3.1",
+                        "publishedAt": "2021-06-14T12:17:48Z",
+                        "tagName": "v0.3.1"
+                    },
+                    {
+                        "name": "v0.3.2",
+                        "publishedAt": "2021-07-15T12:22:30Z",
+                        "tagName": "v0.3.2"
+                    },
+                    {
+                        "name": "v0.3.3",
+                        "publishedAt": "2021-09-20T08:18:18Z",
+                        "tagName": "v0.3.3"
                     }
                 ]
+            }
+        },
+        "waynegm/OpendTect": {
+            "releases": {
+                "nodes": []
             }
         },
         "waynegm/OpendTect-Plugins": {
@@ -5668,6 +8159,11 @@
                         "name": "Release 6.6.7",
                         "publishedAt": "2021-05-01T02:03:38Z",
                         "tagName": "v6.6.7"
+                    },
+                    {
+                        "name": "Release 6.6.8",
+                        "publishedAt": "2021-06-26T12:20:36Z",
+                        "tagName": "v6.6.8"
                     }
                 ]
             }
