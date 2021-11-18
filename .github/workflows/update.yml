@@ -2,7 +2,7 @@
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
 
 name: Python application
-on: push
+on: workflow_dispatch
 jobs:
 #   wget:
 #       runs-on: ubuntu-latest
@@ -40,7 +40,10 @@ jobs:
         cd ../../
         fi
     - name: Run BUILD script
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        export GITHUB_API_TOKEN=${{ secrets.GITHUB_TOKEN }}
         python -m pip install --upgrade pip
         pip install virtualenv
         cd _explore/scripts/
@@ -48,7 +51,6 @@ jobs:
         source venv/bin/activate
         if [ -f requirements.txt ]; then pip install -r requirements.txt; 
         cd ../../
-
         cd _explore/scripts/
         if [ -f BUILD.sh ]; then bash BUILD.sh;
         cd ../../
