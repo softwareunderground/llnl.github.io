@@ -4,6 +4,8 @@
 
 This is a website that attempts to offer new ways to understand the variety of open source subsurface geoscience code available for use that people think is valuable.
 
+
+As of fall 2021, active work has migrated to https://github.com/JustinGOSSES/awsome-list-visual-explorer-template which is a template repository that will eventually be used to rebuild this one!
 ## Live Pages
 - Explore page: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/
 - Dependencies analysis: https://softwareunderground.github.io/open_geosciene_code_projects_viz/explore/dependencies/
